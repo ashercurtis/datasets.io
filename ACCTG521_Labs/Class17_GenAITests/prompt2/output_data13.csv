@@ -1,0 +1,57 @@
+UniqueID,LastName,MiddleInitial,FirstName,Gender,Job Title,Department,HireDate,TerminationDate,AnnualSalary
+1,SUZ-JO-374-89XZ,Souza,J,João,male,Harvesting Technician,Production,12/05/2018,,30000
+2,OLI-AL-817-35QP,Oliveira,M,Alice,female,Harvesting Technician,Production,03/15/2020,,30000
+3,PER-TI-592-68WJ,Pereira,NA,Tiago,male,Harvesting Technician,Production,07/22/2019,,30000
+4,LIM-MA-204-76KH,Lima,A,Maria,female,Harvesting Technician,Production,11/30/2021,,30000
+5,SIL-RI-439-28NL,Silva,L,Ricardo,male,Harvesting Technician,Production,09/12/2017,,30000
+6,GON-LU-301-55VY,Gonçalves,R,Lúcia,female,Accountant,Finance,04/18/2022,,48000
+7,RIB-JO-627-44FG,Ribeiro,NA,José,male,Product Designer,Development,01/10/2020,,46000
+8,COS-EM-812-16BX,Costa,T,Emília,female,Harvesting Technician,Production,06/14/2016,,30000
+9,BAR-DA-159-93MK,Barbosa,NA,Davi,male,Operations Manager,Operations,02/02/2021,,70000
+10,FRE-SO-245-08QW,Freitas,G,Sofia,female,Research Scientist,R&D,05/05/2018,,50000
+11,ALM-CA-748-67TQ,Almeida,K,Carlos,male,Harvesting Technician,Production,08/11/2015,,30000
+12,SIL-JE-903-42FB,Silveira,N,Jéssica,female,Customer Service Representative,Support,01/25/2020,,32000
+13,MOR-DA-564-19ZE,Moraes,P,Daniel,male,Logistics Coordinator,Logistics,04/30/2019,,45000
+14,TEI-AS-385-70GC,Teixeira,L,Ashley,female,Biomaterials Quality Analyst,Production,10/10/2017,,48000
+15,SAN-MA-216-84RK,Santos,B,Matheus,male,Harvesting Technician,Production,03/13/2019,,30000
+16,CAR-NA-947-51EX,Cardoso,F,Nancy,female,Content Writer,Marketing,09/22/2022,,38000
+17,ROD-KE-254-60VT,Rodrigues,R,Kevin,male,Product Manager,Development,11/09/2016,,70000
+18,COR-BR-609-74DP,Correia,H,Brian,male,Training Specialist,HR,01/15/2020,,42000
+19,REI-PA-830-30MF,Reis,D,Patrícia,female,Social Media Specialist,Marketing,05/17/2021,,37000
+20,MOR-ES-472-55ZK,Moreira,C,Estevão,male,Harvesting Technician,Production,06/21/2015,,30000
+21,FON-AM-916-21BC,Fontes,S,Amanda,female,Herbal Product Manager,Research,08/29/2020,,60000
+22,RAM-JU-564-92CD,Ramos,E,Júnior,male,Harvesting Technician,Production,02/05/2018,,30000
+23,OLI-KI-637-13QZ,Oliveira,J,Kimberly,female,Biomaterials Research Coordinator,Research,03/11/2019,,55000
+24,PIM-JA-482-37HX,Pimentel,T,Jacob,male,Laboratory Technician,Production,07/20/2021,,30000
+25,HER-OL-825-64VT,Hernandes,M,Olívia,female,Field Assistant,Research,09/15/2022,,34000
+26,KIN-LI-753-45JW,Kingsley,O,Liam,male,Supplier Analyst,Logistics,01/11/2020,,42000
+27,CAV-JU-934-16QT,Cavalcante,Q,Juliana,female,Procurement Assistant,Logistics,04/18/2023,,38000
+28,SIL-AV-382-75LR,Silva,G,Avery,female,Brand Manager,Marketing,10/07/2021,,60000
+29,SAN-LU-417-52MK,Santos,U,Lucas,male,Quality Consultant,Production,11/15/2022,,48000
+30,MAR-IS-208-90WN,Martins,X,Isabela,female,Research Assistant,R&D,05/25/2020,,36000
+31,CUN-HI-315-44PY,Cunha,J,Henrique,male,Retail Sales Manager,Sales,12/01/2018,,70000
+32,REI-HE-745-19QL,Reis,D,Helena,female,Compliance Officer,Production,09/23/2019,,48000
+33,BAR-AL-159-88VX,Barbosa,L,Alexandre,male,Biomaterials Analyst,R&D,07/11/2021,,55000
+34,COR-VI-763-84GS,Corrêa,M,Vitória,female,Marketing Director,Marketing,03/22/2019,,90000
+35,ALV-NO-882-29KW,Alves,N,Nora,female,Product Development Lead,Development,01/05/2022,,70000
+36,OLI-CH-647-61ZT,Oliveira,T,Chloe,female,IT Project Manager,IT,06/08/2020,,65000
+37,LIM-AI-538-72MB,Lima,K,Aiden,male,Digital Marketing Specialist,Marketing,04/04/2021,,39000
+38,COS-AN-904-35TG,Costa,E,Ana,female,Office Assistant,Administration,11/19/2019,,25000
+39,PER-TI-821-40YX,Pereira,G,Tiago,male,Technical Writer,R&D,01/30/2020,,38000
+40,SIL-SA-054-87JP,Silva,H,Samantha,female,Production Coordinator,Production,06/29/2016,,55000
+41,FRE-DA-129-62WC,Freitas,I,David,male,Natural Products Designer,Development,03/05/2019,,48000
+42,BAR-EL-330-14QS,Barros,J,Eliane,female,Payroll Specialist,HR,12/13/2021,,40000
+43,REI-AV-280-56OT,Reis,K,Ava,female,Sales Associate,Sales,10/01/2018,,30000
+44,MOR-MI-942-78KF,Moraes,L,Miguel,male,Harvesting Technician,Production,01/22/2023,,30000
+45,CAV-LU-671-83PN,Cavalcante,M,Luana,female,Harvesting Technician,Production,04/12/2020,,30000
+46,SAN-RA-839-47ZT,Santos,N,Rafael,male,Supply Chain Manager,Logistics,07/09/2019,,60000
+47,CUN-BE-954-19HB,Cunha,O,Beatriz,female,Customer Success Manager,Support,02/28/2022,,50000
+48,ALM-RO-624-38YG,Almeida,P,Roberto,male,Harvesting Technician,Production,03/11/2023,,30000
+49,SIL-MA-773-26VP,Silva,Q,Mariana,female,Quality Control Technician,Production,08/24/2020,,34000
+50,OLI-JO-045-67KD,Oliveira,R,João,male,HR Coordinator,HR,11/01/2021,,42000
+51,PER-FA-112-82JL,Pereira,S,Fernanda,female,QA Tester,R&D,09/19/2019,,40000
+52,LIM-FE-823-90JS,Lima,T,Felipe,male,Product Chef,Development,05/29/2017,,65000
+53,MAR-RA-402-14XG,Martins,U,Raquel,female,Brand Strategist,Marketing,04/10/2021,,50000
+54,COS-LU-764-58QP,Costa,V,Lucas,male,IT Consultant,IT,01/15/2020,,60000
+55,ALV-BE-239-01NT,Alves,W,Beatriz,female,Production Director,Production,03/03/2018,,100000
+56,GON-PA-854-17RF,Gonçalves,X,Patrícia,female,Program

@@ -1,0 +1,111 @@
+UniqueID,LastName,MiddleInitial,FirstName,Gender,JobTitle,Department,HireDate,TerminationDate,AnnualSalary
+E0001,Caldeira,E,Diego,M,Research Scientist,R&D,02/02/2019,01/10/2022,88587.00
+E0002,Pinto,W,Ana Carolina,F,Research Scientist,R&D,09/18/1964,09/02/1973,114937.00
+E0003,Cardoso,R,Thales,M,Research Scientist,R&D,02/10/2015,,63864.00
+E0004,Gomes,D,Pietra,M,Research Scientist,R&D,04/20/1998,,64716.00
+E0005,Campos,M,Beatriz,M,Research Scientist,R&D,07/19/1957,03/11/1973,63296.00
+E0006,Barbosa,S,Kamilly,M,Research Scientist,R&D,05/24/2021,,85110.00
+E0007,Mendes,F,Mirella,F,Product Developer,R&D,07/08/2022,08/22/2022,64208.00
+E0008,Campos,F,Eduardo,F,Product Developer,R&D,02/25/2023,05/05/2023,90897.00
+E0009,Ramos,F,Yago,F,Product Developer,R&D,12/27/2020,,94998.00
+E0010,da Luz,K,Francisco,F,Product Developer,R&D,09/11/1954,07/27/2015,87816.00
+E0011,Caldeira,C,Cecília,M,Product Developer,R&D,09/29/1971,09/10/1998,69722.00
+E0012,Costela,D,Isaac,F,Product Developer,R&D,10/16/1958,,60861.00
+E0013,Gonçalves,H,Luiz Felipe,M,Production Technician,Production,08/19/1969,,41103.00
+E0014,Ramos,G,Ana Laura,M,Production Technician,Production,09/29/1953,,48087.00
+E0015,Cardoso,F,Isadora,F,Production Technician,Production,09/13/1998,07/12/1999,51749.00
+E0016,Campos,L,Amanda,M,Production Technician,Production,07/15/2015,,51559.00
+E0017,Rezende,A,Maria Julia,F,Production Technician,Production,10/22/1997,,39110.00
+E0018,Novaes,N,Pedro Henrique,M,Production Technician,Production,10/09/2016,04/11/2018,47443.00
+E0019,Cunha,Q,Ian,F,Production Technician,Production,05/15/1990,,41372.00
+E0020,Fernandes,U,Kamilly,F,Production Technician,Production,12/21/1953,06/02/1986,42727.00
+E0021,Martins,Z,Vitória,M,Production Technician,Production,12/08/2016,,40183.00
+E0022,Campos,S,Igor,M,Production Technician,Production,10/25/2009,02/20/2020,56606.00
+E0023,Porto,J,Murilo,F,Production Technician,Production,05/02/1984,,53454.00
+E0024,Cardoso,K,Vinicius,M,Quality Control Specialist,Production,01/11/1986,,40749.00
+E0025,Cardoso,O,Enzo,F,Quality Control Specialist,Production,11/08/2002,,35651.00
+E0026,Monteiro,S,Mirella,M,Quality Control Specialist,Production,11/13/2003,02/26/2005,36557.00
+E0027,Martins,Z,Luiz Fernando,F,Quality Control Specialist,Production,03/16/1966,,38196.00
+E0028,Nunes,I,Vitória,F,Quality Control Specialist,Production,05/18/1988,,43491.00
+E0029,da Paz,P,Isabel,M,Quality Control Specialist,Production,04/11/1966,,40265.00
+E0030,Cardoso,J,Gabriela,F,Quality Control Specialist,Production,08/18/1955,10/25/2000,64434.00
+E0031,da Mota,K,Sophia,M,Quality Control Specialist,Production,11/20/1994,,63185.00
+E0032,Freitas,Q,Maria,F,Sales Representative,Sales,01/29/2003,,44262.00
+E0033,Monteiro,V,Ana Laura,M,Sales Representative,Sales,04/23/1958,04/10/2007,59136.00
+E0034,Porto,K,Luiz Gustavo,F,Sales Representative,Sales,11/12/2009,09/19/2023,46269.00
+E0035,Monteiro,R,Augusto,F,Sales Representative,Sales,01/18/1959,03/08/1995,54672.00
+E0036,Teixeira,K,Pietro,F,Sales Representative,Sales,04/12/1983,,48011.00
+E0037,Moraes,F,Vitor Gabriel,F,Sales Representative,Sales,01/06/1967,,70434.00
+E0038,Barbosa,U,Maria Fernanda,M,Sales Representative,Sales,05/30/1971,10/06/2009,50061.00
+E0039,Caldeira,G,João Gabriel,F,Sales Representative,Sales,09/17/1964,08/12/1990,51332.00
+E0040,Duarte,U,Ana Laura,F,Sales Representative,Sales,01/11/1954,,71015.00
+E0041,das Neves,Q,Nicole,M,Sales Representative,Sales,02/27/1954,,44904.00
+E0042,Fogaça,V,Erick,F,Sales Representative,Sales,04/15/1993,,61122.00
+E0043,Gomes,H,Ana Clara,M,Sales Representative,Sales,01/01/2007,,62645.00
+E0044,Sales,U,Diego,M,Sales Representative,Sales,05/18/1993,03/10/2019,77826.00
+E0045,Cardoso,A,Maria Fernanda,F,Sales Representative,Sales,02/07/2014,,58852.00
+E0046,Nunes,B,Arthur,M,Sales Representative,Sales,11/26/1969,11/21/1990,67081.00
+E0047,Ramos,Y,Augusto,F,Sales Representative,Sales,06/17/1983,03/24/2016,46129.00
+E0048,da Cunha,L,Francisco,M,Marketing Coordinator,Marketing,04/24/1979,,48466.00
+E0049,da Mota,A,Isabella,F,Marketing Coordinator,Marketing,11/26/1962,,74219.00
+E0050,Castro,H,Alana,M,Marketing Coordinator,Marketing,07/24/1993,,51043.00
+E0051,Melo,H,Lucca,F,Marketing Coordinator,Marketing,08/13/1957,07/01/1982,55733.00
+E0052,da Conceição,J,Vicente,F,Marketing Coordinator,Marketing,03/14/1978,,87883.00
+E0053,Fogaça,I,Rafael,M,Marketing Coordinator,Marketing,02/21/2020,,76920.00
+E0054,Farias,V,Beatriz,F,Marketing Coordinator,Marketing,09/27/2005,,88814.00
+E0055,Cavalcanti,H,Isis,F,Marketing Coordinator,Marketing,09/25/1975,12/21/1977,88693.00
+E0056,Rocha,Q,Beatriz,M,Office Manager,Administrative,06/27/1951,08/16/1984,53799.00
+E0057,Melo,L,Olivia,F,Office Manager,Administrative,12/20/2011,10/23/2019,57205.00
+E0058,Almeida,M,Pedro Henrique,F,Office Manager,Administrative,03/19/2020,09/15/2023,35913.00
+E0059,Carvalho,N,Isabelly,M,HR Specialist,Human Resources,12/18/1979,,72094.00
+E0060,Vieira,C,Nicolas,F,HR Specialist,Human Resources,11/01/1969,,44381.00
+E0061,Pires,W,Gabrielly,M,HR Specialist,Human Resources,06/26/2021,,67212.00
+E0062,Gonçalves,X,Vitor Hugo,M,HR Specialist,Human Resources,06/25/1984,,45901.00
+E0063,Duarte,G,Bárbara,F,HR Specialist,Human Resources,07/05/1962,,68366.00
+E0064,da Mata,F,Renan,F,HR Specialist,Human Resources,04/03/1969,09/05/2016,40081.00
+E0065,Pereira,L,Vinicius,F,Chief Executive Officer,Executive,01/09/2018,,235270.00
+E0066,Carvalho,I,Kevin,F,Chief Financial Officer,Executive,12/28/1989,,300121.00
+E0067,da Paz,N,Ana Lívia,M,Chief Marketing Officer,Executive,03/27/1997,10/25/2007,240929.00
+E0068,da Cunha,J,Lorena,F,IT Support Specialist,IT,04/15/1972,,68451.00
+E0069,Carvalho,U,Maria Clara,F,IT Support Specialist,IT,12/04/2017,,44117.00
+E0070,da Paz,G,Elisa,F,IT Support Specialist,IT,02/20/1967,,55765.00
+E0071,Rodrigues,U,Benício,F,IT Support Specialist,IT,04/17/1962,04/06/1994,77619.00
+E0072,Nascimento,R,Alexia,M,IT Support Specialist,IT,09/05/1970,11/20/2022,65077.00
+E0073,Aragão,I,Luiza,M,IT Support Specialist,IT,05/29/1997,,72131.00
+E0074,Nogueira,K,Kevin,M,IT Support Specialist,IT,07/17/1966,,68182.00
+E0075,Vieira,A,Maitê,M,IT Support Specialist,IT,12/16/2001,05/31/2004,45497.00
+E0076,Nunes,F,Vitor Hugo,M,IT Support Specialist,IT,12/04/1955,09/07/2011,60677.00
+E0077,Vieira,S,Alexia,M,Customer Service Representative,Customer Service,11/30/1976,,37538.00
+E0078,Barbosa,M,Gabriel,M,Customer Service Representative,Customer Service,05/14/1967,07/29/1998,40080.00
+E0079,Lopes,L,Anthony,M,Customer Service Representative,Customer Service,06/03/2020,,42331.00
+E0080,Cavalcanti,Q,Sabrina,F,Customer Service Representative,Customer Service,02/07/2013,10/24/2018,40693.00
+E0081,da Mota,J,Lucas,M,Customer Service Representative,Customer Service,02/19/1954,02/20/2007,49722.00
+E0082,Caldeira,M,Lucas,M,Customer Service Representative,Customer Service,06/02/2006,09/04/2009,33470.00
+E0083,Farias,I,Gustavo,F,Customer Service Representative,Customer Service,11/11/1957,02/03/2015,42563.00
+E0084,Rezende,S,Brenda,M,Customer Service Representative,Customer Service,07/20/1972,11/22/2018,41292.00
+E0085,Oliveira,A,Francisco,M,Customer Service Representative,Customer Service,08/02/1984,09/23/1995,49978.00
+E0086,Almeida,M,Gustavo Henrique,F,Customer Service Representative,Customer Service,06/26/2013,,48755.00
+E0087,Santos,H,Benício,F,Customer Service Representative,Customer Service,04/17/1962,03/26/1982,46393.00
+E0088,Ferreira,P,Ana Sophia,M,Customer Service Representative,Customer Service,11/26/1960,,33923.00
+E0089,Ribeiro,M,Fernanda,F,Customer Service Representative,Customer Service,11/16/2014,,49365.00
+E0090,Cavalcanti,O,Paulo,M,Customer Service Representative,Customer Service,06/16/1980,,30775.00
+E0091,Cardoso,X,Alexia,F,Customer Service Representative,Customer Service,12/19/1973,03/17/1983,36130.00
+E0092,Lopes,X,Luiz Gustavo,F,Customer Service Representative,Customer Service,02/18/1998,,48861.00
+E0093,Alves,Y,Thiago,F,Customer Service Representative,Customer Service,04/17/1979,01/31/2005,47518.00
+E0094,da Rocha,B,Calebe,F,Customer Service Representative,Customer Service,01/01/1996,11/25/2017,44929.00
+E0095,Caldeira,I,Maria Julia,M,Customer Service Representative,Customer Service,12/13/2004,04/12/2011,48770.00
+E0096,Silva,C,Alexia,M,Customer Service Representative,Customer Service,12/16/2013,12/20/2013,34902.00
+E0097,Ramos,T,Thomas,M,Customer Service Representative,Customer Service,09/22/1992,09/26/1996,38435.00
+E0098,Nunes,F,Bruna,F,Logistics Coordinator,Logistics,12/11/1957,,38027.00
+E0099,Souza,A,Yago,M,Logistics Coordinator,Logistics,03/14/1991,,51088.00
+E0100,Lima,H,Nina,M,Logistics Coordinator,Logistics,06/18/1970,03/03/1979,56969.00
+E0101,Nunes,D,Melissa,F,Logistics Coordinator,Logistics,07/10/1980,,41549.00
+E0102,Moreira,C,Valentina,F,Logistics Coordinator,Logistics,03/16/2006,05/29/2015,46901.00
+E0103,Cardoso,Y,Luiz Miguel,F,Logistics Coordinator,Logistics,08/15/1998,,39359.00
+E0104,Oliveira,U,Vitória,F,Logistics Coordinator,Logistics,11/16/1955,12/22/2020,42382.00
+E0105,Monteiro,R,Diogo,M,Logistics Coordinator,Logistics,05/13/1979,,44195.00
+E0106,Azevedo,S,Erick,F,Logistics Coordinator,Logistics,06/27/1986,09/19/2003,69446.00
+E0107,Gonçalves,D,Manuela,M,Logistics Coordinator,Logistics,02/28/2014,03/20/2014,67700.00
+E0108,Rodrigues,H,Lorenzo,F,Logistics Coordinator,Logistics,05/15/2022,01/10/2023,37002.00
+E0109,Barbosa,Z,Clarice,F,Logistics Coordinator,Logistics,05/29/1990,,43448.00
+E0110,Pinto,S,Antônio,M,Logistics Coordinator,Logistics,02/13/1967,,49700.00

@@ -1,0 +1,11 @@
+Unique ID,Last Name,First Name,Middle Initial,Gender,Job Title,Department,Hire Date,Termination Date,Annual Salary
+1001,Smith,John,A,M,Software Engineer,IT,2020-05-15,,90000
+1002,Johnson,Emily,B,F,Marketing Manager,Marketing,2019-03-22,,75000
+1003,Williams,Michael,C,M,Project Coordinator,Operations,2021-07-30,,65000
+1004,Brown,Sarah,D,F,Data Analyst,Data Science,2018-11-12,,70000
+1005,Jones,David,E,M,HR Specialist,Human Resources,2020-02-01,,60000
+1006,Garcia,Jessica,F,F,Financial Analyst,Finance,2022-01-10,,80000
+1007,Miller,Christopher,G,M,UX Designer,Design,2021-09-05,,85000
+1008,Davis,Amanda,H,F,Systems Administrator,IT,2019-06-18,,72000
+1009,Rodriguez,Brian,I,M,Sales Representative,Sales,2020-08-21,,68000
+1010,Martinez,Laura,J,F,Operations Manager,Operations,2017-04-14,2023-03-30,95000

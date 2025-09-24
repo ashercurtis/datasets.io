@@ -1,0 +1,111 @@
+UniqueID,LastName,MiddleInitial,FirstName,Gender,JobTitle,Department,HireDate,TerminationDate,AnnualSalary
+1,Souza,A,Lucas,Male,Production Manager,Operations,15/02/2015,,60000
+2,Silva,R,Maria,Female,Quality Control Specialist,Quality Assurance,10/05/2017,,45000
+3,Pereira,L,Carlos,Male,Marketing Coordinator,Marketing,01/09/2018,,50000
+4,Gomes,M,Ana,Female,Research Scientist,R&D,20/11/2016,,55000
+5,Ribeiro,T,Pedro,Male,Warehouse Supervisor,Logistics,05/03/2019,,48000
+6,Almeida,C,Fernanda,Female,Sales Representative,Sales,15/07/2020,,43000
+7,Nascimento,J,Thiago,Male,Finance Analyst,Finance,30/04/2021,,52000
+8,Costa,D,Lais,Female,Human Resources Manager,HR,12/01/2014,,62000
+9,Barbosa,E,Julio,Male,IT Support Technician,IT,25/06/2020,,40000
+10,Machado,F,Beatriz,Female,Product Development Lead,R&D,10/12/2018,,58000
+11,Oliveira,G,Roberto,Male,Logistics Analyst,Logistics,05/08/2017,,47000
+12,Castro,H,Juliana,Female,Brand Manager,Marketing,01/04/2016,,61000
+13,Ramos,I,Diego,Male,Operations Supervisor,Operations,22/03/2015,,59000
+14,Martins,J,Mariana,Female,Customer Service Rep,Sales,18/09/2019,,42000
+15,Freitas,K,Nicolas,Male,Senior Chemist,R&D,07/05/2018,,64000
+16,Cardoso,L,Patricia,Female,Payroll Specialist,Finance,14/02/2020,,46000
+17,Moreira,M,Samuel,Male,Field Sales Rep,Sales,27/11/2018,,45000
+18,Teixeira,N,Aline,Female,IT Manager,IT,16/07/2017,,65000
+19,Assis,O,Andre,Male,Data Analyst,Finance,30/10/2019,,49000
+20,Leal,P,Clara,Female,Product Manager,R&D,02/06/2020,,60000
+21,Santos,Q,Lucas,Male,Graphic Designer,Marketing,19/01/2021,,42000
+22,DosSantos,R,Ana,Female,Social Media Specialist,Marketing,14/03/2016,,43000
+23,Becker,S,Flavio,Male,Operations Analyst,Operations,09/08/2018,,47000
+24,Campos,T,Roberta,Female,Compliance Officer,Quality Assurance,22/11/2019,,55000
+25,Teixeira,U,Felipe,Male,Accountant,Finance,05/12/2015,,58000
+26,Barbosa,V,Jéssica,Female,HR Coordinator,HR,20/04/2018,,50000
+27,Ribeiro,W,Marcos,Male,Production Technician,Operations,30/09/2020,,40000
+28,Nascimento,X,Tamiris,Female,Digital Marketing Manager,Marketing,15/01/2020,,61000
+29,Martins,Y,Thiago,Male,Research Associate,R&D,28/07/2017,,53000
+30,Souza,Z,Vanessa,Female,Quality Assurance Analyst,Quality Assurance,01/05/2021,,48000
+31,Costa,A,Daniel,Male,Procurement Specialist,Logistics,13/02/2016,,55000
+32,Silva,B,Patrícia,Female,Content Writer,Marketing,26/04/2019,,42000
+33,Gomes,C,Adriano,Male,Warehouse Manager,Logistics,11/11/2018,,59000
+34,Pereira,D,Isabela,Female,Financial Analyst,Finance,21/03/2020,,52000
+35,Almeida,E,Renan,Male,Technical Support,IT,16/05/2017,,48000
+36,Nascimento,F,Juliana,Female,Sales Analyst,Sales,14/01/2019,,45000
+37,Ramos,G,Mateus,Male,Product Designer,R&D,27/08/2016,,56000
+38,Freitas,H,Marina,Female,HR Assistant,HR,19/09/2020,,38000
+39,Cardoso,I,Henrique,Male,Marketing Analyst,Marketing,12/06/2017,,49000
+40,Moreira,J,Vanessa,Female,Quality Technician,Quality Assurance,08/11/2015,,43000
+41,Teixeira,K,Lucas,Male,Logistics Coordinator,Logistics,22/12/2018,,54000
+42,Assis,L,Camila,Female,Sales Executive,Sales,15/03/2020,,60000
+43,Leal,M,Gustavo,Male,Data Scientist,Finance,10/10/2021,,65000
+44,Santos,N,Aline,Female,IT Analyst,IT,29/04/2016,,48000
+45,DosSantos,O,Daniel,Male,Customer Support Lead,Sales,17/08/2019,,52000
+46,Becker,P,Juliana,Female,Senior Chemist,R&D,03/01/2015,,66000
+47,Campos,Q,André,Male,HR Director,HR,11/05/2018,,80000
+48,Teixeira,R,Tânia,Female,Operations Coordinator,Operations,12/11/2016,,57000
+49,Barbosa,S,Flavio,Male,Financial Controller,Finance,09/02/2017,,75000
+50,Ribeiro,T,Gabriela,Female,Brand Strategist,Marketing,26/04/2020,,60000
+51,Nascimento,U,Henrique,Male,Logistics Supervisor,Logistics,23/08/2021,,53000
+52,Martins,V,Carla,Female,IT Project Manager,IT,07/12/2019,,70000
+53,Souza,W,Rafael,Male,Operations Analyst,Operations,15/01/2015,,47000
+54,Costa,X,Maria,Female,Marketing Executive,Marketing,20/09/2018,,49000
+55,Silva,Y,Lucas,Male,Research Scientist,R&D,22/06/2020,,62000
+56,Gomes,Z,Patrícia,Female,Finance Assistant,Finance,30/03/2019,,43000
+57,Pereira,A,Bruno,Male,Sales Director,Sales,15/02/2014,,80000
+58,Almeida,B,Sara,Female,Quality Control Lead,Quality Assurance,18/11/2017,,59000
+59,Nascimento,C,Douglas,Male,HR Specialist,HR,12/01/2018,,52000
+60,Ramos,D,Mariana,Female,Customer Service Manager,Sales,26/05/2016,,67000
+61,Freitas,E,Diego,Male,Product Manager,R&D,01/04/2015,,61000
+62,Cardoso,F,Aline,Female,Logistics Analyst,Logistics,14/02/2021,,45000
+63,Moreira,G,Felipe,Male,Digital Marketing Coordinator,Marketing,19/03/2019,,54000
+64,Teixeira,H,Livia,Female,IT Security Specialist,IT,25/07/2020,,59000
+65,Assis,I,Ricardo,Male,Production Supervisor,Operations,30/09/2018,,65000
+66,Leal,J,Natália,Female,Sales Support,Sales,15/10/2017,,40000
+67,Santos,K,Rafael,Male,Data Analyst,Finance,12/08/2019,,48000
+68,DosSantos,L,Camila,Female,Technical Writer,R&D,14/01/2020,,49000
+69,Becker,M,Aline,Female,Compliance Manager,Quality Assurance,10/12/2015,,72000
+70,Campos,N,Victor,Male,Finance Manager,Finance,11/09/2017,,68000
+71,Teixeira,O,Jéssica,Female,Operations Director,Operations,05/06/2019,,85000
+72,Barbosa,P,Gustavo,Male,Marketing Specialist,Marketing,20/07/2018,,55000
+73,Ribeiro,Q,Lucas,Male,HR Coordinator,HR,03/10/2020,,50000
+74,Nascimento,R,Patricia,Female,Sales Analyst,Sales,29/04/2019,,46000
+75,Martins,S,Danilo,Male,Production Operator,Operations,22/11/2016,,39000
+76,Souza,T,Maria,Female,Research Coordinator,R&D,18/05/2017,,63000
+77,Costa,U,Ricardo,Male,Quality Control Technician,Quality Assurance,14/02/2021,,42000
+78,Silva,V,Mariana,Female,Logistics Supervisor,Logistics,16/03/2018,,59000
+79,Gomes,W,Ana,Female,Product Designer,R&D,30/01/2019,,55000
+80,Pereira,X,Leandro,Male,IT Support Specialist,IT,08/11/2015,,40000
+81,Almeida,Y,Tamiris,Female,Sales Manager,Sales,19/02/2019,,62000
+82,Nascimento,Z,Carlos,Male,Finance Officer,Finance,30/06/2020,,50000
+83,Ramos,A,Juliana,Female,Brand Manager,Marketing,24/09/2018,,61000
+84,Freitas,B,Douglas,Male,Warehouse Technician,Logistics,13/04/2021,,39000
+85,Cardoso,C,Isabella,Female,HR Assistant,HR,10/05/2019,,38000
+86,Moreira,D,Lucas,Male,Quality Manager,Quality Assurance,22/01/2017,,64000
+87,Teixeira,E,Rafael,Male,Digital Marketing Analyst,Marketing,02/03/2016,,48000
+88,Assis,F,Marina,Female,Customer Experience Specialist,Sales,19/08/2019,,45000
+89,Leal,G,Robson,Male,Technical Support Manager,IT,11/10/2015,,60000
+90,Santos,H,Lais,Female,Operations Specialist,Operations,30/07/2020,,48000
+91,DosSantos,I,Victor,Male,Research Technician,R&D,16/05/2017,,40000
+92,Becker,J,Clara,Female,Compliance Analyst,Quality Assurance,12/01/2021,,47000
+93,Campos,K,Thiago,Male,Finance Consultant,Finance,23/03/2018,,59000
+94,Teixeira,L,Aline,Female,Product Analyst,R&D,05/11/2020,,52000
+95,Barbosa,M,Douglas,Male,Logistics Manager,Logistics,20/04/2016,,64000
+96,Ribeiro,N,Patrícia,Female,Sales Executive,Sales,15/12/2019,,50000
+97,Nascimento,O,Henrique,Male,IT Specialist,IT,11/09/2020,,45000
+98,Martins,P,Juliana,Female,HR Director,HR,05/01/2017,,75000
+99,Souza,Q,Carlos,Male,Quality Technician,Quality Assurance,29/02/2020,,40000
+100,Costa,R,Ana,Female,Product Specialist,R&D,10/03/2021,,53000
+101,Silva,S,Marcos,Male,Warehouse Manager,Logistics,22/10/2019,,60000
+102,Gomes,T,Maria,Female,Marketing Director,Marketing,14/04/2015,,70000
+103,Pereira,U,Roberto,Male,Sales Director,Sales,15/11/2016,,80000
+104,Almeida,V,Gabriela,Female,Finance Director,Finance,12/12/2018,,80000
+105,Nascimento,W,Danilo,Male,IT Coordinator,IT,03/05/2019,,60000
+106,Ramos,X,Aline,Female,Research Scientist,R&D,18/02/2021,,63000
+107,Freitas,Y,Tatiane,Female,Quality Control Supervisor,Quality Assurance,11/08/2016,,59000
+108,Cardoso,Z,André,Male,Logistics Analyst,Logistics,25/07/2017,,45000
+109,Moreira,A,Natália,Female,Sales Support Specialist,Sales,30/01/2020,,42000
+110,Teixeira,B,Rafael,Male,Production Manager,Operations,01/04/2018,,65000

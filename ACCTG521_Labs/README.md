@@ -1,0 +1,5 @@
+# ACCTG521_Labs
+
+This repository contains materials for the MPAcc Course ACCTG 521 at the Foster School of Business, University of Washington. 
+
+This repository and associated materials were prepared by Asher Curtis solely to facilitate class discussion. The materials are not intended to serve as an endorsement, source of primary data, or illustration of effective or ineffective handling of a business situation. All financial data and other information are either collected from publicly available sources or via a subscription to a data provider paid for by the University of Washington and/of the Foster School of Business. No part of the materials, including data, may be reproduced, stored in a retrieval system, used in a spreadsheet, or transmitted in any form or by any means—electronic, mechanical, photocopying, recording, or otherwise—without the permission of the author(s).

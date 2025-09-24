@@ -1,0 +1,101 @@
+UniqueID,LastName,MiddleInitial,FirstName,Gender,Job Title,Department,HireDate,TerminationDate,AnnualSalary
+1001,Smith,J,John,Male,Software Engineer,IT,2024-04-01,,80000
+1002,Doe,A,Jane,Female,Marketing Manager,Marketing,2024-05-15,,75000
+1003,Brown,L,Emily,Female,Data Analyst,IT,2024-03-10,,65000
+1004,Johnson,R,Michael,Male,Sales Representative,Sales,2024-06-12,,50000
+1005,Williams,K,Jessica,Female,HR Coordinator,Human Resources,2024-01-25,,60000
+1006,Jones,M,David,Male,Product Manager,Product,2024-02-18,,90000
+1007,Garcia,T,Alice,Female,Accountant,Finance,2024-05-20,,70000
+1008,Miller,S,Robert,Male,Graphic Designer,Marketing,2024-03-30,,60000
+1009,Davis,D,Susan,Female,Customer Support Specialist,Support,2024-06-01,,45000
+1010,Martinez,H,James,Male,Network Administrator,IT,2024-05-05,,85000
+1011,Wilson,C,Karen,Female,Project Manager,IT,2024-03-21,,95000
+1012,Moore,B,Thomas,Male,SEO Specialist,Marketing,2024-04-13,,55000
+1013,Taylor,E,Linda,Female,Data Scientist,IT,2024-01-07,,95000
+1014,Anderson,F,Kevin,Male,Sales Manager,Sales,2024-05-30,,78000
+1015,Thomas,G,Angela,Female,Office Manager,Administration,2024-04-18,,62000
+1016,Jackson,H,Christopher,Male,Software Tester,IT,2024-02-25,,70000
+1017,White,I,Nancy,Female,Financial Analyst,Finance,2024-06-10,,72000
+1018,Harris,J,Richard,Male,HR Manager,Human Resources,2024-03-16,,82000
+1019,Martin,K,Patricia,Female,Content Writer,Marketing,2024-05-25,,50000
+1020,Thompson,L,Joseph,Male,Web Developer,IT,2024-04-05,,75000
+1021,Garcia,M,Barbara,Female,UX Designer,Product,2024-02-28,,68000
+1022,Martinez,N,Paul,Male,Database Administrator,IT,2024-06-15,,77000
+1023,Robinson,O,Jessica,Female,Recruiter,Human Resources,2024-01-22,,58000
+1024,Clark,P,Daniel,Male,Customer Success Manager,Support,2024-05-11,,71000
+1025,Rodriguez,Q,Laura,Female,Logistics Coordinator,Operations,2024-03-05,,62000
+1026,Lewis,R,Steven,Male,IT Support Specialist,IT,2024-01-30,,48000
+1027,Lee,S,Deborah,Female,Account Executive,Sales,2024-04-22,,59000
+1028,Walker,T,Mark,Male,Quality Assurance Analyst,IT,2024-05-15,,65000
+1029,Hall,U,Amanda,Female,Marketing Analyst,Marketing,2024-03-12,,64000
+1030,Allen,V,Jason,Male,Operations Manager,Operations,2024-02-10,,85000
+1031,Sanchez,W,Rachel,Female,Social Media Manager,Marketing,2024-04-28,,57000
+1032,Young,X,Charles,Male,Network Engineer,IT,2024-05-03,,72000
+1033,King,Y,Rebecca,Female,Executive Assistant,Administration,2024-06-14,,53000
+1034,Wright,Z,Henry,Male,Product Owner,Product,2024-03-20,,90000
+1035,Scott,A,Laura,Female,Financial Controller,Finance,2024-01-18,,88000
+1036,Torres,B,Anthony,Male,Copywriter,Marketing,2024-04-16,,54000
+1037,Nelson,C,Kimberly,Female,Database Developer,IT,2024-06-20,,75000
+1038,Carter,D,Matthew,Male,Supply Chain Analyst,Operations,2024-05-08,,65000
+1039,Mitchell,E,Natalie,Female,IT Consultant,IT,2024-02-22,,95000
+1040,Perez,F,Samuel,Male,Product Marketing Manager,Marketing,2024-01-14,,82000
+1041,Roberts,G,Sharon,Female,Program Manager,IT,2024-03-26,,92000
+1042,Turner,H,George,Male,Field Sales Executive,Sales,2024-05-09,,58000
+1043,Phillips,I,Megan,Female,Research Analyst,Finance,2024-06-03,,67000
+1044,Campbell,J,Eric,Male,Network Architect,IT,2024-04-19,,90000
+1045,Parker,K,Linda,Female,HR Generalist,Human Resources,2024-03-15,,59000
+1046,Evans,L,Brian,Male,Customer Experience Specialist,Support,2024-05-17,,45000
+1047,Edwards,M,Julie,Female,Senior Accountant,Finance,2024-04-11,,75000
+1048,Collins,N,Kevin,Male,Digital Marketing Specialist,Marketing,2024-06-22,,52000
+1049,Stewart,O,Patricia,Female,IT Project Coordinator,IT,2024-05-20,,68000
+1050,Sanchez,P,James,Male,Content Strategist,Marketing,2024-03-27,,58000
+1051,Grant,Q,Sarah,Female,Technical Writer,IT,2024-04-14,,60000
+1052,Reed,R,Anthony,Male,Product Designer,Product,2024-01-29,,72000
+1053,Cooper,S,Jessica,Female,Customer Support Manager,Support,2024-05-24,,68000
+1054,Richardson,T,Mark,Male,Legal Assistant,Legal,2024-02-04,,54000
+1055,Wood,U,Karen,Female,Web Content Manager,Marketing,2024-06-30,,67000
+1056,Watson,V,John,Male,DevOps Engineer,IT,2024-03-01,,95000
+1057,Kim,W,Emily,Female,SEO Analyst,Marketing,2024-05-02,,55000
+1058,Bailey,X,Paul,Male,Internal Auditor,Finance,2024-02-12,,71000
+1059,Rivera,Y,Laura,Female,Junior Software Developer,IT,2024-04-27,,60000
+1060,Cooper,Z,Robert,Male,Logistics Analyst,Operations,2024-03-08,,59000
+1061,Long,A,Elizabeth,Female,IT Security Specialist,IT,2024-05-19,,80000
+1062,Price,B,William,Male,Marketing Coordinator,Marketing,2024-01-15,,57000
+1063,Hughes,C,Angela,Female,Sales Analyst,Sales,2024-06-05,,64000
+1064,Stevens,D,David,Male,Product Tester,Product,2024-02-15,,52000
+1065,Diaz,E,Nancy,Female,Customer Relations Manager,Support,2024-04-02,,72000
+1066,Perkins,F,George,Male,Assistant Controller,Finance,2024-05-23,,75000
+1067,James,G,Susan,Female,Data Entry Clerk,Administration,2024-03-18,,40000
+1068,Watkins,H,Thomas,Male,Email Marketing Specialist,Marketing,2024-04-30,,48000
+1069,Green,I,Michelle,Female,Payroll Specialist,Finance,2024-06-02,,65000
+1070,Nelson,J,James,Male,Senior Developer,IT,2024-04-15,,87000
+1071,Hill,K,Cynthia,Female,Project Coordinator,Operations,2024-05-26,,55000
+1072,Adams,L,Robert,Male,Sales Trainer,Sales,2024-06-21,,64000
+1073,Baker,M,Patricia,Female,Compliance Officer,Legal,2024-04-24,,75000
+1074,Gonzalez,N,Anthony,Male,Cloud Engineer,IT,2024-01-11,,90000
+1075,Cruz,O,Karen,Female,Brand Manager,Marketing,2024-02-26,,70000
+1076,Reyes,P,Joseph,Male,Content Editor,Marketing,2024-05-13,,52000
+1077,Wood,Q,Nicole,Female,Application Support Analyst,IT,2024-03-14,,65000
+1078,Grant,R,Diana,Female,Strategic Planner,Operations,2024-05-07,,80000
+1079,Jimenez,S,Benjamin,Male,Data Quality Analyst,IT,2024-06-04,,72000
+1080,Shaw,T,Anna,Female,User Experience Researcher,Product,2024-02-18,,69000
+1081,Bell,U,John,Male,Graphic Design Intern,Marketing,2024-05-11,,40000
+1082,Ng,V,Lily,Female,Software Development Intern,IT,2024-06-15,,42000
+1083,Ramirez,W,Marco,Male,Finance Intern,Finance,2024-03-22,,38000
+1084,Cole,X,Maria,Female,HR Intern,Human Resources,2024-05-19,,35000
+1085,Howard,Y,Ryan,Male,Marketing Intern,Marketing,2024-04-14,,39000
+1086,Watts,Z,Grace,Female,Operations Intern,Operations,2024-01-28,,36000
+1087,Edwards,A,Eric,Male,Customer Support Intern,Support,2024-06-10,,34000
+1088,Green,B,Isabella,Female,Project Management Intern,Operations,2024-04-08,,37000
+1089,King,C,Joshua,Male,Data Science Intern,IT,2024-02-12,,45000
+1090,Scott,D,Emma,Female,Sales Support Intern,Sales,2024-05-03,,33000
+1091,Turner,E,David,Male,Research Intern,Finance,2024-06-07,,38000
+1092,Ramirez,F,Olivia,Female,Product Intern,Product,2024-03-13,,40000
+1093,Wright,G,Matthew,Male,Graphic Design Intern,Marketing,2024-05-16,,42000
+1094,Moore,H,Chloe,Female,IT Support Intern,IT,2024-04-11,,37000
+1095,Torres,I,Daniel,Male,HR Assistant Intern,Human Resources,2024-05-30,,34000
+1096,Clark,J,Sophia,Female,Quality Assurance Intern,IT,2024-01-23,,38000
+1097,Lopez,K,Lucas,Male,Digital Marketing Intern,Marketing,2024-06-25,,39000
+1098,Hall,L,Emily,Female,Data Analyst Intern,IT,2024-05-10,,43000
+1099,Allen,M,Nathan,Male,Supply Chain Intern,Operations,2024-04-29,,36000
+1100,Bailey,N,Harper,Female,Customer Experience Intern,Support,2024-05-06,,37000

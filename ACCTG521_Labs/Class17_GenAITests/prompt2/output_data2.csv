@@ -1,0 +1,111 @@
+UniqueID,LastName,MiddleInitial,FirstName,Gender,Job Title,Department,HireDate,TerminationDate,AnnualSalary
+1,Souza,A,Fernando,male,Production Manager,Production,15/02/2010,NA,85000
+2,Santos,B,Ana,female,Quality Control Analyst,Quality Assurance,20/06/2015,NA,60000
+3,Oliveira,C,Rafael,male,Marketing Specialist,Marketing,01/09/2018,NA,70000
+4,Nascimento,D,Maria,female,Human Resources Manager,HR,10/11/2012,NA,90000
+5,Pereira,E,Lucas,male,Finance Director,Finance,23/01/2018,NA,120000
+6,Costa,F,Aline,female,Sales Associate,Sales,30/05/2019,NA,50000
+7,Almeida,G,Thiago,male,Research Scientist,R&D,12/04/2017,NA,95000
+8,Cardoso,H,Juliana,female,IT Support Specialist,IT,21/07/2020,NA,45000
+9,Ribeiro,I,Carlos,male,Operations Manager,Operations,15/03/2016,NA,90000
+10,Martins,J,Renata,female,Administrative Assistant,Administration,22/10/2014,NA,40000
+11,Teixeira,K,Roberto,male,Plant Supervisor,Production,05/01/2011,NA,70000
+12,Barbosa,L,Patricia,female,Logistics Coordinator,Logistics,18/02/2019,NA,65000
+13,Silva,M,André,male,Product Developer,R&D,09/08/2021,NA,78000
+14,Reis,N,Sofia,female,Customer Service Representative,Customer Service,15/06/2018,NA,48000
+15,Martins,O,João,male,Procurement Specialist,Procurement,10/03/2020,NA,55000
+16,Chaves,P,Lia,female,Legal Advisor,Legal,24/09/2013,NA,85000
+17,Gomes,Q,Paulo,male,Health and Safety Officer,Health & Safety,11/01/2019,NA,75000
+18,Dias,R,Camila,female,Training Coordinator,HR,17/04/2020,NA,62000
+19,Freitas,S,Mauricio,male,Web Developer,IT,02/07/2021,NA,70000
+20,Castro,T,Julia,female,Executive Assistant,Administration,08/10/2016,NA,54000
+21,Nascimento,U,Eduardo,male,Sales Manager,Sales,14/11/2014,NA,95000
+22,Alves,V,Isabela,female,Marketing Coordinator,Marketing,22/08/2020,NA,68000
+23,Moreira,W,Felipe,male,Accountant,Finance,30/12/2013,NA,72000
+24,Marinho,X,Gabriela,female,Data Analyst,R&D,19/05/2017,NA,60000
+25,Peixoto,Y,Diego,male,Production Technician,Production,25/01/2022,NA,40000
+26,Barros,Z,Nadia,female,Graphic Designer,Marketing,10/10/2019,NA,52000
+27,Araújo,A,Ricardo,male,Field Technician,Operations,03/03/2018,NA,48000
+28,Cardoso,B,Julia,female,Process Engineer,R&D,14/11/2021,NA,80000
+29,Ramos,C,Lourdes,female,Sales Director,Sales,27/02/2015,NA,110000
+30,Cunha,D,Marco,male,Executive Chef,Production,08/09/2016,NA,95000
+31,Silveira,E,Flavia,female,Warehouse Supervisor,Logistics,01/06/2014,NA,62000
+32,Tavares,F,Rogério,male,Financial Analyst,Finance,21/12/2018,NA,74000
+33,Lima,G,Luciana,female,Market Researcher,Marketing,12/07/2021,NA,56000
+34,Oliveira,H,Jorge,male,Customer Experience Specialist,Customer Service,11/11/2020,NA,50000
+35,Souza,I,Alice,female,Supply Chain Manager,Procurement,02/02/2015,NA,98000
+36,Freitas,J,Gustavo,male,Product Manager,R&D,15/05/2018,NA,90000
+37,Andrade,K,Simone,female,Communications Director,Marketing,29/03/2012,NA,115000
+38,Nogueira,L,Tania,female,HR Assistant,HR,13/08/2019,NA,42000
+39,Costa,M,Cesar,male,Research Assistant,R&D,18/09/2020,NA,52000
+40,Pereira,N,Mari,male,Production Planner,Production,30/11/2016,NA,67000
+41,Almeida,O,Adriana,female,Sales Support Specialist,Sales,17/10/2015,NA,49000
+42,Reis,P,Vinicius,male,IT Project Manager,IT,11/02/2020,NA,78000
+43,Martins,Q,Bruna,female,Brand Manager,Marketing,05/04/2018,NA,71000
+44,Campos,R,Thiago,male,Environmental Officer,Health & Safety,14/01/2017,NA,75000
+45,Ribeiro,S,Eliane,female,Product Analyst,R&D,22/08/2019,NA,58000
+46,Teixeira,T,Flávio,male,Payroll Coordinator,Finance,06/06/2016,NA,63000
+47,Chaves,U,Camilo,male,Quality Assurance Manager,Quality Assurance,30/10/2020,NA,89000
+48,Silva,V,Nina,female,Warehouse Associate,Logistics,01/11/2021,NA,41000
+49,Dias,W,Renan,male,IT Analyst,IT,17/09/2018,NA,60000
+50,Peixoto,X,Sofia,female,Operations Analyst,Operations,25/03/2014,NA,57000
+51,Alves,Y,Paulo,male,Training Officer,HR,11/07/2017,NA,50000
+52,Castro,Z,Ludmila,female,Finance Assistant,Finance,14/05/2022,NA,48000
+53,Nascimento,A,Samuel,male,Logistics Analyst,Logistics,08/08/2015,NA,52000
+54,Barbosa,B,Vanessa,female,Customer Service Manager,Customer Service,23/02/2013,NA,85000
+55,Dias,C,Ricardo,male,Quality Control Technician,Quality Assurance,15/09/2019,NA,45000
+56,Martins,D,Thiago,male,Production Worker,Production,11/10/2020,NA,38000
+57,Silva,E,Roberta,female,Research Manager,R&D,09/04/2018,NA,97000
+58,Pereira,F,Juliano,male,Sales Executive,Sales,12/11/2014,NA,72000
+59,Ribeiro,G,Ana,female,Financial Officer,Finance,22/01/2017,NA,75000
+60,Tavares,H,Leonardo,male,Marketing Director,Marketing,28/03/2016,NA,105000
+61,Araújo,I,Sonia,female,Product Designer,R&D,03/02/2019,NA,69000
+62,Reis,J,Caio,male,Operations Coordinator,Operations,15/12/2020,NA,68000
+63,Souza,K,Mariana,female,HR Director,HR,10/06/2015,NA,100000
+64,Almeida,L,Gustavo,male,Supply Chain Specialist,Procurement,27/04/2017,NA,57000
+65,Chaves,M,Cláudia,female,Web Designer,IT,15/07/2019,NA,52000
+66,Nascimento,N,Aline,female,Sales Analyst,Sales,20/09/2021,NA,59000
+67,Costa,O,Marcelo,male,Process Operator,Production,12/11/2020,NA,43000
+68,Ribeiro,P,Juliana,female,Quality Manager,Quality Assurance,22/01/2018,NA,82000
+69,Freitas,Q,Bruno,male,Data Scientist,R&D,30/05/2016,NA,91000
+70,Barbosa,R,Flávia,female,Logistics Manager,Logistics,09/03/2021,NA,78000
+71,Silva,S,Felipe,male,IT Consultant,IT,14/02/2020,NA,85000
+72,Pereira,T,Daniele,female,Customer Success Manager,Customer Service,11/08/2015,NA,70000
+73,Alves,U,Miguel,male,Finance Manager,Finance,02/06/2019,NA,88000
+74,Campos,V,Cecilia,female,Sales Trainer,Sales,19/01/2018,NA,60000
+75,Reis,W,Thiago,male,Technical Support Engineer,IT,25/04/2021,NA,75000
+76,Nascimento,X,Julia,female,Procurement Analyst,Procurement,14/09/2022,NA,56000
+77,Ribeiro,Y,Cristiano,male,Plant Manager,Production,12/02/2020,NA,105000
+78,Dias,Z,Marcio,male,Environmental Specialist,Health & Safety,20/11/2019,NA,67000
+79,Freitas,A,Camila,female,Brand Strategist,Marketing,22/01/2021,NA,75000
+80,Barbosa,B,Natália,female,HR Specialist,HR,30/07/2017,NA,54000
+81,Tavares,C,Victor,male,Finance Coordinator,Finance,08/04/2023,NA,70000
+82,Costa,D,Lúcia,female,Market Analyst,Marketing,11/03/2019,NA,58000
+83,Oliveira,E,Rodrigo,male,Customer Service Agent,Customer Service,01/10/2020,NA,45000
+84,Alves,F,Diana,female,IT Manager,IT,10/06/2021,NA,85000
+85,Souza,G,Juliano,male,Logistics Officer,Logistics,27/02/2018,NA,64000
+86,Reis,H,Rafael,male,Data Entry Clerk,Administration,12/09/2020,NA,35000
+87,Pereira,I,Samantha,female,Quality Control Supervisor,Quality Assurance,18/05/2016,NA,68000
+88,Barbosa,J,Camila,female,Production Assistant,Production,22/10/2019,NA,37000
+89,Dias,K,Alberto,male,Sales Engineer,Sales,21/11/2022,NA,72000
+90,Martins,L,Robson,male,Procurement Coordinator,Procurement,12/04/2020,NA,78000
+91,Ribeiro,M,Nina,female,Customer Relationship Manager,Customer Service,05/03/2021,NA,70000
+92,Araújo,N,Leonardo,male,HR Consultant,HR,16/06/2018,NA,74000
+93,Costa,O,Tânia,female,Software Developer,IT,30/01/2022,NA,60000
+94,Almeida,P,Luís,male,Training Specialist,HR,21/02/2019,NA,62000
+95,Nascimento,Q,Gabriel,male,Market Research Analyst,Marketing,10/03/2020,NA,59000
+96,Teixeira,R,Diana,female,Finance Director,Finance,09/12/2017,NA,120000
+97,Campos,S,Ricardo,male,Operations Assistant,Operations,30/05/2021,NA,45000
+98,Souza,T,Gabriela,female,Quality Assurance Supervisor,Quality Assurance,21/04/2016,NA,80000
+99,Pereira,U,André,male,Customer Service Executive,Customer Service,19/01/2020,NA,65000
+100,Barbosa,V,Renato,male,Sales Coordinator,Sales,15/09/2018,NA,75000
+101,Dias,W,Lara,female,Web Analyst,IT,04/03/2019,NA,54000
+102,Martins,X,Fernando,male,Logistics Director,Logistics,22/12/2014,NA,110000
+103,Ribeiro,Y,Joana,female,Finance Analyst,Finance,10/10/2022,NA,62000
+104,Nascimento,Z,Cássio,male,Research Engineer,R&D,05/11/2020,NA,78000
+105,Araújo,A,Rafael,male,HR Generalist,HR,18/07/2017,NA,65000
+106,Freitas,B,Mariana,female,Production Supervisor,Production,11/01/2020,NA,72000
+107,Teixeira,C,Victor,male,Marketing Analyst,Marketing,22/05/2022,NA,61000
+108,Costa,D,Rosana,female,Quality Control Inspector,Quality Assurance,30/08/2016,NA,58000
+109,Souza,E,Eliane,female,Data Manager,R&D,15/02/2019,NA,70000
+110,Barbosa,F,Anderson,male,IT Director,IT,03/04/2015,NA,130000

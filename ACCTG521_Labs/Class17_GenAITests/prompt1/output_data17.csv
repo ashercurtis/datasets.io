@@ -1,0 +1,111 @@
+UniqueID,LastName,MiddleInitial,FirstName,Gender,Job Title,Department,HireDate,TerminationDate
+1,Smith,A,John,male,Software Engineer,IT,01/05/2015,NA
+2,Johnson,B,Emily,female,Project Manager,Operations,15/02/2018,NA
+3,Brown,C,Alex,male,Data Analyst,Finance,23/11/2020,10/08/2023
+4,Garcia,D,Mia,female,HR Specialist,Human Resources,06/07/2019,NA
+5,NA,NA,Chris,other,Marketing Coordinator,Marketing,19/09/2022,NA
+6,Wilson,E,Sophia,female,Graphic Designer,Design,12/12/2021,NA
+7,Taylor,F,Michael,male,Sales Representative,Sales,29/04/2017,25/01/2023
+8,Anderson,G,NA,male,Business Analyst,Strategy,15/01/2020,NA
+9,Thomas,H,Jessica,female,Customer Service Rep,Customer Support,30/03/2021,NA
+10,Martinez,I,David,male,Web Developer,IT,21/08/2016,NA
+11,Lopez,J,Alice,female,Research Scientist,R&D,02/11/2018,NA
+12,Lee,K,Kevin,male,System Administrator,IT,12/09/2017,NA
+13,Nguyen,L,Tina,female,Product Owner,Product,25/04/2019,NA
+14,Walker,M,Henry,male,Financial Analyst,Finance,03/08/2020,NA
+15,Hernandez,N,Laura,female,Recruiter,Human Resources,14/10/2021,NA
+16,King,O,George,male,Operations Manager,Operations,09/12/2022,NA
+17,Wright,P,Sarah,female,Content Writer,Marketing,05/01/2018,NA
+18,Green,Q,Bob,male,Network Engineer,IT,17/06/2019,NA
+19,Adams,R,NA,male,Supply Chain Specialist,Supply Chain,11/03/2020,NA
+20,Scott,S,Emily,female,Sales Analyst,Sales,24/07/2016,NA
+21,Mitchell,T,Paul,male,Software Tester,IT,16/11/2015,NA
+22,Roberts,U,Angela,female,Account Manager,Finance,02/04/2022,NA
+23,Turner,V,Chris,other,Digital Marketing Specialist,Marketing,30/05/2021,NA
+24,Phillips,W,James,male,Customer Support Specialist,Customer Support,14/09/2020,NA
+25,Campbell,X,NA,male,Legal Advisor,Legal,19/02/2019,NA
+26,Parker,Y,Megan,female,UI/UX Designer,Design,28/12/2021,NA
+27,Evans,Z,David,male,Data Scientist,IT,15/06/2022,NA
+28,Edwards,AA,Nancy,female,Marketing Manager,Marketing,05/03/2020,NA
+29,Collins,AB,Daniel,male,Operations Analyst,Operations,18/04/2021,NA
+30,Stewart,AC,Emily,female,Quality Assurance Lead,IT,22/01/2017,NA
+31,Sanchez,AD,Brian,male,Product Manager,Product,25/08/2023,NA
+32,Morris,AE,NA,male,Warehouse Manager,Supply Chain,13/10/2022,NA
+33,Rogers,AF,Lisa,female,Training Coordinator,Human Resources,04/12/2019,NA
+34,Reed,AG,Mark,male,Marketing Analyst,Marketing,14/06/2018,NA
+35,Cooper,AH,Chloe,female,IT Support Specialist,IT,23/05/2020,NA
+36,Peterson,AI,Karen,female,HR Manager,Human Resources,17/07/2019,NA
+37,Gray,AJ,Nathan,male,Network Administrator,IT,28/03/2016,NA
+38,James,AK,Laura,female,Sales Executive,Sales,30/09/2022,NA
+39,Hughes,AL,Peter,male,Data Engineer,IT,21/01/2023,NA
+40,Washington,AM,Mary,female,Finance Director,Finance,11/11/2020,NA
+41,Kim,AN,David,male,Product Designer,Design,14/02/2021,NA
+42,Clark,AO,Anna,female,Research Analyst,R&D,12/08/2018,NA
+43,Lee,AP,Michael,male,IT Consultant,IT,03/09/2023,NA
+44,Lewis,AQ,Sarah,female,Administrative Assistant,Administration,07/05/2020,NA
+45,Hall,AR,NA,male,Graphic Artist,Design,11/12/2021,NA
+46,Allen,AS,Jacob,male,IT Project Manager,IT,18/03/2019,NA
+47,Young,AT,Nina,female,Customer Success Manager,Customer Support,21/04/2020,NA
+48,Hernandez,AU,Benjamin,male,Operations Supervisor,Operations,01/02/2022,NA
+49,King,AV,Emily,female,Data Analyst,Finance,26/06/2018,NA
+50,Wright,AW,Chris,other,SEO Specialist,Marketing,15/11/2021,NA
+51,Scott,AX,Alice,female,Marketing Strategist,Marketing,24/10/2022,NA
+52,Brown,AY,NA,male,Data Architect,IT,12/05/2019,NA
+53,Thomas,AZ,David,male,Corporate Trainer,Training,16/09/2023,NA
+54,Green,BA,Samantha,female,Software Architect,IT,03/04/2021,NA
+55,Adams,BB,Bobby,male,Content Manager,Marketing,28/08/2017,NA
+56,Mitchell,BC,Nora,female,Graphic Designer,Design,22/07/2022,NA
+57,Garcia,BD,Oliver,male,Sales Consultant,Sales,09/11/2019,NA
+58,Roberts,BE,Ethan,male,Financial Consultant,Finance,02/03/2021,NA
+59,Hall,BF,Chloe,female,HR Analyst,Human Resources,17/05/2020,NA
+60,Thompson,BG,Aiden,male,Product Analyst,Product,11/12/2018,NA
+61,Moore,BH,NA,male,Compliance Officer,Legal,15/02/2023,NA
+62,Jackson,BI,Sarah,female,Project Coordinator,Operations,21/03/2017,NA
+63,White,BJ,Tyler,male,Technical Writer,IT,25/01/2020,NA
+64,Lopez,BK,Ava,female,Market Researcher,Marketing,10/08/2021,NA
+65,Martin,BL,James,male,Social Media Manager,Marketing,22/06/2018,NA
+66,Lee,BM,Emma,female,IT Security Specialist,IT,04/09/2023,NA
+67,Harris,BN,Joshua,male,Software Developer,IT,30/10/2021,NA
+68,Clark,BO,Nina,female,Customer Service Manager,Customer Support,03/05/2020,NA
+69,Ramirez,BP,Lucas,male,Operations Director,Operations,19/01/2019,NA
+70,Robinson,BQ,Layla,female,Business Analyst,Finance,17/12/2018,NA
+71,Walker,BR,Jack,male,HR Generalist,Human Resources,25/04/2022,NA
+72,Lee,BS,MA,female,Sales Operations Analyst,Sales,01/03/2023,NA
+73,Hall,BT,Michael,male,Digital Designer,Design,22/08/2017,NA
+74,Wright,BU,Julia,female,Network Technician,IT,18/09/2022,NA
+75,Scott,BV,Aiden,male,Data Analyst,Finance,15/05/2021,NA
+76,Adams,BW,NA,male,Customer Experience Specialist,Customer Support,10/02/2020,NA
+77,Garcia,BX,Ethan,male,Senior Analyst,IT,03/04/2023,NA
+78,Martinez,BY,Emily,female,IT Project Coordinator,IT,21/06/2021,NA
+79,Nguyen,BZ,NA,male,Chief Financial Officer,Finance,19/08/2022,NA
+80,Ramirez,CA,Liam,male,HR Business Partner,Human Resources,12/11/2020,NA
+81,Collins,CB,Ava,female,Web Content Manager,Marketing,09/07/2023,NA
+82,Parker,CC,Nathan,male,Software Development Lead,IT,15/03/2018,NA
+83,Evans,CD,Naomi,female,Legal Assistant,Legal,27/05/2019,NA
+84,Bailey,CE,James,male,Market Development Manager,Marketing,22/01/2020,NA
+85,Cooper,CF,Mia,female,Logistics Coordinator,Supply Chain,13/10/2022,NA
+86,Reed,CG,David,male,Operations Analyst,Operations,15/04/2021,NA
+87,Stewart,CH,Lily,female,Brand Manager,Marketing,30/12/2019,NA
+88,Morris,CI,NA,male,Data Quality Manager,IT,25/01/2022,NA
+89,Hughes,CJ,Sophia,female,Client Relations Manager,Customer Support,19/03/2020,NA
+90,Turner,CK,John,male,Software Tester,IT,17/11/2018,NA
+91,Phillips,CL,Megan,female,Human Resources Consultant,Human Resources,10/04/2022,NA
+92,Campbell,CM,NA,male,IT Security Analyst,IT,28/08/2021,NA
+93,Mitchell,CN,Liam,male,Supply Chain Analyst,Supply Chain,15/02/2023,NA
+94,Brown,CO,Avery,female,Product Coordinator,Product,04/01/2021,NA
+95,Roberts,CP,Jacob,male,Corporate Lawyer,Legal,16/09/2022,NA
+96,Garcia,CQ,Karen,female,Marketing Director,Marketing,20/03/2019,NA
+97,Young,CR,Aiden,male,Data Scientist,IT,22/05/2023,NA
+98,Hall,CS,NA,male,Finance Associate,Finance,11/07/2020,NA
+99,King,CT,Samantha,female,Sales Consultant,Sales,05/12/2022,NA
+100,Scott,CU,Oliver,male,Customer Care Specialist,Customer Support,13/01/2021,NA
+101,Lee,CV,Lily,female,IT Analyst,IT,09/08/2018,NA
+102,Green,CW,James,male,Digital Marketing Manager,Marketing,19/04/2020,NA
+103,Hernandez,CX,Ava,female,Technical Support,IT,23/05/2021,NA
+104,Martinez,CY,David,male,Operations Assistant,Operations,30/12/2022,NA
+105,Moore,CZ,NA,male,Research Scientist,R&D,14/03/2023,NA
+106,Jackson,DA,Emily,female,HR Administrator,Human Resources,21/01/2019,NA
+107,White,DB,Chris,other,Product Developer,Product,22/08/2021,NA
+108,Ramirez,DC,Megan,female,Corporate Trainer,Training,18/11/2022,NA
+109,King,DD,Benjamin,male,Sales Associate,Sales,12/04/2020,NA
+110,Thompson,DE,Nora,female,Financial Officer,Finance,05/10/2018,NA

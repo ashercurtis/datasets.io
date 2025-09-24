@@ -1,0 +1,11 @@
+UniqueID,LastName,MiddleInitial,FirstName,Gender,JobTitle,Department,HireDate,TerminationDate,AnnualSalary
+1,Souza,A,Lucas,Male,Production Manager,Operations,15/02/2015,,60000
+2,Silva,R,Maria,Female,Quality Control Specialist,Quality Assurance,10/05/2017,,45000
+3,Pereira,L,Carlos,Male,Marketing Coordinator,Marketing,01/09/2018,,50000
+4,Gomes,M,Ana,Female,Research Scientist,R&D,20/11/2016,,55000
+5,Ribeiro,T,Pedro,Male,Warehouse Supervisor,Logistics,05/03/2019,,48000
+6,Almeida,C,Fernanda,Female,Sales Representative,Sales,15/07/2020,,43000
+7,Nascimento,J,Thiago,Male,Finance Analyst,Finance,30/04/2021,,52000
+8,Costa,D,Lais,Female,Human Resources Manager,HR,12/01/2014,,62000
+9,Barbosa,E,Julio,Male,IT Support Technician,IT,25/06/2020,,40000
+10,Machado,F,Beatriz,Female,Product Development Lead,R&D,10/12/2018,,58000

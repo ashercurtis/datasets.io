@@ -1,0 +1,5 @@
+HireDate,count_of_hires,multiple_hires,UniqueID,LastName,MiddleInitial,FirstName,Gender,Job Title,Department,Right_HireDate,TerminationDate,FileName,Input_File_Name,Output_File_Name
+15/08/2020,1,False,2,Doe,NA,Jane,female,Data Analyst,Marketing,15/08/2020,,C:\Users\abcurtis\OneDrive - UW\__Teaching__\GitHubConnections\ACCTG521_Labs\Class17_GenAITests\prompt1\output_data7.csv,output_data7.csv,questions_data7
+01/10/2019,1,False,3,Brown,C,R,male,Project Manager,Operations,01/10/2019,,C:\Users\abcurtis\OneDrive - UW\__Teaching__\GitHubConnections\ACCTG521_Labs\Class17_GenAITests\prompt1\output_data7.csv,output_data7.csv,questions_data7
+12/04/2021,1,False,4,Johnson,B,K,female,HR Specialist,Human Resources,12/04/2021,,C:\Users\abcurtis\OneDrive - UW\__Teaching__\GitHubConnections\ACCTG521_Labs\Class17_GenAITests\prompt1\output_data7.csv,output_data7.csv,questions_data7
+23/06/2021,1,False,1,Smith,A,J,male,Software Engineer,IT,23/06/2021,,C:\Users\abcurtis\OneDrive - UW\__Teaching__\GitHubConnections\ACCTG521_Labs\Class17_GenAITests\prompt1\output_data7.csv,output_data7.csv,questions_data7

@@ -1,0 +1,111 @@
+UniqueID,LastName,MiddleInitial,FirstName,Gender,Job Title,Department,HireDate,TerminationDate,AnnualSalary
+1,Smith,J,John,M,Software Engineer,IT,2020-01-15,,80000
+2,Doe,A,Jane,F,Marketing Manager,Marketing,2018-03-22,,75000
+3,Brown,L,Emily,F,Data Analyst,IT,2019-07-10,,65000
+4,Johnson,R,Michael,M,Sales Representative,Sales,2021-11-05,,50000
+5,Williams,K,Jessica,F,HR Coordinator,Human Resources,2017-05-30,2023-09-15,60000
+6,Jones,M,David,M,Product Manager,Product,2022-02-18,,90000
+7,Garcia,T,Alice,F,Accountant,Finance,2020-06-25,,70000
+8,Miller,S,Robert,M,Graphic Designer,Marketing,2021-08-12,,60000
+9,Davis,D,Susan,F,Customer Support Specialist,Support,2019-12-01,,45000
+10,Martinez,H,James,M,Network Administrator,IT,2018-04-14,,85000
+11,Wilson,C,Karen,F,Project Manager,IT,2022-03-21,,95000
+12,Moore,B,Thomas,M,SEO Specialist,Marketing,2019-09-13,,55000
+13,Taylor,E,Linda,F,Data Scientist,IT,2020-11-07,,95000
+14,Anderson,F,Kevin,M,Sales Manager,Sales,2021-04-10,,78000
+15,Thomas,G,Angela,F,Office Manager,Administration,2018-12-30,,62000
+16,Jackson,H,Christopher,M,Software Tester,IT,2020-06-18,,70000
+17,White,I,Nancy,F,Financial Analyst,Finance,2019-02-02,,72000
+18,Harris,J,Richard,M,HR Manager,Human Resources,2021-05-15,,82000
+19,Martin,K,Patricia,F,Content Writer,Marketing,2022-01-30,,50000
+20,Thompson,L,Joseph,M,Web Developer,IT,2020-09-25,,75000
+21,Garcia,M,Barbara,F,UX Designer,Product,2021-03-15,,68000
+22,Martinez,N,Paul,M,Database Administrator,IT,2018-08-10,,77000
+23,Robinson,O,Jessica,F,Recruiter,Human Resources,2019-04-01,,58000
+24,Clark,P,Daniel,M,Customer Success Manager,Support,2021-12-20,,71000
+25,Rodriguez,Q,Laura,F,Logistics Coordinator,Operations,2020-10-05,,62000
+26,Lewis,R,Steven,M,IT Support Specialist,IT,2019-05-17,,48000
+27,Lee,S,Deborah,F,Account Executive,Sales,2021-06-22,,59000
+28,Walker,T,Mark,M,Quality Assurance Analyst,IT,2019-03-14,,65000
+29,Hall,U,Amanda,F,Marketing Analyst,Marketing,2020-02-28,,64000
+30,Allen,V,Jason,M,Operations Manager,Operations,2018-07-23,,85000
+31,Sanchez,W,Rachel,F,Social Media Manager,Marketing,2021-04-08,,57000
+32,Young,X,Charles,M,Network Engineer,IT,2019-11-11,,72000
+33,King,Y,Rebecca,F,Executive Assistant,Administration,2022-01-12,,53000
+34,Wright,Z,Henry,M,Product Owner,Product,2020-03-20,,90000
+35,Scott,A,Laura,F,Financial Controller,Finance,2018-05-05,,88000
+36,Torres,B,Anthony,M,Copywriter,Marketing,2021-02-15,,54000
+37,Nelson,C,Kimberly,F,Database Developer,IT,2020-07-18,,75000
+38,Carter,D,Matthew,M,Supply Chain Analyst,Operations,2019-12-10,,65000
+39,Mitchell,E,Natalie,F,IT Consultant,IT,2021-10-30,,95000
+40,Perez,F,Samuel,M,Product Marketing Manager,Marketing,2018-09-29,,82000
+41 Roberts,G,Sharon,F,Program Manager,IT,2022-06-01,,92000
+42,Turner,H,George,M,Field Sales Executive,Sales,2019-08-21,,58000
+43,Phillips,I,Megan,F,Research Analyst,Finance,2020-02-17,,67000
+44,Campbell,J,Eric,M,Network Architect,IT,2018-10-11,,90000
+45,Parker,K,Linda,F,HR Generalist,Human Resources,2021-05-18,,59000
+46,Evans,L,Brian,M,Customer Experience Specialist,Support,2019-01-15,,45000
+47,Edwards,M,Julie,F,Senior Accountant,Finance,2022-03-22,,75000
+48,Collins,N,Kevin,M,Digital Marketing Specialist,Marketing,2018-11-20,,52000
+49,Stewart,O,Patricia,F,IT Project Coordinator,IT,2020-06-08,,68000
+50,Sanchez,P,James,M,Content Strategist,Marketing,2021-08-14,,58000
+51,Grant,Q,Sarah,F,Technical Writer,IT,2019-04-27,,60000
+52,Reed,R,Anthony,M,Product Designer,Product,2020-09-30,,72000
+53,Cooper,S,Jessica,F,Customer Support Manager,Support,2022-07-11,,68000
+54,Richardson,T,Mark,M,Legal Assistant,Legal,2019-02-12,,54000
+55,Wood,U,Karen,F,Web Content Manager,Marketing,2021-05-25,,67000
+56,Watson,V,John,M,DevOps Engineer,IT,2020-11-01,,95000
+57,Kim,W,Emily,F,SEO Analyst,Marketing,2019-03-03,,55000
+58,Bailey,X,Paul,M,Internal Auditor,Finance,2021-01-15,,71000
+59,Rivera,Y,Laura,F,Junior Software Developer,IT,2022-10-08,,60000
+60,Cooper,Z,Robert,M,Logistics Analyst,Operations,2019-06-18,,59000
+61,Long,A,Elizabeth,F,IT Security Specialist,IT,2020-05-12,,80000
+62,Price,B,William,M,Marketing Coordinator,Marketing,2018-12-05,,57000
+63,Hughes,C,Angela,F,Sales Analyst,Sales,2021-08-19,,64000
+64,Stevens,D,David,M,Product Tester,Product,2019-09-14,,52000
+65,Diaz,E,Nancy,F,Customer Relations Manager,Support,2022-11-22,,72000
+66,Perkins,F,George,M,Assistant Controller,Finance,2019-04-16,,75000
+67,James,G,Susan,F,Data Entry Clerk,Administration,2020-07-09,,40000
+68,Watkins,H,Thomas,M,Email Marketing Specialist,Marketing,2021-04-02,,48000
+69,Green,I,Michelle,F,Payroll Specialist,Finance,2018-08-30,,65000
+70,Nelson,J,James,M,Senior Developer,IT,2020-02-26,,87000
+71,Hill,K,Cynthia,F,Project Coordinator,Operations,2019-11-15,,55000
+72,Adams,L,Robert,M,Sales Trainer,Sales,2021-10-09,,64000
+73,Baker,M,Patricia,F,Compliance Officer,Legal,2018-06-12,,75000
+74,Gonzalez,N,Anthony,M,Cloud Engineer,IT,2020-09-15,,90000
+75,Cruz,O,Karen,F,Brand Manager,Marketing,2021-02-22,,70000
+76,Reyes,P,Joseph,M,Content Editor,Marketing,2019-03-27,,52000
+77,Wood,Q,Nicole,F,Application Support Analyst,IT,2021-08-28,,65000
+78,Grant,R,Diana,F,Strategic Planner,Operations,2022-01-01,,80000
+79,Jimenez,S,Benjamin,M,Data Quality Analyst,IT,2020-06-19,,72000
+80,Shaw,T,Mary,F,Training Coordinator,Human Resources,2019-10-05,,53000
+81,Johnston,U,Jason,M,Senior Product Manager,Product,2021-04-11,,95000
+82,James,V,Angela,F,Sales Coordinator,Sales,2018-11-25,,50000
+83,Harper,W,Richard,M,Operations Analyst,Operations,2022-02-10,,67000
+84,Stevens,X,Linda,F,Graphic Design Intern,Marketing,2021-09-01,,35000
+85,Lee,Y,Michael,M,Software Engineer II,IT,2020-01-10,,82000
+86,Hall,Z,Sharon,F,Data Visualization Specialist,IT,2019-07-16,,67000
+87,Young,A,Jason,M,IT Infrastructure Manager,IT,2021-03-05,,90000
+88,Allen,B,Deborah,F,Web Marketing Specialist,Marketing,2019-08-14,,58000
+89,Ramirez,C,Stephen,M,Operations Supervisor,Operations,2022-12-03,,85000
+90,Roberts,D,Karen,F,Administrative Assistant,Administration,2019-05-29,,42000
+91,Scott,E,Mark,M,Senior Security Analyst,IT,2020-06-30,,80000
+92,Hall,F,Amy,F,Finance Intern,Finance,2021-01-15,,30000
+93,Hernandez,G,Joshua,M,Product Analyst,Product,2019-10-17,,67000
+94,Lopez,H,Christine,F,Customer Engagement Specialist,Support,2020-05-21,,53000
+95,Nguyen,I,Alan,M,Database Analyst,IT,2021-09-12,,72000
+96,Green,J,Victoria,F,Executive Chef,Food Services,2019-04-11,,60000
+97,Bennett,K,Diana,F,Procurement Specialist,Operations,2020-03-19,,57000
+98,Martinez,L,Jordan,M,Digital Analyst,Marketing,2021-06-17,,65000
+99,Bailey,M,Nina,F,Training Specialist,Human Resources,2019-11-22,,49000
+100,Watson,N,Patrick,M,Customer Support Agent,Support,2020-12-04,,42000
+101,Brown,O,Megan,F,IT Support Manager,IT,2021-08-02,,83000
+102,Torres,P,Henry,M,Senior Systems Analyst,IT,2022-01-28,,85000
+103,Sanchez,Q,Luke,M,Marketing Executive,Marketing,2019-07-13,,62000
+104,Jackson,R,Sophia,F,Sales Support Specialist,Sales,2020-10-09,,47000
+105,Hernandez,S,Anna,F,Project Accountant,Finance,2021-03-30,,70000
+106,Miller,T,Ernest,M,IT Consultant II,IT,2019-05-06,,94000
+107,Garcia,U,Amy,F,Event Coordinator,Marketing,2022-05-17,,48000
+108,Rodriguez,V,Rachel,F,Customer Service Director,Support,2020-01-05,,90000
+109,Martinez,W,Emma,F,Legal Intern,Legal,2019-09-18,,32000
+110,Johnson,X,Nicolas,M,Senior Sales Executive,Sales,2021-02-20,,88000

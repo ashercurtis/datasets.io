@@ -1,0 +1,51 @@
+UniqueID,LastName,MiddleInitial,FirstName,Gender,Job Title,Department,HireDate,TerminationDate,AnnualSalary
+1,Olson,A,Jamie,other,Regulatory affairs officer,Than,28/11/1955,12/04/2014,58169
+2,Johnson,F,Mark,female,Fisheries officer,Skill,30/03/1989,23/02/2000,243810
+3,Williams,I,Carrie,other,Museum/gallery curator,Know,17/08/2000,,159800
+4,Serrano,Q,Stephen,female,Immunologist,Recently,27/01/1990,,172569
+5,Anderson,X,Michelle,male,Film/video editor,Less,27/10/2000,,139696
+6,Williams,A,Joe,other,"Engineer, broadcasting (operations)",Yeah,18/07/2002,,75857
+7,Herrera,X,Rachael,male,Interior and spatial designer,Reflect,10/09/1992,,102304
+8,Graham,E,Denise,female,"Journalist, broadcasting",Three,20/10/2012,,178667
+9,Moore,O,Tara,female,Field trials officer,Although,14/10/2019,,37693
+10,Crawford,M,Diane,male,"Social research officer, government",Window,18/10/1955,,83894
+11,Cruz,X,Robin,other,Dealer,Budget,29/06/1962,04/09/1972,153614
+12,Alexander,Z,James,female,Magazine journalist,Lead,15/08/1964,,112637
+13,Griffin,R,Joshua,other,Waste management officer,Nearly,31/10/2007,,141585
+14,Adams,NA,Kevin,female,Ecologist,Star,06/10/1975,22/11/1983,108079
+15,Castillo,W,Mark,male,Environmental manager,Accept,10/06/1975,,172103
+16,Rivera,U,John,other,Garment/textile technologist,Line,01/06/1957,,123769
+17,Aguilar,Y,Samantha,male,Research scientist (life sciences),Report,26/07/2006,,182921
+18,Doyle,R,Abigail,other,Town planner,Money,30/04/1984,,215026
+19,Martin,R,Steven,female,Oncologist,Century,07/01/1960,,79771
+20,Weaver,W,Amanda,other,Recruitment consultant,Science,10/09/2008,,36061
+21,Alexander,A,Maria,male,"Accountant, chartered",Leg,14/01/1974,22/01/2012,157055
+22,Bailey,J,Daniel,other,Professor Emeritus,These,24/04/1960,02/10/1963,99759
+23,NA,I,Stephen,other,Press photographer,Stage,28/06/2017,,211522
+24,Livingston,NA,Matthew,other,Futures trader,Water,04/09/2019,,166250
+25,Murphy,H,Regina,other,"Designer, exhibition/display",Sister,03/11/2013,15/01/2021,191780
+26,Morris,C,Gloria,female,Theatre stage manager,Parent,11/10/1983,,233302
+27,Johnson,H,Suzanne,other,"Presenter, broadcasting",Today,28/08/2016,,202923
+28,Higgins,F,Brandon,female,Statistician,Speak,10/01/1985,,179371
+29,Mitchell,Q,Thomas,female,Media planner,Physical,05/11/1965,03/06/2021,173752
+30,Gillespie,M,Valerie,male,"Education officer, environmental",Base,02/01/2006,,239952
+31,Simmons,G,Gabrielle,female,Insurance account manager,Very,19/12/1977,,226865
+32,Roy,NA,Karen,other,"Scientist, research (maths)",Seven,04/08/2014,,124357
+33,West,V,Angela,male,Geographical information systems officer,Picture,09/02/2009,,67673
+34,Wilson,Y,Courtney,male,"Engineer, manufacturing systems",Language,21/01/2001,,54961
+35,Golden,Z,Denise,male,Building control surveyor,Sport,24/01/2007,,223853
+36,Robles,D,Michael,female,Media buyer,Loss,11/02/2009,,185984
+37,Malone,O,Kara,female,"Psychologist, prison and probation services",Run,15/03/2009,,74893
+38,Porter,Q,Richard,male,Licensed conveyancer,Happy,27/06/1991,19/09/2008,137161
+39,Bullock,E,Brenda,other,Charity officer,Road,07/03/1989,08/01/2022,163461
+40,Owen,NA,Richard,other,Dispensing optician,Player,04/06/2001,,199039
+41,Le,NA,Cameron,male,Information officer,Admit,21/01/2008,,205020
+42,Curtis,E,Joy,female,Travel agency manager,Hour,26/01/1996,,103322
+43,Allen,T,Cody,other,Astronomer,Discussion,24/11/1989,31/07/2002,223631
+44,Bean,M,Ashley,male,Print production planner,Who,13/07/1961,,92979
+45,Long,V,Melanie,male,"Teacher, special educational needs",Cut,28/08/1953,,119861
+46,Cantu,K,Kathryn,other,"Journalist, newspaper",Truth,18/08/2022,,65839
+47,Sandoval,L,Brendan,other,Systems analyst,History,16/12/1957,,246940
+48,Burke,K,Kendra,other,Commercial/residential surveyor,Police,05/07/2005,20/07/2016,234925
+49,Cooke,B,Jennifer,other,Software engineer,Much,26/06/1998,,182064
+50,Sanders,K,Nicole,male,Best boy,Child,08/01/1999,08/01/2002,147360

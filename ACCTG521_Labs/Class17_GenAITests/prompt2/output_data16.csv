@@ -1,0 +1,69 @@
+import random
+import pandas as pd
+from datetime import datetime, timedelta
+
+# Sample lists of names and titles
+first_names = ["John", "Emily", "Alex", "Mia", "Chris", "Sophia", "Michael", "Jessica", "David", "Alice",
+               "Kevin", "Tina", "Henry", "Laura", "Chloe", "Sarah", "Mark", "Lucas", "Liam", "Emma"]
+
+middle_initials = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z', 'NA']
+
+last_names = ["Smith", "Johnson", "Brown", "Garcia", "Wilson", "Taylor", "Anderson", "Thomas", "Martinez", "Lopez",
+              "Nguyen", "Walker", "Hernandez", "King", "Wright", "Green", "Adams", "Scott", "Mitchell", "Roberts", 
+              "Turner", "Phillips", "Campbell", "Parker", "Evans", "Young", "Harris", "Hall", "Allen", "White",
+              "Lewis", "Jackson", "Sanchez", "Robinson", "Thompson", "Clark", "Reed", "Martin", "Baker", "Gonzalez"]
+
+job_titles = ["Software Engineer", "Project Manager", "Data Analyst", "HR Specialist", "Marketing Coordinator",
+              "Graphic Designer", "Sales Representative", "Business Analyst", "Customer Service Rep", "Web Developer",
+              "Research Scientist", "System Administrator", "Product Owner", "Financial Analyst", "Recruiter",
+              "Operations Manager", "Content Writer", "Network Engineer", "Supply Chain Specialist", "IT Consultant"]
+
+departments = ["IT", "Operations", "Finance", "Human Resources", "Marketing", "Design", "Sales", "R&D", "Legal", "Customer Support"]
+
+# Function to generate random hire dates
+def random_hire_date():
+    start_date = datetime.strptime("1951-06-23", "%Y-%m-%d")
+    end_date = datetime.strptime("2023-12-31", "%Y-%m-%d")
+    random_date = start_date + timedelta(days=random.randint(0, (end_date - start_date).days))
+    return random_date.strftime("%d/%m/%Y")
+
+# Function to generate employee data
+def generate_employee_data(num_records):
+    employees = []
+
+    for unique_id in range(1, num_records + 1):
+        first_name = random.choice(first_names)
+        middle_initial = random.choice(middle_initials)
+        last_name = random.choice(last_names)
+        gender = random.choice(['male', 'female', 'other'])
+        job_title = random.choice(job_titles)
+        department = random.choice(departments)
+        hire_date = random_hire_date()
+        termination_date = random.choice(['NA', random_hire_date()])
+
+        employees.append({
+            "UniqueID": unique_id,
+            "LastName": last_name,
+            "MiddleInitial": middle_initial,
+            "FirstName": first_name,
+            "Gender": gender,
+            "Job Title": job_title,
+            "Department": department,
+            "HireDate": hire_date,
+            "TerminationDate": termination_date
+        })
+    
+    # Create DataFrame
+    df = pd.DataFrame(employees)
+    
+    # Sort by LastName
+    df = df.sort_values(by="LastName").reset_index(drop=True)
+
+    return df
+
+# Generate records and save to CSV
+num_records = 110
+employee_data = generate_employee_data(num_records)
+employee_data.to_csv("employee_data.csv", index=False)
+
+print("Employee data generated and saved to 'employee_data.csv'")

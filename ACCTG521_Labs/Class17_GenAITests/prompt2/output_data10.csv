@@ -1,0 +1,71 @@
+Unique ID,Last Name,First Name,Middle Initial,Gender,Job Title,Department,Hire Date,Termination Date,Annual Salary
+9341,Martinez,Laura,K,F,UX Designer,Design,2021-06-15,,82000
+8712,García,Jessica,L,F,Data Analyst,Data Science,2019-09-22,,70000
+2694,Williams,Michael,D,M,Marketing Manager,Marketing,2020-04-30,,76000
+1847,Davis,Amanda,E,F,Software Engineer,IT,2022-01-10,,93000
+7650,Rodriguez,Brian,H,M,Sales Representative,Sales,2020-08-21,,68000
+3158,Smith,John,C,M,Operations Manager,Operations,2018-03-05,2023-05-14,95000
+6023,Brown,Sarah,J,F,HR Specialist,Human Resources,2021-12-01,,60000
+4789,Johnson,Emily,I,F,Financial Analyst,Finance,2020-11-18,,81000
+1470,Miller,Christopher,A,M,Project Coordinator,Operations,2019-07-10,,64000
+3905,Jones,David,B,M,Systems Administrator,IT,2017-10-14,,74000
+8524,Lopez,Sofia,R,F,Product Manager,Product,2022-02-12,,88000
+7258,Hernandez,Luis,T,M,Web Developer,IT,2021-03-20,,72000
+3190,Gonzalez,Ana,M,F,Graphic Designer,Design,2018-08-14,,69000
+5821,Wilson,James,E,M,Technical Writer,IT,2019-11-07,,62000
+9045,Anderson,Chloe,N,F,Customer Service Rep,Support,2020-09-19,,55000
+6783,Thomas,Matthew,S,M,Supply Chain Analyst,Operations,2021-05-25,,74000
+2341,Jackson,Emma,W,F,HR Manager,Human Resources,2022-01-17,,95000
+8764,White,Joshua,Q,M,Accountant,Finance,2019-06-22,,75000
+4502,Lee,Mia,P,F,Data Scientist,Data Science,2020-04-05,,90000
+3196,Allen,Ethan,V,M,Marketing Analyst,Marketing,2021-08-30,,67000
+5042,Young,Samantha,Y,F,Sales Manager,Sales,2018-02-18,,92000
+1386,Hernandez,Nancy,G,F,Content Strategist,Marketing,2019-10-16,,71000
+2610,King,Oliver,T,M,DevOps Engineer,IT,2020-05-29,,85000
+4278,Wright,Ava,K,F,Network Administrator,IT,2021-04-12,,78000
+9031,Scott,Henry,X,M,Research Analyst,Operations,2019-03-10,,68000
+7215,Green,Isabella,F,F,Event Coordinator,Marketing,2022-07-19,,60000
+3028,Adams,Daniel,Z,M,Compliance Officer,Finance,2020-12-14,,84000
+4861,Baker,Charlotte,D,F,Social Media Manager,Marketing,2018-11-11,,72000
+3705,Nelson,Liam,C,M,Quality Assurance Tester,IT,2021-09-30,,67000
+5398,Carter,Madison,S,F,Software Tester,IT,2019-05-15,,59000
+8157,Mitchell,Logan,J,M,Operations Analyst,Operations,2020-02-28,,65000
+6934,Perez,Abigail,H,F,Database Administrator,IT,2018-10-03,,74000
+2546,Roberts,Avery,L,F,Product Designer,Design,2021-01-21,,88000
+3294,Turner,Noah,R,M,Marketing Director,Marketing,2019-08-12,,99000
+6720,Phillips,Sophia,P,F,Web Designer,Design,2022-03-04,,71000
+8765,Campbell,Mason,Y,M,Network Engineer,IT,2020-07-15,,83000
+1043,Parker,Evelyn,O,F,Financial Consultant,Finance,2021-02-24,,88000
+3047,Evans,Liam,T,M,Operations Supervisor,Operations,2019-06-20,,78000
+7823,Edwards,Scarlett,E,F,Administrative Assistant,Support,2020-11-30,,50000
+2906,Collins,Jackson,Q,M,Sales Engineer,Sales,2021-03-09,,82000
+1562,Stewart,Lily,J,F,HR Coordinator,Human Resources,2022-10-25,,58000
+4608,Sanchez,Matthew,V,M,Procurement Specialist,Operations,2020-01-15,,71000
+3149,Morris,Grace,W,F,Product Analyst,Product,2019-04-17,,69000
+6082,Reed,Leo,A,M,Data Engineer,Data Science,2021-05-01,,95000
+9402,Cook,Ruby,K,F,Customer Success Manager,Support,2020-12-02,,86000
+1754,Bell,Henry,F,M,Brand Manager,Marketing,2021-07-13,,93000
+2041,Cooper,Chloe,N,F,IT Manager,IT,2018-11-25,,98000
+6814,Richardson,Zoe,T,F,Compliance Analyst,Finance,2020-03-18,,60000
+8150,Howard,Liam,D,M,Operations Director,Operations,2021-09-02,,100000
+1349,James,Aubrey,H,F,Training Coordinator,HR,2019-10-30,,57000
+4795,Watson,Jaxon,Y,M,Software Architect,IT,2022-01-14,,110000
+2451,Brooks,Emily,O,F,Data Analyst,Data Science,2020-02-23,,72000
+6910,Kelly,Aiden,P,M,Logistics Coordinator,Operations,2021-08-22,,64000
+9304,Price,Addison,G,F,Sales Associate,Sales,2019-09-29,,50000
+2043,Bailey,Isaiah,L,M,DevOps Manager,IT,2020-05-11,,90000
+3870,Kim,Sofia,D,F,Creative Director,Design,2022-02-03,,85000
+7415,Watkins,Riley,H,F,Technical Support Specialist,Support,2020-06-26,,52000
+8901,Chavez,Maria,R,F,Content Writer,Marketing,2019-08-15,,60000
+5182,George,Nathan,J,M,Web Developer,IT,2021-03-05,,70000
+6123,Reyes,Oliver,M,M,Sales Operations Analyst,Sales,2020-11-09,,62000
+3708,Myers,Charlotte,I,F,Quality Control Specialist,Operations,2021-01-19,,65000
+1419,Hughes,James,K,M,HR Business Partner,HR,2018-04-22,,87000
+2907,Price,Nora,E,F,Product Support Specialist,Product,2021-05-15,,59000
+8604,Reed,Jasmine,C,F,Graphic Artist,Design,2020-10-30,,67000
+7356,Webb,Jackson,A,M,Market Research Analyst,Marketing,2019-02-14,,64000
+5923,Silva,Kylie,B,F,Investment Analyst,Finance,2020-12-12,,75000
+8162,Freeman,Wyatt,Z,M,Help Desk Technician,IT,2021-07-30,,55000
+4810,Cruz,Madison,Y,F,Operations Trainer,Operations,2019-01-20,,71000
+1395,Palmer,Logan,T,M,Customer Experience Manager,Support,2022-04-04,,89000
+

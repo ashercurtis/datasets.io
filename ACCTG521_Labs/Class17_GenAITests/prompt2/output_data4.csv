@@ -1,0 +1,111 @@
+UniqueID,LastName,MiddleInitial,FirstName,Gender,Job Title,Department,HireDate,TerminationDate,AnnualSalary
+1,Davis,NA,John,female,Customer Support Rep,Marketing,03/08/2015,,115653.64
+2,Schroeder,S,Joseph,female,HR Manager,Finance,06/11/2011,,112604.02
+3,King,N,Jennifer,female,Operations Manager,Operations,18/09/1984,,112859.71
+4,Prince,J,Erik,female,Product Manager,Data Science,28/03/1982,,83950.18
+5,Martin,NA,Samantha,male,Accountant,Finance,24/07/1983,02/05/2001,112147.84
+6,NA,O,Mark,female,Data Analyst,Support,11/10/1992,,89410.0
+7,Fox,I,Summer,other,Operations Manager,Engineering,30/12/2000,27/02/2017,116174.19
+8,Anderson,C,Mary,other,Accountant,Finance,19/04/1997,20/08/1999,111520.37
+9,Henry,NA,Amber,female,HR Manager,Engineering,28/06/2021,,77060.41
+10,Cruz,NA,Christopher,male,Operations Manager,Engineering,26/04/1999,,41224.73
+11,Barron,V,Patrick,female,Accountant,Data Science,27/08/1988,,53439.14
+12,George,J,Patricia,male,Operations Manager,Sales,11/11/1987,,91338.7
+13,Fuentes,G,Ryan,other,Product Manager,Data Science,01/01/2005,,89082.87
+14,Simon,X,Renee,male,Software Engineer,Data Science,13/06/2024,,75604.17
+15,Rodriguez,U,Patrick,other,Accountant,Engineering,29/08/1986,,55304.42
+16,Cowan,A,Brandon,male,Customer Support Rep,Marketing,28/02/2020,04/10/2022,88840.97
+17,Saunders,K,Andrea,other,Product Manager,Marketing,17/12/1981,23/03/2006,79133.87
+18,Callahan,K,Melissa,male,Product Manager,Support,25/11/1991,20/05/2004,46798.91
+19,Graves,N,NA,male,Data Analyst,Support,14/09/1984,,113590.3
+20,Patterson,F,NA,male,Data Analyst,Product,27/06/1990,,88483.8
+21,Walker,V,Dakota,female,Sales Executive,Marketing,28/09/2014,,106361.81
+22,Mann,O,Peter,female,Marketing Specialist,Sales,27/01/1992,,45036.79
+23,NA,P,Christopher,male,Data Analyst,Engineering,16/04/2020,,54883.87
+24,NA,D,Karen,male,Product Manager,HR,12/09/2009,,100575.11
+25,Buchanan,X,Justin,male,Customer Support Rep,Finance,23/02/2019,,43474.06
+26,Adams,Y,Karen,male,Software Engineer,Engineering,27/06/2005,,104965.44
+27,Allen,C,Erica,female,Customer Support Rep,Marketing,14/03/1993,,68174.3
+28,Barnes,P,Betty,female,Software Engineer,Operations,05/04/2007,,62675.37
+29,Jones,P,Priscilla,female,Operations Manager,HR,12/05/1988,,103801.37
+30,Osborne,NA,Hannah,other,Marketing Specialist,Finance,02/10/1983,11/12/2007,86612.94
+31,Mendoza,S,John,other,Accountant,Engineering,18/04/1975,,117134.35
+32,Rasmussen,Z,Wesley,female,Marketing Specialist,Data Science,18/12/2017,,112117.59
+33,Simmons,B,Anna,other,Product Manager,Marketing,27/10/1977,,63969.52
+34,Kaiser,NA,NA,female,Marketing Specialist,Sales,02/10/1982,,57301.22
+35,Hunt,R,Kathleen,male,Software Engineer,Operations,22/07/1985,,116654.66
+36,Russell,G,Troy,other,Product Manager,Product,23/05/2009,04/10/2022,100459.74
+37,Nixon,T,Kathleen,female,Marketing Specialist,HR,12/10/2005,,75801.72
+38,Miller,I,Benjamin,female,Operations Manager,Marketing,08/01/2023,05/09/2023,104810.02
+39,Robinson,NA,Angela,male,HR Manager,Operations,07/07/2023,,73655.71
+40,Jackson,NA,Rebecca,male,Sales Executive,Product,13/09/1993,,72252.93
+41,Allen,B,NA,other,HR Manager,Product,26/11/2005,,66699.29
+42,Beard,C,Christopher,male,Sales Executive,HR,24/09/2007,,114244.15
+43,Perez,I,Todd,female,HR Manager,Finance,03/10/1991,24/02/1993,55254.01
+44,Brooks,F,Scott,female,Software Engineer,Product,19/01/2023,,54232.07
+45,Brown,Z,Chad,female,Sales Executive,Operations,25/06/1986,,94634.61
+46,Berry,E,Amber,other,HR Manager,Engineering,04/01/1992,,63164.74
+47,NA,S,Jeremy,female,Product Manager,Product,08/05/2003,10/06/2005,56755.56
+48,NA,NA,Sharon,male,Software Engineer,Marketing,30/06/2021,,76139.24
+49,Chavez,NA,William,other,Operations Manager,Data Science,22/07/2000,,59692.2
+50,Hardy,P,Kurt,female,Customer Support Rep,Finance,19/08/1995,,75311.42
+51,Beck,NA,Rachel,male,Data Analyst,Sales,21/03/1975,,70175.54
+52,Rodriguez,P,Andrea,other,Marketing Specialist,Data Science,28/01/2006,,86779.98
+53,Knight,NA,Christopher,other,Operations Manager,HR,30/10/2001,07/10/2015,86161.4
+54,Hardy,L,NA,female,HR Manager,Engineering,05/05/2001,,73552.25
+55,Woodard,NA,Jordan,female,Customer Support Rep,Data Science,30/07/2004,27/07/2023,93406.61
+56,Stewart,E,Rose,male,Accountant,HR,19/01/1987,,102086.1
+57,Gilbert,U,Amy,male,Operations Manager,HR,12/01/1994,08/05/2012,107202.66
+58,Bell,O,Steven,female,Data Analyst,Sales,25/08/2019,04/06/2024,104232.6
+59,Henderson,NA,Sara,other,Customer Support Rep,Marketing,16/07/2013,,117607.24
+60,Hicks,I,Kevin,female,Software Engineer,Data Science,25/06/2018,,92110.74
+61,Cordova,Z,Victoria,other,Customer Support Rep,Marketing,28/02/1989,,116520.42
+62,Lee,J,Ashley,other,Marketing Specialist,Operations,06/01/1980,,73337.05
+63,Rivera,NA,Eddie,male,Sales Executive,Sales,21/02/1988,,88896.34
+64,Lane,N,Michelle,female,Accountant,Finance,17/06/2014,07/08/2015,87628.39
+65,Wright,D,Amber,female,Sales Executive,Data Science,23/03/2003,,108982.11
+66,Cox,NA,Ricky,other,Operations Manager,Operations,30/09/2006,,85241.41
+67,Thomas,K,Timothy,other,Product Manager,Marketing,23/08/1992,,71883.84
+68,Anderson,NA,Julie,female,HR Manager,Sales,19/09/2013,,93974.93
+69,Sanders,Q,Danielle,male,Sales Executive,HR,04/12/1982,,71044.84
+70,Lee,H,Richard,male,Software Engineer,Engineering,24/01/2005,,104345.24
+71,Marshall,G,Krista,male,Software Engineer,Sales,22/05/1999,,68353.24
+72,Parsons,J,Benjamin,female,Accountant,HR,02/08/2018,,64242.42
+73,Hill,U,Mary,other,Operations Manager,Operations,23/11/2011,,78056.1
+74,NA,K,Alexandria,female,Product Manager,Data Science,13/04/1976,,111327.81
+75,NA,NA,John,male,HR Manager,Finance,27/10/2009,27/03/2024,101789.1
+76,Hoffman,R,Janice,other,Marketing Specialist,HR,25/02/2016,,103071.02
+77,Meadows,N,NA,male,Software Engineer,Operations,16/04/1997,,69496.94
+78,Steele,R,David,other,HR Manager,HR,24/07/1990,,51897.12
+79,Wallace,B,Stephanie,male,Sales Executive,Finance,24/09/2023,,52738.63
+80,Baker,I,Connie,male,Sales Executive,HR,16/12/2018,,107652.97
+81,Donaldson,NA,Jessica,female,Customer Support Rep,Marketing,13/09/1998,,117843.76
+82,NA,J,Brandon,female,Customer Support Rep,Marketing,12/01/2021,,63152.07
+83,Andrade,P,Kurt,male,Data Analyst,Finance,01/11/2021,,66487.38
+84,Nichols,K,Peter,other,Data Analyst,Operations,25/01/2013,27/03/2015,65990.23
+85,NA,B,Yvonne,other,Operations Manager,Product,26/11/1989,,116387.14
+86,Morris,O,Adam,male,Sales Executive,Engineering,09/09/1992,,116206.07
+87,Turner,NA,Sarah,male,Customer Support Rep,Data Science,22/07/2017,,98832.92
+88,Campbell,A,Kevin,other,Software Engineer,Operations,21/07/1975,31/12/2015,41693.81
+89,Sawyer,S,Juan,female,Accountant,HR,26/12/1979,,61494.79
+90,Bishop,W,Tracy,male,HR Manager,HR,04/05/2012,,97462.92
+91,Day,T,Robert,female,HR Manager,Marketing,26/01/1978,,64413.71
+92,Frazier,C,NA,female,HR Manager,Marketing,06/11/1976,,95771.19
+93,Brown,NA,Erin,other,Product Manager,Data Science,07/03/2015,06/10/2019,43588.56
+94,Price,X,Colin,male,Customer Support Rep,Operations,22/05/1978,04/06/2002,118466.35
+95,Bartlett,H,Cynthia,other,Customer Support Rep,Support,02/02/2001,,87300.95
+96,Dunn,A,Tyler,other,Customer Support Rep,Finance,03/06/1977,,104621.2
+97,Erickson,NA,Joseph,female,Product Manager,Product,14/03/2009,,61117.62
+98,Parker,S,Tamara,other,Operations Manager,Finance,21/03/1988,,92202.23
+99,Bennett,S,Linda,other,Software Engineer,Operations,15/10/2021,,70323.39
+100,Lamb,Y,Joseph,male,Sales Executive,HR,10/10/2007,,44692.69
+101,Carter,NA,James,female,Marketing Specialist,HR,19/05/2000,,94834.42
+102,Brown,NA,Jay,male,Product Manager,HR,12/11/2009,,60640.27
+103,Johnson,NA,Jenna,male,Marketing Specialist,Operations,26/09/2008,,97075.21
+104,Dunn,X,David,other,Accountant,HR,18/03/1976,,107148.03
+105,Miller,W,NA,other,Operations Manager,Data Science,27/02/2022,,94010.36
+106,Schultz,X,Danielle,female,HR Manager,Data Science,10/02/1980,,67390.03
+107,Marks,W,John,male,Sales Executive,Engineering,07/09/1995,,59301.08
+108,Davis,K,Robert,female,Accountant,Support,13/03/2008,,53342.24
+109,Friedman,W,Robert,other,Operations Manager,Data Science,21/10/1983,21/03/1987,45975.0
+110,Robinson,N,Maria,female,Sales Executive,Sales,11/05/1977,,88985.5

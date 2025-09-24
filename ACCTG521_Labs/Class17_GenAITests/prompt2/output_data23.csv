@@ -1,0 +1,111 @@
+UniqueID,Last Name,Middle Initial,First Name,Gender,Job Title,Department,Hire Date,Termination Date,Annual Salary
+1,Smith,J,John,M,Software Engineer,IT,15/03/2010,,60000
+2,Johnson,A,Alice,F,Project Manager,Operations,12/07/2015,20/09/2022,80000
+3,Williams,L,Liam,M,Data Analyst,Finance,05/01/2018,,55000
+4,Jones,M,Mary,F,HR Specialist,Human Resources,22/11/2020,,50000
+5,Brown,C,Charles,M,Marketing Coordinator,Marketing,10/06/2017,,45000
+6,Davis,S,Susan,F,Sales Associate,Sales,30/09/2019,,40000
+7,Miller,K,Karen,F,Graphic Designer,Design,11/04/2014,,47000
+8,Wilson,T,Thomas,M,Web Developer,IT,23/05/2021,,65000
+9,Moore,D,Diana,F,Customer Service Rep,Support,02/08/2016,,42000
+10,Taylor,R,Robert,M,Accountant,Finance,19/12/2013,,58000
+11,Anderson,B,Beth,F,Office Manager,Administration,14/10/2011,,62000
+12,Thomas,E,Edward,M,Research Scientist,R&D,16/01/2019,,70000
+13,Jackson,N,Nora,F,Content Writer,Marketing,25/02/2022,,48000
+14,White,P,Paul,M,IT Support,IT,04/08/2015,,52000
+15,Harris,G,Grace,F,Product Manager,Product,29/09/2018,,85000
+16,Martin,H,Henry,M,Network Engineer,IT,30/03/2020,,63000
+17,Thompson,L,Linda,F,Executive Assistant,Administration,09/07/2012,15/03/2023,55000
+18,Garcia,J,James,M,Database Administrator,IT,11/11/2014,,72000
+19,Martinez,S,Sophia,F,Finance Manager,Finance,20/05/2017,,90000
+20,Robinson,K,Kevin,M,Legal Advisor,Legal,17/06/2013,,95000
+21,Clark,M,Maria,F,Operations Manager,Operations,24/09/2019,,78000
+22,Rodriguez,A,Ava,F,Training Coordinator,HR,01/02/2015,,47000
+23,Lewis,E,Elijah,M,Logistics Specialist,Supply Chain,28/03/2021,,53000
+24,Lee,J,Jessica,F,Quality Analyst,Quality,12/12/2018,,56000
+25,Walker,R,Ryan,M,Web Designer,Design,07/04/2020,,61000
+26,Hall,T,Tina,F,Security Officer,Security,15/10/2016,,44000
+27,Allen,C,Catherine,F,Product Designer,Product,18/02/2019,,72000
+28,Young,A,Aiden,M,Social Media Manager,Marketing,22/11/2017,,54000
+29,Hernandez,K,Kevin,M,Event Coordinator,Marketing,04/03/2020,,50000
+30,King,L,Luna,F,Software Tester,IT,16/08/2018,,48000
+31,Wright,J,Jacob,M,IT Manager,IT,11/07/2011,,85000
+32,Scott,S,Sarah,F,Graphic Artist,Design,23/01/2014,,53000
+33,Torres,M,Matthew,M,Account Manager,Sales,14/04/2016,,70000
+34,Nguyen,A,Amy,F,Research Analyst,R&D,26/05/2015,,60000
+35,Roberts,L,Liam,M,Help Desk Technician,IT,09/09/2019,,45000
+36,Turner,E,Emma,F,Executive Director,Administration,21/01/2013,,95000
+37,Phillips,D,Dylan,M,Operations Analyst,Operations,05/06/2021,,61000
+38,Carter,M,Mia,F,Web Analyst,IT,12/10/2014,,55000
+39,Mitchell,J,Joshua,M,Data Scientist,R&D,19/08/2020,,72000
+40,Perez,C,Chloe,F,Compliance Officer,Legal,25/03/2018,,75000
+41,Robinson,K,Kate,F,Customer Success Manager,Support,30/09/2017,,50000
+42,Patel,R,Ravi,M,Software Architect,IT,10/12/2015,,95000
+43,Jackson,S,Sarah,F,HR Generalist,HR,03/04/2019,,47000
+44,Martinez,T,Taylor,F,Administrative Assistant,Administration,15/11/2020,,42000
+45,Clark,E,Ethan,M,Product Owner,Product,08/08/2021,,82000
+46,Harris,N,Nina,F,Sales Manager,Sales,27/07/2012,,88000
+47,Hernandez,L,Luis,M,IT Security Analyst,IT,12/01/2016,,72000
+48,King,C,Carter,M,Finance Analyst,Finance,22/02/2014,,59000
+49,Scott,J,Jasmine,F,Recruiter,HR,11/09/2020,,46000
+50,Lopez,A,Aiden,M,Software Developer,IT,14/03/2018,,68000
+51,Lee,S,Sophia,F,Marketing Assistant,Marketing,01/06/2019,,45000
+52,Jackson,J,James,M,Technical Writer,R&D,30/12/2017,,56000
+53,Nguyen,K,Kylie,F,Customer Service Manager,Support,05/01/2023,,50000
+54,Taylor,E,Eva,F,Database Analyst,Finance,18/07/2018,,65000
+55,Walker,J,Jackson,M,Brand Strategist,Marketing,12/10/2016,,70000
+56,Allen,T,Tina,F,Operations Manager,Operations,17/11/2020,,79000
+57,Hall,J,Jasper,M,IT Consultant,IT,22/05/2014,,85000
+58,Robinson,S,Sophia,F,HR Manager,HR,14/04/2013,,83000
+59,Wilson,J,Joseph,M,Sales Coordinator,Sales,08/12/2016,,47000
+60,Miller,L,Lana,F,Creative Director,Design,19/08/2020,,90000
+61,Davis,E,Emily,F,Market Research Analyst,Marketing,11/02/2019,,50000
+62,Lopez,D,Diana,F,Operations Specialist,Operations,20/03/2017,,48000
+63,Martinez,N,Nathan,M,Finance Coordinator,Finance,25/04/2015,,60000
+64,Wilson,R,Rachel,F,Technical Support Specialist,Support,02/11/2014,,48000
+65,Clark,S,Sophia,F,Program Manager,R&D,10/06/2021,,75000
+66,Rodriguez,A,Alyssa,F,SEO Specialist,Marketing,21/10/2019,,56000
+67,Wright,A,Avery,F,Help Desk Manager,IT,30/12/2022,,72000
+68,Hernandez,J,Julia,F,Digital Marketing Manager,Marketing,12/05/2018,,68000
+69,Perez,K,Kevin,M,Project Coordinator,Operations,07/04/2016,,59000
+70,Garcia,M,Maya,F,Quality Manager,Quality,16/09/2013,,70000
+71,Ramirez,E,Elena,F,Network Administrator,IT,22/10/2014,,65000
+72,Martinez,L,Liam,M,IT Director,IT,05/01/2018,,95000
+73,Martinez,S,Santiago,M,Software Engineer,IT,30/03/2015,,75000
+74,Jackson,A,Ava,F,HR Assistant,HR,14/06/2022,,40000
+75,Turner,R,Riley,M,Logistics Manager,Supply Chain,18/11/2018,,78000
+76,Martinez,C,Carlos,M,Data Analyst,Finance,01/04/2019,,62000
+77,Scott,J,Jack,M,Web Developer,IT,10/05/2013,,70000
+78,Roberts,S,Sarah,F,Content Manager,Marketing,25/10/2020,,65000
+79,Brown,J,Jessica,F,Training Specialist,HR,22/07/2015,,47000
+80,Moore,M,Matthew,M,Security Manager,Security,19/12/2020,,74000
+81,Young,D,Dylan,M,Research Manager,R&D,08/11/2016,,86000
+82,Martin,A,Aiden,M,Sales Director,Sales,15/02/2017,,92000
+83,Garcia,K,Katherine,F,IT Support Specialist,IT,02/08/2015,,49000
+84,Davis,M,Mila,F,Product Analyst,Product,18/01/2019,,60000
+85,Johnson,L,Liam,M,HR Coordinator,HR,30/04/2018,,53000
+86,Moore,J,James,M,Digital Designer,Design,07/10/2020,,50000
+87,Wilson,L,Luke,M,Marketing Director,Marketing,29/08/2014,,95000
+88,Robinson,E,Emma,F,Content Writer,Marketing,05/12/2021,,46000
+89,Harris,A,Alice,F,Finance Director,Finance,22/02/2013,,90000
+90,Carter,E,Evelyn,F,Quality Assurance Specialist,Quality,20/04/2020,,59000
+91,Wright,P,Paige,F,Software Engineer,IT,16/05/2017,,64000
+92,Roberts,N,Nina,F,Data Entry Clerk,Administration,30/06/2018,,39000
+93,Martin,R,Robert,M,Operations Engineer,Operations,10/07/2019,,65000
+94,Nguyen,T,Tina,F,Graphic Designer,Design,17/03/2021,,50000
+95,Ramirez,A,Austin,M,Customer Service Supervisor,Support,14/01/2020,,48000
+96,Hernandez,S,Sofia,F,Software Engineer,IT,25/11/2015,,75000
+97,Jones,A,Amy,F,Logistics Coordinator,Supply Chain,03/10/2018,,60000
+98,Brown,K,Karen,F,Account Executive,Sales,09/02/2020,,70000
+99,Williams,N,Nicholas,M,Web Developer,IT,22/08/2017,,68000
+100,Garcia,C,Cynthia,F,Marketing Manager,Marketing,19/11/2022,,80000
+101,Taylor,H,Henry,M,Senior Developer,IT,14/06/2021,,87000
+102,Moore,J,Jasmine,F,Sales Representative,Sales,12/12/2023,,45000
+103,Martin,L,Liam,M,HR Director,HR,28/07/2019,,92000
+104,Hernandez,K,Kate,F,IT Support Analyst,IT,20/09/2021,,50000
+105,Clark,A,Ava,F,Brand Manager,Marketing,14/02/2022,,60000
+106,Jackson,S,Sara,F,Software Engineer,IT,11/01/2018,,70000
+107,Walker,R,Rose,F,Digital Marketing Specialist,Marketing,30/03/2023,,47000
+108,Martinez,J,Jack,M,Project Manager,Operations,04/06/2022,,80000
+109,Harris,B,Brandon,M,Data Scientist,R&D,25/12/2020,,75000
+110,Wright,M,Monica,F,Recruitment Specialist,HR,12/05/2018,15/09/2023,48000

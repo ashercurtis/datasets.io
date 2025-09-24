@@ -1,0 +1,101 @@
+UniqueID,LastName,MiddleInitial,FirstName,Gender,Job Title,Department,HireDate,TerminationDate
+1,NA,NA,Bob,male,Marketing Director,Finance,18/06/1996,7/6/22
+2,Brown,A,Frank,male,Sales Associate,Human Resources,9/5/63,3/6/67
+3,Williams,A,Charlie,other,Software Engineer,Marketing,6/11/80,3/1/98
+4,Johnson,A,Frank,male,Accountant,Data Science,30/07/2022,18/11/2022
+5,Smith,NA,Eve,other,Software Engineer,Data Science,27/07/2001,
+6,Johnson,C,Eve,female,HR Manager,Human Resources,1/12/57,
+7,Smith,C,Alice,other,Software Engineer,Marketing,17/01/1979,15/11/1989
+8,Williams,A,Dana,female,Data Analyst,Engineering,31/03/2000,
+9,Miller,A,Alice,female,Sales Associate,Finance,7/7/22,11/8/22
+10,Miller,A,Bob,other,HR Manager,Finance,15/03/1999,
+11,Williams,NA,Alice,male,HR Manager,Marketing,12/10/79,
+12,Smith,NA,Bob,female,Data Analyst,Human Resources,31/07/1963,
+13,Williams,NA,Alice,female,Sales Associate,Finance,22/04/1982,12/3/10
+14,Smith,B,Eve,male,Software Engineer,Data Science,7/1/19,
+15,Brown,NA,Alice,male,Software Engineer,Data Science,11/3/05,
+16,NA,B,Alice,other,Software Engineer,Data Science,22/11/1958,
+17,Jones,NA,Dana,male,Sales Associate,Data Science,13/07/2001,27/02/2023
+18,Johnson,NA,Charlie,male,Sales Associate,Sales,25/02/1994,20/07/2019
+19,Smith,A,Dana,female,HR Manager,Sales,17/07/1984,6/7/09
+20,Brown,A,Frank,male,Software Engineer,Finance,8/4/03,
+21,Jones,B,Bob,other,Data Analyst,Engineering,4/5/70,
+22,Smith,C,Dana,female,Marketing Director,Sales,27/02/1992,
+23,Jones,NA,Frank,female,Sales Associate,Sales,14/09/1985,1/8/98
+24,Brown,A,Alice,male,Software Engineer,Engineering,29/09/1956,
+25,Jones,B,Alice,other,Data Analyst,Sales,2/2/03,28/12/2017
+26,Williams,C,Eve,other,HR Manager,Human Resources,26/03/2000,
+27,Smith,B,Alice,female,HR Manager,Data Science,2/5/64,20/06/1994
+28,Miller,NA,Bob,female,Data Analyst,Sales,26/10/2003,6/7/15
+29,Brown,B,Dana,other,Software Engineer,Data Science,11/4/04,29/03/2009
+30,Jones,B,Frank,other,HR Manager,Data Science,30/01/1952,5/5/21
+31,Miller,B,Charlie,female,HR Manager,Marketing,15/04/2007,
+32,Miller,B,Frank,female,Accountant,Data Science,31/03/1964,
+33,Jones,B,Frank,male,Data Analyst,Engineering,1/1/18,
+34,Williams,NA,Bob,male,Data Analyst,Human Resources,13/08/1968,19/09/2010
+35,Miller,A,Frank,female,Marketing Director,Engineering,26/09/1960,13/01/1999
+36,Johnson,NA,Eve,female,Accountant,Sales,29/08/2023,1/9/23
+37,Williams,B,Bob,other,Sales Associate,Data Science,5/2/54,1/12/09
+38,Brown,NA,Dana,female,Data Analyst,Engineering,19/04/1977,
+39,Johnson,B,Bob,other,Accountant,Finance,21/11/1991,
+40,Williams,NA,NA,other,Software Engineer,Human Resources,21/10/1969,
+41,Brown,B,NA,other,Data Analyst,Human Resources,22/08/1970,
+42,Miller,C,Charlie,male,Accountant,Marketing,29/01/1956,
+43,Brown,A,Charlie,female,HR Manager,Human Resources,9/9/06,15/05/2022
+44,Miller,NA,Eve,other,Marketing Director,Marketing,16/09/2019,31/08/2023
+45,NA,C,NA,other,Sales Associate,Sales,19/03/1978,22/06/1986
+46,Jones,A,Charlie,male,Data Analyst,Engineering,2/3/19,
+47,Miller,C,Eve,other,Accountant,Finance,16/09/2023,1/11/23
+48,Williams,NA,Eve,other,Sales Associate,Finance,27/05/2016,1/3/20
+49,Brown,A,Charlie,male,Accountant,Sales,6/2/64,
+50,Brown,C,NA,male,Marketing Director,Data Science,21/11/1983,16/07/1998
+51,NA,A,NA,male,Accountant,Human Resources,21/10/1994,16/01/2010
+52,Brown,C,Frank,other,Sales Associate,Data Science,3/2/22,
+53,Jones,C,Eve,male,Marketing Director,Finance,24/09/1972,
+54,Johnson,A,Dana,other,Marketing Director,Marketing,5/1/13,22/11/2017
+55,Johnson,NA,Frank,other,Marketing Director,Data Science,9/10/65,
+56,Williams,B,Charlie,other,Software Engineer,Engineering,2/7/80,12/1/18
+57,Miller,NA,Dana,female,Marketing Director,Finance,2/10/99,4/5/10
+58,Miller,B,Charlie,male,Marketing Director,Human Resources,4/5/62,11/2/07
+59,NA,A,Eve,female,Software Engineer,Data Science,4/4/54,7/7/58
+60,Smith,A,Charlie,female,Accountant,Finance,6/9/16,25/01/2023
+61,Miller,B,Frank,other,Marketing Director,Engineering,21/03/1972,25/04/1988
+62,Johnson,C,Eve,other,Data Analyst,Finance,1/1/98,12/9/21
+63,Miller,A,Dana,male,Accountant,Engineering,19/07/2018,15/06/2021
+64,Miller,C,NA,male,HR Manager,Marketing,9/8/08,3/11/22
+65,NA,NA,Charlie,other,Accountant,Sales,5/11/09,12/7/13
+66,Jones,C,Eve,female,Accountant,Human Resources,27/06/2000,
+67,Smith,A,Frank,other,Software Engineer,Human Resources,23/11/2006,10/12/11
+68,Johnson,NA,Dana,female,Software Engineer,Marketing,23/11/2012,
+69,NA,B,Dana,female,Sales Associate,Data Science,15/10/1975,25/01/2017
+70,Smith,NA,Dana,male,Software Engineer,Sales,7/11/97,
+71,Miller,B,Frank,other,Marketing Director,Data Science,4/5/62,16/10/1978
+72,Jones,C,NA,other,Sales Associate,Engineering,14/07/2010,9/10/19
+73,Jones,NA,Dana,male,Software Engineer,Human Resources,31/03/2019,
+74,Brown,C,Frank,other,Accountant,Sales,16/08/1953,27/09/1997
+75,Johnson,A,Eve,female,Accountant,Finance,4/8/86,
+76,Johnson,C,Frank,female,HR Manager,Human Resources,6/6/96,25/08/2010
+77,Johnson,A,Charlie,female,Data Analyst,Finance,9/9/84,19/10/1992
+78,Smith,C,Eve,other,HR Manager,Human Resources,25/07/2022,1/9/22
+79,Williams,A,Charlie,male,Software Engineer,Marketing,4/10/80,
+80,Jones,B,NA,other,Marketing Director,Human Resources,5/6/93,7/2/04
+81,Williams,A,Frank,female,Marketing Director,Data Science,4/10/08,
+82,Brown,NA,Charlie,male,Marketing Director,Data Science,27/11/2020,13/05/2022
+83,Williams,NA,Dana,other,HR Manager,Marketing,4/12/83,7/4/17
+84,Brown,C,Bob,male,Sales Associate,Engineering,9/8/75,24/03/2017
+85,NA,NA,Charlie,female,Accountant,Engineering,2/3/74,
+86,Williams,NA,Alice,other,Marketing Director,Marketing,29/11/1964,21/05/2007
+87,NA,NA,Charlie,male,Marketing Director,Human Resources,26/05/1957,
+88,NA,NA,Dana,female,Marketing Director,Data Science,14/07/2012,
+89,Johnson,C,NA,male,Data Analyst,Sales,25/12/1955,19/09/1957
+90,Jones,C,NA,other,Software Engineer,Data Science,5/1/80,
+91,Jones,A,Frank,male,Data Analyst,Finance,30/12/1967,5/9/12
+92,Brown,A,Frank,female,Sales Associate,Finance,31/05/2009,
+93,Brown,B,Frank,male,Accountant,Marketing,18/10/2007,
+94,Jones,NA,Bob,male,Software Engineer,Human Resources,3/2/69,7/11/71
+95,Miller,NA,Eve,female,Marketing Director,Human Resources,21/11/2009,
+96,NA,NA,Eve,male,Marketing Director,Marketing,27/06/2006,23/04/2007
+97,Smith,NA,Dana,male,Marketing Director,Human Resources,11/5/88,
+98,Smith,B,Dana,other,Accountant,Data Science,17/01/1975,
+99,NA,C,Charlie,female,HR Manager,Human Resources,27/04/1998,4/8/23
+100,NA,C,Dana,other,Marketing Director,Marketing,16/10/2007,

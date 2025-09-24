@@ -1,0 +1,2291 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2023.2">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.MacroInput.MacroInput">
+        <Position x="54" y="235" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <UseFileInput value="True" />
+          <Name>Sheet Names</Name>
+          <Abbrev>N</Abbrev>
+          <ShowFieldMap value="False" />
+          <Optional value="False" />
+          <FileInput>
+            <Configuration>
+              <Passwords />
+              <File OutputFileName="" FileFormat="19" SearchSubDirs="False" RecordLimit="">U:\522 Data Analytics\Hackathon\stmtNames.yxdb</File>
+              <FormatSpecificOptions />
+            </Configuration>
+          </FileInput>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>List of FS Names</AnnotationText>
+          <DefaultAnnotationText>stmtNames.yxdb</DefaultAnnotationText>
+          <Left value="True" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="RecordID" source="RecordID: Starting Value=1" type="Int32" />
+            <Field name="Name" size="3" source="Transpose:" type="String" />
+            <Field name="Value" size="47" source="TextInput:" type="String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMacroInput" />
+    </Node>
+    <Node ToolID="2">
+      <GuiSettings Plugin="AlteryxGuiToolkit.Questions.Tab.Tab">
+        <Position x="0" y="0" width="59" height="59" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="4">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="258" y="235" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Expression>[Iteration] &gt;= [RecordID]</Expression>
+          <Mode>Custom</Mode>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>Get Current Record</AnnotationText>
+          <DefaultAnnotationText>[Iteration] &gt;= [RecordID]</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="True">
+          <RecordInfo>
+            <Field name="RecordID" source="RecordID: Starting Value=1" type="Int32" />
+            <Field name="Name" size="3" source="Transpose:" type="String" />
+            <Field name="Value" size="47" source="TextInput:" type="String" />
+            <Field name="Iteration" source="Formula: [Engine.IterationNumber] + 1" type="Int64" />
+          </RecordInfo>
+        </MetaInfo>
+        <MetaInfo connection="False">
+          <RecordInfo>
+            <Field name="RecordID" source="RecordID: Starting Value=1" type="Int32" />
+            <Field name="Name" size="3" source="Transpose:" type="String" />
+            <Field name="Value" size="47" source="TextInput:" type="String" />
+            <Field name="Iteration" source="Formula: [Engine.IterationNumber] + 1" type="Int64" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="5">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="150" y="235" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="[Engine.IterationNumber] + 1" field="Iteration" size="8" type="Int64" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>Track Iteration</AnnotationText>
+          <DefaultAnnotationText><![CDATA[Iteration = [Engine.IterationNumber] + 1
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="RecordID" source="RecordID: Starting Value=1" type="Int32" />
+            <Field name="Name" size="3" source="Transpose:" type="String" />
+            <Field name="Value" size="47" source="TextInput:" type="String" />
+            <Field name="Iteration" source="Formula: [Engine.IterationNumber] + 1" type="Int64" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="6">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.MacroOutput.MacroOutput">
+        <Position x="606" y="175" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Name>Result</Name>
+          <Abbrev>O</Abbrev>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name>Result</Name>
+          <DefaultAnnotationText>Result</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMacroOutput" />
+    </Node>
+    <Node ToolID="8">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.MacroInput.MacroInput">
+        <Position x="54" y="127" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <UseFileInput value="True" />
+          <Name>Tables</Name>
+          <Abbrev>T</Abbrev>
+          <ShowFieldMap value="False" />
+          <Optional value="False" />
+          <FileInput>
+            <Configuration>
+              <Passwords />
+              <File OutputFileName="" FileFormat="19" SearchSubDirs="False" RecordLimit="">U:\522 Data Analytics\Hackathon\areTables.yxdb</File>
+              <FormatSpecificOptions />
+            </Configuration>
+          </FileInput>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>FS HTML Table</AnnotationText>
+          <DefaultAnnotationText>areTables.yxdb</DefaultAnnotationText>
+          <Left value="True" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field description="TextToColumns: Parsed from Field_1" name="Field_1" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&amp;gt;&quot;, &quot;&gt;&quot;)" type="V_WString" />
+            <Field name="Length" size="1073741823" source="Formula: Length([Field_1])" type="V_WString" />
+            <Field description="Formula: IF Contains([Field_1],&quot;&lt;table&quot;)&#xA;THEN 1&#xA;ELSEIF Contains([Field_1],&quot;&lt;/table&quot;)&#xA;THEN 0&#xA;ELSE [Row-1:Table]&#xA;ENDIF" name="Table" source="Formula: IF Contains([Field_1],&quot;&lt;table&quot;)&#xA;THEN 1&#xA;ELSEIF Contains([Field_1],&quot;&lt;/table&quot;)&#xA;THEN 0&#xA;ELSE [Row-1:Table]&#xA;ENDIF" type="Int32" />
+            <Field description="Formula: IF Contains([Field_1],&quot;&lt;table&quot;)&#xA;THEN [Row-1:TableCount] + 1&#xA;ELSE [Row-1:TableCount]&#xA;ENDIF" name="TableCount" source="Formula: IF Contains([Field_1],&quot;&lt;table&quot;)&#xA;THEN [Row-1:TableCount] + 1&#xA;ELSE [Row-1:TableCount]&#xA;ENDIF" type="Int32" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMacroInput" />
+    </Node>
+    <Node ToolID="16">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AppendFields.AppendFields">
+        <Position x="354" y="139" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <CartesianMode>Error</CartesianMode>
+          <SelectConfiguration>
+            <Configuration outputConnection="Output">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Source_RecordID" selected="False" rename="Source_RecordID" input="Source_" />
+                <SelectField field="Source_Name" selected="False" rename="Source_Name" input="Source_" />
+                <SelectField field="Source_Value" selected="True" rename="stmtName" input="Source_" />
+                <SelectField field="Source_Iteration" selected="False" rename="Source_Iteration" input="Source_" />
+                <SelectField field="Source_Max_RecordID" selected="False" rename="Source_Max_RecordID" input="Source_" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>Add FS Name as Field</AnnotationText>
+          <DefaultAnnotationText><![CDATA[Add ]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field description="TextToColumns: Parsed from Field_1" name="Field_1" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&amp;gt;&quot;, &quot;&gt;&quot;)" type="V_WString" />
+            <Field name="Length" size="1073741823" source="Formula: Length([Field_1])" type="V_WString" />
+            <Field description="Formula: IF Contains([Field_1],&quot;&lt;table&quot;)&#xA;THEN 1&#xA;ELSEIF Contains([Field_1],&quot;&lt;/table&quot;)&#xA;THEN 0&#xA;ELSE [Row-1:Table]&#xA;ENDIF" name="Table" source="Formula: IF Contains([Field_1],&quot;&lt;table&quot;)&#xA;THEN 1&#xA;ELSEIF Contains([Field_1],&quot;&lt;/table&quot;)&#xA;THEN 0&#xA;ELSE [Row-1:Table]&#xA;ENDIF" type="Int32" />
+            <Field description="Formula: IF Contains([Field_1],&quot;&lt;table&quot;)&#xA;THEN [Row-1:TableCount] + 1&#xA;ELSE [Row-1:TableCount]&#xA;ENDIF" name="TableCount" source="Formula: IF Contains([Field_1],&quot;&lt;table&quot;)&#xA;THEN [Row-1:TableCount] + 1&#xA;ELSE [Row-1:TableCount]&#xA;ENDIF" type="Int32" />
+            <Field name="stmtName" size="47" source="TextInput:" type="String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxAppendFields" />
+    </Node>
+    <Node ToolID="17">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="450" y="139" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Expression>Contains([Field_1], [stmtName])
+AND Contains([Field_1], "&lt;th class")
+AND NOT Contains([Field_1], " " + [stmtName])
+AND NOT Contains([Field_1], "(Parenthetical)")</Expression>
+          <Mode>Custom</Mode>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>Identify FS Table</AnnotationText>
+          <DefaultAnnotationText>Contains([Field_1], [stmtName])
+AND Contains([Field_1], "&lt;th class")
+AND NOT Con...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="True">
+          <RecordInfo>
+            <Field description="TextToColumns: Parsed from Field_1" name="Field_1" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&amp;gt;&quot;, &quot;&gt;&quot;)" type="V_WString" />
+            <Field name="Length" size="1073741823" source="Formula: Length([Field_1])" type="V_WString" />
+            <Field description="Formula: IF Contains([Field_1],&quot;&lt;table&quot;)&#xA;THEN 1&#xA;ELSEIF Contains([Field_1],&quot;&lt;/table&quot;)&#xA;THEN 0&#xA;ELSE [Row-1:Table]&#xA;ENDIF" name="Table" source="Formula: IF Contains([Field_1],&quot;&lt;table&quot;)&#xA;THEN 1&#xA;ELSEIF Contains([Field_1],&quot;&lt;/table&quot;)&#xA;THEN 0&#xA;ELSE [Row-1:Table]&#xA;ENDIF" type="Int32" />
+            <Field description="Formula: IF Contains([Field_1],&quot;&lt;table&quot;)&#xA;THEN [Row-1:TableCount] + 1&#xA;ELSE [Row-1:TableCount]&#xA;ENDIF" name="TableCount" source="Formula: IF Contains([Field_1],&quot;&lt;table&quot;)&#xA;THEN [Row-1:TableCount] + 1&#xA;ELSE [Row-1:TableCount]&#xA;ENDIF" type="Int32" />
+            <Field name="stmtName" size="47" source="TextInput:" type="String" />
+          </RecordInfo>
+        </MetaInfo>
+        <MetaInfo connection="False">
+          <RecordInfo>
+            <Field description="TextToColumns: Parsed from Field_1" name="Field_1" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&amp;gt;&quot;, &quot;&gt;&quot;)" type="V_WString" />
+            <Field name="Length" size="1073741823" source="Formula: Length([Field_1])" type="V_WString" />
+            <Field description="Formula: IF Contains([Field_1],&quot;&lt;table&quot;)&#xA;THEN 1&#xA;ELSEIF Contains([Field_1],&quot;&lt;/table&quot;)&#xA;THEN 0&#xA;ELSE [Row-1:Table]&#xA;ENDIF" name="Table" source="Formula: IF Contains([Field_1],&quot;&lt;table&quot;)&#xA;THEN 1&#xA;ELSEIF Contains([Field_1],&quot;&lt;/table&quot;)&#xA;THEN 0&#xA;ELSE [Row-1:Table]&#xA;ENDIF" type="Int32" />
+            <Field description="Formula: IF Contains([Field_1],&quot;&lt;table&quot;)&#xA;THEN [Row-1:TableCount] + 1&#xA;ELSE [Row-1:TableCount]&#xA;ENDIF" name="TableCount" source="Formula: IF Contains([Field_1],&quot;&lt;table&quot;)&#xA;THEN [Row-1:TableCount] + 1&#xA;ELSE [Row-1:TableCount]&#xA;ENDIF" type="Int32" />
+            <Field name="stmtName" size="47" source="TextInput:" type="String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="19">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AppendFields.AppendFields">
+        <Position x="606" y="79" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <CartesianMode>Error</CartesianMode>
+          <SelectConfiguration>
+            <Configuration outputConnection="Output">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Source_Field_1" selected="False" rename="Source_Field_1" input="Source_" />
+                <SelectField field="Source_Length" selected="False" rename="Source_Length" input="Source_" />
+                <SelectField field="Source_Table" selected="False" rename="Source_Table" input="Source_" />
+                <SelectField field="Source_TableCount" selected="True" rename="Source_TableCount" input="Source_" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field description="TextToColumns: Parsed from Field_1" name="Field_1" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&amp;gt;&quot;, &quot;&gt;&quot;)" type="V_WString" />
+            <Field name="Length" size="1073741823" source="Formula: Length([Field_1])" type="V_WString" />
+            <Field description="Formula: IF Contains([Field_1],&quot;&lt;table&quot;)&#xA;THEN 1&#xA;ELSEIF Contains([Field_1],&quot;&lt;/table&quot;)&#xA;THEN 0&#xA;ELSE [Row-1:Table]&#xA;ENDIF" name="Table" source="Formula: IF Contains([Field_1],&quot;&lt;table&quot;)&#xA;THEN 1&#xA;ELSEIF Contains([Field_1],&quot;&lt;/table&quot;)&#xA;THEN 0&#xA;ELSE [Row-1:Table]&#xA;ENDIF" type="Int32" />
+            <Field description="Formula: IF Contains([Field_1],&quot;&lt;table&quot;)&#xA;THEN [Row-1:TableCount] + 1&#xA;ELSE [Row-1:TableCount]&#xA;ENDIF" name="TableCount" source="Formula: IF Contains([Field_1],&quot;&lt;table&quot;)&#xA;THEN [Row-1:TableCount] + 1&#xA;ELSE [Row-1:TableCount]&#xA;ENDIF" type="Int32" />
+            <Field description="Formula: IF Contains([Field_1],&quot;&lt;table&quot;)&#xA;THEN [Row-1:TableCount] + 1&#xA;ELSE [Row-1:TableCount]&#xA;ENDIF" name="Source_TableCount" source="Formula: IF Contains([Field_1],&quot;&lt;table&quot;)&#xA;THEN [Row-1:TableCount] + 1&#xA;ELSE [Row-1:TableCount]&#xA;ENDIF" type="Int32" />
+            <Field name="stmtName" size="47" source="TextInput:" type="String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxAppendFields" />
+    </Node>
+    <Node ToolID="20">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="690" y="79" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Expression>[TableCount] = [Source_TableCount]</Expression>
+          <Mode>Custom</Mode>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>Select FS Table</AnnotationText>
+          <DefaultAnnotationText>[TableCount] = [Source_TableCount]</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="True">
+          <RecordInfo>
+            <Field description="TextToColumns: Parsed from Field_1" name="Field_1" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&amp;gt;&quot;, &quot;&gt;&quot;)" type="V_WString" />
+            <Field name="Length" size="1073741823" source="Formula: Length([Field_1])" type="V_WString" />
+            <Field description="Formula: IF Contains([Field_1],&quot;&lt;table&quot;)&#xA;THEN 1&#xA;ELSEIF Contains([Field_1],&quot;&lt;/table&quot;)&#xA;THEN 0&#xA;ELSE [Row-1:Table]&#xA;ENDIF" name="Table" source="Formula: IF Contains([Field_1],&quot;&lt;table&quot;)&#xA;THEN 1&#xA;ELSEIF Contains([Field_1],&quot;&lt;/table&quot;)&#xA;THEN 0&#xA;ELSE [Row-1:Table]&#xA;ENDIF" type="Int32" />
+            <Field description="Formula: IF Contains([Field_1],&quot;&lt;table&quot;)&#xA;THEN [Row-1:TableCount] + 1&#xA;ELSE [Row-1:TableCount]&#xA;ENDIF" name="TableCount" source="Formula: IF Contains([Field_1],&quot;&lt;table&quot;)&#xA;THEN [Row-1:TableCount] + 1&#xA;ELSE [Row-1:TableCount]&#xA;ENDIF" type="Int32" />
+            <Field description="Formula: IF Contains([Field_1],&quot;&lt;table&quot;)&#xA;THEN [Row-1:TableCount] + 1&#xA;ELSE [Row-1:TableCount]&#xA;ENDIF" name="Source_TableCount" source="Formula: IF Contains([Field_1],&quot;&lt;table&quot;)&#xA;THEN [Row-1:TableCount] + 1&#xA;ELSE [Row-1:TableCount]&#xA;ENDIF" type="Int32" />
+            <Field name="stmtName" size="47" source="TextInput:" type="String" />
+          </RecordInfo>
+        </MetaInfo>
+        <MetaInfo connection="False">
+          <RecordInfo>
+            <Field description="TextToColumns: Parsed from Field_1" name="Field_1" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&amp;gt;&quot;, &quot;&gt;&quot;)" type="V_WString" />
+            <Field name="Length" size="1073741823" source="Formula: Length([Field_1])" type="V_WString" />
+            <Field description="Formula: IF Contains([Field_1],&quot;&lt;table&quot;)&#xA;THEN 1&#xA;ELSEIF Contains([Field_1],&quot;&lt;/table&quot;)&#xA;THEN 0&#xA;ELSE [Row-1:Table]&#xA;ENDIF" name="Table" source="Formula: IF Contains([Field_1],&quot;&lt;table&quot;)&#xA;THEN 1&#xA;ELSEIF Contains([Field_1],&quot;&lt;/table&quot;)&#xA;THEN 0&#xA;ELSE [Row-1:Table]&#xA;ENDIF" type="Int32" />
+            <Field description="Formula: IF Contains([Field_1],&quot;&lt;table&quot;)&#xA;THEN [Row-1:TableCount] + 1&#xA;ELSE [Row-1:TableCount]&#xA;ENDIF" name="TableCount" source="Formula: IF Contains([Field_1],&quot;&lt;table&quot;)&#xA;THEN [Row-1:TableCount] + 1&#xA;ELSE [Row-1:TableCount]&#xA;ENDIF" type="Int32" />
+            <Field description="Formula: IF Contains([Field_1],&quot;&lt;table&quot;)&#xA;THEN [Row-1:TableCount] + 1&#xA;ELSE [Row-1:TableCount]&#xA;ENDIF" name="Source_TableCount" source="Formula: IF Contains([Field_1],&quot;&lt;table&quot;)&#xA;THEN [Row-1:TableCount] + 1&#xA;ELSE [Row-1:TableCount]&#xA;ENDIF" type="Int32" />
+            <Field name="stmtName" size="47" source="TextInput:" type="String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="70">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DynamicRename.DynamicRename">
+        <Position x="4146" y="571" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <RenameMode>FirstRow</RenameMode>
+          <Fields orderChanged="False">
+            <Field name="2" />
+            <Field name="3" />
+            <Field name="4" />
+            <Field name="*Unknown" />
+            <Field name="rowCount" selected="False" />
+            <Field name="1" selected="False" />
+          </Fields>
+          <Expression />
+          <FirstRow>
+            <OnError>Warn</OnError>
+          </FirstRow>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field description="Formula: IF Contains([Field_1],&quot;&lt;tr&quot;)&#xA;THEN [Row-1:rowCount] + 1&#xA;ELSE [Row-1:rowCount]&#xA;ENDIF" name="rowCount" source="CrossTab:Group:First:" type="Int32" />
+            <Field name="1" size="1073741823" source="Formula: Trim(REGEX_Replace([_CurrentField_], &quot;[|]+&quot;, &quot;&quot;))" type="V_WString" />
+            <Field name="Sep. 30 2022" size="1073741823" source="Formula: Trim(REGEX_Replace([_CurrentField_], &quot;\(&quot;, &quot;-&quot;))" type="V_WString" />
+            <Field name="Sep. 30 2021" size="1073741823" source="Formula: Trim(REGEX_Replace([_CurrentField_], &quot;\(&quot;, &quot;-&quot;))" type="V_WString" />
+            <Field name="Field_6" size="1073741823" source="Formula: Trim(REGEX_Replace([_CurrentField_], &quot;\(&quot;, &quot;-&quot;))" type="V_WString" />
+          </RecordInfo>
+          <SortInfo>
+            <Field field="rowCount" order="Asc" />
+          </SortInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDynamicRename" />
+    </Node>
+    <Node ToolID="65">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AppendFields.AppendFields">
+        <Position x="4254" y="571" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <CartesianMode>Error</CartesianMode>
+          <SelectConfiguration>
+            <Configuration outputConnection="Output">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field description="Formula: IF Contains([Field_1],&quot;&lt;tr&quot;)&#xA;THEN [Row-1:rowCount] + 1&#xA;ELSE [Row-1:rowCount]&#xA;ENDIF" name="rowCount" source="CrossTab:Group:First:" type="Int32" />
+            <Field name="1" size="1073741823" source="Formula: Trim(REGEX_Replace([_CurrentField_], &quot;[|]+&quot;, &quot;&quot;))" type="V_WString" />
+            <Field name="Sep. 30 2022" size="1073741823" source="Formula: Trim(REGEX_Replace([_CurrentField_], &quot;\(&quot;, &quot;-&quot;))" type="V_WString" />
+            <Field name="Sep. 30 2021" size="1073741823" source="Formula: Trim(REGEX_Replace([_CurrentField_], &quot;\(&quot;, &quot;-&quot;))" type="V_WString" />
+            <Field name="Field_6" size="1073741823" source="Formula: Trim(REGEX_Replace([_CurrentField_], &quot;\(&quot;, &quot;-&quot;))" type="V_WString" />
+            <Field name="name" size="1073741823" source="Formula: [stmtName] + &quot;_&quot; + ToString([Source_TableCount], 0)" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxAppendFields" />
+    </Node>
+    <Node ToolID="72">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DynamicRename.DynamicRename">
+        <Position x="4350" y="583" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <RenameMode>Formula</RenameMode>
+          <Fields orderChanged="False">
+            <Field name="1" />
+            <Field name="rowCount" selected="False" />
+            <Field name="Sep. 30 2022" selected="False" />
+            <Field name="Sep. 30 2021" selected="False" />
+            <Field name="Field_6" selected="False" />
+            <Field name="name" selected="False" />
+            <Field name="*Unknown" selected="False" />
+          </Fields>
+          <Expression>"Line Item"</Expression>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field description="Formula: IF Contains([Field_1],&quot;&lt;tr&quot;)&#xA;THEN [Row-1:rowCount] + 1&#xA;ELSE [Row-1:rowCount]&#xA;ENDIF" name="rowCount" source="CrossTab:Group:First:" type="Int32" />
+            <Field name="Line Item" size="1073741823" source="Formula: Trim(REGEX_Replace([_CurrentField_], &quot;[|]+&quot;, &quot;&quot;))" type="V_WString" />
+            <Field name="Sep. 30 2022" size="1073741823" source="Formula: Trim(REGEX_Replace([_CurrentField_], &quot;\(&quot;, &quot;-&quot;))" type="V_WString" />
+            <Field name="Sep. 30 2021" size="1073741823" source="Formula: Trim(REGEX_Replace([_CurrentField_], &quot;\(&quot;, &quot;-&quot;))" type="V_WString" />
+            <Field name="Field_6" size="1073741823" source="Formula: Trim(REGEX_Replace([_CurrentField_], &quot;\(&quot;, &quot;-&quot;))" type="V_WString" />
+            <Field name="name" size="1073741823" source="Formula: [stmtName] + &quot;_&quot; + ToString([Source_TableCount], 0)" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDynamicRename" />
+    </Node>
+    <Node ToolID="67">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="725" y="281" width="172" height="24" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption>Unique FS Name</Caption>
+          <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
+          <Disabled value="False" />
+          <Folded value="True" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="22">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+            <Position x="750" y="330" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <FormulaFields>
+                <FormulaField expression="[stmtName] + &quot;_&quot; + ToString([Source_TableCount], 0)" field="name" size="1073741823" type="V_WString" />
+              </FormulaFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <AnnotationText>Name FS and Table</AnnotationText>
+              <DefaultAnnotationText><![CDATA[name = [stmtName] + "_" + ToString([Source_TableCount], 0)
+]]></DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field description="TextToColumns: Parsed from Field_1" name="Field_1" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&amp;gt;&quot;, &quot;&gt;&quot;)" type="V_WString" />
+                <Field name="Length" size="1073741823" source="Formula: Length([Field_1])" type="V_WString" />
+                <Field description="Formula: IF Contains([Field_1],&quot;&lt;table&quot;)&#xA;THEN 1&#xA;ELSEIF Contains([Field_1],&quot;&lt;/table&quot;)&#xA;THEN 0&#xA;ELSE [Row-1:Table]&#xA;ENDIF" name="Table" source="Formula: IF Contains([Field_1],&quot;&lt;table&quot;)&#xA;THEN 1&#xA;ELSEIF Contains([Field_1],&quot;&lt;/table&quot;)&#xA;THEN 0&#xA;ELSE [Row-1:Table]&#xA;ENDIF" type="Int32" />
+                <Field description="Formula: IF Contains([Field_1],&quot;&lt;table&quot;)&#xA;THEN [Row-1:TableCount] + 1&#xA;ELSE [Row-1:TableCount]&#xA;ENDIF" name="TableCount" source="Formula: IF Contains([Field_1],&quot;&lt;table&quot;)&#xA;THEN [Row-1:TableCount] + 1&#xA;ELSE [Row-1:TableCount]&#xA;ENDIF" type="Int32" />
+                <Field description="Formula: IF Contains([Field_1],&quot;&lt;table&quot;)&#xA;THEN [Row-1:TableCount] + 1&#xA;ELSE [Row-1:TableCount]&#xA;ENDIF" name="Source_TableCount" source="Formula: IF Contains([Field_1],&quot;&lt;table&quot;)&#xA;THEN [Row-1:TableCount] + 1&#xA;ELSE [Row-1:TableCount]&#xA;ENDIF" type="Int32" />
+                <Field name="stmtName" size="47" source="TextInput:" type="String" />
+                <Field name="name" size="1073741823" source="Formula: [stmtName] + &quot;_&quot; + ToString([Source_TableCount], 0)" type="V_WString" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+        </Node>
+        <Node ToolID="24">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Unique.Unique">
+            <Position x="942" y="330" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <UniqueFields>
+                <Field field="name" />
+              </UniqueFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <AnnotationText>FS and Table Name</AnnotationText>
+              <DefaultAnnotationText>FS and Table Name</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Unique">
+              <RecordInfo>
+                <Field name="name" size="1073741823" source="Formula: [stmtName] + &quot;_&quot; + ToString([Source_TableCount], 0)" type="V_WString" />
+              </RecordInfo>
+              <SortInfo>
+                <Field field="name" order="Asc" />
+              </SortInfo>
+            </MetaInfo>
+            <MetaInfo connection="Duplicates">
+              <RecordInfo>
+                <Field name="name" size="1073741823" source="Formula: [stmtName] + &quot;_&quot; + ToString([Source_TableCount], 0)" type="V_WString" />
+              </RecordInfo>
+              <SortInfo>
+                <Field field="name" order="Asc" />
+              </SortInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnique" />
+        </Node>
+        <Node ToolID="68">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+            <Position x="846" y="330" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="name" selected="True" />
+                <SelectField field="*Unknown" selected="False" />
+              </SelectFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <AnnotationText>Keep Only Name Column</AnnotationText>
+              <DefaultAnnotationText>Keep Only Name Column</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="name" size="1073741823" source="Formula: [stmtName] + &quot;_&quot; + ToString([Source_TableCount], 0)" type="V_WString" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+        </Node>
+      </ChildNodes>
+    </Node>
+    <Node ToolID="35">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="377" y="318" width="294" height="165" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption>Reiterate</Caption>
+          <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
+          <Disabled value="False" />
+          <Folded value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="7">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.MacroOutput.MacroOutput">
+            <Position x="498" y="367" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Name>Iterate</Name>
+              <Abbrev>I</Abbrev>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name>Iterate</Name>
+              <AnnotationText>Data to Pass Through Macro Again</AnnotationText>
+              <DefaultAnnotationText>Iterate</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMacroOutput" />
+        </Node>
+        <Node ToolID="14">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+            <Position x="402" y="367" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="RecordID" selected="True" />
+                <SelectField field="Name" selected="True" />
+                <SelectField field="Value" selected="True" />
+                <SelectField field="*Unknown" selected="False" />
+              </SelectFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <AnnotationText>Drop Iteration Field</AnnotationText>
+              <DefaultAnnotationText>Drop Iteration Field</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="RecordID" source="RecordID: Starting Value=1" type="Int32" />
+                <Field name="Name" size="3" source="Transpose:" type="String" />
+                <Field name="Value" size="47" source="TextInput:" type="String" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+        </Node>
+      </ChildNodes>
+    </Node>
+    <Node ToolID="34">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="1037" y="101" width="231" height="24" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption>Prepare For Reconstruction</Caption>
+          <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
+          <Disabled value="False" />
+          <Folded value="True" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="25">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+            <Position x="1062" y="151" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Field_1" selected="True" />
+                <SelectField field="*Unknown" selected="False" />
+              </SelectFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <AnnotationText>Isolate Table Contents</AnnotationText>
+              <DefaultAnnotationText>Isolate Table Contents</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field description="TextToColumns: Parsed from Field_1" name="Field_1" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&amp;gt;&quot;, &quot;&gt;&quot;)" type="V_WString" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+        </Node>
+        <Node ToolID="28">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+            <Position x="1170" y="151" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <FormulaFields>
+                <FormulaField expression="REGEX_Replace([Field_1], &quot;&lt;.*?&gt;&quot;, &quot;|&quot;)" field="Field_2" size="1073741823" type="V_WString" />
+              </FormulaFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <AnnotationText>Clean HTML Tags</AnnotationText>
+              <DefaultAnnotationText><![CDATA[Field_2 = REGEX_Replace([Field_1], "<.*?>", "|")
+]]></DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field description="TextToColumns: Parsed from Field_1" name="Field_1" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&amp;gt;&quot;, &quot;&gt;&quot;)" type="V_WString" />
+                <Field name="Field_2" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&lt;.*?&gt;&quot;, &quot;|&quot;)" type="V_WString" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+        </Node>
+        <Node ToolID="29">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.MultiRowFormula.MultiRowFormula">
+            <Position x="1314" y="150" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <UpdateField value="False" />
+              <UpdateField_Name>Field_1</UpdateField_Name>
+              <CreateField_Name>rowCount</CreateField_Name>
+              <CreateField_Type>Int32</CreateField_Type>
+              <CreateField_Size>4</CreateField_Size>
+              <OtherRows>Empty</OtherRows>
+              <NumRows value="1" />
+              <Expression>IF Contains([Field_1],"&lt;tr")
+THEN [Row-1:rowCount] + 1
+ELSE [Row-1:rowCount]
+ENDIF</Expression>
+              <GroupByFields />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <AnnotationText>Identify Rows</AnnotationText>
+              <DefaultAnnotationText>IF Contains([Field_1],"&lt;tr")
+THEN [Row-1:rowCount] + 1
+ELSE [...</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field description="TextToColumns: Parsed from Field_1" name="Field_1" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&amp;gt;&quot;, &quot;&gt;&quot;)" type="V_WString" />
+                <Field name="Field_2" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&lt;.*?&gt;&quot;, &quot;|&quot;)" type="V_WString" />
+                <Field description="Formula: IF Contains([Field_1],&quot;&lt;tr&quot;)&#xA;THEN [Row-1:rowCount] + 1&#xA;ELSE [Row-1:rowCount]&#xA;ENDIF" name="rowCount" source="Formula: IF Contains([Field_1],&quot;&lt;tr&quot;)&#xA;THEN [Row-1:rowCount] + 1&#xA;ELSE [Row-1:rowCount]&#xA;ENDIF" type="Int32" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMultiRowFormula" />
+        </Node>
+        <Node ToolID="31">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+            <Position x="1398" y="151" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Mode>Simple</Mode>
+              <Simple>
+                <Operator>&gt;</Operator>
+                <Field>rowCount</Field>
+                <Operands>
+                  <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+                  <DateType>fixed</DateType>
+                  <PeriodDate>2022-12-05 09:19:56</PeriodDate>
+                  <PeriodType>
+                  </PeriodType>
+                  <PeriodCount>0</PeriodCount>
+                  <Operand>0</Operand>
+                  <StartDate>2022-12-05 09:19:56</StartDate>
+                  <EndDate>2022-12-05 09:19:56</EndDate>
+                </Operands>
+              </Simple>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <AnnotationText>Remove Non-Rows</AnnotationText>
+              <DefaultAnnotationText>[rowCount] &gt; 0</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="True">
+              <RecordInfo>
+                <Field description="TextToColumns: Parsed from Field_1" name="Field_1" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&amp;gt;&quot;, &quot;&gt;&quot;)" type="V_WString" />
+                <Field name="Field_2" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&lt;.*?&gt;&quot;, &quot;|&quot;)" type="V_WString" />
+                <Field description="Formula: IF Contains([Field_1],&quot;&lt;tr&quot;)&#xA;THEN [Row-1:rowCount] + 1&#xA;ELSE [Row-1:rowCount]&#xA;ENDIF" name="rowCount" source="Formula: IF Contains([Field_1],&quot;&lt;tr&quot;)&#xA;THEN [Row-1:rowCount] + 1&#xA;ELSE [Row-1:rowCount]&#xA;ENDIF" type="Int32" />
+              </RecordInfo>
+            </MetaInfo>
+            <MetaInfo connection="False">
+              <RecordInfo>
+                <Field description="TextToColumns: Parsed from Field_1" name="Field_1" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&amp;gt;&quot;, &quot;&gt;&quot;)" type="V_WString" />
+                <Field name="Field_2" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&lt;.*?&gt;&quot;, &quot;|&quot;)" type="V_WString" />
+                <Field description="Formula: IF Contains([Field_1],&quot;&lt;tr&quot;)&#xA;THEN [Row-1:rowCount] + 1&#xA;ELSE [Row-1:rowCount]&#xA;ENDIF" name="rowCount" source="Formula: IF Contains([Field_1],&quot;&lt;tr&quot;)&#xA;THEN [Row-1:rowCount] + 1&#xA;ELSE [Row-1:rowCount]&#xA;ENDIF" type="Int32" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+        </Node>
+        <Node ToolID="32">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+            <Position x="1638" y="151" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <FormulaFields>
+                <FormulaField expression="IF REGEX_Replace([Field_2], &quot;[|]*&quot;, &quot;&quot;) = &quot;&quot;&#xA;THEN 0&#xA;ELSE 1&#xA;ENDIF" field="hasValue" size="8" type="Int64" />
+              </FormulaFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <AnnotationText>Identify No-Value Records</AnnotationText>
+              <DefaultAnnotationText><![CDATA[hasValue = IF REGEX_Replace([Field_2], "[|]*", "") = ""
+THEN 0
+ELSE 1
+ENDIF
+]]></DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field description="TextToColumns: Parsed from Field_1" name="Field_1" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&amp;gt;&quot;, &quot;&gt;&quot;)" type="V_WString" />
+                <Field name="Field_2" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&lt;.*?&gt;&quot;, &quot;|&quot;)" type="V_WString" />
+                <Field description="Formula: IF Contains([Field_1],&quot;&lt;tr&quot;)&#xA;THEN [Row-1:rowCount] + 1&#xA;ELSE [Row-1:rowCount]&#xA;ENDIF" name="rowCount" source="Formula: IF Contains([Field_1],&quot;&lt;tr&quot;)&#xA;THEN [Row-1:rowCount] + 1&#xA;ELSE [Row-1:rowCount]&#xA;ENDIF" type="Int32" />
+                <Field description="Formula: IF [rowCount] != [Row-1:rowCount]&#xA;THEN 1&#xA;ELSE [Row-1:column]+1&#xA;ENDIF" name="column" source="Formula: IF [rowCount] != [Row-1:rowCount]&#xA;THEN 1&#xA;ELSE [Row-1:column]+1&#xA;ENDIF" type="Int32" />
+                <Field name="hasValue" source="Formula: IF REGEX_Replace([Field_2], &quot;[|]*&quot;, &quot;&quot;) = &quot;&quot;&#xA;THEN 0&#xA;ELSE 1&#xA;ENDIF" type="Int64" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+        </Node>
+        <Node ToolID="33">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.MultiRowFormula.MultiRowFormula">
+            <Position x="1518" y="151" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <UpdateField value="False" />
+              <UpdateField_Name>Field_1</UpdateField_Name>
+              <CreateField_Name>column</CreateField_Name>
+              <CreateField_Type>Int32</CreateField_Type>
+              <CreateField_Size>4</CreateField_Size>
+              <OtherRows>Empty</OtherRows>
+              <NumRows value="1" />
+              <Expression>IF [rowCount] != [Row-1:rowCount]
+THEN 1
+ELSE [Row-1:column]+1
+ENDIF</Expression>
+              <GroupByFields />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <AnnotationText>Identify Initial Column Layout</AnnotationText>
+              <DefaultAnnotationText>IF [rowCount] != [Row-1:rowCount]
+THEN 1
+ELSE [Row-1:column]+...</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field description="TextToColumns: Parsed from Field_1" name="Field_1" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&amp;gt;&quot;, &quot;&gt;&quot;)" type="V_WString" />
+                <Field name="Field_2" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&lt;.*?&gt;&quot;, &quot;|&quot;)" type="V_WString" />
+                <Field description="Formula: IF Contains([Field_1],&quot;&lt;tr&quot;)&#xA;THEN [Row-1:rowCount] + 1&#xA;ELSE [Row-1:rowCount]&#xA;ENDIF" name="rowCount" source="Formula: IF Contains([Field_1],&quot;&lt;tr&quot;)&#xA;THEN [Row-1:rowCount] + 1&#xA;ELSE [Row-1:rowCount]&#xA;ENDIF" type="Int32" />
+                <Field description="Formula: IF [rowCount] != [Row-1:rowCount]&#xA;THEN 1&#xA;ELSE [Row-1:column]+1&#xA;ENDIF" name="column" source="Formula: IF [rowCount] != [Row-1:rowCount]&#xA;THEN 1&#xA;ELSE [Row-1:column]+1&#xA;ENDIF" type="Int32" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMultiRowFormula" />
+        </Node>
+        <Node ToolID="36">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+            <Position x="1770" y="151" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Mode>Simple</Mode>
+              <Simple>
+                <Operator>&lt;=</Operator>
+                <Field>rowCount</Field>
+                <Operands>
+                  <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+                  <DateType>fixed</DateType>
+                  <PeriodDate>2022-12-04 21:31:11</PeriodDate>
+                  <PeriodType>
+                  </PeriodType>
+                  <PeriodCount>0</PeriodCount>
+                  <Operand>2</Operand>
+                  <StartDate>2022-12-04 21:31:11</StartDate>
+                  <EndDate>2022-12-04 21:31:11</EndDate>
+                </Operands>
+              </Simple>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <AnnotationText>Separate Header and Body</AnnotationText>
+              <DefaultAnnotationText>[rowCount] &lt;= 2</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="True">
+              <RecordInfo>
+                <Field description="TextToColumns: Parsed from Field_1" name="Field_1" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&amp;gt;&quot;, &quot;&gt;&quot;)" type="V_WString" />
+                <Field name="Field_2" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&lt;.*?&gt;&quot;, &quot;|&quot;)" type="V_WString" />
+                <Field description="Formula: IF Contains([Field_1],&quot;&lt;tr&quot;)&#xA;THEN [Row-1:rowCount] + 1&#xA;ELSE [Row-1:rowCount]&#xA;ENDIF" name="rowCount" source="Formula: IF Contains([Field_1],&quot;&lt;tr&quot;)&#xA;THEN [Row-1:rowCount] + 1&#xA;ELSE [Row-1:rowCount]&#xA;ENDIF" type="Int32" />
+                <Field description="Formula: IF [rowCount] != [Row-1:rowCount]&#xA;THEN 1&#xA;ELSE [Row-1:column]+1&#xA;ENDIF" name="column" source="Formula: IF [rowCount] != [Row-1:rowCount]&#xA;THEN 1&#xA;ELSE [Row-1:column]+1&#xA;ENDIF" type="Int32" />
+                <Field name="hasValue" source="Formula: IF REGEX_Replace([Field_2], &quot;[|]*&quot;, &quot;&quot;) = &quot;&quot;&#xA;THEN 0&#xA;ELSE 1&#xA;ENDIF" type="Int64" />
+              </RecordInfo>
+            </MetaInfo>
+            <MetaInfo connection="False">
+              <RecordInfo>
+                <Field description="TextToColumns: Parsed from Field_1" name="Field_1" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&amp;gt;&quot;, &quot;&gt;&quot;)" type="V_WString" />
+                <Field name="Field_2" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&lt;.*?&gt;&quot;, &quot;|&quot;)" type="V_WString" />
+                <Field description="Formula: IF Contains([Field_1],&quot;&lt;tr&quot;)&#xA;THEN [Row-1:rowCount] + 1&#xA;ELSE [Row-1:rowCount]&#xA;ENDIF" name="rowCount" source="Formula: IF Contains([Field_1],&quot;&lt;tr&quot;)&#xA;THEN [Row-1:rowCount] + 1&#xA;ELSE [Row-1:rowCount]&#xA;ENDIF" type="Int32" />
+                <Field description="Formula: IF [rowCount] != [Row-1:rowCount]&#xA;THEN 1&#xA;ELSE [Row-1:column]+1&#xA;ENDIF" name="column" source="Formula: IF [rowCount] != [Row-1:rowCount]&#xA;THEN 1&#xA;ELSE [Row-1:column]+1&#xA;ENDIF" type="Int32" />
+                <Field name="hasValue" source="Formula: IF REGEX_Replace([Field_2], &quot;[|]*&quot;, &quot;&quot;) = &quot;&quot;&#xA;THEN 0&#xA;ELSE 1&#xA;ENDIF" type="Int64" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+        </Node>
+      </ChildNodes>
+    </Node>
+    <Node ToolID="43">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="2033" y="450" width="204" height="24" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption>Correct Body Columns</Caption>
+          <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
+          <Disabled value="False" />
+          <Folded value="True" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="37">
+          <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+            <Position x="2058" y="559" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <SummarizeFields>
+                <SummarizeField field="column" action="GroupBy" rename="column" />
+                <SummarizeField field="hasValue" action="Sum" rename="Sum_hasValue" />
+              </SummarizeFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <AnnotationText>Count Non-Empty Rows Per Column</AnnotationText>
+              <DefaultAnnotationText>Count Non-Empty Rows Per Column</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field description="Formula: IF [rowCount] != [Row-1:rowCount]&#xA;THEN 1&#xA;ELSE [Row-1:column]+1&#xA;ENDIF" name="column" source="Summarize: GroupBy - column" type="Int32" />
+                <Field name="Sum_hasValue" source="Summarize: Sum - hasValue" type="Int64" />
+              </RecordInfo>
+              <SortInfo>
+                <Field field="column" order="Asc" />
+              </SortInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+        </Node>
+        <Node ToolID="38">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+            <Position x="2166" y="499" />
+          </GuiSettings>
+          <Properties>
+            <Configuration joinByRecordPos="False">
+              <JoinInfo connection="Left">
+                <Field field="column" />
+              </JoinInfo>
+              <JoinInfo connection="Right">
+                <Field field="column" />
+              </JoinInfo>
+              <SelectConfiguration>
+                <Configuration outputConnection="Join">
+                  <OrderChanged value="False" />
+                  <CommaDecimal value="False" />
+                  <SelectFields>
+                    <SelectField field="Right_column" selected="True" rename="Right_column" input="Right_" />
+                    <SelectField field="*Unknown" selected="True" />
+                  </SelectFields>
+                </Configuration>
+              </SelectConfiguration>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <AnnotationText>Associate Empty Columns to Records (Table Cells)</AnnotationText>
+              <DefaultAnnotationText>Associate Cells to Empty Columns</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Left">
+              <RecordInfo>
+                <Field description="TextToColumns: Parsed from Field_1" name="Field_1" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&amp;gt;&quot;, &quot;&gt;&quot;)" type="V_WString" />
+                <Field name="Field_2" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&lt;.*?&gt;&quot;, &quot;|&quot;)" type="V_WString" />
+                <Field description="Formula: IF Contains([Field_1],&quot;&lt;tr&quot;)&#xA;THEN [Row-1:rowCount] + 1&#xA;ELSE [Row-1:rowCount]&#xA;ENDIF" name="rowCount" source="Formula: IF Contains([Field_1],&quot;&lt;tr&quot;)&#xA;THEN [Row-1:rowCount] + 1&#xA;ELSE [Row-1:rowCount]&#xA;ENDIF" type="Int32" />
+                <Field description="Formula: IF [rowCount] != [Row-1:rowCount]&#xA;THEN 1&#xA;ELSE [Row-1:column]+1&#xA;ENDIF" name="column" source="Formula: IF [rowCount] != [Row-1:rowCount]&#xA;THEN 1&#xA;ELSE [Row-1:column]+1&#xA;ENDIF" type="Int32" />
+                <Field name="hasValue" source="Formula: IF REGEX_Replace([Field_2], &quot;[|]*&quot;, &quot;&quot;) = &quot;&quot;&#xA;THEN 0&#xA;ELSE 1&#xA;ENDIF" type="Int64" />
+              </RecordInfo>
+              <SortInfo noProgress="True">
+                <Field field="column" />
+              </SortInfo>
+            </MetaInfo>
+            <MetaInfo connection="Join">
+              <RecordInfo>
+                <Field description="TextToColumns: Parsed from Field_1" name="Field_1" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&amp;gt;&quot;, &quot;&gt;&quot;)" type="V_WString" />
+                <Field name="Field_2" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&lt;.*?&gt;&quot;, &quot;|&quot;)" type="V_WString" />
+                <Field description="Formula: IF Contains([Field_1],&quot;&lt;tr&quot;)&#xA;THEN [Row-1:rowCount] + 1&#xA;ELSE [Row-1:rowCount]&#xA;ENDIF" name="rowCount" source="Formula: IF Contains([Field_1],&quot;&lt;tr&quot;)&#xA;THEN [Row-1:rowCount] + 1&#xA;ELSE [Row-1:rowCount]&#xA;ENDIF" type="Int32" />
+                <Field description="Formula: IF [rowCount] != [Row-1:rowCount]&#xA;THEN 1&#xA;ELSE [Row-1:column]+1&#xA;ENDIF" name="column" source="Formula: IF [rowCount] != [Row-1:rowCount]&#xA;THEN 1&#xA;ELSE [Row-1:column]+1&#xA;ENDIF" type="Int32" />
+                <Field name="hasValue" source="Formula: IF REGEX_Replace([Field_2], &quot;[|]*&quot;, &quot;&quot;) = &quot;&quot;&#xA;THEN 0&#xA;ELSE 1&#xA;ENDIF" type="Int64" />
+                <Field description="Formula: IF [rowCount] != [Row-1:rowCount]&#xA;THEN 1&#xA;ELSE [Row-1:column]+1&#xA;ENDIF" name="Right_column" source="Summarize: GroupBy - column" type="Int32" />
+                <Field name="Sum_hasValue" source="Summarize: Sum - hasValue" type="Int64" />
+              </RecordInfo>
+              <SortInfo>
+                <Field field="column" order="" />
+              </SortInfo>
+            </MetaInfo>
+            <MetaInfo connection="Right">
+              <RecordInfo>
+                <Field description="Formula: IF [rowCount] != [Row-1:rowCount]&#xA;THEN 1&#xA;ELSE [Row-1:column]+1&#xA;ENDIF" name="column" source="Summarize: GroupBy - column" type="Int32" />
+                <Field name="Sum_hasValue" source="Summarize: Sum - hasValue" type="Int64" />
+              </RecordInfo>
+              <SortInfo noProgress="True">
+                <Field field="column" />
+              </SortInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+        </Node>
+        <Node ToolID="39">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+            <Position x="2274" y="499" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Mode>Simple</Mode>
+              <Simple>
+                <Operator>!=</Operator>
+                <Field>Sum_hasValue</Field>
+                <Operands>
+                  <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+                  <DateType>fixed</DateType>
+                  <PeriodDate>2022-12-04 21:36:27</PeriodDate>
+                  <PeriodType>
+                  </PeriodType>
+                  <PeriodCount>0</PeriodCount>
+                  <Operand>0</Operand>
+                  <StartDate>2022-12-04 21:36:27</StartDate>
+                  <EndDate>2022-12-04 21:36:27</EndDate>
+                </Operands>
+              </Simple>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <AnnotationText>Drop Empty Columns</AnnotationText>
+              <DefaultAnnotationText>[Sum_hasValue] != 0</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="True">
+              <RecordInfo>
+                <Field description="TextToColumns: Parsed from Field_1" name="Field_1" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&amp;gt;&quot;, &quot;&gt;&quot;)" type="V_WString" />
+                <Field name="Field_2" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&lt;.*?&gt;&quot;, &quot;|&quot;)" type="V_WString" />
+                <Field description="Formula: IF Contains([Field_1],&quot;&lt;tr&quot;)&#xA;THEN [Row-1:rowCount] + 1&#xA;ELSE [Row-1:rowCount]&#xA;ENDIF" name="rowCount" source="Formula: IF Contains([Field_1],&quot;&lt;tr&quot;)&#xA;THEN [Row-1:rowCount] + 1&#xA;ELSE [Row-1:rowCount]&#xA;ENDIF" type="Int32" />
+                <Field description="Formula: IF [rowCount] != [Row-1:rowCount]&#xA;THEN 1&#xA;ELSE [Row-1:column]+1&#xA;ENDIF" name="column" source="Formula: IF [rowCount] != [Row-1:rowCount]&#xA;THEN 1&#xA;ELSE [Row-1:column]+1&#xA;ENDIF" type="Int32" />
+                <Field name="hasValue" source="Formula: IF REGEX_Replace([Field_2], &quot;[|]*&quot;, &quot;&quot;) = &quot;&quot;&#xA;THEN 0&#xA;ELSE 1&#xA;ENDIF" type="Int64" />
+                <Field description="Formula: IF [rowCount] != [Row-1:rowCount]&#xA;THEN 1&#xA;ELSE [Row-1:column]+1&#xA;ENDIF" name="Right_column" source="Summarize: GroupBy - column" type="Int32" />
+                <Field name="Sum_hasValue" source="Summarize: Sum - hasValue" type="Int64" />
+              </RecordInfo>
+              <SortInfo>
+                <Field field="column" order="" />
+              </SortInfo>
+            </MetaInfo>
+            <MetaInfo connection="False">
+              <RecordInfo>
+                <Field description="TextToColumns: Parsed from Field_1" name="Field_1" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&amp;gt;&quot;, &quot;&gt;&quot;)" type="V_WString" />
+                <Field name="Field_2" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&lt;.*?&gt;&quot;, &quot;|&quot;)" type="V_WString" />
+                <Field description="Formula: IF Contains([Field_1],&quot;&lt;tr&quot;)&#xA;THEN [Row-1:rowCount] + 1&#xA;ELSE [Row-1:rowCount]&#xA;ENDIF" name="rowCount" source="Formula: IF Contains([Field_1],&quot;&lt;tr&quot;)&#xA;THEN [Row-1:rowCount] + 1&#xA;ELSE [Row-1:rowCount]&#xA;ENDIF" type="Int32" />
+                <Field description="Formula: IF [rowCount] != [Row-1:rowCount]&#xA;THEN 1&#xA;ELSE [Row-1:column]+1&#xA;ENDIF" name="column" source="Formula: IF [rowCount] != [Row-1:rowCount]&#xA;THEN 1&#xA;ELSE [Row-1:column]+1&#xA;ENDIF" type="Int32" />
+                <Field name="hasValue" source="Formula: IF REGEX_Replace([Field_2], &quot;[|]*&quot;, &quot;&quot;) = &quot;&quot;&#xA;THEN 0&#xA;ELSE 1&#xA;ENDIF" type="Int64" />
+                <Field description="Formula: IF [rowCount] != [Row-1:rowCount]&#xA;THEN 1&#xA;ELSE [Row-1:column]+1&#xA;ENDIF" name="Right_column" source="Summarize: GroupBy - column" type="Int32" />
+                <Field name="Sum_hasValue" source="Summarize: Sum - hasValue" type="Int64" />
+              </RecordInfo>
+              <SortInfo>
+                <Field field="column" order="" />
+              </SortInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+        </Node>
+        <Node ToolID="40">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+            <Position x="2610" y="499" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Field_2" selected="True" />
+                <SelectField field="rowCount" selected="True" />
+                <SelectField field="newCol" selected="True" />
+                <SelectField field="*Unknown" selected="False" />
+              </SelectFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <AnnotationText>Drop Helper Columns</AnnotationText>
+              <DefaultAnnotationText>Drop Helper Columns</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="Field_2" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&lt;.*?&gt;&quot;, &quot;|&quot;)" type="V_WString" />
+                <Field description="Formula: IF Contains([Field_1],&quot;&lt;tr&quot;)&#xA;THEN [Row-1:rowCount] + 1&#xA;ELSE [Row-1:rowCount]&#xA;ENDIF" name="rowCount" source="Formula: IF Contains([Field_1],&quot;&lt;tr&quot;)&#xA;THEN [Row-1:rowCount] + 1&#xA;ELSE [Row-1:rowCount]&#xA;ENDIF" type="Int32" />
+                <Field description="Formula: [Row-1:newCol] + 1" name="newCol" source="Formula: [Row-1:newCol] + 1" type="Int32" />
+              </RecordInfo>
+              <SortInfo>
+                <Field field="rowCount" order="Asc" />
+              </SortInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+        </Node>
+        <Node ToolID="41">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+            <Position x="2382" y="499" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <SortInfo locale="1033">
+                <Field field="rowCount" order="Ascending" />
+                <Field field="column" order="Ascending" />
+              </SortInfo>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <AnnotationText>Sort by Rows, Then Columns</AnnotationText>
+              <DefaultAnnotationText>rowCount - Ascending
+column - Ascending</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field description="TextToColumns: Parsed from Field_1" name="Field_1" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&amp;gt;&quot;, &quot;&gt;&quot;)" type="V_WString" />
+                <Field name="Field_2" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&lt;.*?&gt;&quot;, &quot;|&quot;)" type="V_WString" />
+                <Field description="Formula: IF Contains([Field_1],&quot;&lt;tr&quot;)&#xA;THEN [Row-1:rowCount] + 1&#xA;ELSE [Row-1:rowCount]&#xA;ENDIF" name="rowCount" source="Formula: IF Contains([Field_1],&quot;&lt;tr&quot;)&#xA;THEN [Row-1:rowCount] + 1&#xA;ELSE [Row-1:rowCount]&#xA;ENDIF" type="Int32" />
+                <Field description="Formula: IF [rowCount] != [Row-1:rowCount]&#xA;THEN 1&#xA;ELSE [Row-1:column]+1&#xA;ENDIF" name="column" source="Formula: IF [rowCount] != [Row-1:rowCount]&#xA;THEN 1&#xA;ELSE [Row-1:column]+1&#xA;ENDIF" type="Int32" />
+                <Field name="hasValue" source="Formula: IF REGEX_Replace([Field_2], &quot;[|]*&quot;, &quot;&quot;) = &quot;&quot;&#xA;THEN 0&#xA;ELSE 1&#xA;ENDIF" type="Int64" />
+                <Field description="Formula: IF [rowCount] != [Row-1:rowCount]&#xA;THEN 1&#xA;ELSE [Row-1:column]+1&#xA;ENDIF" name="Right_column" source="Summarize: GroupBy - column" type="Int32" />
+                <Field name="Sum_hasValue" source="Summarize: Sum - hasValue" type="Int64" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+        </Node>
+        <Node ToolID="42">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.MultiRowFormula.MultiRowFormula">
+            <Position x="2502" y="499" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <UpdateField value="False" />
+              <UpdateField_Name>Field_1</UpdateField_Name>
+              <CreateField_Name>newCol</CreateField_Name>
+              <CreateField_Type>Int32</CreateField_Type>
+              <CreateField_Size>4</CreateField_Size>
+              <OtherRows>Empty</OtherRows>
+              <NumRows value="1" />
+              <Expression>[Row-1:newCol] + 1</Expression>
+              <GroupByFields>
+                <Field field="rowCount" />
+              </GroupByFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <AnnotationText>Recalculate Columns After Drop</AnnotationText>
+              <DefaultAnnotationText>[Row-1:newCol] + 1</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field description="TextToColumns: Parsed from Field_1" name="Field_1" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&amp;gt;&quot;, &quot;&gt;&quot;)" type="V_WString" />
+                <Field name="Field_2" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&lt;.*?&gt;&quot;, &quot;|&quot;)" type="V_WString" />
+                <Field description="Formula: IF Contains([Field_1],&quot;&lt;tr&quot;)&#xA;THEN [Row-1:rowCount] + 1&#xA;ELSE [Row-1:rowCount]&#xA;ENDIF" name="rowCount" source="Formula: IF Contains([Field_1],&quot;&lt;tr&quot;)&#xA;THEN [Row-1:rowCount] + 1&#xA;ELSE [Row-1:rowCount]&#xA;ENDIF" type="Int32" />
+                <Field description="Formula: IF [rowCount] != [Row-1:rowCount]&#xA;THEN 1&#xA;ELSE [Row-1:column]+1&#xA;ENDIF" name="column" source="Formula: IF [rowCount] != [Row-1:rowCount]&#xA;THEN 1&#xA;ELSE [Row-1:column]+1&#xA;ENDIF" type="Int32" />
+                <Field name="hasValue" source="Formula: IF REGEX_Replace([Field_2], &quot;[|]*&quot;, &quot;&quot;) = &quot;&quot;&#xA;THEN 0&#xA;ELSE 1&#xA;ENDIF" type="Int64" />
+                <Field description="Formula: IF [rowCount] != [Row-1:rowCount]&#xA;THEN 1&#xA;ELSE [Row-1:column]+1&#xA;ENDIF" name="Right_column" source="Summarize: GroupBy - column" type="Int32" />
+                <Field name="Sum_hasValue" source="Summarize: Sum - hasValue" type="Int64" />
+                <Field description="Formula: [Row-1:newCol] + 1" name="newCol" source="Formula: [Row-1:newCol] + 1" type="Int32" />
+              </RecordInfo>
+              <SortInfo>
+                <Field field="rowCount" order="Asc" />
+              </SortInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMultiRowFormula" />
+        </Node>
+      </ChildNodes>
+    </Node>
+    <Node ToolID="57">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="2021" y="54" width="215" height="24" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption>Correct Header Columns</Caption>
+          <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
+          <Disabled value="False" />
+          <Folded value="True" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="44">
+          <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+            <Position x="2046" y="282" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <SummarizeFields>
+                <SummarizeField field="column" action="GroupBy" rename="column" />
+                <SummarizeField field="hasValue" action="Sum" rename="Sum_hasValue" />
+              </SummarizeFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <AnnotationText>Count Non-Empty Rows Per Column</AnnotationText>
+              <DefaultAnnotationText>Count Non-Empty Rows Per Column</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field description="Formula: IF [rowCount] != [Row-1:rowCount]&#xA;THEN 1&#xA;ELSE [Row-1:column]+1&#xA;ENDIF" name="column" source="Summarize: GroupBy - column" type="Int32" />
+                <Field name="Sum_hasValue" source="Summarize: Sum - hasValue" type="Int64" />
+              </RecordInfo>
+              <SortInfo>
+                <Field field="column" order="Asc" />
+              </SortInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+        </Node>
+        <Node ToolID="45">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+            <Position x="2250" y="175" />
+          </GuiSettings>
+          <Properties>
+            <Configuration joinByRecordPos="False">
+              <JoinInfo connection="Left">
+                <Field field="column" />
+              </JoinInfo>
+              <JoinInfo connection="Right">
+                <Field field="column" />
+              </JoinInfo>
+              <SelectConfiguration>
+                <Configuration outputConnection="Join">
+                  <OrderChanged value="False" />
+                  <CommaDecimal value="False" />
+                  <SelectFields>
+                    <SelectField field="Right_column" selected="True" rename="Right_column" input="Right_" />
+                    <SelectField field="*Unknown" selected="True" />
+                  </SelectFields>
+                </Configuration>
+              </SelectConfiguration>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <AnnotationText>Associate Cells to Empty Columns</AnnotationText>
+              <DefaultAnnotationText>Associate Cells to Empty Columns</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Left">
+              <RecordInfo>
+                <Field description="TextToColumns: Parsed from Field_1" name="Field_1" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&amp;gt;&quot;, &quot;&gt;&quot;)" type="V_WString" />
+                <Field name="Field_2" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&lt;.*?&gt;&quot;, &quot;|&quot;)" type="V_WString" />
+                <Field description="Formula: IF Contains([Field_1],&quot;&lt;tr&quot;)&#xA;THEN [Row-1:rowCount] + 1&#xA;ELSE [Row-1:rowCount]&#xA;ENDIF" name="rowCount" source="Formula: IF Contains([Field_1],&quot;&lt;tr&quot;)&#xA;THEN [Row-1:rowCount] + 1&#xA;ELSE [Row-1:rowCount]&#xA;ENDIF" type="Int32" />
+                <Field description="Formula: IF [rowCount] != [Row-1:rowCount]&#xA;THEN 1&#xA;ELSE [Row-1:column]+1&#xA;ENDIF" name="column" source="Formula: IF [rowCount] != [Row-1:rowCount]&#xA;THEN 1&#xA;ELSE [Row-1:column]+1&#xA;ENDIF" type="Int32" />
+                <Field name="hasValue" source="Formula: IF REGEX_Replace([Field_2], &quot;[|]*&quot;, &quot;&quot;) = &quot;&quot;&#xA;THEN 0&#xA;ELSE 1&#xA;ENDIF" type="Int64" />
+              </RecordInfo>
+              <SortInfo noProgress="True">
+                <Field field="column" />
+              </SortInfo>
+            </MetaInfo>
+            <MetaInfo connection="Join">
+              <RecordInfo>
+                <Field description="TextToColumns: Parsed from Field_1" name="Field_1" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&amp;gt;&quot;, &quot;&gt;&quot;)" type="V_WString" />
+                <Field name="Field_2" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&lt;.*?&gt;&quot;, &quot;|&quot;)" type="V_WString" />
+                <Field description="Formula: IF Contains([Field_1],&quot;&lt;tr&quot;)&#xA;THEN [Row-1:rowCount] + 1&#xA;ELSE [Row-1:rowCount]&#xA;ENDIF" name="rowCount" source="Formula: IF Contains([Field_1],&quot;&lt;tr&quot;)&#xA;THEN [Row-1:rowCount] + 1&#xA;ELSE [Row-1:rowCount]&#xA;ENDIF" type="Int32" />
+                <Field description="Formula: IF [rowCount] != [Row-1:rowCount]&#xA;THEN 1&#xA;ELSE [Row-1:column]+1&#xA;ENDIF" name="column" source="Formula: IF [rowCount] != [Row-1:rowCount]&#xA;THEN 1&#xA;ELSE [Row-1:column]+1&#xA;ENDIF" type="Int32" />
+                <Field name="hasValue" source="Formula: IF REGEX_Replace([Field_2], &quot;[|]*&quot;, &quot;&quot;) = &quot;&quot;&#xA;THEN 0&#xA;ELSE 1&#xA;ENDIF" type="Int64" />
+                <Field description="Formula: IF [rowCount] != [Row-1:rowCount]&#xA;THEN 1&#xA;ELSE [Row-1:column]+1&#xA;ENDIF" name="Right_column" source="Summarize: GroupBy - column" type="Int32" />
+                <Field name="Sum_hasValue" source="Summarize: Sum - hasValue" type="Int64" />
+              </RecordInfo>
+              <SortInfo>
+                <Field field="column" order="" />
+              </SortInfo>
+            </MetaInfo>
+            <MetaInfo connection="Right">
+              <RecordInfo>
+                <Field description="Formula: IF [rowCount] != [Row-1:rowCount]&#xA;THEN 1&#xA;ELSE [Row-1:column]+1&#xA;ENDIF" name="column" source="Summarize: GroupBy - column" type="Int32" />
+                <Field name="Sum_hasValue" source="Summarize: Sum - hasValue" type="Int64" />
+              </RecordInfo>
+              <SortInfo noProgress="True">
+                <Field field="column" />
+              </SortInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+        </Node>
+        <Node ToolID="46">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+            <Position x="2322" y="247" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Mode>Simple</Mode>
+              <Simple>
+                <Operator>!=</Operator>
+                <Field>Sum_hasValue</Field>
+                <Operands>
+                  <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+                  <DateType>fixed</DateType>
+                  <PeriodDate>2022-12-04 21:36:49</PeriodDate>
+                  <PeriodType>
+                  </PeriodType>
+                  <PeriodCount>0</PeriodCount>
+                  <Operand>0</Operand>
+                  <StartDate>2022-12-04 21:36:49</StartDate>
+                  <EndDate>2022-12-04 21:36:49</EndDate>
+                </Operands>
+              </Simple>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <AnnotationText>Drop Empty Columns</AnnotationText>
+              <DefaultAnnotationText>[Sum_hasValue] != 0</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="True">
+              <RecordInfo>
+                <Field description="TextToColumns: Parsed from Field_1" name="Field_1" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&amp;gt;&quot;, &quot;&gt;&quot;)" type="V_WString" />
+                <Field name="Field_2" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&lt;.*?&gt;&quot;, &quot;|&quot;)" type="V_WString" />
+                <Field description="Formula: IF Contains([Field_1],&quot;&lt;tr&quot;)&#xA;THEN [Row-1:rowCount] + 1&#xA;ELSE [Row-1:rowCount]&#xA;ENDIF" name="rowCount" source="Formula: IF Contains([Field_1],&quot;&lt;tr&quot;)&#xA;THEN [Row-1:rowCount] + 1&#xA;ELSE [Row-1:rowCount]&#xA;ENDIF" type="Int32" />
+                <Field description="Formula: IF [rowCount] != [Row-1:rowCount]&#xA;THEN 1&#xA;ELSE [Row-1:column]+1&#xA;ENDIF" name="column" source="Formula: IF [rowCount] != [Row-1:rowCount]&#xA;THEN 1&#xA;ELSE [Row-1:column]+1&#xA;ENDIF" type="Int32" />
+                <Field name="hasValue" source="Formula: IF REGEX_Replace([Field_2], &quot;[|]*&quot;, &quot;&quot;) = &quot;&quot;&#xA;THEN 0&#xA;ELSE 1&#xA;ENDIF" type="Int64" />
+                <Field description="Formula: IF [rowCount] != [Row-1:rowCount]&#xA;THEN 1&#xA;ELSE [Row-1:column]+1&#xA;ENDIF" name="Right_column" source="Summarize: GroupBy - column" type="Int32" />
+                <Field name="Sum_hasValue" source="Summarize: Sum - hasValue" type="Int64" />
+              </RecordInfo>
+              <SortInfo>
+                <Field field="column" order="" />
+              </SortInfo>
+            </MetaInfo>
+            <MetaInfo connection="False">
+              <RecordInfo>
+                <Field description="TextToColumns: Parsed from Field_1" name="Field_1" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&amp;gt;&quot;, &quot;&gt;&quot;)" type="V_WString" />
+                <Field name="Field_2" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&lt;.*?&gt;&quot;, &quot;|&quot;)" type="V_WString" />
+                <Field description="Formula: IF Contains([Field_1],&quot;&lt;tr&quot;)&#xA;THEN [Row-1:rowCount] + 1&#xA;ELSE [Row-1:rowCount]&#xA;ENDIF" name="rowCount" source="Formula: IF Contains([Field_1],&quot;&lt;tr&quot;)&#xA;THEN [Row-1:rowCount] + 1&#xA;ELSE [Row-1:rowCount]&#xA;ENDIF" type="Int32" />
+                <Field description="Formula: IF [rowCount] != [Row-1:rowCount]&#xA;THEN 1&#xA;ELSE [Row-1:column]+1&#xA;ENDIF" name="column" source="Formula: IF [rowCount] != [Row-1:rowCount]&#xA;THEN 1&#xA;ELSE [Row-1:column]+1&#xA;ENDIF" type="Int32" />
+                <Field name="hasValue" source="Formula: IF REGEX_Replace([Field_2], &quot;[|]*&quot;, &quot;&quot;) = &quot;&quot;&#xA;THEN 0&#xA;ELSE 1&#xA;ENDIF" type="Int64" />
+                <Field description="Formula: IF [rowCount] != [Row-1:rowCount]&#xA;THEN 1&#xA;ELSE [Row-1:column]+1&#xA;ENDIF" name="Right_column" source="Summarize: GroupBy - column" type="Int32" />
+                <Field name="Sum_hasValue" source="Summarize: Sum - hasValue" type="Int64" />
+              </RecordInfo>
+              <SortInfo>
+                <Field field="column" order="" />
+              </SortInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+        </Node>
+        <Node ToolID="47">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+            <Position x="2538" y="103" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Mode>Simple</Mode>
+              <Simple>
+                <Operator>&gt;</Operator>
+                <Field>Sum_hasValue</Field>
+                <Operands>
+                  <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+                  <DateType>fixed</DateType>
+                  <PeriodDate>2022-12-04 21:33:45</PeriodDate>
+                  <PeriodType>
+                  </PeriodType>
+                  <PeriodCount>0</PeriodCount>
+                  <Operand>0</Operand>
+                  <StartDate>2022-12-04 21:33:45</StartDate>
+                  <EndDate>2022-12-04 21:33:45</EndDate>
+                </Operands>
+              </Simple>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <AnnotationText>List Non-Empty Body Columns</AnnotationText>
+              <DefaultAnnotationText>[Sum_hasValue] &gt; 0</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="True">
+              <RecordInfo>
+                <Field description="Formula: IF [rowCount] != [Row-1:rowCount]&#xA;THEN 1&#xA;ELSE [Row-1:column]+1&#xA;ENDIF" name="column" source="Summarize: GroupBy - column" type="Int32" />
+                <Field name="Sum_hasValue" source="Summarize: Sum - hasValue" type="Int64" />
+              </RecordInfo>
+              <SortInfo>
+                <Field field="column" order="Asc" />
+              </SortInfo>
+            </MetaInfo>
+            <MetaInfo connection="False">
+              <RecordInfo>
+                <Field description="Formula: IF [rowCount] != [Row-1:rowCount]&#xA;THEN 1&#xA;ELSE [Row-1:column]+1&#xA;ENDIF" name="column" source="Summarize: GroupBy - column" type="Int32" />
+                <Field name="Sum_hasValue" source="Summarize: Sum - hasValue" type="Int64" />
+              </RecordInfo>
+              <SortInfo>
+                <Field field="column" order="Asc" />
+              </SortInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+        </Node>
+        <Node ToolID="48">
+          <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+            <Position x="2706" y="103" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <SummarizeFields>
+                <SummarizeField field="Sum_hasValue" action="Count" rename="Count" />
+              </SummarizeFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <AnnotationText>Count Non-Empty Body Columns</AnnotationText>
+              <DefaultAnnotationText>Count Non-Empty Body Columns</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="Count" source="Summarize: Count - Sum_hasValue" type="Int64" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+        </Node>
+        <Node ToolID="49">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+            <Position x="2442" y="235" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <SortInfo locale="1033">
+                <Field field="rowCount" order="Ascending" />
+                <Field field="column" order="Ascending" />
+              </SortInfo>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <AnnotationText>Sort by Rows, Then Columns</AnnotationText>
+              <DefaultAnnotationText>rowCount - Ascending
+column - Ascending</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field description="TextToColumns: Parsed from Field_1" name="Field_1" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&amp;gt;&quot;, &quot;&gt;&quot;)" type="V_WString" />
+                <Field name="Field_2" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&lt;.*?&gt;&quot;, &quot;|&quot;)" type="V_WString" />
+                <Field description="Formula: IF Contains([Field_1],&quot;&lt;tr&quot;)&#xA;THEN [Row-1:rowCount] + 1&#xA;ELSE [Row-1:rowCount]&#xA;ENDIF" name="rowCount" source="Formula: IF Contains([Field_1],&quot;&lt;tr&quot;)&#xA;THEN [Row-1:rowCount] + 1&#xA;ELSE [Row-1:rowCount]&#xA;ENDIF" type="Int32" />
+                <Field description="Formula: IF [rowCount] != [Row-1:rowCount]&#xA;THEN 1&#xA;ELSE [Row-1:column]+1&#xA;ENDIF" name="column" source="Formula: IF [rowCount] != [Row-1:rowCount]&#xA;THEN 1&#xA;ELSE [Row-1:column]+1&#xA;ENDIF" type="Int32" />
+                <Field name="hasValue" source="Formula: IF REGEX_Replace([Field_2], &quot;[|]*&quot;, &quot;&quot;) = &quot;&quot;&#xA;THEN 0&#xA;ELSE 1&#xA;ENDIF" type="Int64" />
+                <Field description="Formula: IF [rowCount] != [Row-1:rowCount]&#xA;THEN 1&#xA;ELSE [Row-1:column]+1&#xA;ENDIF" name="Right_column" source="Summarize: GroupBy - column" type="Int32" />
+                <Field name="Sum_hasValue" source="Summarize: Sum - hasValue" type="Int64" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+        </Node>
+        <Node ToolID="50">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.AppendFields.AppendFields">
+            <Position x="2946" y="259" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <CartesianMode>Error</CartesianMode>
+              <SelectConfiguration>
+                <Configuration outputConnection="Output">
+                  <OrderChanged value="False" />
+                  <CommaDecimal value="False" />
+                  <SelectFields>
+                    <SelectField field="*Unknown" selected="True" />
+                  </SelectFields>
+                </Configuration>
+              </SelectConfiguration>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <AnnotationText>Compare Max Header and Body Column Count</AnnotationText>
+              <DefaultAnnotationText>Compare Max Header and Body Column Count</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field description="Formula: [Row-1:newCol] + 1" name="Max_newCol" source="Formula: [Row-1:newCol] + 1" type="Int32" />
+                <Field name="Count" source="Summarize: Count - Sum_hasValue" type="Int64" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxAppendFields" />
+        </Node>
+        <Node ToolID="51">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.MultiRowFormula.MultiRowFormula">
+            <Position x="2574" y="235" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <UpdateField value="False" />
+              <UpdateField_Name>Field_1</UpdateField_Name>
+              <CreateField_Name>newCol</CreateField_Name>
+              <CreateField_Type>Int32</CreateField_Type>
+              <CreateField_Size>4</CreateField_Size>
+              <OtherRows>Empty</OtherRows>
+              <NumRows value="1" />
+              <Expression>[Row-1:newCol] + 1</Expression>
+              <GroupByFields>
+                <Field field="rowCount" />
+              </GroupByFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <AnnotationText>Recalculate Columns After Drop</AnnotationText>
+              <DefaultAnnotationText>[Row-1:newCol] + 1</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field description="TextToColumns: Parsed from Field_1" name="Field_1" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&amp;gt;&quot;, &quot;&gt;&quot;)" type="V_WString" />
+                <Field name="Field_2" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&lt;.*?&gt;&quot;, &quot;|&quot;)" type="V_WString" />
+                <Field description="Formula: IF Contains([Field_1],&quot;&lt;tr&quot;)&#xA;THEN [Row-1:rowCount] + 1&#xA;ELSE [Row-1:rowCount]&#xA;ENDIF" name="rowCount" source="Formula: IF Contains([Field_1],&quot;&lt;tr&quot;)&#xA;THEN [Row-1:rowCount] + 1&#xA;ELSE [Row-1:rowCount]&#xA;ENDIF" type="Int32" />
+                <Field description="Formula: IF [rowCount] != [Row-1:rowCount]&#xA;THEN 1&#xA;ELSE [Row-1:column]+1&#xA;ENDIF" name="column" source="Formula: IF [rowCount] != [Row-1:rowCount]&#xA;THEN 1&#xA;ELSE [Row-1:column]+1&#xA;ENDIF" type="Int32" />
+                <Field name="hasValue" source="Formula: IF REGEX_Replace([Field_2], &quot;[|]*&quot;, &quot;&quot;) = &quot;&quot;&#xA;THEN 0&#xA;ELSE 1&#xA;ENDIF" type="Int64" />
+                <Field description="Formula: IF [rowCount] != [Row-1:rowCount]&#xA;THEN 1&#xA;ELSE [Row-1:column]+1&#xA;ENDIF" name="Right_column" source="Summarize: GroupBy - column" type="Int32" />
+                <Field name="Sum_hasValue" source="Summarize: Sum - hasValue" type="Int64" />
+                <Field description="Formula: [Row-1:newCol] + 1" name="newCol" source="Formula: [Row-1:newCol] + 1" type="Int32" />
+              </RecordInfo>
+              <SortInfo>
+                <Field field="rowCount" order="Asc" />
+              </SortInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMultiRowFormula" />
+        </Node>
+        <Node ToolID="52">
+          <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+            <Position x="2778" y="259" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <SummarizeFields>
+                <SummarizeField field="newCol" action="Max" rename="Max_newCol" />
+              </SummarizeFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <AnnotationText>Identify Max Header Column</AnnotationText>
+              <DefaultAnnotationText>Identify Max Header Column</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field description="Formula: [Row-1:newCol] + 1" name="Max_newCol" source="Formula: [Row-1:newCol] + 1" type="Int32" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+        </Node>
+        <Node ToolID="53">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+            <Position x="3018" y="271" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <FormulaFields>
+                <FormulaField expression="MAX([Count] - [Max_newCol], 0)" field="shiftRight" size="8" type="Int64" />
+              </FormulaFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <AnnotationText>Calculate Header Dislocation</AnnotationText>
+              <DefaultAnnotationText><![CDATA[shiftRight = MAX([Count] - [Max_newCol], 0)
+]]></DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field description="Formula: [Row-1:newCol] + 1" name="Max_newCol" source="Formula: [Row-1:newCol] + 1" type="Int32" />
+                <Field name="Count" source="Summarize: Count - Sum_hasValue" type="Int64" />
+                <Field name="shiftRight" source="Formula: MAX([Count] - [Max_newCol], 0)" type="Int64" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+        </Node>
+        <Node ToolID="54">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.AppendFields.AppendFields">
+            <Position x="3234" y="283" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <CartesianMode>Error</CartesianMode>
+              <SelectConfiguration>
+                <Configuration outputConnection="Output">
+                  <OrderChanged value="False" />
+                  <CommaDecimal value="False" />
+                  <SelectFields>
+                    <SelectField field="Source_Max_newCol" selected="False" input="Source_" />
+                    <SelectField field="Source_Count" selected="False" input="Source_" />
+                    <SelectField field="*Unknown" selected="True" />
+                  </SelectFields>
+                </Configuration>
+              </SelectConfiguration>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <AnnotationText>Assoiate Dislocation with Header Rows</AnnotationText>
+              <DefaultAnnotationText>Assoiate Dislocation with Header Rows</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field description="TextToColumns: Parsed from Field_1" name="Field_1" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&amp;gt;&quot;, &quot;&gt;&quot;)" type="V_WString" />
+                <Field name="Field_2" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&lt;.*?&gt;&quot;, &quot;|&quot;)" type="V_WString" />
+                <Field description="Formula: IF Contains([Field_1],&quot;&lt;tr&quot;)&#xA;THEN [Row-1:rowCount] + 1&#xA;ELSE [Row-1:rowCount]&#xA;ENDIF" name="rowCount" source="Formula: IF Contains([Field_1],&quot;&lt;tr&quot;)&#xA;THEN [Row-1:rowCount] + 1&#xA;ELSE [Row-1:rowCount]&#xA;ENDIF" type="Int32" />
+                <Field description="Formula: IF [rowCount] != [Row-1:rowCount]&#xA;THEN 1&#xA;ELSE [Row-1:column]+1&#xA;ENDIF" name="column" source="Formula: IF [rowCount] != [Row-1:rowCount]&#xA;THEN 1&#xA;ELSE [Row-1:column]+1&#xA;ENDIF" type="Int32" />
+                <Field name="hasValue" source="Formula: IF REGEX_Replace([Field_2], &quot;[|]*&quot;, &quot;&quot;) = &quot;&quot;&#xA;THEN 0&#xA;ELSE 1&#xA;ENDIF" type="Int64" />
+                <Field description="Formula: IF [rowCount] != [Row-1:rowCount]&#xA;THEN 1&#xA;ELSE [Row-1:column]+1&#xA;ENDIF" name="Right_column" source="Summarize: GroupBy - column" type="Int32" />
+                <Field name="Sum_hasValue" source="Summarize: Sum - hasValue" type="Int64" />
+                <Field description="Formula: [Row-1:newCol] + 1" name="newCol" source="Formula: [Row-1:newCol] + 1" type="Int32" />
+                <Field name="shiftRight" source="Formula: MAX([Count] - [Max_newCol], 0)" type="Int64" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxAppendFields" />
+        </Node>
+        <Node ToolID="55">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+            <Position x="3318" y="283" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <FormulaFields>
+                <FormulaField expression="[newCol] + [shiftRight]" field="newCol" size="4" type="Int32" />
+              </FormulaFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <AnnotationText>Right-Align Header Rows</AnnotationText>
+              <DefaultAnnotationText><![CDATA[newCol = [newCol] + [shiftRight]
+]]></DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field description="TextToColumns: Parsed from Field_1" name="Field_1" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&amp;gt;&quot;, &quot;&gt;&quot;)" type="V_WString" />
+                <Field name="Field_2" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&lt;.*?&gt;&quot;, &quot;|&quot;)" type="V_WString" />
+                <Field description="Formula: IF Contains([Field_1],&quot;&lt;tr&quot;)&#xA;THEN [Row-1:rowCount] + 1&#xA;ELSE [Row-1:rowCount]&#xA;ENDIF" name="rowCount" source="Formula: IF Contains([Field_1],&quot;&lt;tr&quot;)&#xA;THEN [Row-1:rowCount] + 1&#xA;ELSE [Row-1:rowCount]&#xA;ENDIF" type="Int32" />
+                <Field description="Formula: IF [rowCount] != [Row-1:rowCount]&#xA;THEN 1&#xA;ELSE [Row-1:column]+1&#xA;ENDIF" name="column" source="Formula: IF [rowCount] != [Row-1:rowCount]&#xA;THEN 1&#xA;ELSE [Row-1:column]+1&#xA;ENDIF" type="Int32" />
+                <Field name="hasValue" source="Formula: IF REGEX_Replace([Field_2], &quot;[|]*&quot;, &quot;&quot;) = &quot;&quot;&#xA;THEN 0&#xA;ELSE 1&#xA;ENDIF" type="Int64" />
+                <Field description="Formula: IF [rowCount] != [Row-1:rowCount]&#xA;THEN 1&#xA;ELSE [Row-1:column]+1&#xA;ENDIF" name="Right_column" source="Summarize: GroupBy - column" type="Int32" />
+                <Field name="Sum_hasValue" source="Summarize: Sum - hasValue" type="Int64" />
+                <Field description="Formula: [Row-1:newCol] + 1" name="newCol" source="Formula: [newCol] + [shiftRight]" type="Int32" />
+                <Field name="shiftRight" source="Formula: MAX([Count] - [Max_newCol], 0)" type="Int64" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+        </Node>
+        <Node ToolID="56">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+            <Position x="3414" y="282" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Field_2" selected="True" />
+                <SelectField field="rowCount" selected="True" />
+                <SelectField field="newCol" selected="True" />
+                <SelectField field="*Unknown" selected="False" />
+              </SelectFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <AnnotationText>Drop Helper Columns</AnnotationText>
+              <DefaultAnnotationText>Drop Helper Columns</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="Field_2" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&lt;.*?&gt;&quot;, &quot;|&quot;)" type="V_WString" />
+                <Field description="Formula: IF Contains([Field_1],&quot;&lt;tr&quot;)&#xA;THEN [Row-1:rowCount] + 1&#xA;ELSE [Row-1:rowCount]&#xA;ENDIF" name="rowCount" source="Formula: IF Contains([Field_1],&quot;&lt;tr&quot;)&#xA;THEN [Row-1:rowCount] + 1&#xA;ELSE [Row-1:rowCount]&#xA;ENDIF" type="Int32" />
+                <Field description="Formula: [Row-1:newCol] + 1" name="newCol" source="Formula: [newCol] + [shiftRight]" type="Int32" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+        </Node>
+      </ChildNodes>
+    </Node>
+    <Node ToolID="63">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="3545" y="450" width="207" height="24" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption>Reconstruct Statement</Caption>
+          <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
+          <Disabled value="False" />
+          <Folded value="True" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="58">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.CrossTab.CrossTab">
+            <Position x="3690" y="499" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <GroupFields>
+                <Field field="rowCount" />
+              </GroupFields>
+              <HeaderField field="newCol" />
+              <DataField field="Field_2" />
+              <Methods>
+                <Method method="First" />
+                <Separator>,</Separator>
+                <FieldSize value="2048" />
+              </Methods>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <AnnotationText>Reconstruct Statement Layout</AnnotationText>
+              <DefaultAnnotationText>Reconstruct Statement Layout</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field description="Formula: IF Contains([Field_1],&quot;&lt;tr&quot;)&#xA;THEN [Row-1:rowCount] + 1&#xA;ELSE [Row-1:rowCount]&#xA;ENDIF" name="rowCount" source="CrossTab:Group:First:" type="Int32" />
+                <Field name="1" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&lt;.*?&gt;&quot;, &quot;|&quot;)" type="V_WString" />
+                <Field name="2" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&lt;.*?&gt;&quot;, &quot;|&quot;)" type="V_WString" />
+                <Field name="3" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&lt;.*?&gt;&quot;, &quot;|&quot;)" type="V_WString" />
+                <Field name="4" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&lt;.*?&gt;&quot;, &quot;|&quot;)" type="V_WString" />
+              </RecordInfo>
+              <SortInfo>
+                <Field field="rowCount" order="Asc" />
+              </SortInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxCrossTab" />
+        </Node>
+        <Node ToolID="59">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.MultiFieldFormula.MultiFieldFormula">
+            <Position x="3786" y="499" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <FieldType>Text</FieldType>
+              <Fields orderChanged="False">
+                <Field name="1" />
+                <Field name="2" />
+                <Field name="3" />
+                <Field name="4" />
+                <Field name="5" />
+                <Field name="*Unknown" />
+              </Fields>
+              <CopyOutput value="False" />
+              <Expression>Trim(REGEX_Replace([_CurrentField_], "[|]+", ""))</Expression>
+              <ChangeFieldType value="False" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <AnnotationText>Remove |</AnnotationText>
+              <DefaultAnnotationText>Trim(REGEX_Replace([_CurrentField_], "[|]+", ""))</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field description="Formula: IF Contains([Field_1],&quot;&lt;tr&quot;)&#xA;THEN [Row-1:rowCount] + 1&#xA;ELSE [Row-1:rowCount]&#xA;ENDIF" name="rowCount" source="CrossTab:Group:First:" type="Int32" />
+                <Field name="1" size="1073741823" source="Formula: Trim(REGEX_Replace([_CurrentField_], &quot;[|]+&quot;, &quot;&quot;))" type="V_WString" />
+                <Field name="2" size="1073741823" source="Formula: Trim(REGEX_Replace([_CurrentField_], &quot;[|]+&quot;, &quot;&quot;))" type="V_WString" />
+                <Field name="3" size="1073741823" source="Formula: Trim(REGEX_Replace([_CurrentField_], &quot;[|]+&quot;, &quot;&quot;))" type="V_WString" />
+                <Field name="4" size="1073741823" source="Formula: Trim(REGEX_Replace([_CurrentField_], &quot;[|]+&quot;, &quot;&quot;))" type="V_WString" />
+              </RecordInfo>
+              <SortInfo>
+                <Field field="rowCount" order="Asc" />
+              </SortInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMultiFieldFormula" />
+        </Node>
+        <Node ToolID="60">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.MultiFieldFormula.MultiFieldFormula">
+            <Position x="3894" y="499" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <FieldType>Text</FieldType>
+              <Fields orderChanged="False">
+                <Field name="2" />
+                <Field name="3" />
+                <Field name="4" />
+                <Field name="*Unknown" />
+                <Field name="1" selected="False" />
+              </Fields>
+              <CopyOutput value="False" />
+              <Expression>Trim(REGEX_Replace([_CurrentField_], "[,\)\$]+", ""))</Expression>
+              <ChangeFieldType value="False" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <AnnotationText>Remove , ) $</AnnotationText>
+              <DefaultAnnotationText>Trim(REGEX_Replace([_CurrentField_], "[,\)\$]+", ""))</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field description="Formula: IF Contains([Field_1],&quot;&lt;tr&quot;)&#xA;THEN [Row-1:rowCount] + 1&#xA;ELSE [Row-1:rowCount]&#xA;ENDIF" name="rowCount" source="CrossTab:Group:First:" type="Int32" />
+                <Field name="1" size="1073741823" source="Formula: Trim(REGEX_Replace([_CurrentField_], &quot;[|]+&quot;, &quot;&quot;))" type="V_WString" />
+                <Field name="2" size="1073741823" source="Formula: Trim(REGEX_Replace([_CurrentField_], &quot;[,\)\$]+&quot;, &quot;&quot;))" type="V_WString" />
+                <Field name="3" size="1073741823" source="Formula: Trim(REGEX_Replace([_CurrentField_], &quot;[,\)\$]+&quot;, &quot;&quot;))" type="V_WString" />
+                <Field name="4" size="1073741823" source="Formula: Trim(REGEX_Replace([_CurrentField_], &quot;[,\)\$]+&quot;, &quot;&quot;))" type="V_WString" />
+              </RecordInfo>
+              <SortInfo>
+                <Field field="rowCount" order="Asc" />
+              </SortInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMultiFieldFormula" />
+        </Node>
+        <Node ToolID="61">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.MultiFieldFormula.MultiFieldFormula">
+            <Position x="3990" y="499" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <FieldType>Text</FieldType>
+              <Fields orderChanged="False">
+                <Field name="2" />
+                <Field name="3" />
+                <Field name="4" />
+                <Field name="*Unknown" />
+                <Field name="1" selected="False" />
+              </Fields>
+              <CopyOutput value="False" />
+              <Expression>Trim(REGEX_Replace([_CurrentField_], "\(", "-"))</Expression>
+              <ChangeFieldType value="False" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <AnnotationText>Reformat Negative Values</AnnotationText>
+              <DefaultAnnotationText>Trim(REGEX_Replace([_CurrentField_], "\(", "-"))</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field description="Formula: IF Contains([Field_1],&quot;&lt;tr&quot;)&#xA;THEN [Row-1:rowCount] + 1&#xA;ELSE [Row-1:rowCount]&#xA;ENDIF" name="rowCount" source="CrossTab:Group:First:" type="Int32" />
+                <Field name="1" size="1073741823" source="Formula: Trim(REGEX_Replace([_CurrentField_], &quot;[|]+&quot;, &quot;&quot;))" type="V_WString" />
+                <Field name="2" size="1073741823" source="Formula: Trim(REGEX_Replace([_CurrentField_], &quot;\(&quot;, &quot;-&quot;))" type="V_WString" />
+                <Field name="3" size="1073741823" source="Formula: Trim(REGEX_Replace([_CurrentField_], &quot;\(&quot;, &quot;-&quot;))" type="V_WString" />
+                <Field name="4" size="1073741823" source="Formula: Trim(REGEX_Replace([_CurrentField_], &quot;\(&quot;, &quot;-&quot;))" type="V_WString" />
+              </RecordInfo>
+              <SortInfo>
+                <Field field="rowCount" order="Asc" />
+              </SortInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMultiFieldFormula" />
+        </Node>
+        <Node ToolID="62">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
+            <Position x="3570" y="499" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <ByName_ErrorMode>Warning</ByName_ErrorMode>
+              <ByName_OutputMode>All</ByName_OutputMode>
+              <Mode>ByName</Mode>
+              <SetOutputOrder value="False" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <AnnotationText>Recombine Header and Body</AnnotationText>
+              <DefaultAnnotationText>Recombine Header and Body</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <MetaInfo connection="Output">
+              <RecordInfo>
+                <Field name="Field_2" size="1073741823" source="Formula: REGEX_Replace([Field_1], &quot;&lt;.*?&gt;&quot;, &quot;|&quot;)" type="V_WString" />
+                <Field description="Formula: IF Contains([Field_1],&quot;&lt;tr&quot;)&#xA;THEN [Row-1:rowCount] + 1&#xA;ELSE [Row-1:rowCount]&#xA;ENDIF" name="rowCount" source="Formula: IF Contains([Field_1],&quot;&lt;tr&quot;)&#xA;THEN [Row-1:rowCount] + 1&#xA;ELSE [Row-1:rowCount]&#xA;ENDIF" type="Int32" />
+                <Field description="Formula: [Row-1:newCol] + 1" name="newCol" source="Formula: (Multiple Sources)" type="Int32" />
+              </RecordInfo>
+            </MetaInfo>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnion" />
+        </Node>
+      </ChildNodes>
+    </Node>
+    <Node ToolID="66">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="4493" y="522" width="167" height="149" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption>Save Statement</Caption>
+          <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
+          <Disabled value="False" />
+          <Folded value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="64">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+            <Position x="4518" y="571" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <File FileFormat="19" MaxRecords="">..\_externals\1\OUTPUT.yxdb</File>
+              <Passwords />
+              <Disable>False</Disable>
+              <FormatSpecificOptions>
+                <NoSpatialIndex>False</NoSpatialIndex>
+                <SaveSource>True</SaveSource>
+                <WriteCompatibleVersion>False</WriteCompatibleVersion>
+              </FormatSpecificOptions>
+              <MultiFile value="True" />
+              <MultiFileType>FileName</MultiFileType>
+              <MultiFileField>name</MultiFileField>
+              <KeepField value="False" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>OUTPUT.yxdb</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+        </Node>
+      </ChildNodes>
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="5" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="4" Connection="False" />
+      <Destination ToolID="14" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="4" Connection="True" />
+      <Destination ToolID="16" Connection="Source" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="8" Connection="Output" />
+      <Destination ToolID="16" Connection="Targets" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="5" Connection="Output" />
+      <Destination ToolID="4" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="8" Connection="Output" />
+      <Destination ToolID="19" Connection="Targets" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="17" Connection="True" />
+      <Destination ToolID="19" Connection="Source" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="16" Connection="Output" />
+      <Destination ToolID="17" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="17" Connection="True" />
+      <Destination ToolID="6" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="19" Connection="Output" />
+      <Destination ToolID="20" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="20" Connection="True" />
+      <Destination ToolID="22" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="20" Connection="True" />
+      <Destination ToolID="25" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="70" Connection="Output" />
+      <Destination ToolID="65" Connection="Targets" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="24" Connection="Unique" />
+      <Destination ToolID="65" Connection="Source" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="65" Connection="Output" />
+      <Destination ToolID="72" Connection="Targets" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="72" Connection="Output" />
+      <Destination ToolID="64" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="22" Connection="Output" />
+      <Destination ToolID="68" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="68" Connection="Output" />
+      <Destination ToolID="24" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="14" Connection="Output" />
+      <Destination ToolID="7" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="25" Connection="Output" />
+      <Destination ToolID="28" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="28" Connection="Output" />
+      <Destination ToolID="29" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="29" Connection="Output" />
+      <Destination ToolID="31" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="31" Connection="True" />
+      <Destination ToolID="33" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="32" Connection="Output" />
+      <Destination ToolID="36" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="33" Connection="Output" />
+      <Destination ToolID="32" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="36" Connection="False" />
+      <Destination ToolID="37" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="36" Connection="False" />
+      <Destination ToolID="38" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="37" Connection="Output" />
+      <Destination ToolID="38" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="36" Connection="True" />
+      <Destination ToolID="45" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="44" Connection="Output" />
+      <Destination ToolID="45" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="36" Connection="True" />
+      <Destination ToolID="44" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="37" Connection="Output" />
+      <Destination ToolID="47" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="38" Connection="Join" />
+      <Destination ToolID="39" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="39" Connection="True" />
+      <Destination ToolID="41" Connection="Input" />
+    </Connection>
+    <Connection name="#2">
+      <Origin ToolID="40" Connection="Output" />
+      <Destination ToolID="62" Connection="Input" />
+    </Connection>
+    <Connection name="#1">
+      <Origin ToolID="56" Connection="Output" />
+      <Destination ToolID="62" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="41" Connection="Output" />
+      <Destination ToolID="42" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="42" Connection="Output" />
+      <Destination ToolID="40" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="45" Connection="Join" />
+      <Destination ToolID="46" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="46" Connection="True" />
+      <Destination ToolID="49" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="47" Connection="True" />
+      <Destination ToolID="48" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="48" Connection="Output" />
+      <Destination ToolID="50" Connection="Source" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="52" Connection="Output" />
+      <Destination ToolID="50" Connection="Targets" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="49" Connection="Output" />
+      <Destination ToolID="51" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="50" Connection="Output" />
+      <Destination ToolID="53" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="51" Connection="Output" />
+      <Destination ToolID="52" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="51" Connection="Output" />
+      <Destination ToolID="54" Connection="Targets" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="53" Connection="Output" />
+      <Destination ToolID="54" Connection="Source" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="54" Connection="Output" />
+      <Destination ToolID="55" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="55" Connection="Output" />
+      <Destination ToolID="56" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="58" Connection="Output" />
+      <Destination ToolID="59" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="59" Connection="Output" />
+      <Destination ToolID="60" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="60" Connection="Output" />
+      <Destination ToolID="61" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="61" Connection="Output" />
+      <Destination ToolID="70" Connection="Targets" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="62" Connection="Output" />
+      <Destination ToolID="58" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <Constants>
+      <Constant>
+        <Namespace>Question</Namespace>
+        <Name>Result</Name>
+        <Value />
+        <IsNumeric value="False" />
+      </Constant>
+      <Constant>
+        <Namespace>Question</Namespace>
+        <Name>Iterate</Name>
+        <Value />
+        <IsNumeric value="False" />
+      </Constant>
+      <Constant>
+        <Namespace>Question</Namespace>
+        <Name>Macro Input (8)</Name>
+        <Value />
+        <IsNumeric value="False" />
+      </Constant>
+    </Constants>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Process_v1</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="55e943fe-2727-467e-8fa3-4e86df76835c" />
+      <Telemetry>
+        <PreviousWorkflowId value="fcee600a-5b6b-4624-94c3-fca516aa25b5" />
+        <OriginWorkflowId value="1887afa9-c252-453c-8498-e20fd886158e" />
+      </Telemetry>
+      <PlatformWorkflowId value="" />
+    </MetaInfo>
+    <Events>
+      <Enabled value="False" />
+    </Events>
+    <RuntimeProperties>
+      <Actions />
+      <Questions>
+        <Question>
+          <Type>Tab</Type>
+          <Description>Questions</Description>
+          <Name>Tab (2)</Name>
+          <ToolId value="2" />
+          <Questions>
+            <Question>
+              <Type>MacroInput</Type>
+              <Description />
+              <Name>Macro Input (1)</Name>
+              <ToolId value="1" />
+            </Question>
+            <Question>
+              <Type>MacroOutput</Type>
+              <Description>Result</Description>
+              <Name>Result</Name>
+              <ToolId value="6" />
+            </Question>
+            <Question>
+              <Type>MacroOutput</Type>
+              <Description>Macro Output (6)</Description>
+              <Name>Iterate</Name>
+              <ToolId value="7" />
+            </Question>
+            <Question>
+              <Type>MacroInput</Type>
+              <Description />
+              <Name>Macro Input (8)</Name>
+              <ToolId value="8" />
+            </Question>
+          </Questions>
+        </Question>
+      </Questions>
+      <ModuleType>Macro</ModuleType>
+      <MacroCustomHelp value="False" />
+      <MacroDynamicOutputFields value="False" />
+      <MacroImageStd value="39" />
+      <MacroInputs />
+      <MacroOutputs />
+      <IterativeMacro>
+        <Input>Sheet Names</Input>
+        <Output>Iterate</Output>
+        <IterationLimit value="100" />
+        <LimitBehavior>Error</LimitBehavior>
+        <OutputMode>AllSame</OutputMode>
+      </IterativeMacro>
+      <Wiz_CustomHelp value="False" />
+      <Wiz_CustomGraphic value="False" />
+      <Wiz_ShowOutput value="True" />
+      <Wiz_OpenOutputTools>
+        <Tool ToolId="1" Selected="True" />
+        <Tool ToolId="6" Selected="True" />
+        <Tool ToolId="8" Selected="True" />
+        <Tool ToolId="7" Selected="True" />
+        <Tool ToolId="64" Selected="True" />
+      </Wiz_OpenOutputTools>
+      <Wiz_OutputMessage />
+      <Wiz_NoOutputFilesMessage />
+      <Wiz_ChainRunWizard />
+    </RuntimeProperties>
+  </Properties>
+</AlteryxDocument>

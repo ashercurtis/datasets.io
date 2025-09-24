@@ -1,0 +1,111 @@
+UniqueID,LastName,MiddleInitial,FirstName,Gender,JobTitle,Department,HireDate,TerminationDate,AnnualSalary
+100001,Smith,A,John,male,Manager,Sales,15/03/2015,,75000
+100002,Doe,N,Jane,female,Analyst,Finance,20/05/2016,,68000
+100003,Brown,Z,Mike,male,Technician,Operations,10/07/2017,,55000
+100004,Johnson,M,Sara,female,Engineer,R&D,01/08/2018,,80000
+100005,White,P,Chris,male,Clerk,Administration,25/09/2019,,40000
+100006,Garcia,L,Alice,female,Sales Associate,Sales,10/01/2020,,45000
+100007,Martinez,Q,Bob,male,Technician,Operations,15/12/2017,,57000
+100008,Wilson,T,Susan,female,HR Specialist,HR,30/06/2016,,62000
+100009,Moore,R,Tim,male,Driver,Logistics,05/04/2019,,48000
+100010,Taylor,C,Linda,female,Marketing Director,Marketing,10/11/2015,,90000
+100011,Anderson,H,Robert,male,Sales Manager,Sales,12/05/2014,,75000
+100012,Thomas,V,Mary,female,Accountant,Finance,23/08/2020,,62000
+100013,Jackson,S,Kevin,male,Software Engineer,IT,02/01/2021,,95000
+100014,White,X,Emma,female,Data Analyst,Finance,09/02/2018,,68000
+100015,Harris,Y,James,male,Logistics Coordinator,Logistics,30/10/2016,,52000
+100016,Martin,B,Isabella,female,HR Manager,HR,18/03/2015,,72000
+100017,Thompson,E,Daniel,male,Maintenance Worker,Operations,17/06/2017,,45000
+100018,Garcia,K,Emma,female,Marketing Specialist,Marketing,24/04/2019,,49000
+100019,Martinez,W,Aiden,male,Sales Associate,Sales,08/12/2020,,43000
+100020,Miller,J,Charlotte,female,Customer Service Rep,Sales,15/01/2021,,42000
+100021,Williams,R,Olivia,female,Product Manager,Product Development,11/07/2020,,88000
+100022,Robinson,D,Liam,male,IT Support,IT,05/09/2019,,50000
+100023,Clark,T,Sophia,female,Marketing Coordinator,Marketing,20/03/2018,,48000
+100024,Rodriguez,H,Noah,male,Warehouse Supervisor,Logistics,13/10/2016,,62000
+100025,Levine,M,Chloe,female,Recruiter,HR,19/04/2017,,65000
+100026,Lewis,G,Ethan,male,Finance Director,Finance,22/11/2015,,100000
+100027,Walker,C,Emma,female,Quality Assurance,Operations,15/06/2021,,54000
+100028,Hall,P,Ava,female,Training Specialist,HR,28/02/2020,,47000
+100029,Young,B,Lucas,male,Systems Analyst,IT,03/05/2019,,70000
+100030,Allen,N,Mia,female,Brand Manager,Marketing,11/01/2018,,72000
+100031,Sanchez,A,Jackson,male,Data Engineer,IT,12/12/2020,,95000
+100032,King,J,Amelia,female,Executive Assistant,Administration,20/08/2016,,50000
+100033,Wright,K,Alexander,male,Research Scientist,R&D,15/07/2018,,85000
+100034,Scott,T,Emily,female,Field Technician,Operations,21/01/2019,,49000
+100035,Green,L,Matthew,male,Content Writer,Marketing,10/04/2017,,60000
+100036,Adams,S,Grace,female,Payroll Specialist,Finance,16/09/2015,,58000
+100037,Baker,D,Henry,male,Facilities Manager,Operations,18/02/2020,,72000
+100038,Nelson,W,Scarlett,female,Product Designer,Product Development,01/05/2021,,76000
+100039,Carter,R,Samuel,male,Data Scientist,IT,27/11/2019,,95000
+100040,Mitchell,V,Zoe,female,Customer Success Manager,Sales,15/03/2018,,65000
+100041,Perez,L,David,male,Supply Chain Analyst,Logistics,02/06/2016,,59000
+100042,Roberts,G,Audrey,female,UX Designer,Marketing,12/07/2017,,64000
+100043,Turner,S,Joseph,male,IT Manager,IT,25/08/2015,,90000
+100044,Phillips,Y,Elijah,male,Technical Support,IT,20/02/2019,,51000
+100045,Campbell,K,Aria,female,Graphic Designer,Marketing,14/10/2020,,45000
+100046,Parker,M,Isaac,male,Operations Analyst,Operations,11/03/2018,,57000
+100047,Evans,B,Penelope,female,Legal Assistant,Legal,29/01/2021,,60000
+100048,Edwards,J,Matthew,male,Network Administrator,IT,06/09/2016,,71000
+100049,Collins,T,Nora,female,Marketing Analyst,Marketing,23/10/2017,,59000
+100050,Stewart,H,James,male,Client Relations,Sales,18/06/2020,,67000
+100051,Flores,L,Cameron,male,Operations Manager,Operations,27/04/2019,,83000
+100052,Nguyen,M,Chloe,female,Data Entry Clerk,Administration,01/12/2018,,40000
+100053,Gray,K,Asher,male,Sales Executive,Sales,15/11/2016,,60000
+100054,Sims,T,Sofia,female,HR Coordinator,HR,10/05/2015,,45000
+100055,Morris,C,Jackson,male,Quality Control,Operations,22/09/2017,,50000
+100056,Reyes,V,Victoria,female,Event Planner,Marketing,09/02/2021,,72000
+100057,Price,D,Madison,female,Logistics Analyst,Logistics,28/03/2018,,58000
+100058,James,K,Oliver,male,Assistant Manager,Sales,11/08/2019,,65000
+100059,Bennett,A,Hannah,female,Web Developer,IT,20/04/2020,,74000
+100060,Cox,S,Aiden,male,Account Executive,Finance,15/07/2017,,69000
+100061,Howard,J,Grace,female,Social Media Manager,Marketing,06/10/2016,,55000
+100062,Harper,T,Liam,male,Research Assistant,R&D,04/01/2018,,50000
+100063,Hughes,W,Savannah,female,Administrative Officer,Administration,14/09/2019,,49000
+100064,Wood,D,Logan,male,Warehouse Associate,Logistics,12/11/2020,,43000
+100065,Watson,R,Addison,female,SEO Specialist,Marketing,21/05/2021,,58000
+100066,Butler,K,Leo,male,Customer Support,Sales,18/02/2017,,45000
+100067,Alexander,P,Emily,female,Compliance Officer,Legal,09/03/2019,,62000
+100068,Russell,G,Lucas,male,IT Consultant,IT,22/10/2016,,88000
+100069,Griffin,B,Zoe,female,HR Assistant,HR,15/12/2018,,40000
+100070,Diaz,L,Jackson,male,Sales Support,Sales,20/06/2015,,42000
+100071,Hayes,S,Lily,female,Graphic Artist,Marketing,07/09/2020,,55000
+100072,Myers,A,Henry,male,Senior Developer,IT,01/01/2021,,95000
+100073,Grant,T,Ellie,female,Insurance Agent,Finance,26/08/2016,,72000
+100074,Reed,C,Samuel,male,IT Analyst,IT,14/07/2019,,60000
+100075,Campbell,E,Mila,female,Customer Experience Specialist,Sales,19/02/2018,,47000
+100076,Long,D,Emma,female,Logistics Coordinator,Logistics,30/11/2017,,48000
+100077,Scott,K,Jaxon,male,Operations Supervisor,Operations,13/03/2020,,72000
+100078,Morris,T,Ava,female,Product Analyst,Product Development,15/09/2015,,50000
+100079,Nguyen,L,Oliver,male,HR Generalist,HR,24/05/2019,,63000
+100080,Stevens,R,Layla,female,Market Researcher,Marketing,19/01/2018,,54000
+100081,Washington,D,Isaiah,male,Corporate Trainer,HR,21/10/2016,,60000
+100082,Garcia,B,Charlotte,female,Procurement Specialist,Operations,12/04/2017,,65000
+100083,Lopez,M,Caleb,male,Database Administrator,IT,11/12/2019,,78000
+100084,Bailey,A,Amelia,female,Financial Analyst,Finance,08/06/2016,,59000
+100085,Perry,T,Max,male,Sales Intern,Sales,15/02/2021,,35000
+100086,Martin,S,Abigail,female,Operations Analyst,Operations,23/07/2019,,57000
+100087,Cox,M,Jasmine,female,Digital Marketing Specialist,Marketing,04/11/2018,,62000
+100088,Reyes,L,Isaac,male,Graphic Designer,Marketing,18/01/2020,,55000
+100089,Washington,D,Riley,female,Client Services Manager,Sales,02/03/2016,,70000
+100090,Roberts,J,Emma,female,Warehouse Manager,Logistics,20/05/2018,,75000
+100091,Brown,R,Carter,male,Operations Technician,Operations,05/12/2020,,48000
+100092,Hall,E,Victoria,female,IT Security Analyst,IT,14/08/2019,,72000
+100093,Morris,L,Henry,male,Marketing Specialist,Marketing,25/09/2017,,54000
+100094,Taylor,K,Lucy,female,Compliance Specialist,Legal,10/03/2020,,62000
+100095,King,B,Oliver,male,Technical Writer,R&D,15/04/2018,,58000
+100096,Lee,C,Aria,female,Senior Recruiter,HR,21/06/2019,,68000
+100097,Bailey,J,Avery,female,Social Media Specialist,Marketing,04/02/2021,,45000
+100098,Gonzalez,A,Maddox,male,Operations Director,Operations,22/01/2017,,95000
+100099,Martinez,T,Alice,female,Account Manager,Finance,11/07/2020,,70000
+100100,Young,M,Mason,male,Logistics Analyst,Logistics,10/12/2015,,60000
+100101,Scott,P,Oliver,male,Product Manager,Product Development,13/11/2018,,83000
+100102,Carter,D,Evelyn,female,Brand Strategist,Marketing,18/08/2016,,64000
+100103,Mitchell,L,Isaiah,male,Technical Support Specialist,IT,19/02/2019,,49000
+100104,Thompson,S,Luna,female,HR Business Partner,HR,02/10/2020,,70000
+100105,Perez,K,Noah,male,Quality Manager,Operations,12/09/2018,,68000
+100106,Lee,R,Charlotte,female,Executive Recruiter,HR,30/05/2021,,74000
+100107,Cole,A,Henry,male,IT Support Specialist,IT,17/04/2019,,45000
+100108,Wood,S,Amelia,female,Operations Supervisor,Operations,25/01/2020,,62000
+100109,Campbell,J,Zoe,female,Administrative Coordinator,Administration,05/12/2018,,50000
+100110,Harris,L,Amy,female,Administrative Assistant,Administration,01/02/2022,,42000

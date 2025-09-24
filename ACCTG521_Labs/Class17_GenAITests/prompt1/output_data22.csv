@@ -1,0 +1,111 @@
+UniqueID,LastName,MiddleInitial,FirstName,Gender,Job Title,Department,HireDate,TerminationDate,AnnualSalary
+1,NA,F,Mariana,female,Customer Service Rep,Admin,31/10/1959,,32813
+2,Lima,F,Ana,male,Engineer,Marketing,04/01/1959,,118785
+3,Oliveira,A,Carlos,male,IT Specialist,IT,31/05/1964,,75262
+4,NA,D,Pedro,male,Production Worker,Admin,13/11/2023,,49817
+5,Vieira,NA,Fernanda,other,CFO,Admin,13/11/2018,,368389
+6,Costa,NA,Pedro,female,Administrative Assistant,HR,20/06/1972,,47987
+7,NA,F,Carlos,male,Marketing Coordinator,Admin,19/02/1980,,65185
+8,Santos,E,Mariana,female,CEO,Sales,20/06/1957,,448735
+9,Santos,B,Sofia,male,Engineer,HR,28/05/1957,,89254
+10,Lima,B,Mateus,female,Sales Associate,Admin,19/11/1997,,68609
+11,Almeida,D,Pedro,male,IT Specialist,Sales,16/11/2012,,96983
+12,Costa,B,Pedro,female,Customer Service Rep,Finance,28/06/1954,,37864
+13,Santos,NA,Pedro,female,IT Specialist,Admin,28/11/1954,,88718
+14,Oliveira,NA,Luiz,female,HR Manager,IT,17/05/2000,,109005
+15,Lima,F,Pedro,other,CFO,Customer Service,30/01/2015,,326758
+16,Pereira,B,Clara,other,Administrative Assistant,Marketing,24/09/1987,,40556
+17,Vieira,NA,Mariana,female,Sales Associate,IT,12/02/1958,09/10/2018,54335
+18,Soares,E,Luiz,male,CEO,IT,31/01/1976,,337073
+19,Soares,C,Clara,female,Engineer,HR,23/03/2017,,93283
+20,Silva,NA,Mateus,female,Engineer,Engineering,18/09/1976,,105524
+21,Santos,D,João,other,IT Specialist,Engineering,03/08/1955,,89498
+22,Costa,A,Ana,other,CEO,Engineering,11/07/1980,,377090
+23,Pereira,A,Clara,male,Engineer,HR,15/05/1952,,118298
+24,Soares,D,Fernanda,female,IT Specialist,IT,17/05/2004,,73984
+25,Soares,C,Luiz,female,CEO,Finance,30/08/2003,,477328
+26,Almeida,E,Clara,male,Sales Associate,Marketing,20/07/1988,,57157
+27,Almeida,NA,Luiz,male,HR Manager,Production,17/12/1965,10/08/1997,107377
+28,Pereira,B,Clara,male,IT Specialist,Customer Service,27/01/1962,,75062
+29,Pereira,A,Ana,female,Engineer,IT,03/09/1951,,102576
+30,Almeida,E,Carlos,female,CFO,Finance,03/04/1980,,264482
+31,Costa,E,Mariana,female,HR Manager,Production,06/03/1982,20/06/1990,100028
+32,Silva,E,Ana,other,Engineer,Production,01/03/1996,,89937
+33,Pereira,NA,Clara,male,HR Manager,IT,28/07/2018,16/02/2021,112899
+34,Oliveira,C,Pedro,female,Production Worker,IT,24/03/2007,,39546
+35,Pereira,B,Mariana,female,Engineer,Sales,20/08/2010,,100742
+36,Silva,A,Luiz,male,Engineer,Admin,10/12/1969,,109310
+37,Soares,NA,Mariana,male,HR Manager,Marketing,05/02/2005,,130651
+38,Almeida,NA,Mateus,male,CFO,Production,07/02/2014,,252626
+39,Oliveira,NA,Sofia,other,Customer Service Rep,Finance,24/02/2020,,44929
+40,Oliveira,B,Ana,other,CEO,Marketing,25/04/2009,,405588
+41,Oliveira,D,Sofia,female,CFO,Engineering,22/05/1990,,393427
+42,Santos,B,Clara,female,Administrative Assistant,IT,19/04/1959,,49044
+43,Soares,E,Luiz,male,Engineer,Engineering,25/04/1999,,96614
+44,NA,NA,Clara,male,Administrative Assistant,IT,26/09/2008,04/05/2016,44002
+45,Costa,E,Mariana,male,Marketing Coordinator,Finance,11/02/2023,,55140
+46,Silva,B,Pedro,other,HR Manager,HR,11/08/1976,04/02/2021,102205
+47,Oliveira,NA,Ana,female,IT Specialist,IT,08/07/1980,,85586
+48,Silva,A,Sofia,male,Sales Associate,Customer Service,16/02/2004,,63647
+49,Vieira,B,Sofia,male,CEO,HR,27/02/1961,,388207
+50,Santos,E,João,female,Engineer,Production,10/02/1953,,101377
+51,Oliveira,C,Mateus,other,Sales Associate,HR,01/07/1991,,56519
+52,Oliveira,A,Fernanda,male,CEO,IT,05/10/2006,19/06/2022,369066
+53,Almeida,B,João,other,Administrative Assistant,Customer Service,13/10/2023,,49526
+54,Lima,B,Sofia,male,Sales Associate,Admin,14/04/1973,08/02/2020,43968
+55,NA,E,Ana,male,Customer Service Rep,HR,17/05/1997,,41878
+56,Oliveira,F,Fernanda,female,Customer Service Rep,Production,18/02/1987,,34350
+57,Almeida,C,Mariana,other,Customer Service Rep,HR,18/05/2021,,40691
+58,Lima,A,Pedro,other,Engineer,Admin,01/03/1957,,107220
+59,Pereira,B,Carlos,other,Marketing Coordinator,Admin,03/01/2012,,76804
+60,Costa,B,Sofia,other,IT Specialist,Customer Service,16/05/1974,07/11/1975,93577
+61,Almeida,D,Fernanda,male,Sales Associate,Marketing,30/07/1976,,45757
+62,Santos,NA,Sofia,female,Customer Service Rep,Admin,08/11/1951,,43513
+63,Almeida,C,Luiz,male,CFO,Sales,14/02/1971,,350106
+64,Oliveira,C,Ana,other,Customer Service Rep,Admin,05/06/2001,02/04/2009,36571
+65,Santos,E,Luiz,other,Production Worker,Customer Service,24/08/1966,,49315
+66,NA,B,Luiz,male,CFO,Sales,18/05/1959,02/01/1983,383769
+67,NA,E,Clara,male,Sales Associate,Marketing,10/06/1989,,58149
+68,Santos,A,Pedro,female,IT Specialist,Sales,05/03/1957,,71477
+69,Lima,F,Mariana,other,CEO,Engineering,28/10/1965,,384761
+70,Costa,C,Sofia,female,Administrative Assistant,Sales,26/07/1955,,36927
+71,Soares,F,Mateus,female,IT Specialist,Production,13/08/2019,,76244
+72,Lima,C,Carlos,other,Sales Associate,Finance,22/03/2011,08/01/2022,57490
+73,Oliveira,E,Fernanda,male,Administrative Assistant,Customer Service,29/04/2015,15/08/2018,43282
+74,Silva,F,Mateus,male,IT Specialist,Marketing,31/12/1996,,79346
+75,NA,NA,Ana,female,Sales Associate,Marketing,12/03/1981,,50163
+76,Lima,E,Luiz,other,IT Specialist,Production,22/09/2013,,97376
+77,Soares,F,Carlos,other,CFO,Customer Service,02/02/1967,,262026
+78,Santos,NA,Carlos,other,Production Worker,Sales,13/07/1982,,41309
+79,Oliveira,D,Pedro,male,Production Worker,HR,20/04/1964,07/12/1988,32231
+80,Pereira,D,Carlos,female,Engineer,Finance,24/05/1984,,81514
+81,Costa,F,Mateus,female,Customer Service Rep,HR,11/01/2005,22/01/2010,38420
+82,Lima,B,Clara,male,Production Worker,Customer Service,13/11/1975,,36045
+83,Soares,B,Mariana,male,Marketing Coordinator,Marketing,07/03/2023,,79919
+84,Almeida,F,Clara,female,HR Manager,Customer Service,04/03/2003,19/04/2019,137875
+85,Soares,A,Luiz,male,Marketing Coordinator,IT,27/04/1957,27/11/1979,66398
+86,Vieira,E,Mateus,other,CEO,Engineering,09/07/2006,,498681
+87,Oliveira,B,Mateus,female,Administrative Assistant,IT,31/10/1968,,39416
+88,Silva,A,Sofia,male,Administrative Assistant,HR,14/12/2004,,37720
+89,Costa,F,João,male,CFO,Admin,10/12/1966,23/01/1984,328855
+90,Soares,C,Pedro,male,Customer Service Rep,Admin,27/03/1961,,36889
+91,Silva,B,João,other,CEO,Sales,18/03/1958,,343864
+92,Santos,D,Sofia,male,CEO,Customer Service,12/10/1970,,300678
+93,Santos,NA,Fernanda,male,IT Specialist,Production,08/04/2000,12/10/2013,92041
+94,NA,D,Sofia,other,Engineer,Engineering,12/10/2001,,82786
+95,Silva,E,Mariana,female,Marketing Coordinator,Marketing,30/07/1988,09/04/2020,74750
+96,Pereira,C,Clara,male,IT Specialist,Finance,23/08/1964,,98344
+97,Lima,NA,Clara,male,Engineer,Marketing,26/03/1982,17/10/2021,90692
+98,Almeida,NA,Luiz,other,IT Specialist,Marketing,13/12/1993,,75223
+99,Oliveira,C,Mateus,male,CFO,Engineering,10/05/1958,,400179
+100,Vieira,B,Mariana,other,IT Specialist,Sales,07/11/1957,,76287
+101,Silva,D,Sofia,male,CEO,Customer Service,23/02/1967,12/07/1971,311749
+102,Costa,F,Sofia,other,Sales Associate,HR,30/01/1967,,50751
+103,Lima,B,Carlos,other,Customer Service Rep,Sales,17/05/1972,,33844
+104,Oliveira,B,Clara,other,Engineer,Finance,29/01/1962,,118734
+105,Soares,D,Sofia,female,CFO,Production,20/12/1975,,267384
+106,Costa,B,Luiz,male,Marketing Coordinator,Sales,23/01/1970,,68172
+107,Costa,NA,Pedro,female,CEO,Sales,08/11/2015,,416651
+108,Pereira,NA,Luiz,male,Administrative Assistant,Customer Service,26/03/1987,,39617
+109,Vieira,NA,Mariana,female,Engineer,Customer Service,22/11/1983,,98960
+110,Santos,NA,Sofia,female,HR Manager,Sales,17/03/2009,,141197

@@ -1,0 +1,76 @@
+UniqueID	LastName	MiddleInitial	FirstName	Gender	Job Title	Department	HireDate	TerminationDate	AnnualSalary
+1	Johnson	I	Charles	other	Clerk	Legal	30/04/1975	08/03/2021	48896
+2	Johnson	G	David	male	Technician	Sales	22/06/1990		44956
+3	Smith	B	James	male	Engineer	Legal	16/03/1960		69959
+4	Brown	P	William	female	Manager	Legal	12/11/2000	08/05/1971	112085
+5	Smith	O	Michael	male	Manager	Engineering	09/07/2018	29/02/1964	118572
+6	Wilson	K	NA	male	Technician	Legal	20/11/1971		38530
+7	Johnson	N	John	male	Clerk	Sales	09/06/2019		44959
+8	NA	M	James	female	Assistant	Sales	22/04/1958		114901
+9	Davis	T	Robert	male	Executive	Sales	16/12/2016		49980
+10	Davis	D	Charles	male	Technician	HR	27/09/1961		63225
+11	Brown	E	James	other	Executive	Legal	06/10/1977	28/03/2021	62507
+12	Miller	T	James	male	Manager	IT	06/10/2012	11/05/1986	67683
+13	Johnson	Y	William	male	Clerk	Finance	24/12/1980	30/05/1991	84987
+14	NA	G	NA	female	Technician	Finance	10/12/1973	31/03/1961	46034
+15	Brown	B	Joseph	female	Clerk	HR	01/06/1980		108943
+16	Davis	O	Joseph	other	Executive	Legal	08/01/1998	07/10/1970	30928
+17	NA	P	NA	female	Assistant	Sales	05/05/1995	14/04/1989	94954
+18	Wilson	S	Michael	other	Executive	Legal	02/05/1981		30450
+19	Johnson	Q	James	male	Engineer	HR	18/09/1983		118056
+20	Davis	Q	NA	male	Analyst	HR	10/09/1956		82399
+21	Jones	V	NA	other	Manager	Sales	18/08/1970		52289
+22	Wilson	Y	David	female	Technician	Legal	20/07/1996		83374
+23	NA	B	William	female	Manager	Finance	05/08/2020		88779
+24	Wilson	T	David	female	Executive	HR	30/12/1965		68979
+25	Jones	F	Robert	female	Executive	Engineering	15/05/2023		44028
+26	Brown	Q	Robert	other	Assistant	HR	03/04/1954		89832
+27	Wilson	O	Joseph	male	Technician	Sales	09/02/1987		53595
+28	Brown	P	James	other	Engineer	Finance	30/06/1990	05/05/1955	84203
+29	Davis	P	Robert	female	Analyst	Operations	26/05/2001		90728
+30	Jones	W	Michael	other	Assistant	Finance	04/11/1997		45710
+31	Johnson	A	William	female	Clerk	Finance	12/10/1999		119941
+32	Wilson	T	David	female	Technician	Sales	01/06/2011		36989
+33	Johnson	X	John	female	Assistant	IT	05/08/1983		113620
+34	Brown	NA	Michael	male	Engineer	IT	22/12/1988	02/12/1965	57540
+35	Miller	Y	James	male	Analyst	Legal	11/09/1986		104168
+36	Brown	O	John	other	Executive	Finance	04/11/1994	18/05/1979	109146
+37	Williams	R	Joseph	female	Manager	Legal	08/10/1972		84100
+38	Smith	I	NA	female	Clerk	HR	05/06/2015	24/07/1992	74542
+39	Davis	P	Joseph	male	Clerk	Sales	04/02/1976	10/05/1980	68117
+40	NA	Z	James	female	Analyst	Operations	22/09/1976		37028
+41	NA	M	Charles	male	Technician	Engineering	04/05/1954		67087
+42	Miller	J	Michael	female	Technician	Legal	11/01/1958	17/05/2017	81525
+43	NA	O	John	male	Analyst	Finance	11/04/1972		86783
+44	NA	L	David	female	Manager	IT	08/08/1982		77188
+45	Smith	C	Charles	male	Manager	Operations	27/10/1988		109700
+46	NA	D	William	female	Manager	Legal	08/05/1954		89098
+47	Brown	G	William	female	Analyst	Legal	20/10/1980		41257
+48	Johnson	D	James	male	Executive	Operations	22/12/2007	07/03/2020	30046
+49	NA	C	Michael	male	Assistant	Sales	05/12/1984		68977
+50	Miller	Z	Charles	other	Executive	Legal	28/02/1993		37517
+51	Williams	Y	Michael	other	Manager	Engineering	27/01/1975		35688
+52	Miller	I	Robert	other	Executive	HR	19/01/2007	08/08/1987	89598
+53	Wilson	G	David	female	Assistant	IT	08/02/2000		74717
+54	Miller	A	NA	other	Analyst	Sales	22/11/1964		72695
+55	Smith	W	Robert	female	Technician	Engineering	15/05/1996	12/01/2002	80209
+56	Davis	L	Robert	other	Technician	Engineering	25/10/2007		64986
+57	Miller	V	James	female	Assistant	Engineering	11/09/2007		77851
+58	Davis	E	Michael	female	Assistant	HR	25/05/1987		59816
+59	Wilson	A	Robert	other	Assistant	IT	08/08/2010		48993
+60	Williams	V	David	male	Manager	Operations	01/06/2012	18/04/1955	50449
+61	Brown	S	John	male	Technician	IT	11/08/1980	12/10/1986	41346
+62	NA	E	Charles	male	Technician	Operations	09/05/1964	02/09/1957	39537
+63	Davis	A	Joseph	female	Technician	Engineering	20/06/1985		62973
+64	Wilson	Y	Charles	male	Technician	HR	09/06/1970		74236
+65	NA	U	William	other	Manager	HR	13/09/1973		101160
+66	Williams	O	Robert	female	Manager	Sales	06/08/2019		49971
+67	Brown	N	John	male	Analyst	IT	04/02/2005		111102
+68	NA	N	John	male	Manager	HR	30/11/1965		84294
+69	Jones	G	James	other	Assistant	Legal	24/02/1970		64784
+70	Brown	I	Robert	male	Executive	Sales	24/01/1970		34142
+71	NA	N	James	male	Assistant	Legal	19/05/1962		36961
+72	NA	D	Michael	other	Manager	IT	14/10/1996		112925
+73	Jones	L	David	female	Technician	IT	05/08/2016		76005
+74	Smith	W	Michael	other	Technician	Sales	07/06/1997	23/10/1994	66404
+75	Davis	P	James	male	Engineer	Operations	02/09/1989		30006

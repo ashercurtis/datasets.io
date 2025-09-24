@@ -1,0 +1,81 @@
+uniqueid,lastname,middleinitial,firstname,gender,job title,department,hiredate,terminationdate,annualsalary
+1001,Smith,J,John,M,Software Engineer,IT,15/01/2024,null,80000
+1002,Jones,A,Emily,F,Project Manager,Operations,22/02/2024,null,95000
+1003,Brown,L,Michael,M,Data Analyst,Finance,30/03/2024,null,70000
+1004,Davis,K,Sarah,F,HR Specialist,Human Resources,10/04/2024,null,60000
+1005,Miller,R,David,M,Marketing Coordinator,Marketing,25/05/2024,null,55000
+1006,Wilson,T,Jessica,F,Sales Associate,Sales,15/06/2024,null,45000
+1007,Moore,B,Daniel,M,Web Developer,IT,05/07/2024,null,78000
+1008,Taylor,C,Karen,F,Product Manager,Product,15/08/2024,null,90000
+1009,Anderson,D,Matthew,M,Customer Support,Support,20/09/2024,null,42000
+1010,Thomas,E,Nancy,F,Accountant,Finance,30/10/2024,null,65000
+1011,Jackson,F,Joseph,M,Graphic Designer,Marketing,12/01/2024,null,57000
+1012,White,G,Laura,F,Network Engineer,IT,25/02/2024,null,85000
+1013,Harris,H,Andrew,M,Operations Manager,Operations,18/03/2024,null,100000
+1014,Martin,I,Jennifer,F,Research Analyst,R&D,15/04/2024,null,68000
+1015,Thompson,J,Paul,M,Legal Advisor,Legal,05/05/2024,null,95000
+1016,García,K,Sofia,F,Content Writer,Marketing,15/06/2024,null,49000
+1017,Martinez,L,Charles,M,Database Administrator,IT,22/07/2024,null,85000
+1018,Robinson,M,Kimberly,F,Executive Assistant,Administration,30/08/2024,null,55000
+1019,Clark,N,Brian,M,Supply Chain Analyst,Operations,10/09/2024,null,70000
+1020,Rodriguez,O,Ashley,F,SEO Specialist,Marketing,18/10/2024,null,48000
+1021,Levy,P,James,M,Financial Analyst,Finance,20/01/2024,null,72000
+1022,Hall,Q,Susan,F,Event Planner,Marketing,15/02/2024,null,64000
+1023,Allen,R,Timothy,M,Desktop Support,IT,01/03/2024,null,55000
+1024,Young,S,Michelle,F,Data Scientist,R&D,25/04/2024,null,110000
+1025,Hernandez,T,Robert,M,UX Designer,IT,12/05/2024,null,75000
+1026,King,U,Kathleen,F,Sales Manager,Sales,30/06/2024,null,97000
+1027,Wright,V,Jason,M,Operations Coordinator,Operations,20/07/2024,null,62000
+1028,Scott,W,Linda,F,Marketing Manager,Marketing,18/08/2024,null,92000
+1029,Green,X,Steven,M,HR Manager,Human Resources,25/09/2024,null,88000
+1030,Adams,Y,Rachel,F,IT Support Specialist,IT,05/10/2024,null,48000
+1031,Baker,Z,George,M,Product Designer,Product,30/01/2024,null,80000
+1032,Gonzalez,A,Diana,F,Brand Strategist,Marketing,10/02/2024,null,60000
+1033,Nelson,B,Ethan,M,Software Architect,IT,22/03/2024,null,120000
+1034,Carter,C,Olivia,F,Content Strategist,Marketing,17/04/2024,null,53000
+1035,Mitchell,D,Benjamin,M,Warehouse Manager,Operations,01/05/2024,null,69000
+1036,Roberts,E,Amanda,F,Social Media Manager,Marketing,22/06/2024,null,65000
+1037,Turner,F,William,M,Quality Assurance Tester,R&D,12/07/2024,null,62000
+1038,Phillips,G,Tina,F,Payroll Specialist,Finance,18/08/2024,null,57000
+1039,Campbell,H,Anthony,M,Recruiter,Human Resources,05/09/2024,null,61000
+1040,Parker,I,Sharon,F,Technical Writer,R&D,11/10/2024,null,65000
+1041,Evans,J,Samuel,M,IT Manager,IT,18/01/2024,null,105000
+1042,Edwards,K,Barbara,F,Financial Planner,Finance,28/02/2024,null,78000
+1043,Collins,L,Kevin,M,Data Entry Clerk,Administration,15/03/2024,null,38000
+1044,Stewart,M,Elizabeth,F,Web Designer,IT,20/04/2024,null,62000
+1045,Sanchez,N,Ryan,M,Customer Service Manager,Support,10/05/2024,null,70000
+1046,Morris,O,Sarah,F,Graphic Artist,Marketing,28/06/2024,null,54000
+1047,Rogers,P,Derek,M,IT Consultant,IT,15/07/2024,null,90000
+1048,Reed,Q,Emma,F,Inventory Specialist,Operations,30/08/2024,null,45000
+1049,Cook,R,Aaron,M,Training Coordinator,Human Resources,10/09/2024,null,52000
+1050,Morgan,S,Megan,F,Sales Director,Sales,25/10/2024,null,115000
+1051,Bell,T,Chad,M,Network Administrator,IT,05/01/2024,null,85000
+1052,Lee,U,Taylor,F,Product Owner,Product,20/02/2024,null,98000
+1053,Allen,V,Avery,F,HR Coordinator,Human Resources,25/03/2024,null,58000
+1054,Bailey,W,Justin,M,Compliance Officer,Legal,12/04/2024,null,71000
+1055,Cooper,X,Layla,F,Product Marketing Manager,Marketing,22/05/2024,null,87000
+1056,Richardson,Y,Craig,M,Security Analyst,IT,18/06/2024,null,72000
+1057,Cox,Z,Julia,F,Operations Analyst,Operations,25/07/2024,null,60000
+1058,Howard,A,Max,M,Software Tester,R&D,15/08/2024,null,68000
+1059,Thompson,B,Samantha,F,Technical Support,IT,12/09/2024,null,49000
+1060,Martinez,C,Isaac,M,Email Marketing Specialist,Marketing,20/10/2024,null,45000
+1061,Anderson,D,Cassandra,F,Legal Assistant,Legal,22/01/2024,null,49000
+1062,Taylor,E,Henry,M,Network Technician,IT,14/02/2024,null,75000
+1063,Thomas,F,Natalie,F,Operations Supervisor,Operations,09/03/2024,null,80000
+1064,Jackson,G,Peter,M,Web Administrator,IT,30/04/2024,null,71000
+1065,White,H,Lisa,F,Event Coordinator,Marketing,29/05/2024,null,60000
+1066,Harris,I,Ryan,M,Data Governance Specialist,R&D,25/06/2024,null,79000
+1067,Martin,J,Charlotte,F,Client Relationship Manager,Sales,02/07/2024,null,78000
+1068,Thompson,K,Oliver,M,Social Media Analyst,Marketing,11/08/2024,null,52000
+1069,Garcia,L,Zoe,F,Technical Trainer,IT,19/09/2024,null,68000
+1070,Martinez,M,Daniel,M,Document Control Specialist,Operations,13/10/2024,null,55000
+1071,Robinson,N,Chloe,F,Senior Accountant,Finance,07/01/2024,null,85000
+1072,Clark,O,Steven,M,IT Support Analyst,IT,24/02/2024,null,52000
+1073,López,P,Victoria,F,Research Scientist,R&D,10/03/2024,null,90000
+1074,Walker,Q,Nicholas,M,Field Sales Representative,Sales,12/04/2024,null,65000
+1075,Hall,R,Emma,F,Brand Manager,Marketing,03/05/2024,null,92000
+1076,Allen,S,Joshua,M,IT Director,IT,27/06/2024,null,140000
+1077,Wright,T,Grace,F,User Experience Researcher,R&D,14/07/2024,null,77000
+1078,Scott,U,Wyatt,M,Administrative Assistant,Administration,03/08/2024,null,42000
+1079,Green,V,Ava,F,Market Research Analyst,Marketing,29/09/2024,null,64000
+1080,Baker,W,Evelyn,F,Product Manager,Product,15/10/2024,null,86000

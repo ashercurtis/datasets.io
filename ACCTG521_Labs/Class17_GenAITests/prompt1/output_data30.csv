@@ -1,0 +1,115 @@
+generate a comma separated text file for 110 employees with the following data: UniqueID, LastName, MiddleInitial, FIrstName, Gender, JobTitle, Department, HireDate, TerminationDate, AnnualSalary
+
+UniqueID,LastName,MiddleInitial,FirstName,Gender,JobTitle,Department,HireDate,TerminationDate,AnnualSalary
+1,Smith,J,John,Male,Software Engineer,IT,2020-01-15,,75000
+2,Johnson,K,Karen,Female,Project Manager,IT,2019-03-22,,90000
+3,Williams,L,Liam,Male,Data Analyst,Finance,2018-07-30,,65000
+4,Brown,M,Mary,Female,HR Specialist,HR,2021-05-10,,55000
+5,Jones,N,Noah,Male,Web Developer,IT,2020-06-18,,70000
+6,Garcia,O,Olivia,Female,Marketing Manager,Marketing,2017-11-01,,80000
+7,Miller,P,Paul,Male,Sales Representative,Sales,2022-02-14,,60000
+8,Davis,Q,Quinn,Female,Graphic Designer,Marketing,2019-08-05,,65000
+9,Rodriguez,R,Rita,Female,Accountant,Finance,2021-09-12,,70000
+10,Martinez,S,Sophia,Female,Administrative Assistant,HR,2020-04-25,,45000
+11,Hernandez,T,Thomas,Male,IT Support Specialist,IT,2022-01-20,,50000
+12,Lopez,U,Uma,Female,Product Manager,IT,2018-12-15,,85000
+13,Gonzalez,V,Vincent,Male,Data Scientist,Finance,2020-03-30,,95000
+14,Wilson,W,Will,Male,Sales Manager,Sales,2019-07-15,,90000
+15,Anderson,X,Xena,Female,Content Writer,Marketing,2023-03-02,,55000
+16,Thomas,Y,Yara,Female,SEO Specialist,Marketing,2022-05-22,,60000
+17,Taylor,Z,Zoe,Female,Recruiter,HR,2021-04-18,,50000
+18,Moore,A,Aiden,Male,Network Engineer,IT,2019-10-30,,80000
+19,Jackson,B,Bella,Female,UX Designer,IT,2021-08-11,,70000
+20,White,C,Charlie,Male,Operations Manager,Operations,2020-09-15,,75000
+21,Lee,D,Daisy,Female,Legal Assistant,Legal,2021-02-10,,60000
+22,Hall,E,Edward,Male,Customer Service Rep,Sales,2018-06-12,,45000
+23,Allen,F,Fiona,Female,Data Entry Clerk,Admin,2023-01-08,,35000
+24,Young,G,George,Male,Marketing Coordinator,Marketing,2020-05-20,,55000
+25,Hernandez,H,Hannah,Female,IT Consultant,IT,2019-11-03,,90000
+26,King,I,Isaac,Male,Financial Analyst,Finance,2021-03-15,,80000
+27,Wright,J,Jasmine,Female,Social Media Manager,Marketing,2022-04-09,,60000
+28,Scott,K,Kyle,Male,Operations Analyst,Operations,2020-08-28,,70000
+29,Green,L,Lily,Female,Recruiting Coordinator,HR,2019-12-12,,50000
+30,Adams,M,Mia,Female,IT Manager,IT,2021-10-14,,95000
+31,Baker,N,Noah,Male,Senior Developer,IT,2018-02-01,,85000
+32,Hall,O,Olive,Female,Research Analyst,Finance,2020-07-18,,70000
+33,Campbell,P,Peter,Male,HR Generalist,HR,2022-01-30,,60000
+34,Mitchell,Q,Quinn,Female,Customer Support Manager,Sales,2021-06-16,,75000
+35,Roberts,R,Riley,Female,Data Scientist,Finance,2019-03-23,,90000
+36,Carter,S,Samantha,Female,Graphic Designer,Marketing,2020-09-09,,65000
+37,Phillips,T,Tony,Male,Web Designer,IT,2023-02-15,,60000
+38,Evans,U,Uma,Female,Operations Manager,Operations,2022-04-27,,80000
+39,Turner,V,Violet,Female,Sales Associate,Sales,2018-11-11,,45000
+40,Clark,W,Will,Male,Technical Writer,IT,2020-01-05,,65000
+41,Diaz,X,Xander,Male,Program Manager,IT,2021-05-15,,95000
+42,Robinson,Y,Yara,Female,HR Assistant,HR,2019-04-20,,40000
+43,Scott,Z,Zoe,Female,Product Analyst,Marketing,2021-07-19,,70000
+44,Green,A,Alice,Female,Account Executive,Sales,2022-08-29,,80000
+45,Martin,B,Benjamin,Male,Network Administrator,IT,2020-02-14,,75000
+46,Thompson,C,Catherine,Female,Quality Assurance Analyst,IT,2021-09-30,,70000
+47,Garcia,D,Diana,Female,Marketing Specialist,Marketing,2018-06-21,,65000
+48,Martinez,E,Elijah,Male,Sales Engineer,Sales,2020-03-11,,85000
+49,Lopez,F,Felix,Male,Operations Supervisor,Operations,2021-11-04,,80000
+50,Harris,G,Grace,Female,Legal Consultant,Legal,2023-04-18,,90000
+51,Clark,H,Hugo,Male,Web Developer,IT,2019-05-25,,70000
+52,Young,I,Isabella,Female,Data Analyst,Finance,2020-12-01,,65000
+53,Allen,J,Jack,Male,HR Manager,HR,2018-08-17,,90000
+54,King,K,Kaitlyn,Female,Customer Success Manager,Sales,2022-10-03,,75000
+55,Scott,L,Liam,Male,Marketing Analyst,Marketing,2021-06-20,,65000
+56,Hernandez,M,Mila,Female,IT Support Specialist,IT,2022-12-05,,50000
+57,Moore,N,Nora,Female,Sales Manager,Sales,2019-03-15,,95000
+58,Jackson,O,Oscar,Male,Operations Analyst,Operations,2020-01-10,,70000
+59,Wright,P,Paula,Female,Executive Assistant,HR,2021-08-08,,60000
+60,Lee,Q,Quincy,Male,Senior Data Engineer,IT,2023-05-05,,90000
+61,Baker,R,Rachel,Female,Product Designer,Marketing,2022-03-10,,75000
+62,Adams,S,Samuel,Male,Financial Analyst,Finance,2021-02-15,,80000
+63,Wilson,T,Tina,Female,Marketing Coordinator,Marketing,2020-11-20,,60000
+64,Carter,U,Umberto,Male,IT Technician,IT,2018-10-30,,45000
+65,Garcia,V,Vera,Female,Administrative Assistant,Admin,2021-12-25,,35000
+66,Martin,W,William,Male,Project Coordinator,Operations,2019-04-12,,60000
+67,Thompson,X,Ximena,Female,HR Generalist,HR,2022-09-18,,50000
+68,Roberts,Y,Yvonne,Female,Sales Analyst,Sales,2023-07-15,,70000
+69,Lopez,Z,Zachary,Male,Software Developer,IT,2020-06-20,,75000
+70,Cook,A,Ava,Female,Content Strategist,Marketing,2021-11-09,,65000
+71,Patel,B,Bruce,Male,Network Engineer,IT,2022-04-12,,80000
+72,Ng,C,Chloe,Female,Data Analyst,Finance,2019-08-01,,60000
+73,Wu,D,Dylan,Male,UX Researcher,IT,2020-03-05,,70000
+74,Mills,E,Emily,Female,Product Manager,IT,2022-02-18,,90000
+75,Collins,F,Frank,Male,Technical Support,IT,2021-01-25,,50000
+76,Stewart,G,Gabriella,Female,Customer Support Specialist,Sales,2020-05-11,,45000
+77,Wood,H,Hannah,Female,SEO Manager,Marketing,2022-07-14,,80000
+78,Young,I,Isla,Female,Account Manager,Finance,2021-10-01,,85000
+79,Jackson,J,James,Male,HR Director,HR,2019-06-21,,120000
+80,Bennett,K,Kai,Male,Data Engineer,IT,2020-01-15,,80000
+81,Gray,L,Luke,Male,Software Tester,IT,2022-08-30,,60000
+82,Martin,M,Mia,Female,Recruiting Specialist,HR,2021-12-20,,50000
+83,Mitchell,N,Nate,Male,Web Analyst,IT,2023-09-14,,70000
+84,Lee,O,Ollie,Male,Sales Supervisor,Sales,2019-03-19,,75000
+85,Clark,P,Paige,Female,Content Creator,Marketing,2021-06-25,,65000
+86,Anderson,Q,Quinn,Female,Program Analyst,Finance,2022-01-30,,70000
+87,Walker,R,Ruby,Female,HR Business Partner,HR,2020-04-05,,90000
+88,Hall,S,Sophia,Female,Operations Coordinator,Operations,2023-07-11,,65000
+89,Lopez,T,Tobias,Male,IT Specialist,IT,2021-05-22,,70000
+90,Carter,U,Uma,Female,Marketing Strategist,Marketing,2019-11-28,,80000
+91,Green,V,Vinny,Male,Finance Manager,Finance,2022-02-17,,95000
+92,Wright,W,Whitney,Female,Sales Coordinator,Sales,2021-08-09,,60000
+93,Morris,X,Xena,Female,Senior Project Manager,IT,2023-06-18,,95000
+94,Roberts,Y,Yosef,Male,Product Support Specialist,IT,2020-12-12,,50000
+95,Martin,Z,Zara,Female,Graphic Artist,Marketing,2022-04-15,,65000
+96,Stevens,A,Aiden,Male,Network Analyst,IT,2019-05-18,,70000
+97,Clark,B,Bella,Female,Account Executive,Sales,2021-03-21,,80000
+98,Cook,C,Cameron,Male,Data Architect,IT,2020-02-11,,85000
+99,Miller,D,Daniel,Male,Marketing Consultant,Marketing,2023-09-03,,80000
+100,Martin,E,Elena,Female,Customer Experience Manager,Sales,2022-10-04,,75000
+101,Hall,F,Felicia,Female,Technical Writer,IT,2019-07-22,,60000
+102,King,G,Grayson,Male,Finance Associate,Finance,2021-11-14,,65000
+103,Adams,H,Hayden,Male,Software Engineer,IT,2020-04-18,,80000
+104,Young,I,Isabella,Female,Product Owner,Marketing,2022-08-22,,90000
+105,Clark,J,Jasper,Male,Operations Director,Operations,2019-01-15,,120000
+106,Moore,K,Kylie,Female,Data Manager,IT,2021-10-25,,75000
+107,Harris,L,Liam,Male,Web Developer,IT,2022-09-09,,70000
+108,Walker,M,Maya,Female,Social Media Coordinator,Marketing,2020-03-14,,50000
+109,Bennett,N,Nina,Female,Customer Service Manager,Sales,2021-12-30,,65000
+110,Diaz,O,Oliver,Male,HR Analyst,HR,2023-06-01,,55000
+
+

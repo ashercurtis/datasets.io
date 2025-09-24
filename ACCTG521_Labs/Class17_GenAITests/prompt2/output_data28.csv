@@ -1,0 +1,111 @@
+ID,Name,Job Title,Department,Email,Phone Number,Address,Date of Birth,Hire Date,Employment Status,Salary,Years of Experience
+1,Emily Johnson,CEO,Executive,emily.johnson@pureoils.com,555-0101,123 Olive St, Springfield, IL,1980-03-15,2015-06-01,Full-Time,150000,20
+2,Michael Smith,COO,Operations,michael.smith@pureoils.com,555-0102,456 Maple Ave, Springfield, IL,1979-07-22,2016-01-20,Full-Time,140000,21
+3,Sarah Brown,CFO,Finance,sarah.brown@pureoils.com,555-0103,789 Birch St, Springfield, IL,1982-09-10,2017-03-15,Full-Time,130000,17
+4,David Wilson,CMO,Marketing,david.wilson@pureoils.com,555-0104,101 Pine Rd, Springfield, IL,1985-11-02,2018-04-30,Full-Time,125000,16
+5,Amy Davis,Production Manager,Production,amy.davis@pureoils.com,555-0105,202 Cedar St, Springfield, IL,1984-06-12,2016-07-19,Full-Time,80000,10
+6,John Martinez,Quality Control,Production,john.martinez@pureoils.com,555-0106,303 Walnut St, Springfield, IL,1990-02-25,2020-09-01,Full-Time,70000,4
+7,Linda Garcia,Sales Manager,Sales,linda.garcia@pureoils.com,555-0107,404 Cherry Blvd, Springfield, IL,1983-05-17,2019-12-12,Full-Time,90000,8
+8,James Rodriguez,Sales Associate,Sales,james.rodriguez@pureoils.com,555-0108,505 Ash St, Springfield, IL,1992-01-30,2021-05-20,Full-Time,50000,3
+9,Jessica Lee,HR Manager,Human Resources,jessica.lee@pureoils.com,555-0109,606 Spruce St, Springfield, IL,1981-04-15,2015-10-10,Full-Time,85000,15
+10,Robert Harris,HR Associate,Human Resources,robert.harris@pureoils.com,555-0110,707 Fir St, Springfield, IL,1993-08-18,2020-08-25,Full-Time,55000,2
+11,Karen Clark,Marketing Specialist,Marketing,karen.clark@pureoils.com,555-0111,808 Maple Ave, Springfield, IL,1987-12-03,2019-01-14,Full-Time,60000,5
+12,William Lewis,Brand Manager,Marketing,william.lewis@pureoils.com,555-0112,909 Elm St, Springfield, IL,1989-07-24,2018-07-23,Full-Time,70000,6
+13,Patricia Robinson,Research Scientist,R&D,patricia.robinson@pureoils.com,555-0113,1010 Birch Blvd, Springfield, IL,1990-10-05,2021-04-15,Full-Time,75000,3
+14,Charles Walker,Production Supervisor,Production,charles.walker@pureoils.com,555-0114,1111 Pine Rd, Springfield, IL,1985-02-28,2016-06-22,Full-Time,78000,10
+15,Jessica Hall,Logistics Coordinator,Operations,jessica.hall@pureoils.com,555-0115,1212 Cedar St, Springfield, IL,1991-11-16,2020-03-10,Full-Time,60000,4
+16,Thomas Allen,IT Support,IT,thomas.allen@pureoils.com,555-0116,1313 Fir St, Springfield, IL,1988-09-20,2019-09-15,Full-Time,55000,5
+17,Barbara Young,Customer Service Rep,Sales,barbara.young@pureoils.com,555-0117,1414 Oak St, Springfield, IL,1995-05-14,2022-02-01,Full-Time,45000,2
+18,Daniel Hernandez,Accountant,Finance,daniel.hernandez@pureoils.com,555-0118,1515 Willow Rd, Springfield, IL,1984-12-11,2017-08-22,Full-Time,70000,10
+19,Susan King,Executive Assistant,Executive,susan.king@pureoils.com,555-0119,1616 Ash St, Springfield, IL,1990-01-25,2016-11-15,Full-Time,60000,8
+20,Matthew Wright,Warehouse Manager,Operations,matthew.wright@pureoils.com,555-0120,1717 Spruce St, Springfield, IL,1982-06-17,2015-12-30,Full-Time,75000,12
+21,Laura Scott,Social Media Manager,Marketing,laura.scott@pureoils.com,555-0121,1818 Maple Ave, Springfield, IL,1986-10-01,2020-01-05,Full-Time,65000,4
+22,Joshua Green,Product Developer,R&D,joshua.green@pureoils.com,555-0122,1919 Birch St, Springfield, IL,1993-03-30,2021-06-14,Full-Time,70000,3
+23,Angela Adams,Graphic Designer,Marketing,angela.adams@pureoils.com,555-0123,2020 Oak St, Springfield, IL,1988-04-18,2019-07-19,Full-Time,55000,5
+24,Kevin Nelson,Process Engineer,R&D,kevin.nelson@pureoils.com,555-0124,2121 Cedar Rd, Springfield, IL,1991-12-09,2020-02-21,Full-Time,80000,3
+25,Emily Carter,Compliance Officer,Quality Control,emily.carter@pureoils.com,555-0125,2222 Pine Blvd, Springfield, IL,1985-08-24,2018-09-10,Full-Time,78000,10
+26,Frank Mitchell,Research Assistant,R&D,frank.mitchell@pureoils.com,555-0126,2323 Fir St, Springfield, IL,1994-06-15,2022-04-11,Full-Time,50000,2
+27,Deborah Perez,Brand Ambassador,Marketing,deborah.perez@pureoils.com,555-0127,2424 Elm St, Springfield, IL,1990-01-01,2021-11-18,Full-Time,60000,3
+28,Steven Roberts,Data Analyst,IT,steven.roberts@pureoils.com,555-0128,2525 Willow Ave, Springfield, IL,1992-02-23,2021-03-30,Full-Time,65000,3
+29,Megan Turner,SEO Specialist,Marketing,megan.turner@pureoils.com,555-0129,2626 Maple St, Springfield, IL,1989-09-19,2019-05-15,Full-Time,59000,5
+30,Jason Phillips,Maintenance Technician,Operations,jason.phillips@pureoils.com,555-0130,2727 Ash St, Springfield, IL,1986-11-07,2020-06-17,Full-Time,58000,5
+31,Jessica Campbell,Sales Support,Sales,jessica.campbell@pureoils.com,555-0131,2828 Oak Ave, Springfield, IL,1995-07-16,2022-09-04,Full-Time,40000,2
+32,Amy Parker,Training Coordinator,HR,amy.parker@pureoils.com,555-0132,2929 Pine Rd, Springfield, IL,1988-10-30,2021-12-14,Full-Time,65000,4
+33,Timothy Evans,Product Tester,R&D,timothy.evans@pureoils.com,555-0133,3030 Birch St, Springfield, IL,1991-05-22,2021-05-29,Full-Time,55000,3
+34,Rebecca Edwards,Content Writer,Marketing,rebecca.edwards@pureoils.com,555-0134,3131 Elm St, Springfield, IL,1990-12-04,2018-08-10,Full-Time,48000,5
+35,Andrew Collins,IT Manager,IT,andrew.collins@pureoils.com,555-0135,3232 Cedar Blvd, Springfield, IL,1984-03-21,2017-07-15,Full-Time,95000,13
+36,Linda Stewart,Inventory Manager,Operations,linda.stewart@pureoils.com,555-0136,3333 Willow St, Springfield, IL,1985-08-09,2016-10-22,Full-Time,70000,10
+37,Charles Reed,Sales Operations Analyst,Sales,charles.reed@pureoils.com,555-0137,3434 Oak Rd, Springfield, IL,1989-06-12,2020-01-23,Full-Time,65000,5
+38,Samantha Torres,Customer Success Manager,Sales,samantha.torres@pureoils.com,555-0138,3535 Maple Blvd, Springfield, IL,1993-01-14,2022-04-05,Full-Time,60000,3
+39,Alice Kelly,Brand Specialist,Marketing,alice.kelly@pureoils.com,555-0139,3636 Cedar St, Springfield, IL,1986-04-26,2020-05-12,Full-Time,57000,4
+40,Mark Morgan,Digital Marketing Specialist,Marketing,mark.morgan@pureoils.com,555-0140,3737 Maple Rd, Springfield, IL,1993-08-11,2021-09-15,Full-Time,58000,3
+41,Michelle Cooper,Product Marketing Manager,Marketing,michelle.cooper@pureoils.com,555-0141,3838 Elm St, Springfield, IL,1987-05-02,2018-06-21,Full-Time,72000,6
+42,Robert Reed,Manufacturing Technician,Production,robert.reed@pureoils.com,555-0142,3939 Cedar Blvd, Springfield, IL,1991-01-29,2022-01-10,Full-Time,50000,2
+43,Laura Bailey,Public Relations Specialist,Marketing,laura.bailey@pureoils.com,555-0143,4040 Fir St, Springfield, IL,1989-04-17,2020-11-05,Full-Time,59000,4
+44,Charles Bell,Facilities Manager,Operations,charles.bell@pureoils.com,555-0144,4141 Willow Rd, Springfield, IL,1983-02-26,2017-05-18,Full-Time,80000,10
+45,Jessica Rivera,Social Media Analyst,Marketing,jessica.rivera@pureoils.com,555-0145,4242 Pine St, Springfield, IL,1995-06-06,2022-03-13,Full-Time,50000,2
+46,Richard Ward,Packaging Coordinator,Production,richard.ward@pureoils.com,555-0146,4343 Maple Ave, Springfield, IL,1984-11-12,2016-10-22,Full-Time,60000,8
+47,Sharon Wood,Customer Relations Specialist,Sales,sharon.wood@pureoils.com,555-0147,4444 Ash Blvd, Springfield, IL,1988-03-04,2020-12-01,Full-Time,58000,4
+48,Joseph Wright,Logistics Manager,Operations,joseph.wright@pureoils.com,555-0148,4545 Cedar St, Springfield, IL,1992-02-18,2021-07-30,Full-Time,75000,3
+49,Susan Carter,Brand Strategist,Marketing,susan.carter@pureoils.com,555-0149,4646 Elm Rd, Springfield, IL,1985-09-14,2017-08-11,Full-Time,72000,8
+50,Matthew James,Research Manager,R&D,matthew.james@pureoils.com,555-0150,4747 Fir St, Springfield, IL,1980-12-01,2016-02-14,Full-Time,90000,16
+51,Jessica Wright,Product Manager,Marketing,jessica.wright@pureoils.com,555-0151,4848 Maple Ave, Springfield, IL,1991-03-19,2021-11-08,Full-Time,68000,3
+52,Mark Lopez,Operations Analyst,Operations,mark.lopez@pureoils.com,555-0152,4949 Oak St, Springfield, IL,1986-05-25,2020-09-09,Full-Time,72000,5
+53,Angela Hill,Graphic Artist,Marketing,angela.hill@pureoils.com,555-0153,5050 Cedar Blvd, Springfield, IL,1988-07-11,2019-03-03,Full-Time,55000,4
+54,William Lee,Technical Support,IT,william.lee@pureoils.com,555-0154,5151 Fir St, Springfield, IL,1990-02-22,2021-04-27,Full-Time,50000,5
+55,Amy Scott,Training Specialist,HR,amy.scott@pureoils.com,555-0155,5252 Ash Rd, Springfield, IL,1983-10-10,2018-01-12,Full-Time,65000,8
+56,Kevin Young,Plant Manager,Production,kevin.young@pureoils.com,555-0156,5353 Elm St, Springfield, IL,1981-11-29,2016-06-30,Full-Time,90000,12
+57,Cynthia Parker,Health & Safety Officer,Quality Control,cynthia.parker@pureoils.com,555-0157,5454 Pine St, Springfield, IL,1985-04-21,2019-07-15,Full-Time,68000,10
+58,David Allen,Brand Manager,Marketing,david.allen@pureoils.com,555-0158,5555 Willow Rd, Springfield, IL,1992-08-12,2020-12-05,Full-Time,70000,3
+59,Patricia Lopez,Supply Chain Coordinator,Operations,patricia.lopez@pureoils.com,555-0159,5656 Fir St, Springfield, IL,1987-06-14,2021-03-01,Full-Time,62000,4
+60,Robert Martinez,Senior Analyst,Finance,robert.martinez@pureoils.com,555-0160,5757 Maple Blvd, Springfield, IL,1989-12-30,2018-11-23,Full-Time,75000,6
+61,Jessica Anderson,Web Developer,IT,jessica.anderson@pureoils.com,555-0161,5858 Cedar Ave, Springfield, IL,1991-09-11,2021-06-22,Full-Time,70000,3
+62,Daniel Roberts,Essential Oil Specialist,R&D,daniel.roberts@pureoils.com,555-0162,5959 Oak St, Springfield, IL,1986-05-04,2020-05-14,Full-Time,75000,4
+63,Emily Walker,Customer Service Manager,Sales,emily.walker@pureoils.com,555-0163,6060 Fir Rd, Springfield, IL,1990-01-15,2021-10-18,Full-Time,60000,3
+64,Matthew King,Technical Writer,IT,matthew.king@pureoils.com,555-0164,6161 Maple St, Springfield, IL,1982-03-30,2017-02-20,Full-Time,62000,10
+65,Linda White,SEO Manager,Marketing,linda.white@pureoils.com,555-0165,6262 Birch St, Springfield, IL,1988-11-19,2021-07-14,Full-Time,70000,4
+66,James Johnson,Supply Chain Manager,Operations,james.johnson@pureoils.com,555-0166,6363 Oak Ave, Springfield, IL,1993-06-04,2022-01-02,Full-Time,72000,2
+67,Kimberly Carter,Communications Director,Marketing,kimberly.carter@pureoils.com,555-0167,6464 Cedar St, Springfield, IL,1985-08-29,2019-03-09,Full-Time,80000,11
+68,Joshua Lewis,Data Scientist,IT,joshua.lewis@pureoils.com,555-0168,6565 Fir Blvd, Springfield, IL,1994-10-11,2021-08-20,Full-Time,85000,3
+69,Jennifer Hall,Field Sales Rep,Sales,jennifer.hall@pureoils.com,555-0169,6666 Maple Ave, Springfield, IL,1989-04-14,2020-06-05,Full-Time,55000,4
+70,Charles Clark,Operations Supervisor,Operations,charles.clark@pureoils.com,555-0170,6767 Birch Rd, Springfield, IL,1986-02-19,2018-11-11,Full-Time,70000,8
+71,Laura Green,Community Manager,Marketing,laura.green@pureoils.com,555-0171,6868 Oak Blvd, Springfield, IL,1983-05-08,2017-10-02,Full-Time,60000,7
+72,Emily Edwards,Product Compliance Specialist,Quality Control,emily.edwards@pureoils.com,555-0172,6969 Cedar Rd, Springfield, IL,1991-07-20,2021-09-25,Full-Time,72000,3
+73,Matthew Thomas,Compliance Analyst,Quality Control,matthew.thomas@pureoils.com,555-0173,7070 Pine Ave, Springfield, IL,1987-03-30,2018-05-15,Full-Time,65000,6
+74,Amy Jackson,Digital Analyst,Marketing,amy.jackson@pureoils.com,555-0174,7171 Fir St, Springfield, IL,1992-12-02,2021-02-20,Full-Time,57000,3
+75,Jason Robinson,Brand Manager,Marketing,jason.robinson@pureoils.com,555-0175,7272 Maple St, Springfield, IL,1986-06-24,2018-06-10,Full-Time,70000,5
+76,Cynthia Walker,Essential Oil Sales Specialist,Sales,cynthia.walker@pureoils.com,555-0176,7373 Birch Rd, Springfield, IL,1994-04-05,2021-03-12,Full-Time,52000,3
+77,David Harris,Technical Sales Engineer,Sales,david.harris@pureoils.com,555-0177,7474 Oak St, Springfield, IL,1985-09-09,2019-09-01,Full-Time,64000,5
+78,James Young,Manufacturing Operator,Production,james.young@pureoils.com,555-0178,7575 Cedar Blvd, Springfield, IL,1993-10-30,2022-01-25,Full-Time,45000,2
+79,Patricia Allen,HR Coordinator,HR,patricia.allen@pureoils.com,555-0179,7676 Fir St, Springfield, IL,1986-11-22,2019-05-05,Full-Time,62000,5
+80,James Brown,Sales Engineer,Sales,james.brown@pureoils.com,555-0180,7777 Maple St, Springfield, IL,1991-01-13,2021-02-11,Full-Time,67000,3
+81,Amy Gonzalez,Recruiter,HR,amy.gonzalez@pureoils.com,555-0181,7878 Birch Rd, Springfield, IL,1984-07-26,2019-09-28,Full-Time,60000,6
+82,David Martinez,Customer Experience Specialist,Sales,david.martinez@pureoils.com,555-0182,7979 Oak St, Springfield, IL,1985-06-02,2020-04-15,Full-Time,55000,4
+83,Linda Harris,Marketing Analyst,Marketing,linda.harris@pureoils.com,555-0183,8080 Fir St, Springfield, IL,1988-08-08,2021-01-19,Full-Time,59000,3
+84,Charles Anderson,Warehouse Associate,Operations,charles.anderson@pureoils.com,555-0184,8181 Cedar Blvd, Springfield, IL,1990-04-10,2022-03-22,Full-Time,48000,2
+85,Megan Wilson,Administrative Assistant,HR,megan.wilson@pureoils.com,555-0185,8282 Maple Ave, Springfield, IL,1986-05-26,2021-07-15,Full-Time,45000,3
+86,Jennifer Thomas,Product Quality Analyst,Quality Control,jennifer.thomas@pureoils.com,555-0186,8383 Oak Rd, Springfield, IL,1993-01-15,2020-02-14,Full-Time,55000,4
+87,Kevin Johnson,Compliance Manager,Quality Control,kevin.johnson@pureoils.com,555-0187,8484 Birch Blvd, Springfield, IL,1982-11-22,2018-10-11,Full-Time,80000,10
+88,Cynthia Lee,Essential Oil Educator,Sales,cynthia.lee@pureoils.com,555-0188,8585 Fir St, Springfield, IL,1989-12-18,2021-05-09,Full-Time,50000,3
+89,Matthew Walker,Production Planner,Production,matthew.walker@pureoils.com,555-0189,8686 Maple Ave, Springfield, IL,1985-04-25,2019-08-01,Full-Time,65000,5
+90,Laura Robinson,Customer Insights Analyst,Marketing,laura.robinson@pureoils.com,555-0190,8787 Oak St, Springfield, IL,1990-03-14,2020-06-12,Full-Time,62000,4
+91,Timothy Allen,Network Administrator,IT,timothy.allen@pureoils.com,555-0191,8888 Cedar Blvd, Springfield, IL,1988-01-04,2017-01-19,Full-Time,70000,7
+92,Sarah Martin,Event Marketing Specialist,Marketing,sarah.martin@pureoils.com,555-0192,8989 Fir Rd, Springfield, IL,1992-02-12,2021-11-23,Full-Time,59000,3
+93,Joshua Garcia,Technical Sales Specialist,Sales,joshua.garcia@pureoils.com,555-0193,9090 Maple St, Springfield, IL,1986-09-17,2020-07-29,Full-Time,64000,5
+94,Amy Walker,Document Control Specialist,Quality Control,amy.walker@pureoils.com,555-0194,9191 Birch St, Springfield, IL,1985-11-20,2019-03-25,Full-Time,55000,4
+95,David Lee,Manufacturing Engineer,Production,david.lee@pureoils.com,555-0195,9292 Oak Blvd, Springfield, IL,1990-10-08,2021-04-28,Full-Time,80000,6
+96,Cynthia King,HR Generalist,HR,cynthia.king@pureoils.com,555-0196,9393 Cedar St, Springfield, IL,1987-04-05,2019-07-10,Full-Time,60000,5
+97,Mark Taylor,Supply Chain Analyst,Operations,mark.taylor@pureoils.com,555-0197,9494 Fir St, Springfield, IL,1988-01-18,2020-03-15,Full-Time,68000,5
+98,Jennifer Davis,Product Strategy Manager,Marketing,jennifer.davis@pureoils.com,555-0198,9595 Oak St, Springfield, IL,1985-12-11,2018-11-30,Full-Time,75000,8
+99,John Wilson,Field Operations Manager,Operations,john.wilson@pureoils.com,555-0199,9696 Birch Blvd, Springfield, IL,1992-06-23,2020-10-05,Full-Time,70000,4
+100,Susan Johnson,Market Research Analyst,Marketing,susan.johnson@pureoils.com,555-0200,9797 Cedar Rd, Springfield, IL,1988-09-08,2021-05-02,Full-Time,58000,3
+101,Michael Martinez,Procurement Specialist,Operations,michael.martinez@pureoils.com,555-0201,9898 Fir St, Springfield, IL,1989-03-27,2022-04-21,Full-Time,65000,2
+102,Linda Smith,Client Relationship Manager,Sales,linda.smith@pureoils.com,555-0202,9999 Maple St, Springfield, IL,1990-07-15,2021-06-18,Full-Time,67000,3
+103,Daniel Thompson,Environmental Compliance Specialist,Quality Control,daniel.thompson@pureoils.com,555-0203,10000 Oak Ave, Springfield, IL,1983-10-29,2016-10-30,Full-Time,72000,10
+104,Emily Brown,Digital Content Creator,Marketing,emily.brown@pureoils.com,555-0204,10001 Birch Rd, Springfield, IL,1987-12-10,2019-08-15,Full-Time,56000,5
+105,James Wilson,Customer Feedback Analyst,Sales,james.wilson@pureoils.com,555-0205,10002 Pine St, Springfield, IL,1995-06-14,2022-01-12,Full-Time,45000,2
+106,Patricia Johnson,Essential Oil Safety Officer,Quality Control,patricia.johnson@pureoils.com,555-0206,10003 Cedar Blvd, Springfield, IL,1984-02-14,2017-02-21,Full-Time,72000,9
+107,Amy Harris,Product Innovation Manager,R&D,amy.harris@pureoils.com,555-0207,10004 Fir St, Springfield, IL,1989-05-03,2020-06-15,Full-Time,76000,4
+108,David Robinson,Quality Assurance Technician,Quality Control,david.robinson@pureoils.com,555-0208,10005 Maple Ave, Springfield, IL,1986-01-20,2018-10-29,Full-Time,55000,5
+109,Linda Young,HR Business Partner,HR,linda.young@pureoils.com,555-0209,10006 Birch St, Springfield, IL,1988-07-30,2022-04-15,Full-Time,70000,2
+110,Matthew Scott,Sales Data Analyst,Sales,matthew.scott@pureoils.com,555-0210,10007 Pine Rd, Springfield, IL,1993-10-05,2021-08-30,Full-Time,62000,3
