@@ -1,1 +1,0 @@
-Reminder today we have a guest speaker.

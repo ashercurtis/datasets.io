@@ -1,1 +1,0 @@
-Double class for the Revenue audit case using Helix Analyzer for Students. 

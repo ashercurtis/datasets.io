@@ -1,3 +1,0 @@
-In this folder, I will continue to add any helper files that are requested as example workflows, or partial workflows. 
-1. Alteryx Workflow to Extract Management Discussion and Analysis (extractMDA_Item7) 
-    -This workflow uses TSLA as the example company and extracts the text from the MDA (item 7) of the 10-K. The input required is a one cell download of the 10-K (before splitting into lines, so one step before the text-to-columns tool in EDGAR Explorer 2).
