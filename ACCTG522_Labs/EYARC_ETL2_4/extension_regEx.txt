@@ -4,3 +4,27 @@ Australia45789-13Annual
 AUS123-13M
 FRA334455-145weekly
 GRE67 1a
+
+Dates:
+Invoice Date: 03/15/2025  
+Payment Due: 04/14/2025
+
+Invoices:
+INV-100234  
+INV-567890  
+Reference: INV-456
+
+Phone numbers, email, credit card numbers:
+206-123-4567
+real_person@example.com
+Potential fraud detected: 4532-9876-1234-5678 
+
+Firm Identifiers:
+CIK: 0000320193  
+Ticker: TSLA  
+Ticker: AAPL
+
+Matching dollar amounts and accounts:
+Total: $12,450.00  
+Late Fee: $25  
+Refund: ($1,200)
