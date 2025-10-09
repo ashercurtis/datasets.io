@@ -2209,7 +2209,7 @@ Output your results in a single list and display the results using a Browse acti
     </Node>
     <Node ToolID="37">
       <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
-        <Position x="65" y="1217" width="169" height="24" />
+        <Position x="64" y="1217" width="169" height="24" />
       </GuiSettings>
       <Properties>
         <Configuration>
