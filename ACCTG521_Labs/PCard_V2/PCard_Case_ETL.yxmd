@@ -1,0 +1,1416 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2025.1" RunE2="T">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="FileName">U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2010.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Analytics_mindset_case_studies_PCard_FY2010.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Agency Number" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2010.csv" type="V_String" />
+            <Field name="Agency Name" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2010.csv" type="V_String" />
+            <Field name="Last Name" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2010.csv" type="V_String" />
+            <Field name="First Initial" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2010.csv" type="V_String" />
+            <Field name="Item Description" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2010.csv" type="V_String" />
+            <Field name="Amount" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2010.csv" type="V_String" />
+            <Field name="Merchant" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2010.csv" type="V_String" />
+            <Field name="Transaction Date" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2010.csv" type="V_String" />
+            <Field name="Post Date" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2010.csv" type="V_String" />
+            <Field name="Purchase Description" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2010.csv" type="V_String" />
+            <Field name="FileName" size="254" source="File: FileName" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="2">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="191" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="FileName">U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2011.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Analytics_mindset_case_studies_PCard_FY2011.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Agency Number" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2011.csv" type="V_String" />
+            <Field name="Agency Name" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2011.csv" type="V_String" />
+            <Field name="Cardholder Last Name" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2011.csv" type="V_String" />
+            <Field name="Cardholder First initial" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2011.csv" type="V_String" />
+            <Field name="Description" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2011.csv" type="V_String" />
+            <Field name="Amount" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2011.csv" type="V_String" />
+            <Field name="Vendor" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2011.csv" type="V_String" />
+            <Field name="Transaction Date" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2011.csv" type="V_String" />
+            <Field name="Posted Date" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2011.csv" type="V_String" />
+            <Field name="Merchant Category Code (MCC)" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2011.csv" type="V_String" />
+            <Field name="FileName" size="254" source="File: FileName" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="3">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="328" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="FileName">U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2012.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Analytics_mindset_case_studies_PCard_FY2012.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Agency Number" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2012.csv" type="V_String" />
+            <Field name="Agency Name" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2012.csv" type="V_String" />
+            <Field name="Cardholder Last Name" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2012.csv" type="V_String" />
+            <Field name="Cardholder First Initial" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2012.csv" type="V_String" />
+            <Field name="Description" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2012.csv" type="V_String" />
+            <Field name="Amount" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2012.csv" type="V_String" />
+            <Field name="Vendor" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2012.csv" type="V_String" />
+            <Field name="Transaction Date" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2012.csv" type="V_String" />
+            <Field name="Posted Date" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2012.csv" type="V_String" />
+            <Field name="Merchant Category Code (MCC)" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2012.csv" type="V_String" />
+            <Field name="FileName" size="254" source="File: FileName" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="4">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="464" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="FileName">U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2013.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Analytics_mindset_case_studies_PCard_FY2013.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Agency Number" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2013.csv" type="V_String" />
+            <Field name="Agency Name" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2013.csv" type="V_String" />
+            <Field name="Card Holder Last Name" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2013.csv" type="V_String" />
+            <Field name="Card Holder First Name" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2013.csv" type="V_String" />
+            <Field name="Description" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2013.csv" type="V_String" />
+            <Field name="Amount" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2013.csv" type="V_String" />
+            <Field name="Vendor" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2013.csv" type="V_String" />
+            <Field name="Transaction Date" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2013.csv" type="V_String" />
+            <Field name="Posted Date" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2013.csv" type="V_String" />
+            <Field name="Merchant Category Code (MCC)" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2013.csv" type="V_String" />
+            <Field name="FileName" size="254" source="File: FileName" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="5">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="601" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="FileName">U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2014.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Analytics_mindset_case_studies_PCard_FY2014.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Agency Number" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2014.csv" type="V_String" />
+            <Field name="Agency Name" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2014.csv" type="V_String" />
+            <Field name="Cardholder Last Name" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2014.csv" type="V_String" />
+            <Field name="Cardholder First Initial" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2014.csv" type="V_String" />
+            <Field name="Description" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2014.csv" type="V_String" />
+            <Field name="Amount" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2014.csv" type="V_String" />
+            <Field name="Vendor" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2014.csv" type="V_String" />
+            <Field name="Transaction Date" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2014.csv" type="V_String" />
+            <Field name="Posted Date" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2014.csv" type="V_String" />
+            <Field name="Merchant Category Code (MCC)" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2014.csv" type="V_String" />
+            <Field name="FileName" size="254" source="File: FileName" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="6">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="738" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="FileName">U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2015.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Analytics_mindset_case_studies_PCard_FY2015.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Agency Number" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2015.csv" type="V_String" />
+            <Field name="Agency Name" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2015.csv" type="V_String" />
+            <Field name="Cardholder Last Name" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2015.csv" type="V_String" />
+            <Field name="Cardholder First Initial" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2015.csv" type="V_String" />
+            <Field name="Description" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2015.csv" type="V_String" />
+            <Field name="Amount" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2015.csv" type="V_String" />
+            <Field name="Vendor" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2015.csv" type="V_String" />
+            <Field name="Transaction Date" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2015.csv" type="V_String" />
+            <Field name="Posted Date" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2015.csv" type="V_String" />
+            <Field name="Merchant Category Code (MCC)" size="254" source="File: U:\my_preclass_work\ACCTG_521\case03_pcard\RAW_DATA\Analytics_mindset_case_studies_PCard_FY2015.csv" type="V_String" />
+            <Field name="FileName" size="254" source="File: FileName" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="8">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
+        <Position x="858" y="486" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ByName_ErrorMode>Warning</ByName_ErrorMode>
+          <ByName_OutputMode>All</ByName_OutputMode>
+          <Mode>ByName</Mode>
+          <SetOutputOrder value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnion" />
+    </Node>
+    <Node ToolID="10">
+      <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+        <Position x="1434" y="78" width="636" height="252" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Text />
+          <Font name="Arial" size="8.25" style="0" />
+          <TextColor name="Black" />
+          <FillColor name="White" />
+          <Shape shape="0" />
+          <Justification Justification="4" />
+          <BG_Image>iVBORw0KGgoAAAANSUhEUgAAAtIAAADfCAYAAADbazRdAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAOwgAADsIBFShKgAAASGNJREFUeF7tnc+q3MiW7vtlPHM/QL1H4YE9adgP0A9gNmZPzG7oB+iJYXdjKDxsOIMzMNhQmDqjnhvMaZvTs57cyaEu3AJdQoqQ1p9vhULKTKUy8xv8sFMKxZ8Va634FMrc+odvf/s/3d//7x+EEEIIIYSQBfxDEtKEEEIIIYSQZYxC+u+//0EEtAshHsbFNtDO+4FzQQixyLxAIR1AuxDiYVxsA+28HzgXhBALhXQDtAshHsbFNtDO+4FzQQixUEg3QLsQ4mFcbAPtvB84F4QQC4V0A7QLIR7GxTbQzvuBc0EIsVBIN0C7EOJhXGwD7bwfOBeEEEuDkP7SvX7+U/fsHzMvf+m+gopOyrdfup/P0W4G2uVvf+nu//lfu3/653/v/vNv5fj/dv/5L//a/dO//KX7b1APIdeEj4vs/31caP7tv/z1pA1v54H//vO/exv/15/6/9//+X9deXI4i+YCXE8IuT4ahfTb7mP+/PHNT93PTz9cRSdl10L6X7t/+o+v+TiFNLkdYFxk/vIfKTb+1P0FnCPLgHbOgnkUbH/7S/efFG8nh3NBCLEsFtJ///S2e/bmy3Q+fS671XPH5TFZZxbK795MO95fn+7Gsq+f9iuk7/9l2IkYkqgR0lJsS8Fddo3ytcO5P3X/Vv4vhLje6aAwIfsBxkVGC+myU20+Jz8HsSB3U+n/2M7FLm7nU+xID3MgGexHm65n0Vw4W4unl0p8m/jI5wrySQPnkZD9sVhIpx3p15/yObNTPJ5Lx5/fde++iXr6Y1M9vVAuArs/Z+o1bZ7lKyUZaJcipMcFKyWyeEdaJduSFHth/TULaJkcc8Lty5Xkm8uNu9+EnBcYFxm3Iy2Fg4gdHQv0fwS0s7pJ93ZWX+2Qx2jTgzhkLlRMtAhpu/Hi5pTzSMgeaBTS03ekR7Frdo0L6Wsf6bj9+oc/JgS6EeSubNrJ3rGQHhPpf/wFCOkilP3uwpAYjfgWCdbvKNm6CTkfMC4yTkiLxX4Qy1o0jCKB/u+I7ay/k+5zSyqjb9Rp08NYMheDrYNd6AYhXeZQ3Vzm9jiPhOyHRiHdKHgrx/2xBfXuXUjbx2w5oaFdaL/YzQlpnUAJ2QswLjJeSE/+fJ/8Pdpto/87anbuGW/kvzp7FsE1CDba9FCWzIWzNVgDWoS0qyc4Rgg5D8uEtBW55isYI+j43Fc7pFBOwvmCvtoxHBM7ElkUSzGBRPWckLYJlT9iIXsCxkUGCWn5CLwIu+LjRVir6+j/PcjO//3nP00iCnxVRj8pE4/8adODWDMX+iYG+bZ+auDmyH5GxziPhJyNxUL677//6N69nL7iob7eYYVy7ceGUhhbIV3Ec/k6yZv970jLY1YU9wlP/iixVUjbnW4pQAg5MzAuMlBIW19PiBhBPk7/x3a2drH54/7PX9VXDQb0Tf0t23Qti+bCnQN/KjUf75/SRELa1cN5JGRPNAhpQrsQ4lkcF+jmE4gGollsZ3IyOBeEEAuFdAO0CyGeJXEx/jjK/mUBCulZltiZnBbOBSHEQiHdAO1CiIdxsQ20837gXBBCLBTSDdAuhHgYF9tAO+8HzgUhxEIh3QDtQoiHcbENtPN+4FwQQiwU0g3QLoR4GBfbQDvvB84FIcQChTQhhBBCCCGkHQppQgghhBBCVsCvdgQUu/y/PzpCSIZxsQ20837gXBBCLDIvUEgHMHkS4mFcbAPtvB84F4QQC4V0A0yehHgYF9tAO+8HzgUhxEIh3QCTJyEexsU20M77gXNBCLFQSDfA5EmIh3GxDbTzfuBcEEIsFNKFT2+7Z8/fdh/t8Tkh/f1D9+L5Xff0HZw7G791989/6l68/x91/PPDT939r7bsCtKYX33o/mqPk5sCxQX0sV8fu2cPv7nrC399f9c9+8efBsZY+p/u6VUtrpKPP3af3fHrA9k5kWxd7CZjXR5/BmzUn6/MB4nBczHkW21z6Z+H+Gq5Fuf0RB8/s/XLPtjYau1fa7kJHNvnB+YpQlZCIf37j+7dy5+6Z2/edq9XCOmUKF68utvZwpQS3tAvmbiOljwopEkkKoBo/vxQWUBDX7KL/e0C7fz9Q/c0xnJNJBm+f+jud5evLgc4F7MCc+58TFpfhpydxbqrJ803Om5Z4CMhC8cRxvYe+K27323fyKVBIT3yZYWQTgnJ7j4MyDvx+4fH7pkM2iQ2yl16WdBy0vlcrpP1qfIfTBJESTH3xySyUUib4/3NQNrpyMefyo5W6ltpW+4muL6a9ivj6+tmArsKcFzYWJhZsJKvuPNZHGQfcr7ZlxftOH+c2q/G4YWA7SyROQDlA1nusfsMbnZIG3gurM/bY+Y8yo9RHDyUY0MdT6Ownup68f6DiwWX28c+gNiqxlJl5xqNQwLHBK6VdUb9d/EftI+OyTGr3PAYxAkhy6CQHlkhpFNw52BVu73puAjY/lFqCf6auBWP7tLxMYEAoTo+4hN9mJgSnuxXk5B+XsrnHZBc95SQfV9VwpwZ31F2xMkuiOJC+pzym4A+PqyPW0Ho/Mcs/mHsBHF4QUR2HlGCBQmlodw4LxTSq8FzkXOlEnCBkI7yI5oTldujzZEUI3H9Xkin4/ZmK44l7VtxO9HTThjbJi77m12z4eL6b+O//wzqBX0Kc5BcRwk5AArpkeVCenrsphOhC1yRjOQOmVrsTBIo9bm6eqZdPtUHeR4k8SYhbRZkND57vWyjeXzk4oniYvIVu2DXyGJE+Z9/CoJ8zp2LYqe2Q7ZjQjsnqmNKNhpsqGyBRBtpAs+FzLfoWEN+BG0lv74fz8k8nuMi+b0V7VFuXyKkozhbOw4T2y4uK+3jtQnVUemTFeEFZV9C1kMhPbJUSOfkIANXJJloAXfnCjaBRWIgMyTT8tUSO7Emsec7762ENOqvv4ZcOjguEtkfVsz5tLNFIV2I7NwLhxlBPNgT5KrEzLXEg+fC5Ft3rCE/IgIhXfx7ipU4Fk4ppJvHkYl3iOP28dqE6sDHbPv2ayQU0uQYUEiPLBTSYFdnDOR0TgSseqTc3x3bpOsTyFh/VD6J44cEWgxtYh8S54sijPs6SyIdBLNPVjNCWtzh9wv60vGRiwfGRab/ekXyuYUL1TGFdDUOLwhoZ5B/HCrOF15LIHAuXL61x4yvurLBnKSy4zErhKUv2/pBbnfXV4R0lNtdOTCOCmojR1yrbgij/tsYR+2jY1Ef0md+tYMcCQrpkWVCGn4nTAR7v2jnnZ/+R04iSfaJw+xiu0QhEqsqrxIrWCTHcyjJTH0e+/f8rrt/QHf9M0Ja/ijRtNU0PnLxoLgY6UVs5J+mXLBLWvzI+2aiQUjPxOGlgOysYiwz2knsPrsclUCijTSB5gLm20hI27krx+Gc+B8bjm0oEajPwdwe9MGdq+Z2XIcvN/VR+agcnzxn1gXYfxvjtn20VuY+qWOiDv7YkBwLCukGcPJsp9+dO/adL0gshGzJoXGxNSeJww24NDtfM1vPRRKB8GboVNzMujLz14QIWQCFdAOLk6fZFfI7DYeQH+u17PYRckKWxUXazRIxUf1x0pE4aRxuxzI7k1Oy/Vyg3e4TciNCGj5RJmQlFNINbJ88Cdk/jIttoJ33A+eCEGKBQpoQQgghhBDSDoU0IYQQQgghK+BXOwKKXex2PiG3DONiG2jn/cC5IIRYZF6gkA5g8iTEw7jYBtp5P3AuCCEWCukGmDwJ8TAutoF23g+cC0KIhUK6ASZPQjyMi22gnfcD54IQYqGQboDJkxAP42IbaOf9wLkghFgopH//o/v4Znppw89PP9z5avLsX/qwt5ejDC+/sC+84B+hJ8cExQX0Mfj64wn9Wt8SS+nFQ7W42vhFFWcE2TkhX38uY10eR69u7s9X5oPE4LkwLxvqbR6/InwZ5Vqc0xN9/MzWL/tgY6u1f63lJnBsnx+YpwhZCYX0t1+6d5/K5y/d6+dvu4+mDE6eAylRvHh1t7OFKSW8oV8ycTF5kGMC4wKI5s8PlQU0fJOaXexvF2jn7x+6pzGWayLJ8P1Dd7+7fHU5wLmYFZhz52OmV4Rnse7qKW+6tcctC3wkZOE4wtjeA3xFODkeFNKKH927l3fdu2/6OE6eiZSQ7O7DgLwTv3947J7JoE1iw762OCedz+U6WZ8q/8EkQZQUc39MIpuEdE7Kdjcrl38qO1qpb6Vtu5uAxkBuChwXNhZmFqzkR+58FgfSP6Vv9uVFO5XYqcbhhYDtLJE5AOUDWe6x+wxudkgbeC6sz9tj5jzKnVEcPJRjQx1Po7Ce6nrx/oOLhVJPv9HT5/fSBxBb1Viq7FyjcUjgmMC1ss6o/y7+g/bRMTlmlRsegzghZBkU0pJPb7tnL3/pvprjOHnmoM/BqnZ7+697TAHbP0otwR+J2/6aSdSm42MCASJWiV+XxKaEJ/sFd6RlX3MflNjOdU8JuTIG1Qdy7URxIf1B+U1AHx/Wx60gVL6ZMIt/GDtBHF4QkZ1HlGBBQmkoN84LhfRq8FzojYnBtoGQjnInmhOV23Md7voUI3H9Xkin4/ZmK44l7VtxO9EaAGPbxGV/s2s2lFz/bfz3n0G9oE9hDpLrKCEHQCFdCER0AidP+dhNJ0IXuCIZqe+MycXOJIFSn6urZ9rlU32Q50EStwLH7QioPgwLcjQ+OAbVB3LtRHEx+YpdsGtkMaL8zwhpJYLjRT2MndoO2Y4J7ZyojinZaLChsgUSbaQJPBcy36Jj0/8X5c70NZzxnMzjOS5GoR3HwiohHcXZ2nGY2HZxWWlfCWl0XLQT9smK8IKyLyHroZD+/Y/u69Nd9+zNF3e8ECdPHbRFkLogN0LaJoAem8AiMZAZkmn5aomdWJPY85033v2IklhdSKM+kdsCx0Ui+5T16Qammz0K6UJk5144zAjiwZ4gVyVmriUePBcm37pjWoA2585ASBf/nmIljoVTCunmcWTiHeK4/aVC2h6z7duvkVBIk2NAIZ12oisiOgGTJ9jVGQM5nRMBqx4p93fHNun6BDLWH5VP4vghgRZDm9iHxPkiC2OVcGRfG4V02CdyU8C4yPRfr0g+t3ChOqaQrsbhBQHtDPKPo49T8ESg5VoCgXPh8q09ZnzVlQ3mJJVFGx7l6zujL9v6y5wP5RYLabF729+she2AcVQYY9tcq24Io/7bGEfto2NRH9JnfrWDHImbF9L9brTZqbF/Ag8lT/idMBHs/aKd6+t/5CSSZJ84zC62SxRmB9jvIqWkBhbJ8RxKMnIHo9T3GAiSipC2fbJtkZsAxcVIL2Ij/zTlgl3S4mNwIbWLehA7tTi8FJCdVfxlRjuJ3WeXoxJItJEm0FzAfBsJaTt35TicE/9jw7ENJQL1udHnn9919w9oR9rEFoil8Qfnaly4Dl9u6qPyUTk+ec7c3ML+2xi37aO1MvdJHRN18MeG5FjcvJBuASfPdvrduWPf+YLEQsiWHBoXW3OSONyAS7PzNbP1XCQRCG+GTsXNrCszf02IkAVQSDewOHmaXSG/03AI+bFey24fISdkWVyIpyCZk4vak8bhdiyzMzkl288F2u0+ITcipOETZUJWQiHdwPbJk5D9w7jYBtp5P3AuCCEWKKQJIYQQQggh7VBIE0IIIYQQsgJ+tSOg2MVu5xNyyzAutoF23g+cC0KIReYFCukAJk9CPIyLbaCd9wPnghBioZBugMmTEA/jYhto5/3AuSCEWCikG2DyJMTDuNgG2nk/cC4IIRYK6QaYPAnxMC62gXbeD5wLQoiFQvr3L91r8dIG+3rwRC152lf1HvRH3uUfw1/1h/Erf7x/VX2SSt1NpBfJRC+RGV7WYV/QwT+av29QXMA5g68/ntCv9S0+UvOXxKH+eDkgOyfk689l7Mjj6NXN/fnKfJAYPBfmZUPA5qdlbSyA61KsHrRO7IUytjw30avNr3rNLlTaaGIuFyfOs4aXXJfaOHVbNSikJd9+6X5+/rb7aI7j5HmCBWnXQVmpu4laMKa677oX5vw5A4PMA+MCiObPD9G81/yy5i+3BbTz9w/d0xgbMjZn7Pb9Q3f/6s7NEWkDzsXBufFQ1rYPrrsSIT29Wl2/Cvy21uxCpY0mZnJKz/nW8Giut4RCWpKE9Mtfuq/mOEyeVSfPd8F2tyhf85SCOV8r747v3/ug/FzOy0BIyQ7ufuiACeu2dZTEAvqnx2SDMRhneY352D/xGb4aOtdtbDoFYdCO7G8ZRxmXfYU6Gi85CBgXzk9mkhtcuIG/ON8U7VRiRcXAA2pr/2A7S+RCV1v00rnH7jO42SFt4LmwPp+J8rT15dY8ZvJj8u0hF8r2g1wJ4wz0W5ZzceX7As/ZsdfWF1cu6L9bUyrtpLIPZawi/9zcmo3bqI7X2RnkYle/aOMMa/gkpNP/H4Pcd1oopH//o/v6lJ0XiOgESp5TEvNGVSRHkQv+c3GHJs+Vu2UZlOJRSTo3CgobeKNTGXFRqxs5u+2fAgUjHie2TW2Bn+qWd7Dwbja0Zw7UbAvVh2i8rh9kCSguEtK+2Bd8eZc0rb8437S+Ph8rKgYuiMjOI0okxQvfOC8U0qvBc6FFQm/bWp62vrwyj2EhLZB9gHMOrrNCWj6uX3IO5Vs4bhv3uP8wj9TakWtiLgPrQEi7wT4HOcXYJMpD263ZBTDPkjk721wMOd8aLoV08kPf/9NDIS1Z8NUO7HD6/JhYpdPARJivqySjkgjdNSpIpv+7cqJu1Te54No2FTgYw3G64K4FIx6DDRbYztjfQUDIgJIBCcfr+kGWgOKiZ7R9bc4tOYmq+fQ7YJNvmgWoJVaU4LwcQjsnqmNKNhpsqGwBRRVpAc+Fz43O92r+2pjH7HVTG7p9mCshvt/VNag2BrP2wHwb9l/3C/YfrCm1du7HetuFdNhurc81e0V5KFjvXLmD12zU3kQ43kVrN2pj2zU8nZM3OtPcbweFtOJH9+7lXffumz4Ok2dtAVMLVZx8aoFjyx47KGFCsW0qQDBG48wMO43lWC0YzbX5rhLvoEX2rAchHC85CBgXPXmOqv6EmRIvhXQhsnO/uMwI4sGeyVZ6EeqZuZZ48Fz43Od8r+avjXnMXje1IeqOciUEnK+0Vx1Dbe0phP0P2gf9k2sKvD63g4R0Nf6jduf6vOs1G7Wn+xadb1+7gzY2XMPTOQrpPbFgR3p8hCoXo18f+wlVk56cATqNOTfzKGd0qnRcXKMXU5NQa3XbwEJtKnywheMUhMKoWvdQ9kUOqrCdxiAMx0sOAsfFQJr39MOTKPlFhP7ifDNKxmLuazFwQUA7q4UpoPd7EHMt1xIInAuXv3zOUXna+uuiPFbmcyhnhXSYK+GcyzrA5749s6Oo1pDaOZBv0bgPWVPA9WO9ck00tr2dNbvg/TMcryDMxRDbxnZruBLS/GrHmfj0Vjxu8LvRCZw8Ezkw3Q5Pcqpy7DFe8Euw5OvVj6FsWelU6f+lTVWfduaw7hLM47jj/k2IMY3X4HGqukGb3tFtENpEjdtpDkLbJ9sWWUUcFyVZziVf48v9/Po56/3F+WaDkEYx4MTE/kF2Vv6cGe0k4nSMBwkUVaQFNBcwfyWiPG39dUEeG/35+V13/1DEiWw/yJXhnJu8Lsvkfo0/BJNjrJ2z/hnFqS3Xt437P7em6D4EPzYs525mzZZtiDH31+LxztnZr914HD0breFSSPPHhjsGJ09CbptLi4t+lzxcCPbLpdn5mrmpuaiJtNq5HTCJKyukybWxh7mmkG7gppInIY0siwuzK1Ld3TgSZncW78jtn2V2JqfkpuaiJpZr53ZB2SHNecfull4lW+TYLdpop+zgJyE9fRVleyikG7ip5ElII4yLbaCd9wPnghBigUKaEEIIIYQQ0g6FNCGEEEIIISvgVzsCil3sdj4htwzjYhto5/3AuSCEWGReoJAOYPIkxMO42AbaeT9wLgghFgrpBpg8CfEwLraBdt4PnAtCiIVCugEmT0I8jIttoJ33A+eCEGKhkG6AyZMQD+NiG2jn/cC5IIRYKKQFH9/81D1788UdryVP+6reg/4guPwj96v+4D14TWdhVX2S6DWjQXuQ9ArQ6LXRLXXJMraupdeTQ0FxAf8ofvh64gH96tcyp3Z+Lbczl8jOCfk6YflSBHkcvYiiP1+ZDxKD5wLlRn/t6VgbC+C6FKsHrRN7IX4hy+2s2QXkn5V2IXP5ONFS5/HW8L28jCVBIV349kv3+uXdIiF99AVp10FZqbsZGziHsKauY4yBFGBcANH8+aEyT6Ffrpnf6wTa+fuH7mlcOGqLk+H7h+7+1Z2bI9IGnIuz55W17YPrrkRIR6+Nvq01u1Bpo5mZvNKztJ2WOi26jWiet4ZCuudH9+7l2+7jp7ftQrrq5GmywW5RvuYpBXO+Vt4d37/3Qfm5nJcOmpId3P3wTgbrtnWUxAL6p8dkg0Qcc9emIJF9FJ/ha0V9XX7spQyqS/YvsD8cA1kLjAtn45kEBxduML/Ov1r8xcTAA2pr/2A7S+SCVFuc0rnH7jO42SFt4LmwPp+J8rT1Zfm55ONy7fiExq85ybebcx+MM9BvWc7Fle8LPGfHXltfXLmg/249qbSTyj6UsYr8c3NrNm7DHXN1WFuDfOzawHV6Wxx3DZ+EdPr/Y5D3Tg+FdP5Kx+tPf3R/XyCkpyTmjapIDiWd67l4BCHPlbtlGZTPJwdK50ZBYQNvTCDGkWt1i6AbH4vY/im0Y09JD48N26e2yPu63NhVENm6ULKwdgjKkFWguEjIx2zYD3x5txDb+XW+2eAvtRi4ICI7jyiRhBaoodw4LxTSq8FzAXJjLU9bX1afc125rIofk7exkBbIPsA5B9dZIS3iatG5lvWl/2zjHvcf5pFaO3JNFALY1YGQdoN9DnKKsUmUh7ZbswvAP127cznbrrcIX6ezxZHXcCmkkw/6fm/DzQvpr0933c9PP4bPRxTS8s5yvBszweDqqCSjkgjdNcqxpv+7cqJu1Te54No2FcjJTeDIa2GA28BprGtcBNqDENofjoGsBcVFzzhfdo5q5GQ/zjsQ0so35/2lFgO+/f0S2jlRHVOy0WBDZQsoqkgLeC58XnG+V/NX9Xm4EZLiwO4++vWjJfchfL+ra1BtDGbtaVlfvI0q/QfrSa2d+7HediEdtlvrc81eUR5Sdtd2i+qujTVes1F74JitA9ja5WNIpc4TreGpjLzJmeZ9W25cSH/pXss7tYIR0zB51hYwtVDFzlULHFv22EEJE4ptU7EwGDPDbmMUOI11LQ3CyP5wDGQtMC56sp3tPDYw7WZTSBciO/cLzYwgHuyZbAXy3My1xIPnwucV53s1f1WfDxTSYe5DgPOV9qpjqK09hbD/Qfugf3I9gdfndpCQrsZ/1O5cn3e9ZqP2wLGgjva1u6HOE63hFNJ7ZMGO9PgIVS5Gvz72k6qcPjlEzbmEU9Qe5YyOlY4bR4ION1e3CyzQpmJdMJa2oThqrWthEIb2h2Mga8FxMdA/ynsVJP8Koa9Yn2jxl1oMXBDQzmqhCejjHMRby7UEAucC5ZVanrb+qj7PCGn1V2384/Iw98E5l3WAz317+pG/XkNq50CeReM25cL+C/TXGvz5/rhcE41tb2fNLgD/rOVPQZiPIZU6T7SGKyHNr3bshEVCOpED0+3wpMkuxx5j5yrBkq9XP4ayZWUiTP8vbar6tJOFdZdgLnVU+jexLBhV/eC4d/i4LhyEti55LrA/HANZSxwXJfnNJV7jy2aXVM2v9YkmfwEx4MTE/kF2VvGVGe0kdp/149kMFFWkBTQXYV6J8rT1V/W5IqSlPz+/6+4fwI50lPvCORflTfyVfo0/gpRjrJ2z/hnFqS035njf/7n1RPch+LFhOXczazZuwx07eO2er/NUa7gU0vyx4c7ByZOQ2+bS4qLfJQ8Xgf1yaXa+Zm5qLqwYaj23AyaBZYU0uSb2Ms8U0g3cVPIkpJFlcWF2vqo7G0fC7M7iHbn9s8zO5JTc1FzUxHLt3C4oO5c577gd2Wtkqxy7VTt1yu59EtLTV1DOA4V0AzeVPAlphHGxDbTzfuBcEEIsUEgTQgghhBBC2qGQJoQQQgghZAX8akdAsYvdzifklmFcbAPtvB84F4QQi8wLFNIBTJ6EeBgX20A77wfOBSHEQiHdAJMnIR7GxTbQzvuBc0EIsVBIN8DkSYiHcbENtPN+4FwQQiwU0g0weRLiYVxsA+28HzgXhBALhfTvf3Qf34g/Lv78bffRnMfJ0/xR8qP+wXf0Ss9TEbyW88JfYkFOD4oL+Ifxw9cTg/KpbPAKXf2K3PL68fTK39qryLeMpdOA7DzSv4rdjE++jjjbPXyluIn58mKFuPzUTv9CBDuvoD/+NdDielc37s9ewHNxyrWghZU+DuLyUt/+6ShjK7EwjtO8InyN3QTJt2XMLLYdmIPCqvoEMr4Sa15cEvehxedkGZunW66frpl/PXnAr4/9NfJV4o6WMjNQSP/+o3v38q57980en4iT55wjrOWUdVuskJbt5qQTBDq5bWBcgIXh80MsdG2i7pO/9MHyBrXwTWo2QV8f0M5jbD6amLWLF1o403GQX/o3QYLjqPz3D939qzsvUGx/VJ1irr5/6J7Gftm8g67dB3gugv5vxsr2YayuECu7Q/hrFknD8eGGx8fDevYupA8da9yHpT63Jk+ba9RcNtIiklvKzEAhfWwhnRf8p3I3KO+Kx120qdznslsjz9m65Q4TWpTsZ7Aj5eoZj9eEdDm2NADILdAWF79191AAZ5RAHhbAJ5HQxkTudqpLebN7KeOvLy/642Ju6qfcNb1/QG2dD2znAsgVIubhQhgtSNHNiiufhQoUAWD+w5wl6wPHo/6cETwXdswZmLfNGiFuElvXjGKPaW5tDjcxUfpibQnmTwrpof7fphhzbeNzpZ4xnlQsf+j7V9pw5ZTNzNjLuESf3fW57L0Yd5PQDdr1fRY55/mQq0J7Bf10a7K9GQV12zpqNpXlrTCcjuWYe5+eIOld31K//GznV/lcmFdLGZCnXV5A9mkQ0r8+ujGeAwrpXkhPk/jz0w9XJk6eYvKLo+WAHyY3l8mOoQI5l8OJzjipXfCLo0nHSuXScZNsx8CJjrsk7BcEFJCE4LjQ/lJdvHrE7lHxYbG4yN3sYbfaCi6TbFX8JWws6UW8/7+Jsb4dt3Ccj8jOAzpmnb2dWBL2FtfgxRKXH+fX1e370yNEEMwjRuTV+3Ne8FyYtaDk4ShvWx9dsmY4MWtFiUD2Ac0VOGaFtIy3JecmH5z6NlxjbFKZ48lm+Ear1s5o23GNxHUg5FzBPo82G+YK2ySdEwJViUMx92IO5uqOxhp9PUWJ91xGC2khWo1vFXS7koa8qvzS2j/wWWE3dw2F9KXwpXv93O9Ox8kTOIJyyDhovOPK+nSgaOcx5XIdJXn0gVWCR9wBRsddfWBMFNIEgeNC+rlNnpjiX9MCWPwa+eOwwEwLMBDSUVzZc7mfLsbQ7t0ZCe3co20ExyLFkv0sMeIPlVf1w7rMnNXyYakjsjXqz5nBc+H91M1DzQ9rNqqsGVMb3gesgLLjcHVnYkHsRR8+lwWaXGuEoJyuiXKDuT4QtK6caucRiK+ovaA+OE5fR81eQ17z1yi7V3LlVHdtrNbP9PV23dZCWraX2zD+ENdf8edxTNIvbXsmZtI1ZmzuGiGk1U1CBvdzGyikDemHh68/6WOtybNnZVKMBK13ZN3usGOX2onKD0THo3bxeUImcFwkss84Hw/IcTHtPucE+mveobblawuCa3M+4bvYqIm7MxDbOQEWpEj4BovrhF3sbPnUll/A9OLrRZ1sX37uxVEwv1F/zg2eC58j7birfrhyzZjaEHWr+ff9UgRCurTtxtAspPGczYlS277vX/a/2XaQkNai1xK1O9fn7YR0NFbrZ/p6G+th3pR9c18dQfVX/Hkck/Q/2150vSxnruGO9IXw7Zfu5y13pMXjvX5RGa8zTmYWJpVcknM9JGS9Qb/QcTUOO6ah/855CQlFxUC/CLyKkrAl7UDfeZHwKv7xR7gg2KRuYwkl/PSv8Pt+t+NShbSK88rihXA5Yqa8EzrgmlQG5UN4rcH15/zguQB2quVt64eL1gwpMvxTRSV8pF8je6v6/Oe+z8qX7NcYKudsW7ZvsJz21z4OXT16rP78cFzab2zTrLlDG6muuF3bZ92nQdjXhbTtZzy/c3VHY41y7CohbfoU19+QV1Vc2PbEuaqPn0FIi/FM47f911BI9+J52l2xu9GJOHn6Ry2LkqL8gUltAct3iT1ugU9l9QT3QTf2yyRzd1y2ZcYUfaeRkFBUZPpFPE48GnDDZhd5GQNmF7T4dX+9TepNCT8vYsXn048NwaJ1Lqp2trkiIWzlbGrzh7SrnS9U3l7r7OT7o/KOWKDVfJa+1vqzA/Bc+DH3RHnb2rV1zZB++vyuu38AO9Iyh8u/oALnyseVzPeDiBh+yCbnbu5cGcNYbyjKdLnxBqt8HuNQl5vqwO0ke6IfG5Zz448W5Xhhu6jPwr7PH7v72R3p6f++/3Ze4rqjsdo2JYuEtLSLu7mKdMdcXtVxofK0OifG9uqx31RpFtKngEL6NODkeSDW+dZyrHoIWchJ4mIH9LvpWyTsRq7VzpfILc1FTaTVzp2fJHqmG4j99pMsYsdzSSHdwEmS58ECON/F7XDXhtwGy+LCP+3YTVI0u1Rw5+6MLLMzOSW3NBc1sVw7twvKrmjZad5ZTJNl6N1sf74Jm+eP+MSdQrqBW0qehLTCuNgG2nk/cC4IIRYopAkhhBBCCCHtUEgTQgghhBCyAn61I6DYxW7nE3LLMC62gXbeD5wLQohF5gUK6QAmT0I8jIttoJ33A+eCEGKhkG6AyZMQD+NiG2jn/cC5IIRYKKQbYPIkxMO42AbaeT9wLgghFgrpBpg8CfEwLraBdt4PnAtCiIVCuudH9+7l9HrMd9/0eZw8/QsmTvtH34PX0DrsqyxbryNkGSgu0Gtpw9cTo/KpbPCKb/Va6fFFRNbfLZfv/8jOI8lednzytc/iVcIqV6lX9dpjtfJTO/1rj+28gv6oukR5/Npk3J+9gOfCrAV2Pk7OWh8318GXl8j4mmtnsIOdMxfjDlmvbaN8zjaW/5f+af3wqNg+Rdhc1HodpsRHsl1sQ/Cq74Ne9Ia4bdvbcwgK6d//6D6++an7+emHO16Ik6ecqPymwZM6VQvWoQg5DTAugGj+/BD7o31DWp/AZFyVhSFcIK7f36Gdx3zzGAiPqYxfDMQrlCX9m7/AcVT++4fu/tWdmOugP6pOMVffP3RPY79sLkXX7gM8F0H/N+MY7dd8ZYmQvutemHiMRaC8rtSr20j5Ybj2t+5+jH/bj+tde/H4JRsJ6Zu2/TwU0t9+6X5++Uv31R4XtCfPIZGMkwl2hkbHszsXtmwOiKckLHonFu3lc5/LTo/anbO7Oaafsh274Kk67dgI0bTFRbQAZFTiHwTbk0hgo9B2O9WlvPH3RXGjF+xSz/0Daut8YDsXQHyLRc3eqJQy7lgiWoRd+SyswU2T64/6HC12wfGoP2cEz4Udc2Ym144+Kj+X/F+uleuJscc0t1aI2jUAPenR/cZPBxJ5rt040TqWz5t+jkK6uf+ijQch4EIxV45d39orxdxf3z+aGAFtVupy45xpW9n2xm0/B4X0p7fdszdvu9cl+QBRvSR5RkmjHIcLWyorHXE8Ju/kjUPJR2gqSdpFyV6nHUUFlKgz9df1kxABjgu9AwX9XSEW6uSDRURkv5S72cNutRVcxt8XxM3o4yYu+nac6DgfkZ0HdB5y9nZiVwqj6Zo+98Ex+/Lj/Lq6fX96st1TG3BhMiKv3p/zgucijXlayEdBMJNrR1uoz7muXFbNp1lTsBAVyD7MztUgRvz8YCHt/MyclzkgWhNx/028jn2eE3NxO5e89iox525oQZtRXYFNwvKqDdp+DgrpJKSfv+0+5s/oax5x8owdalwMBKNDK0epOJlaSIxjROcqDuXbqdQJEy8hEzgupO9YX8TImBnFRO+LKMbSMSmywEISxYY9l/vp4sIIu3MT2rlH2wiORcax/SwxCw4qr+qHdZk5UzYHYq1ma9SfM4Pnwvupm4eaH9ZsJG1srsNC1Kw9VfvZdaNdSKN1TNc3/T8SWbj/uo370YbtYu6a1l4l5pQ9CjP5T+S40CagvG6Dtp+DQrrfkf4Sf14kpGuTp0mOV5IcLGsnuDb5J3YoQhA4LhLZr6xPRWRfm3afsw//KnekNOPibP3dtTnv4y4uauLuDMR2Tpg8VBO+ym4Imzts+dSWXiR71Bzp/tj25ed+0Q3mN+rPucFz4dcCO+6qH6rPBwppNf++X3G/IyEdlR+Q65g7n3dQtxHS0zFve80lrb1KzB0opN04K+V1Odp+Dgrp3790r82O9OtPukxb8hwS0ThhaYKcw2lUgrFl7QTbyRd3d/2CpBIxdijbjlrIbHswoAiZwHEx0D8ie2UTWERK1OlHSmaRfRUnsmMK6f5fERd9sld1nJeanV0eUjFeyQUIl4dmysMcYa5RNyVCrMFrDa4/5wfPBbDTklyrPs8IafO9UCtElWiQfg3tbYUIEtKpTGkTjFPFoj0/+N+LUm9D/128ypuCUMxd79qrxFzrVztQXWictfKqHG0/B4V0Iu1Cl90VsxudiJOn3pmxRu8nrJzPE6mOiQlUx4vj1xxK/jjFOGOpyyep7CigfdceDChCJnBcZPpFvHU30STjRJ/8xPXSb80uqPJ368cgbpCP9+K5xHH6seGOfL9qZxvfCWErZ1NlG2NXO1+ovL3W2cn3x+U2e0z2tdafHYDnwo+5pzXXqs8VIS399Pldd/8Q7egWW4u/oDI7V8uENF7HgB2M+Gnrv+hT+GND7Tu239ey9kox539sCNqcqcvapFZ+grafg0K6AZw8z4idfELOwO7i4kj0u+lu5+d8XKudLxHOxbZMYmbmr/9sxcZr7z7Gf862BWez/TwU0g3sLnlu7FCEIJbFhd/J2I1YzbtmamfEljkjy+xMTgnnYmvKzmLOH3bHe2s2XHvL7n0Sc9PXZ87BbdvenkNQSDfA5EmIh3GxDbTzfuBcEEIsUEgTQgghhBBC2qGQJoQQQgghZAX8akdAsYvdzifklmFcbAPtvB84F4QQi8wLFNIBTJ6EeBgX20A77wfOBSHEQiHdAJMnIR7GxTbQzvuBc0EIsVBIN8DkSYiHcbENtPN+4FwQQiwU0g0weRLiYVxsA+28HzgXhBDLzQvpr0/+VbU/P/1QZarJs3+Zwx5eZWvfNU/IacFx4V+8cvALTqp/iB+8lvjKwHYGr9cF15LjgufC+Pzm/rg0BkCMzr0gKb+0SL+g4ohrDnw19QpKrqi9ZMmeM7llfI25vTa4zr0JtS9XmQ9bz6HjrubHlezdjraONTY8ot1uXkhrfnTvXr7tPprjOHkOpMXsxau7dRN5VI6Y1AhpAMeFXdSTX65MdIVqwrPtXR/QzmqRYexvBZyLs/vg+vab35jXx+CdETZH9LsjCenPD7k/KmcMOWgcZ5hPZnJVeF2yf7FDg01qfVtD2K/17N6OtX61EvZjORTSkk9v3W50AifPRJrA8vpSkWDyBD2VO7LkUClRpP/b3etyvD/n6yiT3Av2dLeWj38uu1H9Ndlxcz3VnQVCjgSOC7SoywR5DJ+XMWTak3VHifzCmLfzzKJDjsb8XAhm/LxfH5K/t64XUXyo9vVu87gWpPqAaLBCWj3lkOVL20rwCr8zQnistz/+YVyfUn/GNmzcPvw27WIae8p+qTGVuvu2f+vu5a4ntJU/NzIn5qPr5LVzdYB6VN+qYw3sI+tL/xfzH81tqRcduwg7VvrlxhTZrtaPhVBIj+Dd6AROnnki8mSrhJSdeficE1su5xxRBETvAHMOnOsudUyPQ7iYkm3BcYFFxRgfR/B5LQpEe+Z6KxIuFWxnvWhewzgvATwXWrz2/jzn5/JrEkvWCxQfQcypPgTCRMWIEdvqUfvYtlxnGoV0uRkAa5dqW/ixspeq27RpbtB9f801o13MfNn+IILrpn75GwBIrW+1sUb2MX4xIuezt5XpW6Wt3dsx6hca0/vAdpHdVkAhXfj0tnv25os/XhHSaUJUIoCOPTgGKqeSZE8sCpSokJM/1kchTbYFxwVe1EtyPYrPux244f99gizJ2e2yXC7QzrUcQ04GnAvg80v8vDqX4boSC2kVByAWJVL0OAEk24P/jwSM3ZEux1M/pzVK2chcL9sbdxIFvu7h89h/KdbsU2Brf9vnsa9G6AXXDTQKwFJP0LfmscL5AHUIG9r8UGtr93YM+gXH9BDYrtqPZVBIZz6++al7/ckfT8TJ00waTJRxYlySbENRQSFNzkQcFzYJarF7sM9XhPQ1CGcLsrMdq/1MTgOaC+Tzfj5iP29dL+x1UEg74WpjUbNKSOe273/dTkhbEQivsQKw9NeWs/bP9Dcgspy9NrhOXWvbQlT61jzWYG6UTWdsiI6VtnZvx6BfcEy2rnJtpR9LoZDu+dK9fo6/1pGAydNOTrjwzyRGu5OgzpWkM9Th65b1UUiTbYFx4RZv4bvp81qfF4/C+2vGGDACZUY4XCLQzinuoxxDTgacC+fz3hedn8scvmi9APER3Uyma6HAnlDCQ/nUcA6JsmnMww/tRyGtbm5XCGm7s1iuM/0asWMKv5JgxunGIsdknmJZ+4fXlbE3xGKtb7WxRvYR9cm6VJ5E9aJj+fju7Rj1C40psp2sQ/x/8st2TUUhnfj2S/fzy1+6r/Z4BiVPeOdTJqM1MZbP5jGMbKM8urh/QCJd19cHzpU8zib7B8VFSaLq0ZqNk5U+P/4YS4kWLWJKDPhylwu2sxkrEEnk+OC5AEI6Efm5zeEL1gsYH6p9EX8Pj8FO9YRdx0Kfsn0udRphX+LuftWO9PSjxDAvyHNuTPGP5FTb6ZzMUWruxDiynUchBa8Dgq8vB/xBno/6Vh1rYB8rCHMfXzw8OrFZ6i12h21dgh0r/XJjimxn7Zb/TyF9InDyJOS2YVxsA+28HzgX+2b8s23g3EXjbhpOy1XZcQPbUUg3wORJiIdxsQ20837gXOwct1N5RuzOK3o618oGYlBxTXbcwHYU0g0weRLiYVxsA+28HzgXhBALFNKEEEIIIYSQdiikCSGEEEIIWQG/2hFQ7GK38wm5ZRgX20A77wfOBSHEIvMChXQAkychHsbFNtDO+4FzQQixUEg3wORJiIdxsQ20837gXBBCLBTSDTB5EuJhXGwD7bwfOBeEEAuFdANMnoR4GBfbQDvvB84FIcRCIf37H93XJ/Fa1Ddf3HmUPO2rVXuO9Ye/9/TH0AkJOEZcuPKprHv16/CaWP36b/lq4tpbuILXN18QyM4j/WuazfjSsWKnbHdlu8z0eml7rFZ+aqd/Fa+dV9Cf6LXT6JXFUX/2Ap4L3Wc7/tOz1sfNdcVv1JzK+JprZ7CDnTMX4w77inPZRvmcbSxfPy7rqOSYZlauu8WPU5/isZo8tbKtOpdhI3vuGqCQ/vZL9/Pzt93H/vOP7t3Lu+7dN10GJk/glEd7reZKZyVkS44RF0lkyYW3T7hyIS2xEMbEnJC+fKCd+3En0fMYCI+pjF+80nEgiPo3iIHjqPz3D939qzsx10F/VJ1irr5/6J7GflnxhK7dB3gugv5vxjHar/nKEiF9170w8RiLS3kdFtIpPwzX/tbdl/hfmGOaCXPMPLCfio2E9EXY6PqgkP79S/d6jZB2ScUEENgVKk74uezQmIRRyt+/N84q67KL1KsP3VMSHyudm5C1rIoLi0rMg2B7Egl3FNpup7qUN7uXLiZEf1rj7wG1dT6wnQvG3mYBtTcqpYw7logWSVc+C2uwWLv+qM/RTU9wPOrPGcFzYcecac3b8nNZL8q145MXb49pbq0QBTv6MH6m6/DTgYS8ibJzaceWz5t+jkK6uf+ijYdSXuYRa28jIM+w7kqR+Nf3j8aX4zyF+rR0DBOXY6Nrg0I60e9KD87w+pM/j5OnvtNWC1YtkYhHX+n4GFTCCfukVq4353qnls7/fO5un5DTsDguIGKhTv5cRET2cbmLMuxWW8EFdnpUTBghvTT+dkBk5wG9YDp7O7Hrd5fHhRKO2Zcf59fV7fvTk+3eL8QoVxmRV+/PecFzocVrb5MleVt9znXlsrV1BQtRgezD7FzVdqRLmam88zNzXuaA1UK65INyHK2psh5T/5brrhKJ7sYzgfMU7NOSMag2LshGVwaFdBLRL3/pvvaf0460F9M4ecrkpINkXAgEyInL9S4piYXFnbOJZoeLDbkNlsZFREnmU6ItCwISCFlojH4PFigVE5V4aYg/29dzENq5Z6GQtp8lZmFE5VX9sC4zZ8rmQKzVbI36c2bwXHg/dfNQ88OajaSNzXVYiJr1p2q/9UIaCaVIEB8ipO9HG4InvibHnHPdVSJR9bswk6dEn5aMQbdxQTa6Mm5eSKcfGv789CP8nMDJM5EdJ0wQprx1rhM4KyFbsTQuQnIcTLvPOfH/KnekNNNuy8wCVYuXhviz7Z6D2M4JI+LMAmvHJnepPP7GR5dPbelFuEfNkRd1sn35uV/Ug/mN+nNu8FyYOQDjrvqh+nygkFbz7/sV9zsS0lH5gX6HEongRN6ZPYmQBjnG2zxj7d0Q9+5cbf6sSDxQSC8Zgy53QTa6Mm5eSP/909vu2dod6fII5JVxqOREKIFZ5yrBkP4V5Rc9PjHOSshWLI6LkLQApB8pmUX2VZx4jymkq/G3A2p2duJF5QsrRL0QUri8NVM+WszlNeqmRIg1eK3B9ef84LkAdlqSt9XnGSGt/lpNeRQ/ta/EjfRraO8WIZ3KlDbBOFUs2vOD/70o9Tb038WrvCkwMelyTOQv1t4tcb9k/qxIbP1qB+rT0jGochdkoyuDQnrln78b6R3N75r0TlXqlIkBOWtx0Fze/dgplSt1hQmYkG1ZExcYuajmY2rRNTFgdkFLrPXXu5hoENIo/twidT6qdnbiRdvK2dTmC2lXO1+ovL3W2cn3R+XCXF4dk32t9WcH4LnwY+5pzdvqc0VISz99ftfdP0Q7usXW4i+ozM7VMiGt5m/sO7BDH8dTvW39F32CPzbMgBxzrnVXikT/Y0PdN5inRJ+WjmHicmx0bVBIN4CTJyG3zbXGRb+L43aUzse12vkS4VxsyyS+gEjcEfvo5znbnodC+sZh8iTEsywuxE5ZZjdiNe+ajX1zOz3nZZmdySnhXGxN2aHO+cPueO+AsmObROL0NZdzcBk2sueuAQrpBpg8CfEwLraBdt4PnAtCiAUKaUIIIYQQQkg7FNKEEEIIIYSsgF/tCCh2sdv5hNwyjIttoJ33A+eCEGKReYFCOoDJkxAP42IbaOf9wLkghFgopBtg8iTEw7jYBtp5P3AuCCEWCukGmDwJ8TAutoF23g+cC0KIhUK6ASZPQjyMi22gnfcD54IQYqGQNq8I//nphzvvk+fwOlX5con9vMgh9U2+EhS8tnU1/qUabWO2fSLXgI+LBH3k2GA7Z/pXAJv4lq/tbbI9aQXPxSl9vrbWHDO3W2rt2rKNgNdGN53L9kUvcOpfd30yGxDSBoX0p7fds5e/dF/7z1+618/vunffdBmcPAdSIKMAPx8tyXktNnHnZDubXE/ZJ3IucFzQR44NtnOx66Oxt7T/UOZa3yZ2DvBcbOPz51prjtZuTSzXzoVv7Mt2dscJ2ZabF9JpN1ruQtvPCZw8B1ySyQnhKb0Ss08MerdiLJvLfU531OmcWfz0saCOhNp9+qB2EYZyJsnL8vJ42B+JXTDKsbIYoH7qnY2x79w1u3hwXNBHjg22cwHEt7CVy0/kIPBcbOPzfi5Fu3LdKdeWusZ+ZFAb6VggZH27lXUEXFvK3b/XYrl2TjOM8+n9nb4p/PWxe/H+g/d/1K+m9a1gb3CKYF97rP1miVwmNy+k9Y70j+7dS//1Dpw8B1ySSQH7PNgF6s+JxCceV6V30af/u/osrg4bpDZwTbIVCaRPZCWRBv3R7aMFYyjrxqvaMn0yuw/werJ7cFzQR44NtnNB29vlDyOsyWHgudjG593cutxeymfhnuddXRe1UfET125tHZGYcqmtUazXzjnyOF3fk+2sDYJ+Na1vgl6kC5vlG5PVx2z95KqgkP79j+7jm3IHe9e9fnOcHWmZEOSd93gnbMuVRKYSYr0O13ZPLKR9eb+j4fqj6p5fMFA/bZ9UmYwfB9k7OC7oI8cG27lAIb0leC628Xk3t2H+HnZGxzVE+MBcGwjbrv0cjd+VE7vetXO2fVn/IJ6lQD3m+mbaFH0db1BWHyPXDIW0IYnq15/0MZw8B1zwVgO2PbD7O/RSNqjDtd2ztZAWx4J+2j75fpBLBMcFfeTYYDsXjL1N3NKOxwXPxTY+789H+bsupGttIOw19jMePyjXKqTzZlIv9I1YLmOZblKOtL65NotoT7acxnbIMXK9UEhL1Nc8JnDyHHDBawJWnU/B2xrYYkejWodLYLGQtuVTvWObDf3xCXNI2KVvYT9tn2C/yaWB44I+cmywnQvG3spuNheQQ8FzsY3Pu7XG5vYGIR22AfN90G5tHbF1inLq6xu1cw578yHLHri+Vcadzr14SIjzhxwjVwuFdP+XOsojt7fdR3f+MCE9BHq50xW/sLflckD3wV8eu6lkAeooyaKUz0Fbjg39Mkk+tePqj/ujxyv6kdGPreb7KReXsR6U2MnuwXFBHzk22M4FK+J0jGvhRQ4Fz8U2Pu/WGisiW4R01AbM91G7lXXE0AvkYpMH/fWN2jmNX8Om/vhzsF/R+lYZ91C3vRE95Bi5ViikG8DJk5DbhnGxDbTzfuBc3BBWfB96jFwtFNINMHkS4mFcbAPtvB84F7dA/vqI+zN2a4+Ra4dCugEmT0I8jIttoJ33A+eCEGKBQpoQQgghhBDSDoU0IYQQQgghK+BXOwKKXex2PiG3DONiG2jn/cC5IIRYZF6gkA5g8iTEw7jYBtp5P3AuCCEWCukGmDwJ8TAutoF23g+cC0KIhUK6ASZPQjyMi22gnfcD54IQYqGQboDJkxAP42IbaOf9wLkghFhuT0h/eutfBZ6OldeKvvnirsHJ07wW1r6mt5n0B9xX/PH28M1J/nW18StQJSv7QW6Wprig/x0MtnMmveLY5h75muQm25NW8Fyc0ufzCz5k3WP94PXwR6PWri3bSLhmzZzL9nWvKS+vOz+ZDQhp44aE9I/u3csklN92r5WQ/iI+D2Vef9LXxslzCuA+oFclmZZkCggTj02uOSHO9m1lP8jN0hIX9L/DwXYudn009pb2H8rc/+rrJOvAc7GNz6c1BonJU3O0dsM1a+ZcuVFxgrm8RdAeJ2RbbkhIF6RwzrvRYhf669Nd9/PTD3VNU/KUiUDuCKEEOx7Xd/1jsgp2lHqxno/fv48Sj03q5VhJ2Hr3ZGhzWT8ISTTFxXiM/rcWbOeCsXeymckZRxFBpAfPxTY+7+dStJvXn6cHcW2py76uGrWRjsH1BLVbW+P8taWcXbNq5zTDOJ/e3+mbwl8fuxfvP3j/R/3K9vlc2qz02d/gFMG+9lj7zRK5TG5eSDvhbIR1oiV5jjvSKWDR8Sgh2UAzd+afH/KOkqk3HceJDyV1UY88rups7Idrj9wqLXFRgP5D/2sC27ng85DKMUZYk8PAc7GNz7u5tUL6eSmfhTtad6I2Kn7i2q2scYramlU758jjdH1PtrM2CPqV7VPGkdrza7GgF+nCZvnGZPUxWz+5KiikDxLS045CSQIu6YTJrqCTqbxLL6T6XL3hDsJ8UldtBEk96odui9wycVzQ/44JtnOBQnpL8Fxs4/Nubu3aMq4Hw87ouM4IH5hrA2HbtZ+j8btyYs2qnbPty/oH8SwF6nTO1RnapyUufuvuRV/HG5TVx8g1c/NC2gpnJ6yrQroheYBy/d13JZmixOaOh4nHt6eOqQQiy7b1g5BCe1zQ/w4B27lg7G0EAu14XPBcbOPz/nwkFOtCutYGwl5jP+Pxg3KtQjpvOPVC34jlMpbpJmU65+oM7WPnBLVZRHuy5TS2Q46R64VC+tsv3c/qx4Z33btv+pr25DnzeEkwJQLweA/VmwJfHI8fhdl+DUm1JBiVbFSdjf0gJNMWF/S/Q8F2Lhh7K7sZm5KDwXOxjc+3C8VYSIdtWGFZa7dxjauuWbVzDnvzIcsaG0T9ioR0Zdzp3IuHhDh/yDFytVBIJ8Sfv7O70Ym25ClIwVkenYng7QO7clwm3rGcTTb5+P1DbUdaP7rTj5bEefOL/9Z+EJKI44L+d0ywnQsgD4n8o4UXORQ8F9v4vBO0VkS2COmojYqg9O3Ga5yltmbVzmmMj8vvIINzsF9rhHRft70RPeQYuVZuUEgvBydPQm4bxsU20M77gXNxQ1jxfegxcrVQSDfA5EmIh3GxDbTzfuBc3AL56yPuz9itPUauHQrpBpg8CfEwLraBdt4PnAtCiAUKaUIIIYQQQkg7FNKEEEIIIYSsgF/tCCh2sdv5hNwyjIttoJ33A+eCEGKReYFCOoDJkxAP42IbaOf9wLkghFgopBtg8iTEw7jYBtp5P3AuCCEWCukGmDwJ8TAutoF23g+cC0KIhUK6ASZPQjyMi22gnfcD54IQYrk9IZ1eB25fEV47Hgrp4bWv7tWp5RWs9rW9azja25HSH4mv/4F49dpY94pby3x952DZGACr7F1eUbvMH2p9RefS63QXj+fEoLiA/ay+hte+srj41ZyPgVdjXynIzgn5imXpd/K49bvxfGU+SAyeC/OK8DEfFNsf4qvr8otH9sHGVmv/WstN4Ng+PzBPEbKSGxLSP7p3L3/qnr15271Wgjk6PlFNni6xlDcb2eMrWCXsEDZxapYvrPX6zsHyMQBW2DstFENCbveHWl/jc7919wv7dmpgXADR/Pmh4iuhzffnY+cC2vn7h+5pFAI1kWT4/qG7f3Xn5oi0AediVmDOnY9Zk18wC3wkZOE4wtjeA/vLp+RyuSEhXfgSCOboeE1IP3ZPY6LL/PrYvXj/QSecJC7KXXlZwHKSeUrCqQS0LZfLfC539WOdOana3ShYPidaW7ZQTXaonaA+2/dch9yRuH94nMZqr5H2UrZ57Bd+/QpWswhUx1Bpx/bvvaknGNPE/3RPD6V8oz/U+lo71/f1ccXidzpqcTHZeGbBSjZ254GPuXgR7UC/H+qq+t+FgO0skTEB4kOVe+w+g5sd0gaeC+vz9pg5j/JKFAcH5pfk/0OOLn0AsVWNpcrONRqHBI4JXAtyv+u/i/+gfXRMjlnlhn3lU3K5UEjPHq8L6c8m8IfdN5+YpvP5kVI6/lw8Xuo/A4EoHuela6EQlm3B8vHiOiVafy5sx9ZXHeOUuPrd1lLOnOsFj7zJkLbpFwtxs2CSdnUMs+1U+ofGZOse+9LmD7W+1s71SDvsABwX2lazYyp2t76PfEz6hF38kd/X5veCiOw8ogQLEkpDuXFeKKRXg+dCbzgMtg2EtMsPlTlZkV9s/V5Ip+N2PYhjSftW3A7Mj1Fsz+Vk1H8b//1nUC/oU5iDdpZPyeVCIT17fEZIj8lMJj4tnMYEKxe3KGHINkwZmWxVvUFym8rbxDkB2zXnXTumvmiMrm6RlN25SpLuz4nrbML2ddXOVUSt6R8ak6o/PSYfj7X7g6sn7KtBtXd+cFy0+Z0nixElCOObtaq/5PadPWs7ZDsmtHOiOqZko8GGyhZItJEm8FxIkYqONawHoK01+cXGwjTvsj82LuPrjzIOE9suLivtj2Wj46KdsE9WhBd2lk/J5UIhPXt8XkiXhWm6K28QTg2JwZYZF0C1EMZJqEnQ1BbiqB0gpF3f0fHVQrosHvnRNOpnMIZaO+5ctX+AYKGr+UOtr9Vzrr3zg+MikccL5nGOyWYU0oXIzr1wmBHEgz2zkDEiY+5a4sFzIXMjOlbJOTXW5JdwXYnzd+36o4wjE+8Qx+2PZaPjon50zLZvv0ayp3xKLhcK6dnjDUK6PE4dA90kBpdkfcKA5WwZJBDSsSAJNQnp0ne5qP766BOebMfWh/rurjGP1s01ShTYceS6Xjwk0OIfj6HazoL+QVKZ8EYj8IdaX6vnsg12lPhxXAz0X694VV/YEMcU0tX5vSCgncfY9uVHeh8Gcd9yLYHAuVggpMO8guZkTX5Rcz6UWyykxe5tny/DdsA4KoyxXcvJUf9tjKP20bGoD+nzzvIpuVwopGePtwhpG5T6XJ8oyi6QTERmUVflUmKxZcZkm+ov5R7nBYWoGyeOnJjdTlXQDqgPjrGIl3y8/7GXEYnjNTZJOsGT+gJEwewYKu2g/onz0ZhUm+bHQC3+UO1r5dzefhyD4yLTi9jafIlyZaxuvMLHnE80CGk0v1asXADIzso3M6OdxO6ze5ydQKKNNIHmwse3PdawHsA5WZdfRp9/ftfdP6AdaZu/fSz1P+pzeQ/X4ctNfVQ+ujQny/7bGLftm3VO9kkdU/l9X/mUXC43KKSXg5MnWUq/SwmFfAMgke6BlKShWDk6M3/94gxcWlwc5H9n5NLsfM1sPRfb5ZfMTvPs8dlfPiWXC4V0A1snz6vB7I75HZcW8g5ty+7mWUC7UcdHPZLcCcviQjzdyJxc1B7F/87PMjuTU7L9XGyTX0ZuREjvMZ+Sy4VCuoHtkych+4dxsQ20837gXBBCLFBIE0IIIYQQQtrphfTf/+8fhBBCCCGEkAVQSBNCCCGEELKC/w+6Ci8gZGVPhwAAAABJRU5ErkJggg==</BG_Image>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="9">
+      <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+        <Position x="606" y="78" width="732" height="324" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Text />
+          <Font name="Arial" size="8.25" style="0" />
+          <TextColor name="Black" />
+          <FillColor name="White" />
+          <Shape shape="0" />
+          <Justification Justification="4" />
+          <BG_Image>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</BG_Image>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="35">
+      <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+        <Position x="822" y="570" width="100" height="52" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Text>Expecting 2,281,562 records -- Confirmed</Text>
+          <Font name="Arial" size="8.25" style="0" />
+          <TextColor name="Black" />
+          <FillColor name="White" />
+          <Shape shape="0" />
+          <Justification Justification="4" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="47">
+      <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+        <Position x="966" y="450" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SummarizeFields>
+            <SummarizeField field="Transaction Date" action="CountNonNull" rename="Transaction Date" />
+            <SummarizeField field="Transaction Date" action="CountNull" rename="CountNull_Transaction Date" />
+            <SummarizeField field="FileName" action="GroupBy" rename="FileName" />
+          </SummarizeFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+    </Node>
+    <Node ToolID="48">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="642" y="798" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>IsNull</Operator>
+            <Field>Transaction Date</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2025-10-14 09:33:30</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>
+              </Operand>
+              <StartDate>2025-10-14 09:33:30</StartDate>
+              <EndDate>2025-10-14 09:33:30</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>IsNull([Transaction Date])</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="49">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="534" y="870" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\abcurtis\AppData\Local\Temp\Alteryx\Engine_34136_7471ed97bef64029a921a71f3afb678b_\Engine_34136_23c2a799bb0648e487a863e7ddcc8391~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="28">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="1025" y="509" width="1592" height="479" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption>Cardholder names, Descriptions and dates major clean-up</Caption>
+          <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
+          <Disabled value="False" />
+          <Folded value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>Cardholder names, Descriptions and dates major clean-up</AnnotationText>
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="11">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+            <Position x="1434" y="654" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <TempFile>C:\Users\abcurtis\AppData\Local\Temp\Alteryx\Engine_34136_7471ed97bef64029a921a71f3afb678b_\Engine_34136_2e3c0f03ada74128ab094b2beb6488f1~.yxdb</TempFile>
+              <TempFileDataProfiling />
+              <Layout>
+                <ViewMode>Single</ViewMode>
+                <ViewSize value="100" />
+                <View1>
+                  <DefaultTab>Profile</DefaultTab>
+                  <Hints>
+                    <Table />
+                  </Hints>
+                </View1>
+                <View2 />
+              </Layout>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+        </Node>
+        <Node ToolID="12">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+            <Position x="1050" y="653" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <FormulaFields>
+                <FormulaField expression="IF !IsNull([Cardholder Last Name])  then [Cardholder Last Name]&#xA;ELSEIF !IsNull([Last Name]) then [Last Name]&#xA;ELSEIF !IsNull([Card Holder Last Name]) then [Card Holder Last Name]&#xA;ELSE &quot;&quot; &#xA;ENDIF" field="Cardholder_Last_Name" size="1073741823" type="V_WString" enabled="true" />
+                <FormulaField expression="Uppercase([Cardholder_Last_Name])" field="Cardholder Last Name" size="254" type="V_String" enabled="true" />
+                <FormulaField expression="IF !IsNull([Cardholder First initial])  then [Cardholder First initial]&#xA;ELSEIF !IsNull([First Initial]) then [First Initial]&#xA;ELSEIF !IsNull([Card Holder First Name]) then [Card Holder First Name]&#xA;ELSE &quot;&quot; &#xA;ENDIF" field="Cardholder_First_Initial" size="1073741823" type="V_WString" enabled="true" />
+                <FormulaField expression="Uppercase([Cardholder_First_Initial])" field="Cardholder First initial" size="254" type="V_String" enabled="true" />
+                <FormulaField expression="if !IsNull([Description]) then [Description]&#xA;else [Item Description]&#xA;endif&#xA;" field="_Description" size="1073741823" type="V_WString" enabled="true" />
+                <FormulaField expression="if !IsNull([Vendor]) then [Vendor]&#xA;else [Merchant]&#xA;endif" field="_Vendor" size="1073741823" type="V_WString" enabled="true" />
+                <FormulaField expression="REGEX_Match([Transaction Date], &quot;\d{1,2}-\w{3}-\d{2}&quot;)" field="dateID1" size="1" type="Bool" enabled="true" />
+                <FormulaField expression="REGEX_Match([Transaction Date], &quot;\d{1,2}\/\d{1,2}\/\d{4}&quot;)" field="dateID2" size="1" type="Bool" enabled="true" />
+                <FormulaField expression="REGEX_Match([Transaction Date], &quot;\d{2}\.\d{2}\.\d{4}\s.+&quot;)" field="dateID3" size="1" type="Bool" enabled="true" />
+                <FormulaField expression="REGEX_Match([Transaction Date], &quot;\d{2}\/\d{2}\/\d{4}\s.+&quot;)" field="dateID4" size="1" type="Bool" enabled="true" />
+                <FormulaField expression="REGEX_Match([Transaction Date], &quot;\d{1,2}/\d{1,2}/\d{4}\s.+&quot;)" field="dateID5" size="1" type="Bool" enabled="true" />
+                <FormulaField expression="REGEX_Replace([Transaction Date], &quot;\s00:00:00|\s0:00&quot;, &quot;&quot;)" field="Transaction_Date_datepart" size="1073741823" type="V_WString" enabled="true" />
+                <FormulaField expression="REGEX_Replace([Post Date], &quot;\s00:00:00|\s0:00&quot;, &quot;&quot;)" field="Posted_Date_datepart" size="1073741823" type="V_WString" enabled="true" />
+                <FormulaField expression="Replace([FileName], &quot;Analytics_mindset_case_studies_PCard_FY&quot;, &quot;&quot;)" field="Year of File" size="1073741823" type="V_WString" enabled="true" />
+              </FormulaFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>Cardholder_Last_Name = IF !IsNull([Cardholder Last Name])  then [Cardholder Last...</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+        </Node>
+        <Node ToolID="13">
+          <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+            <Position x="1146" y="593" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <SummarizeFields>
+                <SummarizeField field="Cardholder First initial" action="GroupBy" rename="Cardholder First initial" />
+                <SummarizeField field="Cardholder First initial" action="CountDistinct" rename="CountDistinct_Cardholder First initial" />
+              </SummarizeFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+        </Node>
+        <Node ToolID="14">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+            <Position x="1242" y="594" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Expression>[dateID1] OR [dateID2] OR [dateID3] OR [dateID4] OR [dateID5]</Expression>
+              <Mode>Custom</Mode>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>[dateID1] OR [dateID2] OR [dateID3] OR [dateID4] OR [dateID5]</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+        </Node>
+        <Node ToolID="15">
+          <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+            <Position x="1350" y="558" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <SummarizeFields>
+                <SummarizeField field="dateID1" action="CountNonNull" rename="CountNonNull_dateID1" />
+                <SummarizeField field="dateID1" action="GroupBy" rename="dateID1" />
+                <SummarizeField field="dateID2" action="GroupBy" rename="dateID2" />
+                <SummarizeField field="dateID3" action="GroupBy" rename="dateID3" />
+                <SummarizeField field="dateID4" action="GroupBy" rename="dateID4" />
+              </SummarizeFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+        </Node>
+        <Node ToolID="16">
+          <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+            <Position x="1350" y="606" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <SummarizeFields>
+                <SummarizeField field="Transaction Date" action="CountNonNull" rename="CountNonNull_Transaction Date" />
+                <SummarizeField field="Transaction Date" action="CountNull" rename="CountNull_Transaction Date" />
+              </SummarizeFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+        </Node>
+        <Node ToolID="17">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.TextToColumns.TextToColumns">
+            <Position x="1134" y="810" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Field>Transaction_Date_datepart</Field>
+              <ErrorHandling>Last</ErrorHandling>
+              <RootName>Transaction_Date_datepart</RootName>
+              <Delimeters value="-./" />
+              <NumFields value="3" />
+              <Flags value="0" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextToColumns" />
+        </Node>
+        <Node ToolID="18">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+            <Position x="1806" y="798" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <FormulaFields>
+                <FormulaField expression="IF [dateID1] THEN PadLeft([Transaction_Date_datepart1], 2, &quot;0&quot;)+&quot;-&quot;+[Transaction_Date_datepart2]+&quot;-20&quot;+[Transaction_Date_datepart3] &#xA;ELSEIF [dateID3] THEN [Transaction_Date_datepart1]+&quot;-&quot;+[month3]+&quot;-&quot;+[Transaction_Date_datepart3] &#xA;ELSE PadLeft([Transaction_Date_datepart1], 2, &quot;0&quot;)+&quot;-&quot;+[month3]+&quot;-&quot;+[Transaction_Date_datepart3]&#xA;ENDIF" field="Transaction_Date_Out" size="1073741823" type="V_WString" enabled="true" />
+                <FormulaField expression="IF [dateID1] THEN PadLeft([Posted_Date_datepart1], 2, &quot;0&quot;)+&quot;-&quot;+[Posted_Date_datepart2]+&quot;-20&quot;+[Posted_Date_datepart3] &#xA;ELSEIF [dateID3] THEN [Posted_Date_datepart1]+&quot;-&quot;+[month3]+&quot;-&quot;+[Posted_Date_datepart3] &#xA;ELSE PadLeft([Posted_Date_datepart1], 2, &quot;0&quot;)+&quot;-&quot;+[month3]+&quot;-&quot;+[Posted_Date_datepart3]&#xA;ENDIF" field="Posted_Date_Out" size="1073741823" type="V_WString" enabled="true" />
+              </FormulaFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>Transaction_Date_Out = IF [dateID1] THEN PadLeft([Transaction_Date_datepart1], 2...</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+        </Node>
+        <Node ToolID="19">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
+            <Position x="1230" y="870" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <NumRows value="12" />
+              <Fields>
+                <Field name="index" />
+                <Field name="month3" />
+              </Fields>
+              <Data>
+                <r>
+                  <c>1</c>
+                  <c>Jan</c>
+                </r>
+                <r>
+                  <c>2</c>
+                  <c>Feb</c>
+                </r>
+                <r>
+                  <c>3</c>
+                  <c>Mar</c>
+                </r>
+                <r>
+                  <c>4</c>
+                  <c>Apr</c>
+                </r>
+                <r>
+                  <c>5</c>
+                  <c>May</c>
+                </r>
+                <r>
+                  <c>6</c>
+                  <c>Jun</c>
+                </r>
+                <r>
+                  <c>7</c>
+                  <c>Jul</c>
+                </r>
+                <r>
+                  <c>8</c>
+                  <c>Aug</c>
+                </r>
+                <r>
+                  <c>9</c>
+                  <c>Sep</c>
+                </r>
+                <r>
+                  <c>10</c>
+                  <c>Oct</c>
+                </r>
+                <r>
+                  <c>11</c>
+                  <c>Nov</c>
+                </r>
+                <r>
+                  <c>12</c>
+                  <c>Dec</c>
+                </r>
+              </Data>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextInput" />
+        </Node>
+        <Node ToolID="20">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+            <Position x="1518" y="810" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Expression>[dateID3]</Expression>
+              <Mode>Custom</Mode>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>[dateID3]</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+        </Node>
+        <Node ToolID="21">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+            <Position x="1614" y="762" />
+          </GuiSettings>
+          <Properties>
+            <Configuration joinByRecordPos="False">
+              <JoinInfo connection="Left">
+                <Field field="Transaction_Date_datepart2" />
+              </JoinInfo>
+              <JoinInfo connection="Right">
+                <Field field="index" />
+              </JoinInfo>
+              <SelectConfiguration>
+                <Configuration outputConnection="Join">
+                  <OrderChanged value="False" />
+                  <CommaDecimal value="False" />
+                  <SelectFields>
+                    <SelectField field="*Unknown" selected="True" />
+                  </SelectFields>
+                </Configuration>
+              </SelectConfiguration>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+        </Node>
+        <Node ToolID="22">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+            <Position x="1614" y="858" />
+          </GuiSettings>
+          <Properties>
+            <Configuration joinByRecordPos="False">
+              <JoinInfo connection="Left">
+                <Field field="Transaction_Date_datepart1" />
+              </JoinInfo>
+              <JoinInfo connection="Right">
+                <Field field="index" />
+              </JoinInfo>
+              <SelectConfiguration>
+                <Configuration outputConnection="Join">
+                  <OrderChanged value="False" />
+                  <CommaDecimal value="False" />
+                  <SelectFields>
+                    <SelectField field="*Unknown" selected="True" />
+                  </SelectFields>
+                </Configuration>
+              </SelectConfiguration>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+        </Node>
+        <Node ToolID="23">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+            <Position x="1338" y="870" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="index" selected="True" type="String" size="16384" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+        </Node>
+        <Node ToolID="24">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
+            <Position x="1710" y="798" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <ByName_ErrorMode>Warning</ByName_ErrorMode>
+              <ByName_OutputMode>All</ByName_OutputMode>
+              <Mode>ByName</Mode>
+              <SetOutputOrder value="False" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnion" />
+        </Node>
+        <Node ToolID="25">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+            <Position x="1422" y="798" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Expression>[dateID1]</Expression>
+              <Mode>Custom</Mode>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>[dateID1]</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+        </Node>
+        <Node ToolID="26">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+            <Position x="1326" y="809" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <FormulaFields>
+                <FormulaField expression="if left([Transaction_Date_datepart1],1)=&quot;0&quot; then right([Transaction_Date_datepart1],1) &#xA;else [Transaction_Date_datepart1]&#xA;endif" field="Transaction_Date_datepart1" size="1073741823" type="V_WString" enabled="true" />
+                <FormulaField expression="if left([Transaction_Date_datepart2],1)=&quot;0&quot; then right([Transaction_Date_datepart2],1) &#xA;else [Transaction_Date_datepart2]&#xA;endif" field="Transaction_Date_datepart2" size="1073741823" type="V_WString" enabled="true" />
+                <FormulaField expression="if left([Posted_Date_datepart1],1)=&quot;0&quot; then right([Posted_Date_datepart1],1) &#xA;else [Posted_Date_datepart1]&#xA;endif" field="Posted_Date_datepart1" size="254" type="V_String" enabled="true" />
+                <FormulaField expression="if left([Posted_Date_datepart2],1)=&quot;0&quot; then right([Posted_Date_datepart2],1) &#xA;else [Posted_Date_datepart2]&#xA;endif" field="Posted_Date_datepart2" size="254" type="V_String" enabled="true" />
+              </FormulaFields>
+            </Configuration>
+            <Annotation DisplayMode="2">
+              <Name />
+              <DefaultAnnotationText>Transaction_Date_datepart1 = if left([Transaction_Date_datepart1],1)="0" then ri...</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+        </Node>
+        <Node ToolID="27">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+            <Position x="1902" y="798" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <OrderChanged value="True" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Agency Number" selected="True" />
+                <SelectField field="Agency Name" selected="True" />
+                <SelectField field="Last Name" selected="False" />
+                <SelectField field="First Initial" selected="False" />
+                <SelectField field="Item Description" selected="False" />
+                <SelectField field="Cardholder Last Name" selected="True" />
+                <SelectField field="Cardholder First initial" selected="True" />
+                <SelectField field="_Description" selected="True" rename="Description" />
+                <SelectField field="Amount" selected="True" />
+                <SelectField field="_Vendor" selected="True" rename="Vendor" />
+                <SelectField field="Merchant" selected="False" />
+                <SelectField field="Transaction Date" selected="False" />
+                <SelectField field="Post Date" selected="False" />
+                <SelectField field="Purchase Description" selected="False" />
+                <SelectField field="Description" selected="False" />
+                <SelectField field="Vendor" selected="False" />
+                <SelectField field="Posted Date" selected="False" />
+                <SelectField field="Card Holder Last Name" selected="False" />
+                <SelectField field="Card Holder First Name" selected="False" />
+                <SelectField field="Cardholder_Last_Name" selected="False" />
+                <SelectField field="Cardholder_First_Initial" selected="False" />
+                <SelectField field="dateID1" selected="False" />
+                <SelectField field="dateID2" selected="False" />
+                <SelectField field="dateID3" selected="False" />
+                <SelectField field="dateID4" selected="False" />
+                <SelectField field="dateID5" selected="False" />
+                <SelectField field="Transaction_Date_datepart" selected="False" />
+                <SelectField field="Posted_Date_datepart" selected="False" />
+                <SelectField field="Transaction_Date_datepart1" selected="False" />
+                <SelectField field="Transaction_Date_datepart2" selected="False" />
+                <SelectField field="Transaction_Date_datepart3" selected="False" />
+                <SelectField field="Posted_Date_datepart1" selected="False" />
+                <SelectField field="Posted_Date_datepart2" selected="False" />
+                <SelectField field="Posted_Date_datepart3" selected="False" />
+                <SelectField field="index" selected="False" />
+                <SelectField field="month3" selected="False" />
+                <SelectField field="Transaction_Date_Out" selected="True" />
+                <SelectField field="Posted_Date_Out" selected="True" />
+                <SelectField field="Merchant Category Code (MCC)" selected="True" />
+                <SelectField field="FileName" selected="False" />
+                <SelectField field="Year of File" selected="True" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+        </Node>
+        <Node ToolID="36">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.TextToColumns.TextToColumns">
+            <Position x="1230" y="810" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Field>Posted Date</Field>
+              <ErrorHandling>Last</ErrorHandling>
+              <RootName>Posted_Date_datepart</RootName>
+              <Delimeters value="-./" />
+              <NumFields value="3" />
+              <Flags value="0" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextToColumns" />
+        </Node>
+        <Node ToolID="37">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+            <Position x="1986" y="798" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <FormulaFields>
+                <FormulaField expression="if Right([Cardholder Last Name], 3)= &quot; CH&quot; then 1 else 0 endif&#xA;" field="CHFlag" size="2" type="Int16" />
+                <FormulaField expression="if [CHFlag]=1 then left([Cardholder Last Name],Length([Cardholder Last Name])-3) else [Cardholder Last Name] endif" field="CHRem" size="1073741823" type="V_WString" />
+                <FormulaField expression="ToNumber(REGEX_Replace(REGEX_Replace([Amount], &quot;\$|,|\)&quot;, &quot;&quot;), &quot;\(&quot;, &quot;-&quot;))" field="convertedAmount" size="8" type="Double" />
+                <FormulaField expression="Uppercase([Cardholder First Initial]+ &quot;_&quot; +[Chrem]+&quot;_&quot;+[Agency Number] )" field="EmployeeID" size="1073741823" type="V_WString" />
+              </FormulaFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>CHFlag = if Right([Cardholder Last Name], 3)= " CH" then 1 else 0 endif
+
+CHRem =...</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+        </Node>
+        <Node ToolID="38">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.DateTime.DateTime">
+            <Position x="2094" y="834" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <IsFrom value="False" />
+              <InputFieldName>Transaction_Date_Out</InputFieldName>
+              <Language>English</Language>
+              <Format>dd-Mon.-yyyy</Format>
+              <OutputFieldName>TransactionDate</OutputFieldName>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>Convert Transaction_Date_Out From:
+Custom</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDateTime" />
+        </Node>
+        <Node ToolID="39">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.DateTime.DateTime">
+            <Position x="2202" y="834" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <IsFrom value="False" />
+              <InputFieldName>Posted_Date_Out</InputFieldName>
+              <Language>English</Language>
+              <Format>dd-Mon.-yyyy</Format>
+              <OutputFieldName>PostedDate</OutputFieldName>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>Convert Posted_Date_Out From:
+Custom</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDateTime" />
+        </Node>
+        <Node ToolID="40">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+            <Position x="2082" y="714" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Mode>Simple</Mode>
+              <Simple>
+                <Operator>IsNull</Operator>
+                <Field>convertedAmount</Field>
+                <Operands>
+                  <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+                  <DateType>fixed</DateType>
+                  <PeriodDate>2025-10-13 14:43:07</PeriodDate>
+                  <PeriodType>
+                  </PeriodType>
+                  <PeriodCount>0</PeriodCount>
+                  <Operand>
+                  </Operand>
+                  <StartDate>2025-10-13 14:43:07</StartDate>
+                  <EndDate>2025-10-13 14:43:07</EndDate>
+                </Operands>
+              </Simple>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>IsNull([convertedAmount])</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+        </Node>
+        <Node ToolID="41">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+            <Position x="2490" y="834" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <File MaxRecords="" FileFormat="19">U:\my_preclass_work\ACCTG_521\case03_pcard\PCardData_ETL_Completed.yxdb</File>
+              <Passwords />
+              <Disable>False</Disable>
+              <FormatSpecificOptions>
+                <WriteCompatibleVersion>False</WriteCompatibleVersion>
+                <NoSpatialIndex>False</NoSpatialIndex>
+                <SaveSource>True</SaveSource>
+                <SuppressBlankFile>False</SuppressBlankFile>
+              </FormatSpecificOptions>
+              <MultiFile value="False" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>PCardData_ETL_Completed.yxdb</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+            <Dependencies>
+              <Implicit />
+            </Dependencies>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+        </Node>
+        <Node ToolID="42">
+          <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+            <Position x="2310" y="582" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <SummarizeFields>
+                <SummarizeField field="convertedAmount" action="Sum" rename="Sum_convertedAmount" />
+              </SummarizeFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+        </Node>
+        <Node ToolID="43">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+            <Position x="2298" y="834" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <OrderChanged value="True" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Agency Number" selected="True" />
+                <SelectField field="Agency Name" selected="True" />
+                <SelectField field="Cardholder Last Name" selected="True" />
+                <SelectField field="Cardholder First initial" selected="True" />
+                <SelectField field="EmployeeID" selected="True" />
+                <SelectField field="Description" selected="True" />
+                <SelectField field="convertedAmount" selected="True" rename="Amount" />
+                <SelectField field="Amount" selected="False" />
+                <SelectField field="Vendor" selected="True" />
+                <SelectField field="Transaction_Date_Out" selected="False" />
+                <SelectField field="Posted_Date_Out" selected="False" />
+                <SelectField field="CHFlag" selected="False" />
+                <SelectField field="CHRem" selected="False" />
+                <SelectField field="TransactionDate" selected="True" rename="Transaction Date" />
+                <SelectField field="PostedDate" selected="True" rename="Posted Date" />
+                <SelectField field="Merchant Category Code (MCC)" selected="True" />
+                <SelectField field="Year of File" selected="False" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+        </Node>
+        <Node ToolID="44">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+            <Position x="2394" y="834" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Expression><![CDATA[[Agency Number] = "76000" OR
+[Agency Number] = "1000" ]]></Expression>
+              <Mode>Custom</Mode>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText><![CDATA[[Agency Number] = "76000" OR
+[Agency Number] = "1000" ]]></DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+        </Node>
+        <Node ToolID="45">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+            <Position x="1902" y="678" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Mode>Simple</Mode>
+              <Simple>
+                <Operator>IsNull</Operator>
+                <Field>Transaction Date</Field>
+                <Operands>
+                  <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+                  <DateType>fixed</DateType>
+                  <PeriodDate>2025-10-14 09:28:12</PeriodDate>
+                  <PeriodType>
+                  </PeriodType>
+                  <PeriodCount>0</PeriodCount>
+                  <Operand>
+                  </Operand>
+                  <StartDate>2025-10-14 09:28:12</StartDate>
+                  <EndDate>2025-10-14 09:28:12</EndDate>
+                </Operands>
+              </Simple>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>IsNull([Transaction Date])</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+        </Node>
+        <Node ToolID="46">
+          <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+            <Position x="2010" y="642" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <SummarizeFields>
+                <SummarizeField field="Year of File" action="GroupBy" rename="Year of File" />
+                <SummarizeField field="Amount" action="CountNonNull" rename="CountNonNull_Amount" />
+              </SummarizeFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+        </Node>
+      </ChildNodes>
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection name="#1">
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="8" Connection="Input" />
+    </Connection>
+    <Connection name="#2">
+      <Origin ToolID="2" Connection="Output" />
+      <Destination ToolID="8" Connection="Input" />
+    </Connection>
+    <Connection name="#3">
+      <Origin ToolID="3" Connection="Output" />
+      <Destination ToolID="8" Connection="Input" />
+    </Connection>
+    <Connection name="#4">
+      <Origin ToolID="4" Connection="Output" />
+      <Destination ToolID="8" Connection="Input" />
+    </Connection>
+    <Connection name="#5">
+      <Origin ToolID="5" Connection="Output" />
+      <Destination ToolID="8" Connection="Input" />
+    </Connection>
+    <Connection name="#6">
+      <Origin ToolID="6" Connection="Output" />
+      <Destination ToolID="8" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="6" Connection="Output" />
+      <Destination ToolID="48" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="6" Connection="Output" />
+      <Destination ToolID="49" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="8" Connection="Output" />
+      <Destination ToolID="12" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="8" Connection="Output" />
+      <Destination ToolID="47" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="12" Connection="Output" />
+      <Destination ToolID="11" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="12" Connection="Output" />
+      <Destination ToolID="13" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="12" Connection="Output" />
+      <Destination ToolID="14" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="12" Connection="Output" />
+      <Destination ToolID="17" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="14" Connection="True" />
+      <Destination ToolID="15" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="14" Connection="False" />
+      <Destination ToolID="16" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="17" Connection="Output" />
+      <Destination ToolID="36" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="18" Connection="Output" />
+      <Destination ToolID="27" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="18" Connection="Output" />
+      <Destination ToolID="45" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="19" Connection="Output" />
+      <Destination ToolID="23" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="20" Connection="True" />
+      <Destination ToolID="21" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="23" Connection="Output" />
+      <Destination ToolID="21" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="20" Connection="False" />
+      <Destination ToolID="22" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="23" Connection="Output" />
+      <Destination ToolID="22" Connection="Right" />
+    </Connection>
+    <Connection name="#1">
+      <Origin ToolID="21" Connection="Join" />
+      <Destination ToolID="24" Connection="Input" />
+    </Connection>
+    <Connection name="#2">
+      <Origin ToolID="22" Connection="Join" />
+      <Destination ToolID="24" Connection="Input" />
+    </Connection>
+    <Connection name="#4">
+      <Origin ToolID="22" Connection="Left" />
+      <Destination ToolID="24" Connection="Input" />
+    </Connection>
+    <Connection name="#3">
+      <Origin ToolID="25" Connection="True" />
+      <Destination ToolID="24" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="24" Connection="Output" />
+      <Destination ToolID="18" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="25" Connection="False" />
+      <Destination ToolID="20" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="26" Connection="Output" />
+      <Destination ToolID="25" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="27" Connection="Output" />
+      <Destination ToolID="37" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="36" Connection="Output" />
+      <Destination ToolID="26" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="37" Connection="Output" />
+      <Destination ToolID="38" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="37" Connection="Output" />
+      <Destination ToolID="40" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="38" Connection="Output" />
+      <Destination ToolID="39" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="39" Connection="Output" />
+      <Destination ToolID="42" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="39" Connection="Output" />
+      <Destination ToolID="43" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="43" Connection="Output" />
+      <Destination ToolID="44" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="44" Connection="True" />
+      <Destination ToolID="41" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="45" Connection="True" />
+      <Destination ToolID="46" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <DefaultTZ value="Local" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <IsTemplate value="False" />
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>PCard_Case_ETL</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="f8e6777a-dabc-4f0c-9954-3e37105331c9" />
+      <Telemetry>
+        <PreviousWorkflowId value="632eb0d0-6a3d-4a2a-a3ca-8753b38f07ce" />
+        <OriginWorkflowId value="284cc195-51d1-4886-8628-9f70ed33c791" />
+      </Telemetry>
+      <PlatformWorkflowId value="" />
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
