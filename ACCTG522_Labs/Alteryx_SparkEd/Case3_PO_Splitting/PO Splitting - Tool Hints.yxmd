@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
-<AlteryxDocument yxmdVer="2023.1">
+<AlteryxDocument yxmdVer="2025.1">
   <Nodes>
     <Node ToolID="166">
       <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
-        <Position x="54" y="54" width="1008" height="132" />
+        <Position x="55" y="54" width="1008" height="132" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -23,7 +23,7 @@
     </Node>
     <Node ToolID="167">
       <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
-        <Position x="78" y="54" width="268" height="132" />
+        <Position x="79" y="54" width="268" height="132" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -44,7 +44,7 @@
     </Node>
     <Node ToolID="168">
       <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
-        <Position x="486" y="78" width="492" height="84" />
+        <Position x="487" y="78" width="492" height="84" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -64,7 +64,7 @@
     </Node>
     <Node ToolID="169">
       <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
-        <Position x="54" y="198" width="1008" height="60" />
+        <Position x="55" y="198" width="1008" height="60" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -82,29 +82,515 @@
         </Annotation>
       </Properties>
     </Node>
-    <Node ToolID="205">
+    <Node ToolID="210">
       <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
-        <Position x="0" y="306" width="216" height="50" />
+        <Position x="1375" y="438" width="219" height="24" />
       </GuiSettings>
       <Properties>
         <Configuration>
-          <Caption>Read in the data (To Do)</Caption>
+          <Caption>Step 4 - Output a CSV file</Caption>
           <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
           <Disabled value="False" />
-          <Folded value="False" />
+          <Folded value="True" />
         </Configuration>
         <Annotation DisplayMode="0">
           <Name />
-          <AnnotationText>Read in the data (To Do)</AnnotationText>
           <DefaultAnnotationText />
           <Left value="False" />
         </Annotation>
       </Properties>
-      <ChildNodes />
+      <ChildNodes>
+        <Node ToolID="211">
+          <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+            <Position x="1399" y="486" width="131" height="66" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Caption>Tool Hint</Caption>
+              <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
+              <Disabled value="True" />
+              <Folded value="False" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <ChildNodes>
+            <Node ToolID="212">
+              <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+                <Position x="1423" y="534" />
+              </GuiSettings>
+              <Properties>
+                <Configuration>
+                  <File />
+                  <Passwords />
+                  <FormatSpecificOptions />
+                  <MultiFile value="False" />
+                </Configuration>
+                <Annotation DisplayMode="0">
+                  <Name />
+                  <DefaultAnnotationText />
+                  <Left value="False" />
+                </Annotation>
+              </Properties>
+              <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+            </Node>
+          </ChildNodes>
+        </Node>
+      </ChildNodes>
+    </Node>
+    <Node ToolID="202">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="906" y="437" width="294" height="24" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption>Step 3 Hints - Identify PO's w/in 3 days</Caption>
+          <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
+          <Disabled value="False" />
+          <Folded value="True" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="203">
+          <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+            <Position x="931" y="486" width="408" height="132" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Text><![CDATA[You will need to compare the transaction date of one purchase order to the next for a given vendor. Make sure to set an appropriate order for your records before comparing times between rows.
+
+Also note, if two or more orders are within 3 days of one another, you will want to include all of those orders in the output. That means you need to identify all of the orders that are potential violations. Think through the logic for how you will achieve that.
+
+]]></Text>
+              <Font name="Arial" size="8.25" style="0" />
+              <TextColor name="Black" />
+              <FillColor name="White" />
+              <Shape shape="0" />
+              <Justification Justification="0" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+        </Node>
+        <Node ToolID="204">
+          <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+            <Position x="943" y="642" width="131" height="66" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Caption>Tool Hint</Caption>
+              <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
+              <Disabled value="True" />
+              <Folded value="False" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <ChildNodes>
+            <Node ToolID="205">
+              <GuiSettings Plugin="AlteryxBasePluginsGui.MultiRowFormula.MultiRowFormula">
+                <Position x="967" y="750" />
+              </GuiSettings>
+              <Properties>
+                <Configuration>
+                  <UpdateField value="False" />
+                  <UpdateField_Name />
+                  <CreateField_Name>New Field</CreateField_Name>
+                  <CreateField_Type>Int32</CreateField_Type>
+                  <CreateField_Size>4</CreateField_Size>
+                  <OtherRows>Empty</OtherRows>
+                  <NumRows value="1" />
+                  <Expression />
+                  <GroupByFields />
+                </Configuration>
+                <Annotation DisplayMode="0">
+                  <Name />
+                  <DefaultAnnotationText />
+                  <Left value="False" />
+                </Annotation>
+              </Properties>
+              <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMultiRowFormula" />
+            </Node>
+            <Node ToolID="206">
+              <GuiSettings Plugin="AlteryxBasePluginsGui.MultiRowFormula.MultiRowFormula">
+                <Position x="967" y="822" />
+              </GuiSettings>
+              <Properties>
+                <Configuration>
+                  <UpdateField value="False" />
+                  <UpdateField_Name />
+                  <CreateField_Name>New Field</CreateField_Name>
+                  <CreateField_Type>Int32</CreateField_Type>
+                  <CreateField_Size>4</CreateField_Size>
+                  <OtherRows>Empty</OtherRows>
+                  <NumRows value="1" />
+                  <Expression />
+                  <GroupByFields />
+                </Configuration>
+                <Annotation DisplayMode="0">
+                  <Name />
+                  <DefaultAnnotationText />
+                  <Left value="False" />
+                </Annotation>
+              </Properties>
+              <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMultiRowFormula" />
+            </Node>
+            <Node ToolID="207">
+              <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+                <Position x="967" y="690" />
+              </GuiSettings>
+              <Properties>
+                <Configuration>
+                  <SortInfo locale="1033" />
+                </Configuration>
+                <Annotation DisplayMode="0">
+                  <Name />
+                  <DefaultAnnotationText />
+                  <Left value="False" />
+                </Annotation>
+              </Properties>
+              <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+            </Node>
+            <Node ToolID="208">
+              <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+                <Position x="967" y="882" />
+              </GuiSettings>
+              <Properties>
+                <Configuration>
+                  <Mode>Simple</Mode>
+                  <Simple>
+                    <Operator>=</Operator>
+                    <Operands>
+                      <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+                      <DateType>fixed</DateType>
+                      <PeriodDate>2022-06-03 15:59:16</PeriodDate>
+                      <PeriodType>
+                      </PeriodType>
+                      <PeriodCount>0</PeriodCount>
+                      <StartDate>2022-06-03 15:59:16</StartDate>
+                      <EndDate>2022-06-03 15:59:16</EndDate>
+                      <Operand>
+                      </Operand>
+                    </Operands>
+                  </Simple>
+                </Configuration>
+                <Annotation DisplayMode="0">
+                  <Name />
+                  <DefaultAnnotationText />
+                  <Left value="False" />
+                </Annotation>
+              </Properties>
+              <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+            </Node>
+            <Node ToolID="209">
+              <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+                <Position x="1051" y="750" width="192" height="96" />
+              </GuiSettings>
+              <Properties>
+                <Configuration>
+                  <Text>The second Multi-Row formula tool is not an accident. This is one way to identify all of the orders involved in the potential PO Splitting.</Text>
+                  <Font name="Arial" size="8.25" style="0" />
+                  <TextColor name="Black" />
+                  <FillColor name="White" />
+                  <Shape shape="0" />
+                  <Justification Justification="0" />
+                </Configuration>
+                <Annotation DisplayMode="0">
+                  <Name />
+                  <DefaultAnnotationText />
+                  <Left value="False" />
+                </Annotation>
+              </Properties>
+            </Node>
+          </ChildNodes>
+        </Node>
+      </ChildNodes>
+    </Node>
+    <Node ToolID="196">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="522" y="437" width="348" height="24" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption>Step 2 Hints - Identify vendors with multiple POs</Caption>
+          <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
+          <Disabled value="False" />
+          <Folded value="True" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="197">
+          <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+            <Position x="547" y="486" width="300" height="84" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Text>PO Splitting is only a concern when there are multiple orders from the same vendor. Reduce the data set to just the vendors that have more than 1 purchase order.
+
+Counting the number of times each VendorID occurs is a good start.</Text>
+              <Font name="Arial" size="8.25" style="0" />
+              <TextColor name="Black" />
+              <FillColor name="White" />
+              <Shape shape="0" />
+              <Justification Justification="0" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+        </Node>
+        <Node ToolID="198">
+          <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+            <Position x="547" y="582" width="131" height="66" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Caption>Tool Hint</Caption>
+              <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
+              <Disabled value="True" />
+              <Folded value="False" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <ChildNodes>
+            <Node ToolID="199">
+              <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+                <Position x="571" y="630" />
+              </GuiSettings>
+              <Properties>
+                <Configuration>
+                  <SummarizeFields />
+                </Configuration>
+                <Annotation DisplayMode="0">
+                  <Name />
+                  <DefaultAnnotationText />
+                  <Left value="False" />
+                </Annotation>
+              </Properties>
+              <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+            </Node>
+            <Node ToolID="200">
+              <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+                <Position x="571" y="750" />
+              </GuiSettings>
+              <Properties>
+                <Configuration>
+                  <Mode>Simple</Mode>
+                  <Simple>
+                    <Operator>=</Operator>
+                    <Operands>
+                      <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+                      <DateType>fixed</DateType>
+                      <PeriodDate>2022-06-03 15:36:26</PeriodDate>
+                      <PeriodType>
+                      </PeriodType>
+                      <PeriodCount>0</PeriodCount>
+                      <StartDate>2022-06-03 15:36:26</StartDate>
+                      <EndDate>2022-06-03 15:36:26</EndDate>
+                      <Operand>
+                      </Operand>
+                    </Operands>
+                  </Simple>
+                </Configuration>
+                <Annotation DisplayMode="0">
+                  <Name />
+                  <DefaultAnnotationText />
+                  <Left value="False" />
+                </Annotation>
+              </Properties>
+              <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+            </Node>
+            <Node ToolID="201">
+              <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+                <Position x="571" y="690" />
+              </GuiSettings>
+              <Properties>
+                <Configuration joinByRecordPos="False">
+                  <JoinInfo connection="Left" />
+                  <JoinInfo connection="Right" />
+                  <SelectConfiguration>
+                    <Configuration outputConnection="Join">
+                      <OrderChanged value="False" />
+                      <CommaDecimal value="False" />
+                      <SelectFields>
+                        <SelectField field="*Unknown" selected="True" />
+                      </SelectFields>
+                    </Configuration>
+                  </SelectConfiguration>
+                </Configuration>
+                <Annotation DisplayMode="0">
+                  <Name />
+                  <DefaultAnnotationText />
+                  <Left value="False" />
+                </Annotation>
+              </Properties>
+              <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+            </Node>
+          </ChildNodes>
+        </Node>
+      </ChildNodes>
+    </Node>
+    <Node ToolID="189">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="54" y="437" width="284" height="24" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption>Step 1 Hints - Bring in and clean data</Caption>
+          <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
+          <Disabled value="False" />
+          <Folded value="True" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="190">
+          <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+            <Position x="79" y="486" width="384" height="108" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Text><![CDATA[The POLineStatus will state if a PO is inactive.
+
+Use the overview document to identify line item columns to remove.
+
+Ensure only one record for each POID remains.
+
+]]></Text>
+              <Font name="Arial" size="8.25" style="0" />
+              <TextColor name="Black" />
+              <FillColor name="White" />
+              <Shape shape="0" />
+              <Justification Justification="0" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+        </Node>
+        <Node ToolID="192">
+          <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+            <Position x="79" y="606" width="131" height="24" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Caption>Tool Hint</Caption>
+              <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
+              <Disabled value="True" />
+              <Folded value="True" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <ChildNodes>
+            <Node ToolID="193">
+              <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+                <Position x="103" y="654" />
+              </GuiSettings>
+              <Properties>
+                <Configuration>
+                  <OrderChanged value="False" />
+                  <CommaDecimal value="False" />
+                  <SelectFields>
+                    <SelectField field="*Unknown" selected="True" />
+                  </SelectFields>
+                </Configuration>
+                <Annotation DisplayMode="0">
+                  <Name />
+                  <DefaultAnnotationText />
+                  <Left value="False" />
+                </Annotation>
+              </Properties>
+              <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+            </Node>
+            <Node ToolID="194">
+              <GuiSettings Plugin="AlteryxBasePluginsGui.Unique.Unique">
+                <Position x="101" y="714" />
+              </GuiSettings>
+              <Properties>
+                <Configuration>
+                  <UniqueFields />
+                </Configuration>
+                <Annotation DisplayMode="0">
+                  <Name />
+                  <DefaultAnnotationText />
+                  <Left value="False" />
+                </Annotation>
+              </Properties>
+              <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnique" />
+            </Node>
+            <Node ToolID="195">
+              <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+                <Position x="103" y="774" />
+              </GuiSettings>
+              <Properties>
+                <Configuration>
+                  <Mode>Simple</Mode>
+                  <Simple>
+                    <Operator>=</Operator>
+                    <Operands>
+                      <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+                      <DateType>fixed</DateType>
+                      <PeriodDate>2022-06-03 15:25:58</PeriodDate>
+                      <PeriodType>
+                      </PeriodType>
+                      <PeriodCount>0</PeriodCount>
+                      <StartDate>2022-06-03 15:25:58</StartDate>
+                      <EndDate>2022-06-03 15:25:58</EndDate>
+                      <Operand>
+                      </Operand>
+                    </Operands>
+                  </Simple>
+                </Configuration>
+                <Annotation DisplayMode="0">
+                  <Name />
+                  <DefaultAnnotationText />
+                  <Left value="False" />
+                </Annotation>
+              </Properties>
+              <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+            </Node>
+          </ChildNodes>
+        </Node>
+      </ChildNodes>
     </Node>
     <Node ToolID="129">
       <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
-        <Position x="1311" y="1349" width="926" height="434" />
+        <Position x="1312" y="1349" width="926" height="434" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -122,7 +608,7 @@
       <ChildNodes>
         <Node ToolID="128">
           <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
-            <Position x="1336" y="1398" width="876" height="360" />
+            <Position x="1337" y="1398" width="876" height="360" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -164,7 +650,7 @@
     </Node>
     <Node ToolID="127">
       <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
-        <Position x="135" y="1349" width="1070" height="362" />
+        <Position x="136" y="1349" width="1070" height="362" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -182,7 +668,7 @@
       <ChildNodes>
         <Node ToolID="90">
           <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
-            <Position x="160" y="1398" width="1020" height="288" />
+            <Position x="161" y="1398" width="1020" height="288" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -219,436 +705,8 @@ Same Amount:
         </Node>
       </ChildNodes>
     </Node>
-    <Node ToolID="152">
-      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
-        <Position x="1292" y="308" width="286" height="48" />
-      </GuiSettings>
-      <Properties>
-        <Configuration>
-          <Caption>Output: Possible PO Splitting (To Do)</Caption>
-          <Style TextColor="#314c4a" FillColor="#ff9e18" BorderColor="#000000" Transparency="50" Margin="10" />
-          <Disabled value="False" />
-          <Folded value="False" />
-        </Configuration>
-        <Annotation DisplayMode="0">
-          <Name />
-          <AnnotationText>Output: Possible PO Splitting (To Do)</AnnotationText>
-          <DefaultAnnotationText />
-          <Left value="False" />
-        </Annotation>
-      </Properties>
-      <ChildNodes />
-    </Node>
-    <Node ToolID="193">
-      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
-        <Position x="953" y="305" width="312" height="180" />
-      </GuiSettings>
-      <Properties>
-        <Configuration>
-          <Caption>Flag Problematic POs (To Do)</Caption>
-          <Style TextColor="#314c4a" FillColor="#ffffff" BorderColor="#314c4a" Transparency="25" Margin="25" />
-          <Disabled value="False" />
-          <Folded value="False" />
-        </Configuration>
-        <Annotation DisplayMode="0">
-          <Name />
-          <AnnotationText>Flag Problematic POs (To Do)</AnnotationText>
-          <DefaultAnnotationText />
-          <Left value="False" />
-        </Annotation>
-      </Properties>
-      <ChildNodes>
-        <Node ToolID="189">
-          <GuiSettings Plugin="AlteryxBasePluginsGui.MultiRowFormula.MultiRowFormula">
-            <Position x="978" y="354" />
-          </GuiSettings>
-          <Properties>
-            <Configuration>
-              <UpdateField value="False" />
-              <UpdateField_Name />
-              <CreateField_Name>TEST_Tran_Date</CreateField_Name>
-              <CreateField_Type>Int32</CreateField_Type>
-              <CreateField_Size>4</CreateField_Size>
-              <OtherRows>Empty</OtherRows>
-              <NumRows value="1" />
-              <Expression />
-              <GroupByFields />
-            </Configuration>
-            <Annotation DisplayMode="0">
-              <Name />
-              <AnnotationText>Days between
-PO's (Current
-to Next)</AnnotationText>
-              <DefaultAnnotationText />
-              <Left value="False" />
-            </Annotation>
-          </Properties>
-          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMultiRowFormula" />
-        </Node>
-        <Node ToolID="190">
-          <GuiSettings Plugin="AlteryxBasePluginsGui.MultiRowFormula.MultiRowFormula">
-            <Position x="1074" y="354" />
-          </GuiSettings>
-          <Properties>
-            <Configuration>
-              <UpdateField value="False" />
-              <UpdateField_Name />
-              <CreateField_Name>PrevTEST_Tran_Date</CreateField_Name>
-              <CreateField_Type>Int32</CreateField_Type>
-              <CreateField_Size>4</CreateField_Size>
-              <OtherRows>Empty</OtherRows>
-              <NumRows value="1" />
-              <Expression />
-              <GroupByFields />
-            </Configuration>
-            <Annotation DisplayMode="0">
-              <Name />
-              <AnnotationText>Days between
-PO's (Current to
-Previous)</AnnotationText>
-              <DefaultAnnotationText />
-              <Left value="False" />
-            </Annotation>
-          </Properties>
-          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMultiRowFormula" />
-        </Node>
-        <Node ToolID="191">
-          <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-            <Position x="1170" y="354" />
-          </GuiSettings>
-          <Properties>
-            <Configuration>
-              <Expression><![CDATA[[TEST_Tran_Date]<=3 OR [PrevTEST_Tran_Date]<=3 ]]></Expression>
-              <Mode>Custom</Mode>
-            </Configuration>
-            <Annotation DisplayMode="0">
-              <Name />
-              <AnnotationText>PO's within 
-3 days of
-each other</AnnotationText>
-              <DefaultAnnotationText><![CDATA[[TEST_Tran_Date]<=3 OR [PrevTEST_Tran_Date]<=3 ]]></DefaultAnnotationText>
-              <Left value="False" />
-            </Annotation>
-          </Properties>
-          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
-        </Node>
-      </ChildNodes>
-    </Node>
-    <Node ToolID="197">
-      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
-        <Position x="572" y="308" width="363" height="165" />
-      </GuiSettings>
-      <Properties>
-        <Configuration>
-          <Caption>Data Preparation</Caption>
-          <Style TextColor="#314c4a" FillColor="#00c08b" BorderColor="#314c4a" Transparency="50" Margin="10" />
-          <Disabled value="False" />
-          <Folded value="False" />
-        </Configuration>
-        <Annotation DisplayMode="0">
-          <Name />
-          <DefaultAnnotationText />
-          <Left value="False" />
-        </Annotation>
-      </Properties>
-      <ChildNodes>
-        <Node ToolID="194">
-          <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
-            <Position x="582" y="365" />
-          </GuiSettings>
-          <Properties>
-            <Configuration>
-              <SummarizeFields>
-                <SummarizeField field="VendorID" action="GroupBy" rename="VendorID" />
-                <SummarizeField field="VendorID" action="Count" rename="Count" />
-              </SummarizeFields>
-            </Configuration>
-            <Annotation DisplayMode="0">
-              <Name />
-              <AnnotationText>Get VendorID Counts</AnnotationText>
-              <DefaultAnnotationText>Get VendorID Counts</DefaultAnnotationText>
-              <Left value="False" />
-            </Annotation>
-          </Properties>
-          <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
-        </Node>
-        <Node ToolID="195">
-          <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-            <Position x="678" y="366" />
-          </GuiSettings>
-          <Properties>
-            <Configuration>
-              <Mode>Simple</Mode>
-              <Simple>
-                <Operator>&gt;</Operator>
-                <Field>Count</Field>
-                <Operands>
-                  <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
-                  <DateType>fixed</DateType>
-                  <PeriodDate>2018-09-06 08:52:41</PeriodDate>
-                  <PeriodCount>0</PeriodCount>
-                  <Operand>1</Operand>
-                  <StartDate>2018-09-06 08:52:41</StartDate>
-                  <EndDate>2018-09-06 08:52:41</EndDate>
-                </Operands>
-              </Simple>
-            </Configuration>
-            <Annotation DisplayMode="0">
-              <Name />
-              <AnnotationText>More than
-1 PO</AnnotationText>
-              <DefaultAnnotationText>[Count] &gt; 1</DefaultAnnotationText>
-              <Left value="False" />
-            </Annotation>
-          </Properties>
-          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
-        </Node>
-        <Node ToolID="196">
-          <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
-            <Position x="774" y="342" />
-          </GuiSettings>
-          <Properties>
-            <Configuration joinByRecordPos="False">
-              <JoinInfo connection="Left">
-                <Field field="VendorID" />
-              </JoinInfo>
-              <JoinInfo connection="Right">
-                <Field field="VendorID" />
-              </JoinInfo>
-              <SelectConfiguration>
-                <Configuration outputConnection="Join">
-                  <OrderChanged value="True" />
-                  <CommaDecimal value="False" />
-                  <SelectFields>
-                    <SelectField field="Left_POID" selected="True" />
-                    <SelectField field="Left_VendorID" selected="True" />
-                    <SelectField field="Left_TranNo" selected="True" />
-                    <SelectField field="Left_TranDate" selected="True" />
-                    <SelectField field="Left_BuyerName" selected="True" />
-                    <SelectField field="Left_CloseDate" selected="True" />
-                    <SelectField field="Left_IsClosedForInvoiced" selected="True" />
-                    <SelectField field="Left_IsClosedForReceiving" selected="True" />
-                    <SelectField field="Left_CompanyID" selected="True" />
-                    <SelectField field="Left_CreateDate" selected="True" />
-                    <SelectField field="Left_PurchAmt" selected="True" />
-                    <SelectField field="Left_TranStatus" selected="True" />
-                    <SelectField field="Left_InvoicedAmt" selected="True" />
-                    <SelectField field="Left_SalestaxAmt" selected="True" />
-                    <SelectField field="Left_TranType" selected="True" />
-                    <SelectField field="Right_VendorID" selected="False" rename="Right_VendorID" />
-                    <SelectField field="Right_Count" selected="True" />
-                    <SelectField field="Left_TranAmt" selected="True" input="Left_" />
-                    <SelectField field="Left_PaymentTerm" selected="True" input="Left_" />
-                    <SelectField field="Left_DueDayOrMonth" selected="True" input="Left_" />
-                    <SelectField field="Left_PmtTermsID" selected="True" input="Left_" />
-                    <SelectField field="*Unknown" selected="True" />
-                  </SelectFields>
-                </Configuration>
-              </SelectConfiguration>
-            </Configuration>
-            <Annotation DisplayMode="0">
-              <Name />
-              <AnnotationText>Combine Data</AnnotationText>
-              <DefaultAnnotationText>Combine Data</DefaultAnnotationText>
-              <Left value="False" />
-            </Annotation>
-          </Properties>
-          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
-        </Node>
-        <Node ToolID="192">
-          <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
-            <Position x="858" y="342" />
-          </GuiSettings>
-          <Properties>
-            <Configuration>
-              <SortInfo locale="1033">
-                <Field field="VendorID" order="Ascending" />
-                <Field field="TranDate" order="Ascending" />
-              </SortInfo>
-            </Configuration>
-            <Annotation DisplayMode="0">
-              <Name />
-              <DefaultAnnotationText>VendorID - Ascending
-TranDate - Ascending</DefaultAnnotationText>
-              <Left value="False" />
-            </Annotation>
-          </Properties>
-          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
-        </Node>
-      </ChildNodes>
-    </Node>
-    <Node ToolID="203">
-      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
-        <Position x="236" y="308" width="320" height="200" />
-      </GuiSettings>
-      <Properties>
-        <Configuration>
-          <Caption>Data Input</Caption>
-          <Style TextColor="#ffffff" FillColor="#1782c5" BorderColor="#314c4a" Transparency="50" Margin="10" />
-          <Disabled value="False" />
-          <Folded value="False" />
-        </Configuration>
-        <Annotation DisplayMode="0">
-          <Name />
-          <DefaultAnnotationText />
-          <Left value="False" />
-        </Annotation>
-      </Properties>
-      <ChildNodes>
-        <Node ToolID="199">
-          <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-            <Position x="246" y="354" />
-          </GuiSettings>
-          <Properties>
-            <Configuration>
-              <Expression>[POLineStatus]!='Inactive'</Expression>
-              <Mode>Custom</Mode>
-            </Configuration>
-            <Annotation DisplayMode="0">
-              <Name />
-              <AnnotationText>Filter Inactive PO's</AnnotationText>
-              <DefaultAnnotationText>[POLineStatus]!='Inactive'</DefaultAnnotationText>
-              <Left value="False" />
-            </Annotation>
-          </Properties>
-          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
-        </Node>
-        <Node ToolID="200">
-          <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-            <Position x="354" y="342" />
-          </GuiSettings>
-          <Properties>
-            <Configuration>
-              <OrderChanged value="False" />
-              <CommaDecimal value="False" />
-              <SelectFields>
-                <SelectField field="POID" selected="True" type="V_String" size="19" />
-                <SelectField field="BuyerName" selected="True" />
-                <SelectField field="CloseDate" selected="True" />
-                <SelectField field="CompanyID" selected="True" />
-                <SelectField field="CreateDate" selected="True" />
-                <SelectField field="InvoicedAmt" selected="True" />
-                <SelectField field="IsClosedForInvoiced" selected="True" />
-                <SelectField field="IsClosedForReceiving" selected="True" />
-                <SelectField field="PurchAmt" selected="True" />
-                <SelectField field="TranStatus" selected="True" />
-                <SelectField field="SalestaxAmt" selected="True" />
-                <SelectField field="TranAmt" selected="True" />
-                <SelectField field="TranDate" selected="True" />
-                <SelectField field="TranNo" selected="True" />
-                <SelectField field="TranType" selected="True" />
-                <SelectField field="VendorID" selected="True" type="V_String" size="19" />
-                <SelectField field="PaymentTerm" selected="True" />
-                <SelectField field="DueDayOrMonth" selected="True" />
-                <SelectField field="PmtTermsID" selected="True" />
-                <SelectField field="*Unknown" selected="False" />
-              </SelectFields>
-            </Configuration>
-            <Annotation DisplayMode="0">
-              <Name />
-              <AnnotationText>Adjust data types and remove columns</AnnotationText>
-              <DefaultAnnotationText>Adjust data types and remove columns</DefaultAnnotationText>
-              <Left value="False" />
-            </Annotation>
-          </Properties>
-          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
-        </Node>
-        <Node ToolID="202">
-          <GuiSettings Plugin="AlteryxBasePluginsGui.Unique.Unique">
-            <Position x="462" y="342" />
-          </GuiSettings>
-          <Properties>
-            <Configuration>
-              <UniqueFields>
-                <Field field="POID" />
-              </UniqueFields>
-            </Configuration>
-            <Annotation DisplayMode="0">
-              <Name />
-              <AnnotationText>Unique POIDs</AnnotationText>
-              <DefaultAnnotationText>Unique POIDs</DefaultAnnotationText>
-              <Left value="False" />
-            </Annotation>
-          </Properties>
-          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnique" />
-        </Node>
-        <Node ToolID="204">
-          <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
-            <Position x="318" y="474" width="190" height="24" />
-          </GuiSettings>
-          <Properties>
-            <Configuration>
-              <Caption>Further Explanation</Caption>
-              <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
-              <Disabled value="False" />
-              <Folded value="True" />
-            </Configuration>
-            <Annotation DisplayMode="0">
-              <Name />
-              <DefaultAnnotationText />
-              <Left value="False" />
-            </Annotation>
-          </Properties>
-          <ChildNodes>
-            <Node ToolID="171">
-              <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
-                <Position x="342" y="522" width="396" height="264" />
-              </GuiSettings>
-              <Properties>
-                <Configuration>
-                  <Text><![CDATA[The PO Data includes voucher and line item detail. The analysis depends only on POID, Vendor ID, PurchAmt, and TranDate. We expect that these fields will be unique to the purchase order so we can do our uniqueness test on POID only. You could run the Unique tool with all 4 columns selected, but the output contains the same records, which indicates POID is a unique identifier for those four fields anyway.
-
-Unique (202) selects one row for each unique POID. The file has a number of columns with line detail so we have multiple rows for most of the PO's. This means Unique gives us one row with the details for a randomly chosen line. It doesn't make sense to include that line detail in the report. So in Select (200), we removed all fields related to line detail.
-
-]]></Text>
-                  <Font name="Segoe UI" size="9.75" style="0" />
-                  <TextColor name="Black" />
-                  <FillColor name="White" />
-                  <Shape shape="0" />
-                  <Justification Justification="0" />
-                </Configuration>
-                <Annotation DisplayMode="0">
-                  <Name />
-                  <DefaultAnnotationText />
-                  <Left value="False" />
-                </Annotation>
-              </Properties>
-            </Node>
-          </ChildNodes>
-        </Node>
-      </ChildNodes>
-    </Node>
   </Nodes>
-  <Connections>
-    <Connection>
-      <Origin ToolID="194" Connection="Output" />
-      <Destination ToolID="195" Connection="Input" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="195" Connection="True" />
-      <Destination ToolID="196" Connection="Right" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="202" Connection="Unique" />
-      <Destination ToolID="196" Connection="Left" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="196" Connection="Join" />
-      <Destination ToolID="192" Connection="Input" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="199" Connection="True" />
-      <Destination ToolID="200" Connection="Input" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="200" Connection="Output" />
-      <Destination ToolID="202" Connection="Input" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="202" Connection="Unique" />
-      <Destination ToolID="194" Connection="Input" />
-    </Connection>
-  </Connections>
+  <Connections />
   <Properties>
     <Memory default="True" />
     <GlobalRecordLimit value="0" />
@@ -659,6 +717,7 @@ Unique (202) selects one row for each unique POID. The file has a number of colu
     <CancelOnError value="False" />
     <DisableBrowse value="False" />
     <EnablePerformanceProfiling value="False" />
+    <DefaultTZ value="Local" />
     <PredictiveToolsCodePage value="1252" />
     <DisableAllOutput value="False" />
     <ShowAllMacroMessages value="False" />
@@ -666,9 +725,10 @@ Unique (202) selects one row for each unique POID. The file has a number of colu
     <ShowConnectionStatusOnlyWhenRunning value="True" />
     <ZoomLevel value="0" />
     <LayoutType>Horizontal</LayoutType>
+    <IsTemplate value="False" />
     <MetaInfo>
       <NameIsFileName value="True" />
-      <Name>PO Splitting-Modified Start</Name>
+      <Name>PO Splitting - Tool Hints</Name>
       <Description>Created By:
 Analyst, Manufacturing, Finance/Audit
 
@@ -693,9 +753,9 @@ Audit Analyst can quickly identify and report any questionable vendor POs, allow
         <Description />
         <File />
       </Example>
-      <WorkflowId value="6acead79-41de-4a56-946c-cfa148f52713" />
+      <WorkflowId value="56245b2c-c3a1-49d6-823c-5c4fdd9f2778" />
       <Telemetry>
-        <PreviousWorkflowId value="6686f5da-456f-44c9-9001-3551a42c578a" />
+        <PreviousWorkflowId value="3218e1fa-f893-4843-8ce5-43a753bcdd95" />
         <OriginWorkflowId value="abfa33be-98dc-41b4-a9ff-0dc0fd1ef653" />
       </Telemetry>
       <PlatformWorkflowId value="" />
