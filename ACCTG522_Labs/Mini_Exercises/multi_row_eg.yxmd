@@ -1,0 +1,412 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2025.1" RunE2="T">
+  <Nodes>
+    <Node ToolID="5">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
+        <Position x="414" y="366" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <NumRows value="40" />
+          <Fields>
+            <Field name="date" />
+            <Field name="group" />
+          </Fields>
+          <Data>
+            <r>
+              <c>1/1/2025</c>
+              <c>B</c>
+            </r>
+            <r>
+              <c>1/1/2025</c>
+              <c>B</c>
+            </r>
+            <r>
+              <c>1/3/2025</c>
+              <c>A</c>
+            </r>
+            <r>
+              <c>1/4/2025</c>
+              <c>A</c>
+            </r>
+            <r>
+              <c>1/6/2025</c>
+              <c>B</c>
+            </r>
+            <r>
+              <c>1/10/2025</c>
+              <c>C</c>
+            </r>
+            <r>
+              <c>1/14/2025</c>
+              <c>A</c>
+            </r>
+            <r>
+              <c>1/17/2025</c>
+              <c>B</c>
+            </r>
+            <r>
+              <c>1/17/2025</c>
+              <c>D</c>
+            </r>
+            <r>
+              <c>1/18/2025</c>
+              <c>D</c>
+            </r>
+            <r>
+              <c>1/19/2025</c>
+              <c>A</c>
+            </r>
+            <r>
+              <c>1/19/2025</c>
+              <c>A</c>
+            </r>
+            <r>
+              <c>1/24/2025</c>
+              <c>A</c>
+            </r>
+            <r>
+              <c>1/24/2025</c>
+              <c>A</c>
+            </r>
+            <r>
+              <c>1/25/2025</c>
+              <c>C</c>
+            </r>
+            <r>
+              <c>1/26/2025</c>
+              <c>B</c>
+            </r>
+            <r>
+              <c>1/27/2025</c>
+              <c>D</c>
+            </r>
+            <r>
+              <c>1/28/2025</c>
+              <c>C</c>
+            </r>
+            <r>
+              <c>1/28/2025</c>
+              <c>B</c>
+            </r>
+            <r>
+              <c>1/29/2025</c>
+              <c>B</c>
+            </r>
+            <r>
+              <c>1/29/2025</c>
+              <c>D</c>
+            </r>
+            <r>
+              <c>2/1/2025</c>
+              <c>A</c>
+            </r>
+            <r>
+              <c>2/5/2025</c>
+              <c>A</c>
+            </r>
+            <r>
+              <c>2/9/2025</c>
+              <c>D</c>
+            </r>
+            <r>
+              <c>2/10/2025</c>
+              <c>A</c>
+            </r>
+            <r>
+              <c>2/12/2025</c>
+              <c>A</c>
+            </r>
+            <r>
+              <c>2/13/2025</c>
+              <c>B</c>
+            </r>
+            <r>
+              <c>2/13/2025</c>
+              <c>A</c>
+            </r>
+            <r>
+              <c>2/21/2025</c>
+              <c>D</c>
+            </r>
+            <r>
+              <c>2/23/2025</c>
+              <c>A</c>
+            </r>
+            <r>
+              <c>2/25/2025</c>
+              <c>B</c>
+            </r>
+            <r>
+              <c>2/27/2025</c>
+              <c>B</c>
+            </r>
+            <r>
+              <c>3/5/2025</c>
+              <c>D</c>
+            </r>
+            <r>
+              <c>3/6/2025</c>
+              <c>B</c>
+            </r>
+            <r>
+              <c>3/8/2025</c>
+              <c>B</c>
+            </r>
+            <r>
+              <c>3/10/2025</c>
+              <c>B</c>
+            </r>
+            <r>
+              <c>3/20/2025</c>
+              <c>B</c>
+            </r>
+            <r>
+              <c>3/25/2025</c>
+              <c>C</c>
+            </r>
+            <r>
+              <c>3/26/2025</c>
+              <c>D</c>
+            </r>
+            <r>
+              <c>3/29/2025</c>
+              <c>C</c>
+            </r>
+          </Data>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextInput" />
+    </Node>
+    <Node ToolID="6">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DateTime.DateTime">
+        <Position x="498" y="366" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <IsFrom value="False" />
+          <InputFieldName>date</InputFieldName>
+          <Language>English</Language>
+          <Format>MM/dd/yyyy</Format>
+          <OutputFieldName>DateTime_Out</OutputFieldName>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Convert date From:
+MM/dd/yyyy</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDateTime" />
+    </Node>
+    <Node ToolID="7">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.RecordID.RecordID">
+        <Position x="582" y="366" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FieldName>RecordID</FieldName>
+          <StartValue>1</StartValue>
+          <FieldType>Int32</FieldType>
+          <FieldSize>6</FieldSize>
+          <Position>0</Position>
+          <GroupFields orderChanged="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxRecordID" />
+    </Node>
+    <Node ToolID="8">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+        <Position x="702" y="366" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SortInfo locale="1033">
+            <Field field="group" order="Ascending" />
+          </SortInfo>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>group - Ascending</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+    </Node>
+    <Node ToolID="10">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.MultiRowFormula.MultiRowFormula">
+        <Position x="846" y="498" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <UpdateField value="False" />
+          <UpdateField_Name />
+          <CreateField_Name>check_date_plus1</CreateField_Name>
+          <CreateField_Type>Int32</CreateField_Type>
+          <CreateField_Size>4</CreateField_Size>
+          <OtherRows>Empty</OtherRows>
+          <NumRows value="1" />
+          <Expression>IF [DateTime_Out]=[Row+1:DateTime_Out] THEN 1 ELSE 0 ENDIF</Expression>
+          <GroupByFields>
+            <Field field="group" />
+          </GroupByFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>IF [DateTime_Out]=[Row+1:DateTime_Out] THEN 1 ELSE 0 ENDIF</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMultiRowFormula" />
+    </Node>
+    <Node ToolID="11">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.MultiRowFormula.MultiRowFormula">
+        <Position x="1050" y="498" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <UpdateField value="False" />
+          <UpdateField_Name />
+          <CreateField_Name>check_date_minus1</CreateField_Name>
+          <CreateField_Type>Int32</CreateField_Type>
+          <CreateField_Size>4</CreateField_Size>
+          <OtherRows>Empty</OtherRows>
+          <NumRows value="1" />
+          <Expression>IF [DateTime_Out]=[Row-1:DateTime_Out] THEN 1 ELSE 0 ENDIF</Expression>
+          <GroupByFields />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>IF [DateTime_Out]=[Row-1:DateTime_Out] THEN 1 ELSE 0 ENDIF</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMultiRowFormula" />
+    </Node>
+    <Node ToolID="12">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="1170" y="366" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Expression><![CDATA[[check_date_plus1] = 1 
+OR 
+[check_date_minus1] = 1 ]]></Expression>
+          <Mode>Custom</Mode>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[[check_date_plus1] = 1 
+OR 
+[check_date_minus1] = 1 ]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="13">
+      <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+        <Position x="834" y="354" width="276" height="72" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Text>Goal output the pairs of dates that match</Text>
+          <Font name="Arial" size="8.25" style="0" />
+          <TextColor name="Black" />
+          <FillColor name="White" />
+          <Shape shape="0" />
+          <Justification Justification="4" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="5" Connection="Output" />
+      <Destination ToolID="6" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="6" Connection="Output" />
+      <Destination ToolID="7" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="7" Connection="Output" />
+      <Destination ToolID="8" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="8" Connection="Output" />
+      <Destination ToolID="10" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="10" Connection="Output" />
+      <Destination ToolID="11" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="11" Connection="Output" />
+      <Destination ToolID="12" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <DefaultTZ value="Local" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <IsTemplate value="False" />
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>multi_row_eg</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="dcf3c937-daec-439d-85b7-2e3ef9f73444" />
+      <Telemetry>
+        <PreviousWorkflowId value="98677b3d-5ab4-495a-bce1-fbcd90e7de93" />
+        <OriginWorkflowId value="98677b3d-5ab4-495a-bce1-fbcd90e7de93" />
+      </Telemetry>
+      <PlatformWorkflowId value="" />
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
