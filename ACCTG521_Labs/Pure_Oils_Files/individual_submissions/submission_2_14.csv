@@ -1,0 +1,111 @@
+UniqueID,LastName,FirstName,JobTitle,Department,HireDate,LastPromotionDate,TerminationDate,AnnualSalary
+1001,Swindler,Skylar,CEO,Executive,2021-01-01,2023-01-01,,300000
+1002,Carvalho,Mirella,Procurement Manager,Procurement,2023-01-01,,,132833
+1003,Cunha,Miguel,Marketing Director,Marketing,2023-01-07,2023-01-21,,160346
+1004,Gonçalves,Dra.,Research Scientist,R&D,2023-01-09,,,109708
+1005,Cunha,Emilly,Buyer,Procurement,2023-01-12,,,75567
+1006,Rodrigues,Sr.,System Administrator,IT,2023-01-18,,,85160
+1007,Pereira,Sra.,Controller,Finance,2023-01-19,,,134893
+1008,Martins,Juan,Research Scientist,R&D,2023-01-20,,,101127
+1009,Pereira,Kamilly,Product Developer,R&D,2023-01-21,,,81298
+1010,Rezende,Srta.,Operations Analyst,Operations,2023-01-21,,,67236
+1011,Teixeira,Caroline,Machine Operator,Production,2023-02-05,,,80120
+1012,Cardoso,Alexandre,Account Executive,Sales,2023-02-05,,,105644
+1013,Fernandes,Maria,Procurement Manager,Procurement,2023-02-06,,,120604
+1014,Lopes,Alexia,Software Engineer,IT,2023-02-06,,,94956
+1015,Souza,André,Operations Manager,Operations,2023-02-11,,,127676
+1016,Freitas,Luiz,Marketing Director,Marketing,2023-02-13,,,151939
+1017,Ramos,Lucas,Accountant,Finance,2023-02-13,,,84881
+1018,Ferreira,Vitor,Operations Analyst,Operations,2023-03-05,,,66622
+1019,Moura,Valentina,Controller,Finance,2023-03-13,,,138879
+1020,Moreira,Felipe,HR Assistant,HR,2023-03-16,2023-08-02,,59456
+1021,Moura,Enrico,Logistics Coordinator,Operations,2023-03-17,,,63384
+1022,Rosa,Ana,Finance Manager,Finance,2023-03-18,2023-10-06,,121314
+1023,Cruz,Sr.,Machine Operator,Production,2023-03-23,,,61585
+1024,Melo,Srta.,Accountant,Finance,2023-03-26,,,68867
+1025,Moraes,Heloísa,Machine Operator,Production,2023-04-05,,,75458
+1026,Rodrigues,Fernando,Machine Operator,Production,2023-04-05,,,78627
+1027,Silva,Nicolas,Sales Manager,Sales,2023-04-11,,,136599
+1028,Ferreira,Srta.,Research Technician,R&D,2023-04-16,,,69347
+1029,Mota,Sr.,System Administrator,IT,2023-04-17,,,83209
+1030,Cruz,Daniel,Sales Representative,Sales,2023-04-18,,,63086
+1031,Santos,Maitê,IT Support,IT,2023-05-01,,,72723
+1032,Vieira,Juliana,Procurement Manager,Procurement,2023-05-03,,,122865
+1033,Cruz,Luna,Production Supervisor,Production,2023-05-04,,,113479
+1034,Moura,João,Operations Analyst,Operations,2023-05-05,,,74618
+1035,Nogueira,Dra.,IT Manager,IT,2023-05-08,,,114956
+1036,Nogueira,Davi,HR Assistant,HR,2023-05-11,,,50203
+1037,Gonçalves,João,IT Manager,IT,2023-05-17,,,136866
+1038,Mota,Srta.,Logistics Coordinator,Operations,2023-05-18,,,88405
+1039,Alves,Maitê,IT Manager,IT,2023-05-21,,,139342
+1040,Cardoso,Bárbara,Procurement Assistant,Procurement,2023-05-31,,,51854
+1041,Silveira,Davi,Finance Manager,Finance,2023-05-31,,,135944
+1042,Ramos,Evelyn,Research Scientist,R&D,2023-06-10,,,99442
+1043,Nogueira,Bernardo,Research Scientist,R&D,2023-06-11,,,95414
+1044,Castro,Sr.,Production Assistant,Production,2023-06-11,,,45321
+1045,Gomes,Enzo,Product Developer,R&D,2023-06-14,,,82100
+1046,Mendes,Marcelo,Finance Manager,Finance,2023-06-21,,,135375
+1047,Barbosa,Alice,Procurement Assistant,Procurement,2023-06-22,,,58252
+1048,Viana,Maria,Operations Analyst,Operations,2023-06-22,,,76766
+1049,Rosa,Henrique,Marketing Analyst,Marketing,2023-06-22,2023-11-26,,61122
+1050,Silveira,Ana,Sales Manager,Sales,2023-06-23,,,123194
+1051,Aragão,Samuel,Operations Analyst,Operations,2023-06-23,,,77499
+1052,Cavalcanti,Luiz,IT Support,IT,2023-06-27,,,61544
+1053,Oliveira,Davi,Marketing Director,Marketing,2023-07-01,,,163433
+1054,Costa,Fernando,Brand Manager,Marketing,2023-07-03,,,117311
+1055,Pereira,Dra.,Marketing Assistant,Marketing,2023-07-03,,,57419
+1056,Conceição,Dra.,Controller,Finance,2023-07-09,,,149700
+1057,Rezende,Sr.,Sales Manager,Sales,2023-07-21,,,122636
+1058,Paz,Natália,Operations Manager,Operations,2023-07-21,,,127099
+1059,Fernandes,João,Buyer,Procurement,2023-07-24,,,64420
+1060,Mendes,João,Procurement Manager,Procurement,2023-07-31,,,137353
+1061,Neves,Enrico,Account Executive,Sales,2023-07-31,,,102319
+1062,Novaes,André,Buyer,Procurement,2023-08-03,,,62183
+1063,Silveira,Daniel,Sales Manager,Sales,2023-08-03,2023-08-05,,135247
+1064,Cardoso,Levi,Account Executive,Sales,2023-08-06,,,104097
+1065,Porto,Maria,Research Technician,R&D,2023-08-08,,,61905
+1066,Ramos,Sra.,IT Support,IT,2023-08-10,,,69606
+1067,Cunha,Emanuel,IT Manager,IT,2023-08-10,,,134892
+1068,Nunes,Lucca,Research Scientist,R&D,2023-08-12,,,111278
+1069,Caldeira,Srta.,Accountant,Finance,2023-08-15,,,72219
+1070,Luz,Ana,Operations Manager,Operations,2023-08-17,,,126809
+1071,Lopes,Vicente,Account Executive,Sales,2023-08-21,,,111395
+1072,Neves,Diego,HR Manager,HR,2023-08-21,,,110095
+1073,Jesus,Augusto,Finance Manager,Finance,2023-08-23,2023-12-17,,112956
+1074,Ramos,Sr.,Research Technician,R&D,2023-08-23,,,68576
+1075,Araújo,Davi,HR Specialist,HR,2023-08-25,,,74602
+1076,Luz,Júlia,Finance Manager,Finance,2023-09-01,,,138704
+1077,Nogueira,Rafael,Production Supervisor,Production,2023-09-04,,,109847
+1078,Melo,Lucas,Research Scientist,R&D,2023-09-11,,,91059
+1079,Ramos,André,IT Support,IT,2023-09-14,,,60485
+1080,Pereira,João,HR Manager,HR,2023-09-16,,,116762
+1081,Mata,Esther,HR Manager,HR,2023-09-17,,,135474
+1082,Neves,Stella,System Administrator,IT,2023-09-21,,,74762
+1083,Costa,Luana,HR Specialist,HR,2023-09-22,,,82525
+1084,Martins,Luiz,Buyer,Procurement,2023-09-25,,,88014
+1085,Lopes,Nicolas,HR Specialist,HR,2023-09-27,,,67968
+1086,Farias,Yuri,Machine Operator,Production,2023-09-28,,,83973
+1087,Pires,Antônio,Production Assistant,Production,2023-10-02,,,50452
+1088,Campos,Dra.,Brand Manager,Marketing,2023-10-04,,,137374
+1089,Martins,Kaique,Research Technician,R&D,2023-10-07,,,60280
+1090,Vieira,Bárbara,Marketing Analyst,Marketing,2023-10-19,,,72309
+1091,Peixoto,Valentina,Marketing Assistant,Marketing,2023-10-19,,,50025
+1092,Costela,Nicole,Operations Manager,Operations,2023-10-20,,,132139
+1093,Costela,Dra.,Operations Manager,Operations,2023-10-27,,,114969
+1094,Oliveira,Maria,Production Supervisor,Production,2023-10-31,,,111171
+1095,Cardoso,Luigi,Procurement Manager,Procurement,2023-11-12,,,131188
+1096,Fogaça,Gustavo,Finance Manager,Finance,2023-11-14,,,112032
+1097,Nogueira,Enzo,HR Assistant,HR,2023-11-17,,,50741
+1098,Pereira,Nicolas,Brand Manager,Marketing,2023-11-19,,,128462
+1099,Pereira,Ana,HR Assistant,HR,2023-11-26,2023-12-04,,50731
+1100,Pires,Helena,Operations Analyst,Operations,2023-11-26,,,76617
+1101,Campos,Carolina,Brand Manager,Marketing,2023-12-03,,,139176
+1102,Barros,Calebe,Controller,Finance,2023-12-06,,,149712
+1103,Ramos,Luiza,Finance Manager,Finance,2023-12-09,,,122456
+1104,Lima,Larissa,Procurement Manager,Procurement,2023-12-10,,,132554
+1105,Paz,Ana,Account Executive,Sales,2023-12-13,,,93709
+1106,Luz,Ana,Account Executive,Sales,2023-12-15,,,109488
+1107,Almeida,Clara,Marketing Director,Marketing,2023-12-15,,,148153
+1108,Rosa,Emilly,HR Assistant,HR,2023-12-16,,,50947
+1109,Correia,Nina,Procurement Manager,Procurement,2023-12-17,,,120635
+1110,Rocha,Joana,Marketing Director,Marketing,2023-12-21,,,148750

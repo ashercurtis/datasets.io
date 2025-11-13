@@ -1,0 +1,111 @@
+UniqueID,LastName,FirstName,JobTitle,Department,HireDate,LastPromotionDate,TerminationDate,AnnualSalary
+PO-0001,Barros,Matheus,Supply Chain Manager,Supply Chain,1/4/2021,12/5/2022,,116000
+PO-0002,Swindler,Skylar,CEO,Executive,1/4/2021,,,300000
+PO-0003,Almeida,Enzo,Plant Manager,Operations,1/12/2021,,,159000
+PO-0004,Nunes,Pedro,VP of Sales,Sales,1/27/2021,12/27/2022,,199000
+PO-0005,Santos,Otávio,Network Engineer,IT,2/4/2021,12/5/2022,,92000
+PO-0006,Moraes,Rodrigo,Senior Financial Analyst,Finance,2/22/2021,2/22/2024,,106000
+PO-0007,Farias,Davi,Senior Financial Analyst,Finance,3/8/2021,5/8/2023,,92000
+PO-0008,Moreira,Mateus,HR Coordinator,HR,4/19/2021,6/19/2023,,68000
+PO-0009,Melo,Natália,Finance Manager,Finance,5/3/2021,,,128000
+PO-0010,Costa,Caio,IT Manager,IT,5/4/2021,8/4/2022,,147000
+PO-0011,Moraes,Rafael,Engineering Manager,Engineering,5/10/2021,3/10/2023,,176000
+PO-0012,Barros,Bruno,Account Executive,Sales,5/17/2021,4/17/2024,,103000
+PO-0013,Machado,Letícia,HR Director,HR,5/19/2021,,,154000
+PO-0014,Cunha,Patrícia,Marketing Director,Marketing,5/21/2021,,,132000
+PO-0015,Ferreira,João,Help Desk Technician,IT,5/27/2021,4/27/2023,,63000
+PO-0016,Cunha,Matheus,AP/AR Specialist,Finance,6/1/2021,,,65000
+PO-0017,Batista,Gabriela,Quality Engineer,Engineering,6/10/2021,9/11/2023,,97000
+PO-0018,Vieira,Beatriz,VP of Sales,Sales,6/11/2021,,,213000
+PO-0019,Almeida,Caio,Account Executive,Sales,6/17/2021,7/18/2022,,93000
+PO-0020,Cunha,Tiago,HR Coordinator,HR,6/18/2021,12/19/2022,,66000
+PO-0021,Moreira,Bianca,Senior Accountant,Accounting,6/22/2021,7/22/2022,,94000
+PO-0022,Barbosa,Matheus,Sales Manager,Sales,6/28/2021,,7/24/2024,120000
+PO-0023,Moraes,Sérgio,Senior Support Specialist,Customer Support,6/28/2021,11/28/2023,,70000
+PO-0024,Machado,Pedro,CFO,Executive,7/15/2021,,,247000
+PO-0025,Castro,Rafaela,Procurement Specialist,Supply Chain,7/22/2021,3/22/2022,,82000
+PO-0026,Soares,Sofia,Customer Support Manager,Customer Support,8/2/2021,11/3/2023,,89000
+PO-0027,Peixoto,Caio,Account Executive,Sales,9/13/2021,6/13/2023,,101000
+PO-0028,Freitas,Alice,Quality Engineer,Engineering,9/28/2021,7/28/2023,,101000
+PO-0029,Xavier,Rafael,HR Coordinator,HR,11/19/2021,9/19/2022,12/15/2022,61000
+PO-0030,Rodrigues,Ana,Demand Planner,Supply Chain,12/6/2021,3/6/2024,,99000
+PO-0031,Freitas,Rodrigo,Production Supervisor,Operations,12/13/2021,1/13/2023,,99000
+PO-0032,Alves,Camila,Engineering Manager,Engineering,1/31/2022,7/31/2024,2/12/2025,156000
+PO-0033,Lima,Larissa,Sales Associate,Sales,2/7/2022,,,78000
+PO-0034,Barros,Henrique,Warehouse Associate,Supply Chain,2/8/2022,,,45000
+PO-0035,Nunes,Felipe,Supply Chain Manager,Supply Chain,2/21/2022,,,121000
+PO-0036,Freitas,Tiago,Senior Support Specialist,Customer Support,2/22/2022,,,78000
+PO-0037,Costa,Matheus,Plant Manager,Operations,3/7/2022,10/7/2024,,124000
+PO-0038,Xavier,Vitor,Controller,Accounting,3/7/2022,1/9/2023,,144000
+PO-0039,Tavares,Lara,Production Supervisor,Operations,4/5/2022,11/5/2024,,90000
+PO-0040,Barros,Gustavo,Engineering Manager,Engineering,5/9/2022,12/9/2024,,160000
+PO-0041,Carvalho,Rodrigo,Staff Accountant,Accounting,5/11/2022,,,86000
+PO-0042,Tavares,Enzo,Demand Planner,Supply Chain,5/16/2022,,11/30/2023,104000
+PO-0043,Batista,Vitória,Account Executive,Sales,5/27/2022,,,89000
+PO-0044,Ferreira,Rafaela,Senior Chemist,R&D,6/24/2022,,,134000
+PO-0045,Soares,Felipe,Senior Support Specialist,Customer Support,6/27/2022,10/27/2023,,60000
+PO-0046,Freitas,Letícia,Brand Manager,Marketing,7/13/2022,,,93000
+PO-0047,Alves,Lívia,Engineering Manager,Engineering,7/14/2022,1/14/2025,,157000
+PO-0048,Barros,Diego,Engineering Manager,Engineering,7/26/2022,12/26/2023,,172000
+PO-0049,Lima,Lívia,Senior Support Specialist,Customer Support,7/28/2022,,,78000
+PO-0050,Campos,Ana,Senior Process Engineer,Engineering,8/4/2022,3/4/2024,,132000
+PO-0051,Machado,Beatriz,Marketing Coordinator,Marketing,9/26/2022,,,66000
+PO-0052,Machado,Rafael,Operations Manager,Operations,9/27/2022,12/27/2024,,147000
+PO-0053,Melo,Bruna,Senior Process Engineer,Engineering,9/29/2022,8/29/2023,4/22/2024,117000
+PO-0054,Santos,Bruna,Operations Manager,Operations,11/1/2022,9/2/2024,,139000
+PO-0055,Ferreira,Henrique,Digital Marketing Specialist,Marketing,11/28/2022,7/29/2024,,70000
+PO-0056,Martins,Fernando,Senior Accountant,Accounting,12/16/2022,,,103000
+PO-0057,Melo,Lívia,Production Supervisor,Operations,12/22/2022,12/23/2024,,92000
+PO-0058,Gomes,Isabela,Lab Technician,R&D,2/13/2023,10/13/2025,,61000
+PO-0059,Tavares,Pedro,Quality Engineer,Engineering,3/7/2023,8/18/2025,,93000
+PO-0060,Nunes,Leonardo,Network Engineer,IT,3/20/2023,9/8/2025,10/8/2025,94000
+PO-0061,Souza,Gabriela,Corporate Counsel,Legal,3/20/2023,9/20/2024,,176000
+PO-0062,Gomes,Henrique,COO,Executive,3/23/2023,,,206000
+PO-0063,Batista,Gabriel,Senior Process Engineer,Engineering,3/30/2023,,,121000
+PO-0064,Lima,Sofia,Corporate Counsel,Legal,4/17/2023,9/15/2025,,156000
+PO-0065,Santos,Lívia,Lab Technician,R&D,5/2/2023,,,62000
+PO-0066,Almeida,Marcos,Network Engineer,IT,5/29/2023,5/29/2024,,119000
+PO-0067,Gomes,Vitória,Senior Accountant,Accounting,6/16/2023,6/17/2024,,98000
+PO-0068,Tavares,Daniel,HR Coordinator,HR,7/10/2023,9/4/2025,,58000
+PO-0069,Campos,Tiago,Recruiter,HR,7/28/2023,,,65000
+PO-0070,Araújo,Natália,Senior Chemist,R&D,9/18/2023,11/18/2024,,100000
+PO-0071,Santos,Carlos,Plant Manager,Operations,10/9/2023,,,120000
+PO-0072,Ferreira,Tiago,Network Engineer,IT,10/16/2023,,,124000
+PO-0073,Carvalho,Larissa,Production Supervisor,Operations,10/25/2023,,,84000
+PO-0074,Souza,Rafaela,CTO,Executive,11/9/2023,,,238000
+PO-0075,Peixoto,Leonardo,Controller,Accounting,11/20/2023,9/24/2025,,147000
+PO-0076,Rocha,Amanda,Senior Process Engineer,Engineering,11/27/2023,6/27/2025,,143000
+PO-0077,Soares,Helena,Plant Manager,Operations,12/19/2023,,,122000
+PO-0078,Machado,Rafael,VP of Sales,Sales,12/21/2023,8/21/2025,8/27/2025,219000
+PO-0079,Rocha,Patrícia,HR Director,HR,12/26/2023,,,158000
+PO-0080,Carvalho,Aline,Sales Associate,Sales,12/28/2023,4/28/2025,,72000
+PO-0081,Soares,Daniel,Quality Engineer,Engineering,1/2/2024,,,101000
+PO-0082,Pinto,Enzo,Logistics Coordinator,Operations,2/5/2024,9/19/2025,,56000
+PO-0083,Souza,Carlos,Senior Process Engineer,Engineering,2/19/2024,,,118000
+PO-0084,Ferreira,Davi,Senior Financial Analyst,Finance,4/19/2024,10/21/2024,,103000
+PO-0085,Lima,Felipe,Operations Manager,Operations,4/29/2024,,,119000
+PO-0086,Xavier,João,Senior Process Engineer,Engineering,5/16/2024,7/16/2025,,120000
+PO-0087,Carvalho,Fernando,Quality Engineer,Engineering,6/6/2024,,,105000
+PO-0088,Castro,Davi,R&D Director,R&D,7/18/2024,10/13/2025,,154000
+PO-0089,Rodrigues,Alice,Production Supervisor,Operations,7/26/2024,9/26/2025,10/27/2025,70000
+PO-0090,Moraes,Lucas,Senior Support Specialist,Customer Support,9/9/2024,8/27/2025,9/29/2025,76000
+PO-0091,Nunes,Eduardo,Financial Analyst,Finance,9/9/2024,9/10/2025,,83000
+PO-0092,Cardoso,Gabriela,VP of Sales,Sales,9/17/2024,8/26/2025,,224000
+PO-0093,Castro,Aline,Demand Planner,Supply Chain,11/18/2024,,,89000
+PO-0094,Ferreira,Pedro,Chemist,R&D,12/2/2024,,8/20/2025,95000
+PO-0095,Tavares,Davi,Senior Support Specialist,Customer Support,12/16/2024,8/19/2025,,63000
+PO-0096,Carvalho,Mateus,Lab Technician,R&D,12/26/2024,9/16/2025,,59000
+PO-0097,Araújo,André,Operations Manager,Operations,1/9/2025,10/6/2025,,120000
+PO-0098,Castro,Gabriela,Quality Engineer,Engineering,1/10/2025,9/23/2025,10/23/2025,94000
+PO-0099,Peixoto,Alice,Quality Engineer,Engineering,1/20/2025,,,95000
+PO-0100,Rodrigues,Otávio,Financial Analyst,Finance,2/5/2025,,,77000
+PO-0101,Carvalho,Bruna,R&D Director,R&D,2/11/2025,8/28/2025,,143000
+PO-0102,Martins,Heitor,Senior Process Engineer,Engineering,2/27/2025,,,141000
+PO-0103,Vieira,Mariana,Senior Process Engineer,Engineering,2/27/2025,9/3/2025,,118000
+PO-0104,Cunha,Isabela,Senior Support Specialist,Customer Support,3/6/2025,,,73000
+PO-0105,Monteiro,Patrícia,Sales Manager,Sales,3/25/2025,8/25/2025,,134000
+PO-0106,Monteiro,Antônio,VP of Sales,Sales,4/14/2025,8/20/2025,,223000
+PO-0107,Moraes,Daniel,Senior Process Engineer,Engineering,6/9/2025,8/25/2025,,143000
+PO-0108,Cardoso,Beatriz,Controller,Accounting,6/10/2025,10/3/2025,,141000
+PO-0109,Xavier,Isabela,Plant Manager,Operations,8/20/2025,,,122000
+PO-0110,Almeida,Gabriela,Logistics Coordinator,Operations,10/8/2025,,,65000

@@ -1,0 +1,111 @@
+UniqueID,LastName,FirstName,JobTitle,Department,HireDate,LastPromotionDate,TerminationDate,AnnualSalary
+1,Swindler,Skylar,CEO,Executive,2021-01-01,2023-01-01,,300000
+2,LastName2,FirstName2,Finance Manager,Finance,2021-12-23,2023-04-11,,83221
+3,LastName3,FirstName3,HR Specialist,HR,2019-08-26,2022-05-25,,79994
+4,LastName4,FirstName4,HR Manager,HR,2022-10-24,2023-11-09,,134406
+5,LastName5,FirstName5,IT Support,IT,2020-02-25,2023-07-14,,108385
+6,LastName6,FirstName6,Customer Service Manager,Customer Service,2022-06-13,2023-07-04,,123944
+7,LastName7,FirstName7,HR Manager,HR,2024-11-28,2028-06-19,,43689
+8,LastName8,FirstName8,Operations Coordinator,Operations,2019-08-31,2022-11-16,,48781
+9,LastName9,FirstName9,IT Support,IT,2021-07-17,2023-03-05,,98151
+10,LastName10,FirstName10,Accountant,Finance,2022-12-20,2025-09-17,,44435
+11,LastName11,FirstName11,Product Developer,R&D,2024-10-24,2028-01-07,,91956
+12,LastName12,FirstName12,HR Specialist,HR,2024-04-16,2026-08-05,2028-12-23,53374
+13,LastName13,FirstName13,Product Developer,R&D,2024-10-01,2027-07-19,,71430
+14,LastName14,FirstName14,HR Manager,HR,2020-05-18,2023-02-03,,118810
+15,LastName15,FirstName15,Customer Service Manager,Customer Service,2018-03-24,2020-06-11,,75547
+16,LastName16,FirstName16,HR Manager,HR,2019-10-05,2023-07-13,,127715
+17,LastName17,FirstName17,Customer Support Rep,Customer Service,2024-02-18,2025-03-18,,125714
+18,LastName18,FirstName18,Product Developer,R&D,2024-11-19,2026-04-03,,65490
+19,LastName19,FirstName19,Sales Manager,Sales,2020-10-24,2024-08-25,,111602
+20,LastName20,FirstName20,Paralegal,Legal,2018-07-29,2020-03-26,,136141
+21,LastName21,FirstName21,Software Engineer,IT,2021-11-23,2025-03-04,,103224
+22,LastName22,FirstName22,Marketing Coordinator,Marketing,2021-03-15,2023-09-30,,129907
+23,LastName23,FirstName23,Accountant,Finance,2024-02-20,2026-08-07,,68353
+24,LastName24,FirstName24,Sales Associate,Sales,2020-09-23,2022-06-23,2023-08-12,96055
+25,LastName25,FirstName25,IT Support,IT,2022-05-03,2025-12-09,,117622
+26,LastName26,FirstName26,Sales Manager,Sales,2021-01-30,2023-08-01,,110963
+27,LastName27,FirstName27,IT Support,IT,2023-08-18,2026-08-01,,72154
+28,LastName28,FirstName28,IT Support,IT,2020-06-07,2023-11-30,,59134
+29,LastName29,FirstName29,Systems Analyst,IT,2018-03-02,2020-09-26,,60531
+30,LastName30,FirstName30,Logistics Specialist,Operations,2022-06-21,2026-05-14,,70535
+31,LastName31,FirstName31,Customer Service Manager,Customer Service,2018-10-06,2022-04-20,,65805
+32,LastName32,FirstName32,Customer Support Rep,Customer Service,2022-06-27,2026-04-28,,91486
+33,LastName33,FirstName33,Customer Service Manager,Customer Service,2018-03-29,2021-01-25,,43575
+34,LastName34,FirstName34,Account Executive,Sales,2024-10-12,2028-03-24,,58186
+35,LastName35,FirstName35,Finance Manager,Finance,2020-04-19,2023-12-01,,109950
+36,LastName36,FirstName36,Customer Support Rep,Customer Service,2022-01-31,2025-12-30,,70450
+37,LastName37,FirstName37,Product Developer,R&D,2018-04-27,2019-11-09,,92420
+38,LastName38,FirstName38,Sales Associate,Sales,2020-11-15,2024-02-25,,56913
+39,LastName39,FirstName39,Customer Support Rep,Customer Service,2019-03-07,2020-08-24,,65908
+40,LastName40,FirstName40,Sales Associate,Sales,2021-08-08,2025-03-25,,120981
+41,LastName41,FirstName41,HR Specialist,HR,2021-01-17,2022-05-19,,83788
+42,LastName42,FirstName42,Social Media Specialist,Marketing,2024-02-15,2028-01-11,,138345
+43,LastName43,FirstName43,Operations Coordinator,Operations,2022-12-20,2026-02-12,,59996
+44,LastName44,FirstName44,Paralegal,Legal,2024-09-28,2028-10-31,2031-03-20,44963
+45,LastName45,FirstName45,Financial Analyst,Finance,2021-01-18,2024-03-12,,146808
+46,LastName46,FirstName46,HR Manager,HR,2019-01-29,2021-08-26,,89463
+47,LastName47,FirstName47,IT Support,IT,2024-10-26,2027-01-02,,83522
+48,LastName48,FirstName48,Customer Service Manager,Customer Service,2018-07-22,2020-04-21,,94704
+49,LastName49,FirstName49,Operations Manager,Operations,2018-04-22,2019-11-05,2021-01-24,110283
+50,LastName50,FirstName50,Sales Manager,Sales,2024-05-10,2025-07-08,,103855
+51,LastName51,FirstName51,Legal Counsel,Legal,2018-08-30,2022-05-04,,40876
+52,LastName52,FirstName52,Operations Manager,Operations,2024-10-18,2027-12-07,2029-03-12,51840
+53,LastName53,FirstName53,Customer Support Rep,Customer Service,2024-02-22,2025-11-20,2026-06-14,106975
+54,LastName54,FirstName54,Legal Counsel,Legal,2020-04-23,2021-12-10,,98997
+55,LastName55,FirstName55,HR Manager,HR,2018-10-21,2022-04-10,,119845
+56,LastName56,FirstName56,Logistics Specialist,Operations,2021-09-24,2023-11-02,,78817
+57,LastName57,FirstName57,Recruiter,HR,2018-12-15,2021-03-23,,42378
+58,LastName58,FirstName58,Systems Analyst,IT,2023-11-19,2027-02-12,,91778
+59,LastName59,FirstName59,IT Support,IT,2021-10-02,2023-08-30,,51082
+60,LastName60,FirstName60,Recruiter,HR,2019-03-27,2020-10-21,2021-05-28,97083
+61,LastName61,FirstName61,Software Engineer,IT,2022-07-07,2026-07-10,,69854
+62,LastName62,FirstName62,Logistics Specialist,Operations,2023-12-21,2026-10-21,,105601
+63,LastName63,FirstName63,Account Executive,Sales,2024-10-15,2027-11-08,,132381
+64,LastName64,FirstName64,Software Engineer,IT,2018-06-10,2020-07-04,,42176
+65,LastName65,FirstName65,Legal Counsel,Legal,2020-03-23,2022-02-15,,83731
+66,LastName66,FirstName66,IT Support,IT,2022-03-22,2023-04-14,,46683
+67,LastName67,FirstName67,Research Scientist,R&D,2022-05-19,2023-11-10,,137072
+68,LastName68,FirstName68,Operations Manager,Operations,2023-02-09,2025-05-12,,89746
+69,LastName69,FirstName69,Operations Coordinator,Operations,2023-04-02,2025-06-26,,68030
+70,LastName70,FirstName70,Marketing Coordinator,Marketing,2022-08-27,2023-12-21,,60497
+71,LastName71,FirstName71,Product Developer,R&D,2023-12-16,2026-05-19,2026-10-02,80851
+72,LastName72,FirstName72,Product Developer,R&D,2023-07-09,2025-02-12,,40852
+73,LastName73,FirstName73,Legal Counsel,Legal,2022-01-06,2023-10-02,,98197
+74,LastName74,FirstName74,Sales Manager,Sales,2022-12-09,2024-05-22,,76560
+75,LastName75,FirstName75,Product Developer,R&D,2022-11-25,2024-06-28,,129037
+76,LastName76,FirstName76,Legal Counsel,Legal,2019-11-17,2022-08-07,,69019
+77,LastName77,FirstName77,HR Manager,HR,2024-08-01,2026-05-12,,70957
+78,LastName78,FirstName78,Product Developer,R&D,2018-05-28,2022-04-03,2024-08-24,83013
+79,LastName79,FirstName79,Sales Manager,Sales,2019-11-09,2021-09-04,,56311
+80,LastName80,FirstName80,Sales Associate,Sales,2018-07-02,2020-02-20,,125514
+81,LastName81,FirstName81,Marketing Manager,Marketing,2021-03-07,2022-03-31,,121325
+82,LastName82,FirstName82,Product Developer,R&D,2024-01-17,2027-08-10,,114957
+83,LastName83,FirstName83,Recruiter,HR,2023-01-01,2027-01-18,,86633
+84,LastName84,FirstName84,Logistics Specialist,Operations,2021-02-14,2022-07-01,,125969
+85,LastName85,FirstName85,Operations Coordinator,Operations,2019-11-20,2022-08-17,,143973
+86,LastName86,FirstName86,Operations Coordinator,Operations,2023-10-04,2027-04-26,,45046
+87,LastName87,FirstName87,Systems Analyst,IT,2018-10-08,2022-10-04,,117671
+88,LastName88,FirstName88,Logistics Specialist,Operations,2021-10-25,2023-11-11,,65627
+89,LastName89,FirstName89,Logistics Specialist,Operations,2020-04-05,2022-10-14,,129227
+90,LastName90,FirstName90,Customer Support Rep,Customer Service,2019-03-11,2022-07-29,,108890
+91,LastName91,FirstName91,Marketing Coordinator,Marketing,2021-07-22,2023-03-25,,109081
+92,LastName92,FirstName92,HR Specialist,HR,2019-02-09,2022-03-05,,141336
+93,LastName93,FirstName93,Social Media Specialist,Marketing,2022-02-25,2024-03-31,,69266
+94,LastName94,FirstName94,Customer Support Rep,Customer Service,2021-06-16,2023-12-09,,63229
+95,LastName95,FirstName95,Operations Manager,Operations,2018-07-18,2021-06-08,,42655
+96,LastName96,FirstName96,HR Manager,HR,2019-04-16,2022-11-29,,71856
+97,LastName97,FirstName97,Operations Manager,Operations,2023-02-11,2026-09-04,,107315
+98,LastName98,FirstName98,Marketing Coordinator,Marketing,2020-07-01,2022-09-18,2023-12-25,42510
+99,LastName99,FirstName99,Legal Counsel,Legal,2023-06-02,2027-05-31,,70337
+100,LastName100,FirstName100,Customer Support Rep,Customer Service,2022-09-29,2024-03-28,,61368
+101,LastName101,FirstName101,Accountant,Finance,2024-03-28,2025-09-19,,105185
+102,LastName102,FirstName102,Sales Manager,Sales,2021-12-05,2025-01-29,,56204
+103,LastName103,FirstName103,Accountant,Finance,2018-07-27,2022-03-04,2024-11-24,139534
+104,LastName104,FirstName104,Paralegal,Legal,2023-12-13,2026-10-27,,63143
+105,LastName105,FirstName105,Sales Associate,Sales,2020-01-31,2023-05-03,,57962
+106,LastName106,FirstName106,Customer Support Rep,Customer Service,2018-12-11,2020-03-25,,145498
+107,LastName107,FirstName107,Sales Manager,Sales,2024-07-17,2026-04-11,,102414
+108,LastName108,FirstName108,Customer Service Manager,Customer Service,2021-09-13,2024-02-24,,49182
+109,LastName109,FirstName109,Systems Analyst,IT,2020-02-08,2023-10-15,,69685
+110,LastName110,FirstName110,Customer Support Rep,Customer Service,2023-02-12,2024-02-19,,47468

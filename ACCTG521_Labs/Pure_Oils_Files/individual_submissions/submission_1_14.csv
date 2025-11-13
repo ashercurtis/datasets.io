@@ -1,0 +1,112 @@
+UniqueID,LastName,FirstName,JobTitle,Department,HireDate,LastPromotionDate,TerminationDate,AnnualSalary
+E001,Swindler,Skylar,CEO,Executive,1/1/2021,,,425000
+E002,Martinez,Elena,CFO,Finance,2/15/2021,3/1/2023,,285000
+E003,Thompson,Marcus,COO,Operations,3/1/2021,1/15/2024,,275000
+E004,Chen,Wei,CTO,Technology,4/12/2021,6/1/2023,,265000
+E005,Johnson,Patricia,VP of Sales,Sales,5/20/2021,2/1/2024,,195000
+E006,Williams,Robert,VP of Marketing,Marketing,6/8/2021,8/15/2023,,185000
+E007,Brown,Angela,VP of Human Resources,Human Resources,7/1/2021,4/1/2024,,175000
+E008,Davis,Michael,Director of Operations,Operations,8/15/2021,9/1/2023,,145000
+E009,Garcia,Sofia,Director of Finance,Finance,9/1/2021,5/1/2024,,145000
+E010,Rodriguez,Carlos,Director of IT,Technology,10/5/2021,7/15/2023,,140000
+E011,Wilson,Jennifer,Senior Sales Manager,Sales,11/12/2021,3/1/2024,,125000
+E012,Moore,David,Senior Marketing Manager,Marketing,12/1/2021,6/15/2023,,120000
+E013,Taylor,Ashley,HR Manager,Human Resources,1/10/2022,8/1/2024,,105000
+E014,Anderson,James,Operations Manager,Operations,2/14/2022,10/1/2023,,115000
+E015,Thomas,Lisa,Finance Manager,Finance,3/15/2022,11/1/2024,,110000
+E016,Jackson,Christopher,IT Manager,Technology,4/20/2022,1/15/2024,,110000
+E017,White,Amanda,Sales Manager,Sales,5/25/2022,2/1/2024,,98000
+E018,Harris,Daniel,Marketing Manager,Marketing,6/30/2022,,,95000
+E019,Martin,Nicole,HR Specialist,Human Resources,7/18/2022,9/1/2024,,72000
+E020,Thompson,Kevin,Operations Supervisor,Operations,8/22/2022,3/15/2024,,85000
+E021,Garcia,Maria,Financial Analyst,Finance,9/5/2022,,,78000
+E022,Martinez,Juan,Software Engineer,Technology,10/10/2022,4/1/2024,,92000
+E023,Robinson,Sarah,Sales Representative,Sales,11/1/2022,,,68000
+E024,Clark,Ryan,Marketing Coordinator,Marketing,12/5/2022,5/1/2024,,62000
+E025,Rodriguez,Isabella,Recruiter,Human Resources,1/8/2023,,,65000
+E026,Lewis,Brian,Production Supervisor,Operations,2/12/2023,6/15/2024,,82000
+E027,Lee,Emily,Accountant,Finance,3/20/2023,,,71000
+E028,Walker,Tyler,Systems Administrator,Technology,4/15/2023,,,75000
+E029,Hall,Michelle,Sales Representative,Sales,5/1/2023,,,66000
+E030,Allen,Joshua,Content Writer,Marketing,6/10/2023,,,58000
+E031,Young,Samantha,HR Coordinator,Human Resources,7/15/2023,,,55000
+E032,Hernandez,Diego,Quality Control Specialist,Operations,8/20/2023,,,68000
+E033,King,Rebecca,Senior Accountant,Finance,9/1/2023,,,82000
+E034,Wright,Nathan,Senior Software Engineer,Technology,10/5/2023,,,98000
+E035,Lopez,Gabriela,Senior Sales Representative,Sales,11/10/2023,,,78000
+E036,Hill,Brandon,Marketing Analyst,Marketing,12/1/2023,,,64000
+E037,Scott,Victoria,Benefits Administrator,Human Resources,1/8/2024,,,62000
+E038,Green,Austin,Warehouse Manager,Operations,2/15/2024,,,88000
+E039,Adams,Olivia,Tax Accountant,Finance,3/1/2024,,,76000
+E040,Baker,Jordan,Database Administrator,Technology,4/10/2024,,,82000
+E041,Gonzalez,Sophia,Account Executive,Sales,5/15/2024,,,72000
+E042,Nelson,Ethan,Social Media Manager,Marketing,6/20/2024,,,68000
+E043,Carter,Madison,Training Specialist,Human Resources,7/1/2024,,,61000
+E044,Mitchell,Connor,Logistics Coordinator,Operations,8/5/2024,,,58000
+E045,Perez,Natalie,Financial Planning Analyst,Finance,9/10/2024,,,74000
+E046,Roberts,Lucas,DevOps Engineer,Technology,10/1/2024,,,88000
+E047,Turner,Hannah,Regional Sales Manager,Sales,2/20/2022,7/1/2024,,108000
+E048,Phillips,Andrew,Brand Manager,Marketing,3/25/2022,,,89000
+E049,Campbell,Emma,Compensation Analyst,Human Resources,4/30/2022,,,69000
+E050,Parker,Dylan,Supply Chain Manager,Operations,5/15/2022,8/15/2024,,95000
+E051,Evans,Chloe,Senior Financial Analyst,Finance,6/20/2022,9/1/2024,,86000
+E052,Edwards,Mason,Lead Software Engineer,Technology,7/25/2022,10/15/2024,,105000
+E053,Collins,Ava,Sales Team Lead,Sales,8/30/2022,11/1/2024,,82000
+E054,Stewart,Logan,Digital Marketing Specialist,Marketing,9/15/2022,,,67000
+E055,Sanchez,Zoe,Employee Relations Manager,Human Resources,10/20/2022,1/1/2025,,92000
+E056,Morris,Blake,Procurement Manager,Operations,11/25/2022,,,88000
+E057,Rogers,Lily,Budget Analyst,Finance,12/30/2022,,,73000
+E058,Reed,Caleb,Network Engineer,Technology,1/15/2023,,,81000
+E059,Cook,Grace,Inside Sales Representative,Sales,2/20/2023,,,64000
+E060,Morgan,Isaac,SEO Specialist,Marketing,3/25/2023,,,63000
+E061,Bell,Aria,Payroll Specialist,Human Resources,4/30/2023,,,66000
+E062,Murphy,Owen,Maintenance Supervisor,Operations,5/15/2023,,,76000
+E063,Bailey,Scarlett,Accounts Payable Specialist,Finance,6/20/2023,,,59000
+E064,Rivera,Henry,Security Analyst,Technology,7/25/2023,,,79000
+E065,Cooper,Avery,Sales Coordinator,Sales,8/30/2023,,,57000
+E066,Richardson,Jack,Public Relations Specialist,Marketing,9/15/2023,,,65000
+E067,Cox,Ella,HRIS Analyst,Human Resources,10/20/2023,,,71000
+E068,Howard,Sebastian,Inventory Manager,Operations,11/25/2023,,,82000
+E069,Ward,Layla,Accounts Receivable Specialist,Finance,12/30/2023,,,59000
+E070,Torres,Lincoln,Full Stack Developer,Technology,1/15/2024,,,86000
+E071,Peterson,Mila,Business Development Representative,Sales,2/20/2024,,,69000
+E072,Gray,Wyatt,Email Marketing Specialist,Marketing,3/25/2024,,,61000
+E073,Ramirez,Aurora,Talent Acquisition Specialist,Human Resources,4/30/2024,,,67000
+E074,James,Grayson,Production Planner,Operations,5/15/2024,,,72000
+E075,Watson,Penelope,Cost Accountant,Finance,6/20/2024,,,68000
+E076,Brooks,Leo,Cloud Engineer,Technology,7/25/2024,,,84000
+E077,Kelly,Brooklyn,Sales Operations Analyst,Sales,8/30/2024,,,66000
+E078,Sanders,Nolan,Creative Director,Marketing,9/15/2024,,,96000
+E079,Price,Hazel,Organizational Development Specialist,Human Resources,10/1/2024,,,73000
+E080,Bennett,Easton,Shipping Coordinator,Operations,3/10/2022,,,56000
+E081,Wood,Lucy,Junior Accountant,Finance,4/15/2022,,,62000
+E082,Barnes,Carson,IT Support Specialist,Technology,5/20/2022,,,58000
+E083,Ross,Ruby,Sales Assistant,Sales,6/25/2022,,,52000
+E084,Henderson,Jaxon,Graphic Designer,Marketing,7/30/2022,,,64000
+E085,Coleman,Violet,HR Assistant,Human Resources,8/15/2022,,,50000
+E086,Jenkins,Sawyer,Forklift Operator,Operations,9/20/2022,,,48000
+E087,Perry,Claire,Billing Specialist,Finance,10/25/2022,,,56000
+E088,Powell,Maverick,Junior Developer,Technology,11/30/2022,,,68000
+E089,Long,Aubrey,Customer Success Manager,Sales,12/15/2022,,,74000
+E090,Patterson,Kai,Marketing Assistant,Marketing,1/20/2023,,,51000
+E091,Hughes,Stella,Office Manager,Human Resources,2/25/2023,,,62000
+E092,Flores,Levi,Safety Coordinator,Operations,3/30/2023,,,67000
+E093,Washington,Maya,Bookkeeper,Finance,4/25/2023,,,58000
+E094,Butler,Hudson,Help Desk Technician,Technology,5/30/2023,,,54000
+E095,Simmons,Piper,Territory Sales Manager,Sales,6/15/2023,,,89000
+E096,Foster,Colton,Video Production Specialist,Marketing,7/20/2023,,,66000
+E097,Gonzales,Willow,Onboarding Specialist,Human Resources,8/25/2023,,,59000
+E098,Bryant,Ezra,Receiving Clerk,Operations,9/30/2023,,,46000
+E099,Alexander,Addison,Payroll Coordinator,Finance,10/15/2023,,,63000
+E100,Russell,Axel,Technical Support Engineer,Technology,11/20/2023,,,72000
+E101,Griffin,Nova,Sales Analyst,Sales,12/25/2023,,,68000
+E102,Diaz,Ryder,Copywriter,Marketing,1/30/2024,,,62000
+E103,Hayes,Ellie,Diversity and Inclusion Coordinator,Human Resources,2/15/2024,,,65000
+E104,Myers,Asher,Environmental Health and Safety Manager,Operations,3/20/2024,,,91000
+E105,Ford,Kinsley,Internal Auditor,Finance,4/25/2024,,,78000
+E106,Hamilton,Declan,Mobile Developer,Technology,5/30/2024,,,82000
+E107,Graham,Ivy,Channel Sales Manager,Sales,6/15/2024,,,94000
+E108,Sullivan,Rowan,Market Research Analyst,Marketing,7/20/2024,,,67000
+E109,Wallace,Elena,Learning and Development Coordinator,Human Resources,8/25/2024,,,64000
+E110,Woods,Silas,Continuous Improvement Manager,Operations,9/30/2024,,,87000
+```,,,,,,,,

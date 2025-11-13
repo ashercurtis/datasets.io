@@ -1,0 +1,111 @@
+UniqueID,LastName,FirstName,JobTitle,Department,HireDate,LastPromotionDate,TerminationDate,AnnualSalary
+1,Swindler,Skylar,CEO,Executive,04/01/2021,02/01/2023,,269695
+2,Cardoso,João,Procurement Specialist,Operations,01/02/2021,18/03/2022,,85155
+3,Gonçalves,Arthur,Senior Logistics Analyst,Operations,25/02/2021,27/09/2021,,104940
+4,Gonçalves,Bianca,Finance Manager,Finance,04/03/2021,21/02/2022,,129075
+5,Freitas,Bruno,Marketing Manager,Marketing,23/04/2021,10/02/2023,,127930
+6,Batista,Laura,Account Executive,Sales,18/06/2021,21/01/2022,,80254
+7,Lopes,Paulo,Senior Systems Analyst,IT,29/06/2021,13/02/2023,,105083
+8,Freitas,Rafael,Senior Recruiter,HR,26/07/2021,22/04/2022,,104156
+9,Rezende,Maria Clara,Senior Systems Analyst,IT,25/08/2021,26/01/2023,,96061
+10,Ribeiro,Sophia,Operations Manager,Operations,21/09/2021,06/09/2022,,116026
+11,Campos,Gabriel,Marketing Analyst,Marketing,11/10/2021,14/11/2022,,60938
+12,Moreira,Bruno,Senior Sales Executive,Sales,08/11/2021,31/07/2023,,100325
+13,Barbosa,Nicolas,Marketing Analyst,Marketing,05/01/2022,19/10/2023,,77419
+14,Rocha,Samuel,CFO,Executive,24/02/2022,07/11/2022,,256508
+15,Cardoso,Rodrigo,Operations Manager,Operations,22/04/2022,20/03/2023,,119838
+16,Moreira,Felipe,Logistics Coordinator,Operations,01/06/2022,19/12/2022,,259695
+17,Assis,Thiago,HR Director,HR,11/07/2022,25/09/2023,,234567
+18,Carvalho,Samuel,Operations Director,Operations,01/09/2022,25/08/2023,,222888
+19,Ramos,Manuela,Senior Logistics Analyst,Operations,25/10/2022,31/08/2023,,102971
+20,Correia,Paulo,Sales Manager,Sales,23/12/2022,18/09/2023,,122455
+21,Carvalho,Rodrigo,IT Manager,IT,16/01/2023,21/08/2023,,139826
+22,Araujo,Felipe,COO,Executive,20/02/2023,26/03/2024,,229295
+23,Gonçalves,Lucas,Procurement Specialist,Operations,24/04/2023,24/11/2023,,62873
+24,Freitas,Bruno,Systems Administrator,IT,26/05/2023,17/09/2024,,69612
+25,Freitas,Yasmin,Senior Sales Executive,Sales,02/06/2023,26/02/2024,,93344
+26,Dias,Pedro,Procurement Specialist,Operations,27/06/2023,07/02/2024,,83131
+27,Castro,Bruno,Senior Sales Executive,Sales,07/08/2023,22/04/2025,,91114
+28,Araujo,Heloísa,IT Director,IT,14/08/2023,19/05/2025,,238220
+29,Barbosa,Thiago,Financial Analyst,Finance,30/08/2023,31/03/2025,,77919
+30,Oliveira,Gabriel,IT Support,IT,09/10/2023,05/08/2024,,81205
+31,Figueiredo,Pedro,Marketing Analyst,Marketing,23/10/2023,22/10/2024,,73465
+32,Cavalcanti,Manuela,Operations Manager,Operations,13/11/2023,08/10/2024,,130008
+33,Fernandes,Bernardo,Marketing Manager,Marketing,08/01/2024,07/01/2025,,129387
+34,Barbosa,André,Recruiter,HR,15/02/2024,29/10/2024,,64637
+35,Araujo,João,Senior Sales Executive,Sales,03/04/2024,03/04/2025,,108333
+36,Ramos,Gabriel,Senior Logistics Analyst,Operations,29/04/2024,29/04/2025,,98525
+37,Barros,João,IT Director,IT,20/05/2024,22/04/2025,,228864
+38,Lima,Helena,Marketing Analyst,Marketing,12/06/2024,12/06/2025,,88846
+39,Batista,Isabella,Senior Sales Executive,Sales,04/07/2024,04/04/2025,,98285
+40,Nogueira,Valentina,IT Manager,IT,09/07/2024,30/06/2025,,112081
+41,Pereira,Yasmin,Financial Analyst,Finance,21/08/2024,30/06/2025,,80533
+42,Lima,André,Operations Manager,Operations,07/10/2024,30/06/2025,,119338
+43,Ribeiro,Maria Clara,Senior Financial Analyst,Finance,31/10/2024,30/06/2025,,107285
+44,Castro,Renan,Account Executive,Sales,13/11/2024,20/05/2025,,82115
+45,Rezende,Sophia,Marketing Director,Marketing,23/12/2024,30/06/2025,,255076
+46,Correia,André,HR Manager,HR,16/01/2025,30/06/2025,,126136
+47,Rocha,Paulo,Financial Analyst,Finance,03/02/2025,30/06/2025,,63293
+48,Ramos,Yasmin,Sales Director,Sales,24/02/2025,30/06/2025,,226153
+49,Carvalho,Valentina,Marketing Manager,Marketing,18/03/2025,30/06/2025,,139811
+50,Gonçalves,Lucas,Finance Manager,Finance,01/04/2025,30/06/2025,,134542
+51,Silva,André,Sales Manager,Sales,13/05/2025,30/06/2025,,133326
+52,Rezende,Larissa,Finance Director,Finance,25/06/2025,30/06/2025,,241419
+53,Souza,Júlia,Account Executive,Sales,19/08/2025,17/12/2025,,89513
+54,Barros,Sophia,CTO,Executive,15/09/2025,13/01/2026,,252661
+55,Rodrigues,André,Sales Manager,Sales,03/11/2025,03/03/2026,,111226
+56,Carvalho,Thiago,Accountant,Finance,11/12/2025,10/04/2026,,76896
+57,Figueiredo,Thiago,Sales Manager,Sales,22/12/2025,22/04/2026,,132549
+58,Moreira,Isabella,Senior Logistics Analyst,Operations,15/01/2026,15/05/2026,,102483
+59,Monteiro,Yasmin,Marketing Analyst,Marketing,11/02/2026,11/06/2026,,72923
+60,Vieira,Yasmin,Marketing Manager,Marketing,30/03/2026,28/07/2026,,116257
+61,Silva,Bruno,Vice President of Marketing,Executive,06/04/2026,04/08/2026,,208614
+62,Campos,Paulo,Senior Financial Analyst,Finance,20/05/2026,17/09/2026,,93217
+63,Duarte,Maria Clara,Operations Manager,Operations,12/06/2026,13/10/2026,,136736
+64,Batista,Diego,Senior Logistics Analyst,Operations,24/06/2026,22/10/2026,,101198
+65,Lopes,Letícia,Sales Manager,Sales,03/08/2026,01/12/2026,,129612
+66,Cunha,Bianca,Logistics Coordinator,Operations,19/08/2026,17/12/2026,,220529
+67,Lopes,Luiza,Marketing Manager,Marketing,13/10/2026,10/02/2027,,118395
+68,Albuquerque,Heloísa,Senior Logistics Analyst,Operations,16/11/2026,16/03/2027,,97408
+69,Albuquerque,Rodrigo,Sales Representative,Sales,21/12/2026,20/04/2027,,75540
+70,Cunha,Maria Clara,Account Executive,Sales,15/02/2027,15/06/2027,,62378
+71,Nogueira,Rafael,Systems Administrator,IT,08/03/2027,06/07/2027,,83278
+72,Lopes,Paulo,Vice President of HR,Executive,28/04/2027,26/08/2027,,181758
+73,Dias,Yasmin,Logistics Coordinator,Operations,03/06/2027,01/10/2027,,223016
+74,Silva,Heloísa,Recruiter,HR,21/06/2027,19/10/2027,,63846
+75,Rocha,Theo,Marketing Analyst,Marketing,14/07/2027,11/11/2027,,75482
+76,Teixeira,Alice,Account Executive,Sales,17/08/2027,15/12/2027,,87425
+77,Albuquerque,Matheus,Operations Manager,Operations,27/09/2027,25/01/2028,,136310
+78,Cunha,Yasmin,IT Director,IT,26/10/2027,23/02/2028,,220419
+79,Cavalcanti,Maria Clara,Senior Financial Analyst,Finance,19/11/2027,20/03/2028,,105484
+80,Fernandes,Letícia,Marketing Analyst,Marketing,10/12/2027,10/04/2028,,81722
+81,Fernandes,Heloísa,Senior Sales Executive,Sales,02/02/2028,01/06/2028,,104866
+82,Barros,Theo,Senior Logistics Analyst,Operations,20/03/2028,18/07/2028,,95398
+83,Santos,Diego,Director of Strategy,Executive,10/05/2028,08/09/2028,,250773
+84,Melo,Manuela,Procurement Specialist,Operations,07/07/2028,06/11/2028,,72382
+85,Dias,Maria Clara,Senior Financial Analyst,Finance,31/07/2028,28/11/2028,,97683
+86,Ribeiro,Davi,Account Executive,Sales,14/08/2028,12/12/2028,,74278
+87,Silva,Luiza,Finance Director,Finance,02/10/2028,30/01/2029,,248450
+88,Freitas,Ana Júlia,HR Director,HR,24/10/2028,21/02/2029,,255469
+89,Cavalcanti,Isabella,Systems Administrator,IT,21/12/2028,20/04/2029,,61870
+90,Ferreira,Gabriel,Sales Manager,Sales,05/02/2029,05/06/2029,,128336
+91,Figueiredo,Murilo,Operations Manager,Operations,13/02/2029,13/06/2029,,134502
+92,Oliveira,Bernardo,Finance Manager,Finance,29/03/2029,27/07/2029,,132893
+93,Cardoso,Laura,IT Manager,IT,16/05/2029,13/09/2029,,121754
+94,Freitas,Luiza,Systems Administrator,IT,11/06/2029,09/10/2029,,61658
+95,Vieira,Felipe,Senior Logistics Analyst,Operations,23/07/2029,20/11/2029,,94203
+96,Monteiro,Lucas,Marketing Director,Marketing,30/07/2029,27/11/2029,,242599
+97,Rezende,Paulo,Account Executive,Sales,17/08/2029,17/12/2029,,71750
+98,Barros,Vitor,Operations Director,Operations,24/09/2029,22/01/2030,,251870
+99,Carvalho,Gustavo,Vice President of Marketing,Executive,31/10/2029,28/02/2030,,192449
+100,Monteiro,Heloísa,Procurement Specialist,Operations,19/12/2029,18/04/2030,,88754
+101,Oliveira,Bruno,Senior Financial Analyst,Finance,18/01/2030,20/05/2030,,101307
+102,Fernandes,Rafael,Senior Recruiter,HR,28/01/2030,28/05/2030,,94732
+103,Barros,Diego,IT Manager,IT,18/02/2030,18/06/2030,,114397
+104,Figueiredo,Alice,Marketing Director,Marketing,04/03/2030,02/07/2030,,223071
+105,Ribeiro,Renan,Systems Administrator,IT,01/04/2030,30/07/2030,,78268
+106,Oliveira,Thiago,Sales Manager,Sales,06/05/2030,03/09/2030,,117365
+107,Albuquerque,Davi,Marketing Director,Marketing,13/05/2030,10/09/2030,,255374
+108,Moreira,Rafael,Logistics Coordinator,Operations,22/05/2030,19/09/2030,,223416
+109,Freitas,Enzo,Senior Sales Executive,Sales,18/06/2030,16/10/2030,,107586
+110,Gonçalves,Gabriel,Sales Director,Sales,05/08/2030,03/12/2030,,248997

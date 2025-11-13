@@ -1,0 +1,112 @@
+UniqueID,LastName,FirstName,JobTitle,Department,HireDate,LastPromotionDate,TerminationDate,AnnualSalary
+1,Swindler,Skylar,CEO,Executive,1/1/2021,1/1/2023,,250000
+2,Camacho,Kelsey,HR Manager,HR,4/23/2024,8/1/2025,,110026
+3,Hardy,Kim,Logistics Coordinator,Operations,10/14/2016,8/6/2019,,78413
+4,Young,David,Procurement Specialist,Procurement,5/26/2021,1/16/2024,,173994
+5,Morales,John,IT Support,IT,2/17/2016,8/7/2025,,92102
+6,Smith,Scott,Brand Manager,Marketing,2/11/2021,3/14/2021,,51327
+7,Morgan,Michael,Marketing Director,Marketing,12/27/2021,12/30/2023,,79343
+8,Roberts,Joseph,Production Supervisor,Production,8/17/2018,3/27/2020,,47544
+9,Copeland,Alison,HR Manager,HR,8/27/2016,6/3/2020,,71140
+10,Simpson,Carlos,Operations Analyst,Operations,10/8/2020,6/14/2022,,56220
+11,Morgan,Mary,Procurement Specialist,Procurement,9/15/2025,10/6/2025,,78631
+12,Riley,Natalie,System Administrator,IT,10/7/2025,10/11/2025,,85145
+13,Lang,Aaron,Account Executive,Sales,8/8/2019,6/14/2020,,157295
+14,Andrade,Tyler,Product Developer,R&D,3/4/2018,7/29/2023,9/18/2023,118807
+15,Harris,Brianna,Production Supervisor,Production,4/7/2018,1/6/2020,,158697
+16,Wyatt,Beth,Procurement Specialist,Procurement,5/26/2016,3/4/2019,,54616
+17,Bell,Deborah,Recruiter,HR,10/5/2022,5/31/2023,,174400
+18,Villa,Amanda,Marketing Director,Marketing,8/12/2017,3/25/2021,,148923
+19,Fritz,Amanda,System Administrator,IT,4/5/2021,11/21/2021,,61030
+20,Perez,Susan,HR Specialist,HR,3/9/2021,6/2/2023,,149027
+21,Sanchez,Kimberly,System Administrator,IT,9/21/2024,8/13/2025,,50418
+22,Phelps,Grant,Research Scientist,R&D,5/27/2016,10/12/2018,,69203
+23,Crawford,William,Account Executive,Sales,9/14/2022,11/4/2024,,151136
+24,Ayala,Blake,Sales Manager,Sales,6/12/2016,10/30/2022,,84725
+25,Mueller,Charles,Plant Operator,Production,3/3/2021,2/15/2025,,174218
+26,English,Michael,Logistics Coordinator,Operations,3/6/2016,6/13/2024,,79760
+27,Bauer,Barry,Marketing Director,Marketing,4/24/2022,1/31/2025,,120304
+28,Johnson,Jonathan,Operations Manager,Operations,7/30/2022,11/29/2023,,140583
+29,Ellis,Keith,Account Executive,Sales,8/31/2023,7/29/2024,,119507
+30,White,Thomas,Buyer,Procurement,5/13/2019,10/12/2025,,65423
+31,Warner,Isaiah,System Administrator,IT,4/27/2016,1/6/2020,6/22/2022,159612
+32,Morales,Xavier,Finance Manager,Finance,11/26/2016,7/21/2017,,94608
+33,Wells,Andrew,Production Assistant,Production,12/15/2018,11/23/2022,,112217
+34,Carr,Michele,Financial Analyst,Finance,6/22/2019,5/15/2022,,111702
+35,Howe,April,Plant Operator,Production,3/25/2016,6/19/2025,,151571
+36,Espinoza,Clifford,HR Specialist,HR,7/29/2018,2/17/2025,,66652
+37,Delgado,Mark,Recruiter,HR,6/2/2016,5/13/2024,,49955
+38,Johnson,Abigail,Brand Manager,Marketing,10/29/2024,8/25/2025,,146061
+39,Munoz,Jennifer,Marketing Associate,Marketing,8/20/2025,8/30/2025,,171407
+40,Rodriguez,Sheila,IT Support,IT,5/6/2021,5/19/2022,,80073
+41,Ruiz,Scott,Buyer,Procurement,6/14/2023,10/23/2023,,134396
+42,Simmons,Stephanie,Research Scientist,R&D,6/11/2025,9/25/2025,,176554
+43,Peters,Amy,Sales Associate,Sales,3/17/2022,6/10/2023,,47923
+44,Sanders,Jose,Production Supervisor,Production,10/18/2019,9/20/2020,7/10/2021,136950
+45,Hensley,Brandon,Plant Operator,Production,9/8/2022,7/2/2024,,80425
+46,Vargas,Anne,HR Specialist,HR,10/28/2021,9/5/2022,,175309
+47,Little,Sandra,Sales Associate,Sales,6/15/2025,7/10/2025,,108931
+48,Fuller,Jacob,Sales Associate,Sales,9/19/2020,7/30/2025,,116976
+49,Walsh,Linda,Finance Manager,Finance,3/6/2021,7/2/2025,,76711
+50,Hernandez,Megan,Recruiter,HR,11/21/2017,8/3/2021,,56268
+51,Williams,Matthew,Marketing Director,Marketing,6/23/2017,7/13/2024,,84507
+52,Castillo,Kristen,Marketing Director,Marketing,8/31/2020,4/4/2025,9/29/2021,137111
+53,Mcguire,William,Operations Manager,Operations,8/5/2023,6/8/2024,,132567
+54,Mercado,Kevin,Software Engineer,IT,10/10/2022,10/7/2024,,174180
+55,Marshall,Brianna,Accountant,Finance,9/4/2022,1/26/2023,,144517
+56,Spears,Michelle,Buyer,Procurement,9/19/2017,9/29/2022,,111550
+57,Branch,Leslie,IT Support,IT,8/12/2021,12/21/2023,,151694
+58,Dawson,Derrick,HR Specialist,HR,10/16/2018,12/22/2024,11/14/2018,69703
+59,Miller,Linda,System Administrator,IT,9/8/2017,12/27/2021,,127265
+60,Bell,Richard,Logistics Coordinator,Operations,7/27/2020,12/19/2020,,70126
+61,Hughes,Lee,Marketing Associate,Marketing,11/19/2016,5/7/2022,7/23/2023,63435
+62,Gillespie,Jamie,Buyer,Procurement,8/30/2021,6/1/2024,,76575
+63,Kline,Oscar,Logistics Coordinator,Operations,7/18/2022,9/13/2022,,84254
+64,Macias,David,HR Manager,HR,9/18/2024,5/11/2025,,88284
+65,Evans,Joshua,Sales Manager,Sales,10/13/2024,9/23/2025,,113759
+66,Fowler,James,Plant Operator,Production,7/17/2018,5/16/2020,,155104
+67,Gillespie,Jill,Production Supervisor,Production,8/17/2022,5/17/2025,,81326
+68,Payne,John,HR Manager,HR,11/2/2021,3/3/2023,,110350
+69,Thomas,Stacy,Plant Operator,Production,4/1/2017,9/8/2019,,144628
+70,Monroe,Adrienne,Marketing Director,Marketing,7/27/2024,11/3/2024,,54844
+71,Taylor,Kimberly,Brand Manager,Marketing,9/1/2016,7/11/2019,,104274
+72,Lopez,Mark,Recruiter,HR,4/8/2025,5/11/2025,,109514
+73,Schwartz,Jacqueline,Lab Technician,R&D,8/9/2018,4/13/2022,,118300
+74,Sherman,Justin,Operations Manager,Operations,1/3/2016,12/23/2021,,163946
+75,Nelson,Denise,Operations Analyst,Operations,2/12/2020,4/19/2022,,78311
+76,Rivera,Deanna,Recruiter,HR,11/26/2017,9/17/2024,,107595
+77,Reed,Bailey,Finance Manager,Finance,7/3/2025,8/22/2025,,84939
+78,Joseph,James,Production Assistant,Production,10/4/2019,2/25/2020,,59345
+79,Nielsen,Kathleen,HR Manager,HR,6/4/2023,3/23/2025,,70306
+80,Henderson,Laurie,Lab Technician,R&D,3/29/2018,11/6/2019,12/8/2021,77803
+81,Miller,Tony,HR Specialist,HR,3/5/2024,5/26/2025,,174594
+82,Espinoza,Timothy,Buyer,Procurement,4/6/2017,12/1/2019,6/14/2020,152909
+83,Pittman,Andrew,Finance Manager,Finance,2/18/2020,6/20/2020,,113873
+84,Lawson,Elizabeth,Procurement Specialist,Procurement,8/5/2021,7/16/2022,,163614
+85,Vega,Jeremy,Finance Manager,Finance,8/15/2021,4/12/2023,,147244
+86,Santiago,Ryan,Sales Associate,Sales,6/6/2024,10/5/2024,,105327
+87,Johnson,Cynthia,Operations Manager,Operations,9/27/2020,12/3/2020,,92643
+88,Fields,Lee,Marketing Director,Marketing,7/11/2023,4/20/2024,,87884
+89,Hernandez,Chase,Operations Analyst,Operations,8/13/2019,8/12/2023,,93885
+90,Crosby,Adam,Research Scientist,R&D,9/30/2025,10/3/2025,,80191
+91,Cantu,Miguel,System Administrator,IT,6/29/2021,8/9/2025,,59439
+92,Daniels,William,Brand Manager,Marketing,10/28/2015,8/18/2022,,128771
+93,Jones,Lydia,IT Support,IT,7/22/2020,5/8/2022,,135439
+94,Leon,Scott,IT Support,IT,10/21/2020,1/29/2023,,152076
+95,Carson,Sydney,Marketing Associate,Marketing,4/1/2020,7/16/2020,,82420
+96,Ruiz,Ryan,Marketing Director,Marketing,1/10/2022,11/3/2023,5/17/2022,70145
+97,Mccall,Jonathan,Procurement Specialist,Procurement,5/21/2020,7/1/2025,,160202
+98,Garrett,Tina,Finance Manager,Finance,9/17/2017,7/30/2021,11/8/2023,56393
+99,Todd,Mark,Research Scientist,R&D,7/19/2023,12/1/2024,,111189
+100,Hopkins,Miranda,Sales Manager,Sales,4/16/2017,12/22/2021,,88774
+101,Anderson,Pamela,Controller,Finance,3/9/2024,8/10/2024,8/6/2024,52948
+102,Diaz,Ricky,Sales Manager,Sales,4/5/2016,2/10/2022,,57252
+103,Hutchinson,Jason,Research Scientist,R&D,6/3/2024,9/10/2024,,117198
+104,Ferrell,Kimberly,Product Developer,R&D,3/16/2023,2/17/2024,,101235
+105,Martinez,Lisa,Logistics Coordinator,Operations,12/31/2021,9/28/2022,,103038
+106,Figueroa,Matthew,Research Scientist,R&D,11/10/2016,3/29/2025,,46174
+107,Harris,Jennifer,System Administrator,IT,6/8/2019,4/27/2024,,158451
+108,Mckenzie,Thomas,Production Assistant,Production,6/8/2018,7/18/2022,,53190
+109,Yang,Amber,Finance Manager,Finance,2/2/2022,12/7/2023,3/1/2024,153110
+110,Acosta,Mary,SEO Specialist,Marketing,9/29/2018,9/28/2021,,132418
+111,Daniels,Kellie,Sales Manager,Sales,2/22/2021,8/16/2021,,165836

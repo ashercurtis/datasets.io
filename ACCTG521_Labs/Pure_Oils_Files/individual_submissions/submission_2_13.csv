@@ -1,0 +1,152 @@
+UniqueID,LastName,FirstName,JobTitle,Department,HireDate,LastPromotionDate,TerminationDate,AnnualSalary
+E001,Swindler,Skylar,CEO,Executive,1/1/2021,,,425000
+E002,Silva Santos,Elena,CFO,Finance,2/15/2021,3/1/2023,,95000
+E003,Oliveira Costa,Marcus,COO,Operations,3/1/2021,1/15/2024,,88000
+E004,Chen,Wei,CTO,Technology,4/12/2021,6/1/2023,,92000
+E005,Ferreira Lima,Patricia,VP of Operations,Operations,5/20/2021,2/1/2024,,72000
+E006,Santos Rodrigues,Roberto,Director of Harvesting,Harvesting,6/8/2021,8/15/2023,,58000
+E007,Almeida Souza,Angela,VP of Human Resources,Human Resources,7/1/2021,4/1/2024,,68000
+E008,Costa Silva,Miguel,Harvesting Manager,Harvesting,8/15/2021,9/1/2023,,42000
+E009,Pereira Gomes,Sofia,Director of Finance,Finance,9/1/2021,5/1/2024,,62000
+E010,Ribeiro Martins,Carlos,IT Manager,Technology,10/5/2021,7/15/2023,,48000
+E011,Carvalho Dias,João,Senior Harvesting Supervisor,Harvesting,11/12/2021,3/1/2024,,38000
+E012,Fernandes Rocha,David,Marketing Manager,Marketing,12/1/2021,6/15/2023,,52000
+E013,Barbosa Lima,Ana,HR Manager,Human Resources,1/10/2022,8/1/2024,,45000
+E014,Sousa Alves,José,Operations Manager,Operations,2/14/2022,10/1/2023,,48000
+E015,Martins Cunha,Luisa,Finance Manager,Finance,3/15/2022,11/1/2024,,46000
+E016,Gonçalves Pinto,Cristiano,Systems Administrator,Technology,4/20/2022,1/15/2024,,42000
+E017,Araújo Nunes,Amanda,Sales Manager,Sales,5/25/2022,2/1/2024,,44000
+E018,Cavalcanti Moura,Daniel,Harvesting Supervisor,Harvesting,6/30/2022,,,35000
+E019,Teixeira Freitas,Beatriz,HR Specialist,Human Resources,7/18/2022,9/1/2024,,32000
+E020,Correia Monteiro,Lucas,Harvesting Supervisor,Harvesting,8/22/2022,3/15/2024,,35000
+E021,Nascimento Vieira,Maria,Financial Analyst,Finance,9/5/2022,,,34000
+E022,Cardoso Azevedo,Julio,Software Engineer,Technology,10/10/2022,4/1/2024,,38000
+E023,Melo Farias,Juliana,Sales Representative,Sales,11/1/2022,,,28000
+E024,Duarte Campos,Rafael,Marketing Coordinator,Marketing,12/5/2022,5/1/2024,,30000
+E025,Mendes Batista,Isabella,Recruiter,Human Resources,1/8/2023,,,28000
+E026,Ribas Nogueira,Bruno,Production Supervisor,Operations,2/12/2023,6/15/2024,,36000
+E027,Lima Reis,Camila,Accountant,Finance,3/20/2023,,,32000
+E028,Borges Lopes,Thiago,IT Support Specialist,Technology,3/28/2023,,,28000
+E029,Fonseca Castro,Mariana,Sales Representative,Sales,5/1/2023,,,26000
+E030,Moreira Ramos,Gabriel,Content Writer,Marketing,6/10/2023,,,24000
+E031,Pires Moraes,Larissa,HR Coordinator,Human Resources,7/15/2023,,,22000
+E032,Tavares Aguiar,Diego,Quality Control Specialist,Operations,8/20/2023,,,28000
+E033,Monteiro Braga,Gabriela,Senior Accountant,Finance,9/1/2023,,,36000
+E034,Cardoso Macedo,Felipe,Palm Leaf Harvester,Harvesting,10/5/2023,,,18000
+E035,Rodrigues Barros,Adriana,Palm Leaf Harvester,Harvesting,10/12/2023,,,18000
+E036,Santana Cruz,Leonardo,Palm Leaf Harvester,Harvesting,11/6/2023,,,18000
+E037,Machado Teles,Fernanda,Benefits Administrator,Human Resources,11/23/2023,,,26000
+E038,Castro Medeiros,Pedro,Warehouse Manager,Operations,12/11/2023,,,38000
+E039,Carvalho Mota,Renata,Tax Accountant,Finance,1/8/2024,,,32000
+E040,Neves Siqueira,Mateus,Palm Leaf Harvester,Harvesting,1/15/2024,,,18000
+E041,Domingues Correia,Vanessa,Account Executive,Sales,2/5/2024,,,28000
+E042,Cavalcante Leite,Rodrigo,Social Media Coordinator,Marketing,2/19/2024,,,26000
+E043,Viana Andrade,Tatiana,Training Specialist,Human Resources,3/4/2024,,,24000
+E044,Guedes Pereira,Alexandre,Logistics Coordinator,Operations,3/18/2024,,,24000
+E045,Brito Miranda,Patrícia,Financial Planning Analyst,Finance,4/8/2024,,,30000
+E046,Figueiredo Alves,Marcelo,Palm Leaf Harvester,Harvesting,4/22/2024,,,18000
+E047,Amorim Silveira,Claudio,Palm Leaf Harvester,Harvesting,5/6/2024,,,18000
+E048,Freitas Coelho,Luciana,Palm Leaf Harvester,Harvesting,5/20/2024,,,18000
+E049,Cardoso Peixoto,Adriano,Palm Leaf Harvester,Harvesting,6/3/2024,,,18000
+E050,Dias Matos,Simone,Palm Leaf Harvester,Harvesting,6/17/2024,,,18000
+E051,Gomes Xavier,Ricardo,Palm Leaf Harvester,Harvesting,7/1/2024,,,18000
+E052,Silva Barbosa,Daniela,Palm Leaf Harvester,Harvesting,7/15/2024,,,18000
+E053,Moura Resende,Fabio,Palm Leaf Harvester,Harvesting,7/29/2024,,,18000
+E054,Santos Carneiro,Elaine,Palm Leaf Harvester,Harvesting,8/12/2024,,,18000
+E055,Pereira Mendonça,Anderson,Palm Leaf Harvester,Harvesting,8/26/2024,,,18000
+E056,Oliveira Caldas,Rosana,Palm Leaf Harvester,Harvesting,9/9/2024,,,18000
+E057,Costa Machado,Paulo,Palm Leaf Harvester,Harvesting,9/23/2024,,,18000
+E058,Sousa Amaral,Elisa,Palm Leaf Harvester,Harvesting,10/7/2024,,,18000
+E059,Martins Fonseca,Leandro,Palm Leaf Harvester,Harvesting,1/22/2024,,,18000
+E060,Ferreira Brito,Sandra,Palm Leaf Harvester,Harvesting,2/12/2024,,,18000
+E061,Lima Tavares,Marcos,Palm Leaf Harvester,Harvesting,3/11/2024,,,18000
+E062,Almeida Paiva,Cristina,Palm Leaf Harvester,Harvesting,4/1/2024,,,18000
+E063,Ribeiro Duarte,Wagner,Palm Leaf Harvester,Harvesting,5/13/2024,,,18000
+E064,Santos Ribas,Monica,Palm Leaf Harvester,Harvesting,6/24/2024,,,18000
+E065,Silva Borges,Ronaldo,Palm Leaf Harvester,Harvesting,7/8/2024,,,18000
+E066,Oliveira Lima,Vera,Palm Leaf Harvester,Harvesting,8/5/2024,,,18000
+E067,Costa Pires,Alberto,Palm Leaf Harvester,Harvesting,9/2/2024,,,18000
+E068,Gomes Cardoso,Claudia,Palm Leaf Harvester,Harvesting,10/14/2024,,,18000
+E069,Rodrigues Moreira,Edson,Palm Leaf Harvester,Harvesting,1/29/2024,,,18000
+E070,Fernandes Castro,Sonia,Palm Leaf Harvester,Harvesting,2/26/2024,,,18000
+E071,Carvalho Viana,Sergio,Palm Leaf Harvester,Harvesting,3/25/2024,,,18000
+E072,Barbosa Guedes,Regina,Palm Leaf Harvester,Harvesting,5/27/2024,,,18000
+E073,Sousa Amorim,Gustavo,Palm Leaf Harvester,Harvesting,6/10/2024,,,18000
+E074,Araújo Cardoso,Marcia,Palm Leaf Harvester,Harvesting,7/22/2024,,,18000
+E075,Nascimento Freitas,Carlos,Palm Leaf Harvester,Harvesting,8/19/2024,,,18000
+E076,Melo Dias,Luciana,Palm Leaf Harvester,Harvesting,9/16/2024,,,18000
+E077,Teixeira Gomes,Roberto,Palm Leaf Harvester,Harvesting,10/8/2024,,,18000
+E078,Correia Silva,Denise,Palm Leaf Harvester,Harvesting,2/7/2024,,,18000
+E079,Mendes Santos,Francisco,Palm Leaf Harvester,Harvesting,3/6/2024,,,18000
+E080,Monteiro Oliveira,Silvia,Palm Leaf Harvester,Harvesting,4/15/2024,,,18000
+E081,Cavalcanti Costa,Antonio,Palm Leaf Harvester,Harvesting,5/2/2024,,,18000
+E082,Ribas Martins,Teresa,Palm Leaf Harvester,Harvesting,6/6/2024,,,18000
+E083,Fonseca Ferreira,Eduardo,Palm Leaf Harvester,Harvesting,7/3/2024,,,18000
+E084,Moreira Lima,Lucia,Palm Leaf Harvester,Harvesting,8/7/2024,,,18000
+E085,Cardoso Almeida,Fernando,Palm Leaf Harvester,Harvesting,9/4/2024,,,18000
+E086,Nunes Ribeiro,Marlene,Palm Leaf Harvester,Harvesting,10/2/2024,,,18000
+E087,Borges Santos,Valter,Palm Leaf Harvester,Harvesting,1/17/2024,,,18000
+E088,Lima Silva,Aparecida,Palm Leaf Harvester,Harvesting,2/21/2024,,,18000
+E089,Tavares Oliveira,Wilson,Palm Leaf Harvester,Harvesting,3/13/2024,,,18000
+E090,Pires Costa,Neuza,Palm Leaf Harvester,Harvesting,4/10/2024,,,18000
+E091,Machado Gomes,Nelson,Palm Leaf Harvester,Harvesting,5/8/2024,,,18000
+E092,Castro Rodrigues,Ivone,Palm Leaf Harvester,Harvesting,6/12/2024,,,18000
+E093,Carvalho Fernandes,Jose,Palm Leaf Harvester,Harvesting,7/10/2024,,,18000
+E094,Neves Carvalho,Maria,Palm Leaf Harvester,Harvesting,8/14/2024,,,18000
+E095,Domingues Barbosa,Joao,Palm Leaf Harvester,Harvesting,9/11/2024,,,18000
+E096,Cavalcante Sousa,Ana,Palm Leaf Harvester,Harvesting,10/9/2024,,,18000
+E097,Viana Araújo,Pedro,Palm Leaf Harvester,Harvesting,1/24/2024,,,18000
+E098,Guedes Nascimento,Francisca,Palm Leaf Harvester,Harvesting,2/28/2024,,,18000
+E099,Brito Melo,Manuel,Palm Leaf Harvester,Harvesting,3/27/2024,,,18000
+E100,Figueiredo Teixeira,Rosa,Palm Leaf Harvester,Harvesting,4/24/2024,,,18000
+E101,Amorim Correia,Jorge,Palm Leaf Harvester,Harvesting,5/22/2024,,,18000
+E102,Freitas Mendes,Helena,Palm Leaf Harvester,Harvesting,6/19/2024,,,18000
+E103,Dias Monteiro,Luis,Palm Leaf Harvester,Harvesting,7/17/2024,,,18000
+E104,Silva Cavalcanti,Irene,Palm Leaf Harvester,Harvesting,8/21/2024,,,18000
+E105,Moura Ribas,Miguel,Palm Leaf Harvester,Harvesting,9/18/2024,,,18000
+E106,Santos Fonseca,Celia,Palm Leaf Harvester,Harvesting,10/10/2024,,,18000
+E107,Pereira Moreira,Raul,Palm Leaf Harvester,Harvesting,2/2/2024,,,18000
+E108,Oliveira Cardoso,Olga,Palm Leaf Harvester,Harvesting,3/8/2024,,,18000
+E109,Costa Nunes,Raimundo,Palm Leaf Harvester,Harvesting,4/5/2024,,,18000
+E110,Gomes Borges,Adelaide,Palm Leaf Harvester,Harvesting,5/10/2024,,,18000
+E111,Martinez,Sarah,Operations Coordinator,Operations,3/12/2022,,,38000
+E112,Silva Lopes,Sebastião,Palm Leaf Harvester,Harvesting,6/14/2024,,,18000
+E113,Rodrigues Souza,Josefa,Palm Leaf Harvester,Harvesting,7/12/2024,,,18000
+E114,Fernandes Pereira,Benedito,Palm Leaf Harvester,Harvesting,8/9/2024,,,18000
+E115,Carvalho Santos,Conceição,Palm Leaf Harvester,Harvesting,9/13/2024,,,18000
+E116,Barbosa Almeida,Geraldo,Palm Leaf Harvester,Harvesting,10/11/2024,,,18000
+E117,Thompson,James,Supply Chain Analyst,Operations,8/14/2022,,,42000
+E118,Sousa Costa,Terezinha,Palm Leaf Harvester,Harvesting,1/31/2024,,,18000
+E119,Araújo Silva,Manoel,Palm Leaf Harvester,Harvesting,2/14/2024,6/1/2024,8/30/2024,18000
+E120,Nascimento Oliveira,Joana,Palm Leaf Harvester,Harvesting,3/21/2024,,,18000
+E121,Melo Martins,Domingos,Palm Leaf Harvester,Harvesting,4/18/2024,5/15/2024,7/12/2024,18000
+E122,Teixeira Ferreira,Antonia,Palm Leaf Harvester,Harvesting,5/16/2024,,,18000
+E123,Correia Lima,Vicente,Palm Leaf Harvester,Harvesting,6/13/2024,,,18000
+E124,Mendes Ribeiro,Izabel,Palm Leaf Harvester,Harvesting,7/11/2024,,,18000
+E125,Monteiro Gomes,Joaquim,Palm Leaf Harvester,Harvesting,8/8/2024,9/1/2024,10/5/2024,18000
+E126,Cavalcanti Rodrigues,Marta,Palm Leaf Harvester,Harvesting,9/12/2024,,,18000
+E127,Ribas Fernandes,Osvaldo,Palm Leaf Harvester,Harvesting,10/3/2024,,,18000
+E128,Fonseca Carvalho,Zilda,Palm Leaf Harvester,Harvesting,2/9/2024,,,18000
+E129,Moreira Barbosa,Valdir,Palm Leaf Harvester,Harvesting,3/14/2024,4/1/2024,6/28/2024,18000
+E130,Cardoso Sousa,Dalva,Palm Leaf Harvester,Harvesting,4/12/2024,,,18000
+E131,Nunes Araújo,Expedito,Palm Leaf Harvester,Harvesting,5/9/2024,,,18000
+E132,Borges Nascimento,Cecilia,Palm Leaf Harvester,Harvesting,6/7/2024,,,18000
+E133,Lima Melo,Benedita,Palm Leaf Harvester,Harvesting,7/5/2024,7/20/2024,9/18/2024,18000
+E134,Tavares Teixeira,Raimunda,Palm Leaf Harvester,Harvesting,8/2/2024,,,18000
+E135,Pires Correia,Severino,Palm Leaf Harvester,Harvesting,9/6/2024,,,18000
+E136,Machado Mendes,Dirce,Palm Leaf Harvester,Harvesting,10/4/2024,,,18000
+E137,Castro Monteiro,Irineu,Palm Leaf Harvester,Harvesting,1/26/2024,,,18000
+E138,Carvalho Cavalcanti,Odete,Palm Leaf Harvester,Harvesting,2/23/2024,,,18000
+E139,Neves Ribas,Waldemar,Palm Leaf Harvester,Harvesting,3/22/2024,4/5/2024,5/31/2024,18000
+E140,Domingues Fonseca,Sueli,Palm Leaf Harvester,Harvesting,4/26/2024,,,18000
+E141,Cavalcante Moreira,Dorival,Palm Leaf Harvester,Harvesting,5/24/2024,,,18000
+E142,Viana Cardoso,Edna,Palm Leaf Harvester,Harvesting,6/21/2024,,,18000
+E143,Guedes Nunes,Sebastiana,Palm Leaf Harvester,Harvesting,7/19/2024,,,18000
+E144,Brito Borges,Getúlio,Palm Leaf Harvester,Harvesting,8/16/2024,,,18000
+E145,Figueiredo Lima,Nilza,Palm Leaf Harvester,Harvesting,9/20/2024,,,18000
+E146,Amorim Tavares,Alcides,Palm Leaf Harvester,Harvesting,3/1/2023,5/1/2023,8/15/2023,18000
+E147,Freitas Pires,Jurema,Palm Leaf Harvester,Harvesting,5/4/2023,,,18000
+E148,Dias Machado,Erminio,Palm Leaf Harvester,Harvesting,7/6/2023,8/1/2023,11/20/2023,18000
+E149,Silva Castro,Eulalia,Palm Leaf Harvester,Harvesting,9/14/2023,,,18000
+E150,Moura Carvalho,Divino,Palm Leaf Harvester,Harvesting,11/9/2023,12/1/2023,3/22/2024,18000
+```,,,,,,,,

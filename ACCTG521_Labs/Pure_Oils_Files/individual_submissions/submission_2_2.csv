@@ -1,0 +1,111 @@
+UniqueID,LastName,FirstName,JobTitle,Department,HireDate,LastPromotionDate,TerminationDate,AnnualSalary
+1,Swindler,Skylar,CEO / Founder,Executive,2021-01-04,2022-01-04,,525314
+49,Vitor Barbosa,João,Quality Control Analyst,Operations,2021-02-04,2022-04-13,,60279
+8,Hugo Oliveira,Victor,E-commerce Specialist,Marketing,2021-03-08,2023-02-22,,90947
+28,Santiago,Marisa,Customer Success,Sales,2021-04-15,2022-07-04,,54869
+61,Paiva,Paulo,Finance Analyst,Finance,2021-05-24,2023-06-15,,75900
+2,Peixoto,Diego,Payroll Coordinator,Finance,2021-07-01,2022-07-25,,46959
+77,Luiza Valente,Ana,Customer Care Specialist,Customer Service,2021-08-06,2023-05-08,,44535
+110,Matos,Gabriel,Systems Analyst,IT,2021-08-20,2023-04-18,,92033
+105,Coelho,Vânia,Payroll Coordinator,Finance,2021-09-02,2023-04-06,,62504
+10,Pereira da Silva,Lucas,Quality Control Analyst,Production,2021-09-27,2023-02-13,,66990
+67,Vinícius Costa,Marcos,Marketing Manager,Sales,2021-10-11,2022-12-12,,142607
+6,Andrade,Bruno,Plant Supervisor,Operations,2021-11-03,2022-07-15,,90510
+98,Miguel Nascimento,Pedro,Quality Control Analyst,Production,2021-11-19,2023-03-24,,64384
+57,Farias,Rômulo,HR Manager,HR,2021-12-24,2022-10-25,,111727
+22,Barreto,Paula,IT Support,IT,2022-01-31,2023-01-04,,47980
+107,Cavalcanti,Camila,Systems Analyst,IT,2022-03-14,2023-09-19,2024-04-01,67141
+92,Dantas,Rafael,Call Center Representative,Customer Service,2022-04-01,2023-02-15,,40310
+14,Costa,Yasmin,Plant Supervisor,Production,2022-05-11,2024-02-28,,104704
+78,Lins,Carolina,Brand Designer,Marketing,2022-05-30,2023-03-02,,80706
+41,Beatriz Santos,Ana,Production Manager,Production,2022-06-21,2024-04-29,,121850
+86,Barros Lima,Natália,Sales Executive,Sales,2022-07-06,2023-08-21,,86834
+94,Freitas,Antônio,Payroll Coordinator,Finance,2022-07-21,2024-04-02,,46131
+7,Barros,Mariana,Packaging Staff,Production,2022-08-16,2024-04-01,,24098
+96,Gomes,Laura,Brand Designer,Sales,2022-09-05,2024-05-08,,96012
+23,Coelho,Letícia,Plant Supervisor,Production,2022-09-21,2024-03-19,2025-04-04,84141
+42,Tavares,Murilo,Systems Analyst,IT,2022-10-03,2024-04-09,,64914
+20,Figueiredo,Camila,Plant Supervisor,Production,2022-10-13,2024-03-22,,111915
+79,Santos Oliveira,Bianca,E-commerce Specialist,Marketing,2022-11-09,2024-08-19,,87778
+89,Borges,Ricardo,Production Manager,Operations,2022-12-05,2023-06-21,,157300
+5,Coutinho,Aline,IT Support,IT,2022-12-27,2024-05-29,,51782
+53,Viana,Pedro,Training Coordinator,HR,2023-01-23,2024-05-20,,50693
+76,Cardoso,Thiago,E-commerce Specialist,Marketing,2023-02-20,2023-10-23,,106994
+37,Mendonça,Larissa,Plant Supervisor,Operations,2023-03-06,2024-04-23,,104563
+71,Araújo,Felipe,Marketing Manager,Marketing,2023-04-13,2024-01-25,,164921
+27,Teixeira,Clara,Training Coordinator,HR,2023-04-25,2024-07-19,,56263
+68,Monteiro,Valentina,HR Manager,HR,2023-05-15,2023-12-21,,121162
+88,Pereira Neto,Diego,Sales Executive,Sales,2023-06-22,2024-06-21,,119282
+66,Maia,Sofia,Systems Analyst,IT,2023-07-10,2024-05-17,,90878
+33,Câmara,Gustavo,Packaging Staff,Operations,2023-08-15,2025-04-22,,26435
+100,Holanda Souza,Rafael,Marketing Manager,Sales,2023-09-21,2024-12-09,,163971
+44,Lins,Ricardo,E-commerce Specialist,Marketing,2023-10-13,2024-09-09,,119655
+24,Azevedo,Rafael,Marketing Manager,Marketing,2023-11-09,2025-10-16,,150743
+43,Holanda,André,Customer Care Specialist,Customer Service,2023-12-07,2025-10-23,2026-06-29,56979
+63,Henrique Oliveira,Lucas,Production Manager,Production,2023-12-19,2025-03-28,,115667
+70,Ramos,Laura,Packaging Staff,Production,2024-01-02,2025-01-03,,29353
+17,Andrade Silva,Larissa,Payroll Coordinator,Finance,2024-01-25,2024-10-07,,66986
+65,Ribeiro,Mariana,Content Creator,Sales,2024-02-12,2024-08-27,,45011
+38,Pinto,Marcelo,E-commerce Specialist,Marketing,2024-03-13,2024-12-09,,77428
+75,Galvão,Elisa,E-commerce Administrator,IT,2024-04-17,2025-07-07,,92733
+101,Guedes,Fábio,Packaging Staff,Production,2024-04-29,2025-06-10,,26035
+106,Costa,Samuel,Customer Care Specialist,Customer Service,2024-05-13,2025-08-06,,49561
+4,Oliveira Lima,Marina,Payroll Coordinator,Finance,2024-06-19,2025-04-22,,54549
+99,Torres Silva,Larissa,Marketing Manager,Sales,2024-07-15,2025-01-22,,152238
+102,Mendonça,Alexandre,Plant Supervisor,Operations,2024-08-05,2026-08-21,2027-05-31,106423
+83,Moura,Isabela,Sales Executive,Marketing,2024-09-13,2025-12-11,,75550
+104,Carolina Freire,Ana,Marketing Manager,Sales,2024-10-14,2025-08-22,,162584
+30,Mendes,Carla,E-commerce Specialist,Sales,2024-10-25,2026-10-14,2027-02-16,72629
+32,Azevedo,Caio,Plant Supervisor,Production,2024-12-04,2025-09-22,,86051
+46,Teixeira,Bruno,Marketing Manager,Sales,2024-12-19,2026-03-12,,138707
+26,Rodrigues,Vanessa,Production Manager,Operations,2024-12-30,2025-12-30,,104041
+81,Ribeiro,Selma,E-commerce Specialist,Marketing,2025-01-15,2026-05-29,,71397
+18,Teixeira Lima,Gabriel,Administrative Assistant,HR,2025-02-14,2026-06-22,,54719
+25,Dourado,Lucas,E-commerce Specialist,Sales,2025-03-12,2026-04-06,,73112
+80,Albuquerque,Mateus,Call Center Representative,Customer Service,2025-03-31,2026-12-28,,36551
+40,Paulo Gonçalves,Marcos,Web Developer,IT,2025-04-28,2026-04-27,,87369
+73,Brito,Vitor,Content Creator,Sales,2025-05-16,2026-11-02,,65579
+59,Guimarães,Marina,Payroll Coordinator,Finance,2025-06-20,2026-01-05,,55843
+21,Eduardo Moura,Carlos,Production Manager,Operations,2025-07-08,2026-02-10,,123543
+39,Costa,Helena,E-commerce Administrator,IT,2025-07-18,2026-02-02,,70090
+45,Albuquerque,Patrícia,Machine Operator,Operations,2025-08-20,2027-07-19,,35184
+19,Dantas,Helena,E-commerce Administrator,IT,2025-09-16,2026-09-25,,94981
+74,Galvão,Mariana,Plant Supervisor,Operations,2025-10-13,2027-08-10,,112243
+51,Teófilo,Mirna,E-commerce Specialist,Marketing,2025-10-30,2027-07-29,,111443
+52,Siqueira,Gabriela,Payroll Coordinator,Finance,2025-11-12,2027-07-27,,44843
+36,Barbosa,Enzo,Customer Care Specialist,Customer Service,2025-12-15,2027-11-01,,57487
+91,Caldas,Mateus,HR Manager,HR,2026-01-12,2027-08-17,,98818
+72,Silva Pereira,Natália,E-commerce Specialist,Sales,2026-02-09,2027-06-21,,119246
+13,Siqueira,Clara,Marketing Manager,Marketing,2026-03-13,2027-04-19,2028-06-26,141239
+97,Telles,Thiago,Finance Analyst,Finance,2026-04-02,2027-04-20,2028-04-14,75213
+64,Henrique Mendes,Pedro,Logistics Coordinator,Operations,2026-04-24,2027-10-11,,71001
+55,Nóbrega,Daniela,Production Manager,Operations,2026-05-05,2027-03-15,,131695
+62,Borges,Mateus,Production Manager,Operations,2026-05-15,2027-01-22,,141772
+69,Ferreira,Daniel,Production Manager,Operations,2026-06-15,2027-08-30,,119780
+9,Menezes,Henrique,Customer Care Specialist,Customer Service,2026-07-08,2027-06-21,,47385
+3,Pedro Silva,João,IT Support,IT,2026-07-20,2027-04-12,,44667
+15,Queiroz,Rafaela,Plant Supervisor,Operations,2026-08-20,2028-03-13,,107048
+48,Araújo,Carolina,Payroll Coordinator,Finance,2026-09-28,2028-08-28,,43066
+109,Leite,Manuela,Marketing Manager,Marketing,2026-10-29,2028-02-09,,126601
+87,Júlia Valença,Ana,Plant Supervisor,Production,2026-11-27,2028-01-31,,117481
+29,Galvão,Eduarda,Customer Care Specialist,Customer Service,2026-12-29,2028-04-24,,46801
+58,Jardim,Natália,Production Manager,Operations,2027-01-11,2028-10-23,,101623
+34,Clara Souza,Maria,Machine Operator,Production,2027-01-26,2028-01-03,,32727
+84,Albuquerque Santos,Joaquim,Finance Analyst,Finance,2027-02-15,2028-11-13,,70776
+103,Furtado,Alessandro,Recruiter,HR,2027-02-25,2028-05-19,,77293
+50,Nogueira,Mariana,Customer Care Specialist,Customer Service,2027-03-18,2028-08-15,,45295
+11,Rios,Igor,Systems Analyst,IT,2027-04-14,2028-09-06,,98124
+31,Amorim,Renato,Payroll Coordinator,Finance,2027-05-03,2027-12-06,,40007
+35,Sobral,Matheus,E-commerce Administrator,IT,2027-06-14,2028-10-23,2029-09-14,61020
+108,Pimentel,Letícia,Plant Supervisor,Operations,2027-07-05,2028-07-06,,111565
+93,Monteiro Alves,Joana,Content Creator,Sales,2027-07-15,2028-12-19,,45901
+47,Valença,Bianca,Customer Care Specialist,Customer Service,2027-08-06,2028-04-27,,41718
+12,Araujo,Lucas,Production Manager,Operations,2027-08-31,2028-12-08,,141430
+54,Sá,Eduardo,Packaging Staff,Production,2027-09-27,2028-10-16,,46824
+82,Lucas Neves,Pedro,Web Developer,IT,2027-10-14,2029-09-10,,83971
+60,Lima Pereira,Gabriel,Call Center Representative,Customer Service,2027-11-17,2028-05-22,,54592
+16,Vasconcelos,Roberto,Payroll Coordinator,Finance,2027-11-29,2029-02-21,,41620
+95,Eduarda Pinto,Maria,Production Manager,Operations,2028-01-04,2028-10-02,,137444
+56,Nóbrega Silva,Bruna,HR Manager,HR,2028-01-18,2029-08-29,,95864
+85,Pires,Manuela,Payroll Coordinator,Finance,2028-02-15,2028-09-25,,68695
+90,Soares,Thiago,Payroll Coordinator,Finance,2028-03-08,2028-09-27,,50939

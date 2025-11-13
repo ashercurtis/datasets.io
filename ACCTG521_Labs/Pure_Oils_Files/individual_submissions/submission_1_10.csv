@@ -1,0 +1,111 @@
+UniqueID,LastName,FirstName,JobTitle,Department,HireDate,LastPromotionDate,TerminationDate,AnnualSalary
+EMP001,Swindler,Skylar,CEO,Executive,2021-01-01,2023-01-01,,250000.0
+EMP002,Leach,Valerie,HR Coordinator,Human Resources,2022-05-02,2025-07-23,2028-09-02,100829.75
+EMP003,Norton,Christine,HR Manager,Human Resources,2019-04-30,2023-11-19,,90546.96
+EMP004,Barr,Wendy,CFO,Finance,2020-08-24,2023-04-30,,81576.17
+EMP005,Snyder,Katherine,HR Manager,Human Resources,2024-03-21,,,124775.93
+EMP006,Walsh,Juan,Machine Operator,Production,2021-01-31,2025-08-04,,53808.07
+EMP007,Johnson,Mark,Logistics Manager,Logistics,2017-10-12,2019-06-30,,43847.74
+EMP008,Cox,Becky,Social Media Specialist,Marketing,2022-07-13,2027-08-12,,112938.22
+EMP009,Ingram,Jasmine,Financial Analyst,Finance,2024-10-11,2026-01-25,,43962.34
+EMP010,Henry,Danny,HR Coordinator,Human Resources,2023-01-16,2026-02-17,,86075.42
+EMP011,Stein,Matthew,HR Manager,Human Resources,2018-10-26,,,121163.57
+EMP012,Bullock,Eric,Marketing Manager,Marketing,2021-05-09,2023-11-21,,58102.01
+EMP013,Rich,Nicole,HR Coordinator,Human Resources,2021-11-12,2025-11-18,,148562.34
+EMP014,Wilson,Ronald,Plant Supervisor,Operations,2017-10-12,2021-08-15,,107608.49
+EMP015,Bridges,Dylan,Sales Director,Sales,2022-12-24,2026-02-09,,136030.61
+EMP016,Anderson,Amy,Sales Director,Sales,2015-12-20,2017-11-16,,125513.72
+EMP017,Williams,Steven,Sales Representative,Sales,2018-12-28,2022-03-16,,97721.86
+EMP018,Jones,Anne,Recruiter,Human Resources,2015-12-11,,,55051.67
+EMP019,Good,Ricardo,Accounts Payable Clerk,Finance,2019-05-09,2021-01-28,,104251.79
+EMP020,Lucas,Antonio,Plant Supervisor,Operations,2017-12-03,2019-07-18,,123140.56
+EMP021,Cooper,Caitlin,Financial Analyst,Finance,2021-09-29,2022-11-01,,90923.38
+EMP022,Frost,Jessica,Logistics Manager,Logistics,2018-04-21,2020-02-12,,82328.94
+EMP023,Ballard,Debbie,Accountant,Finance,2017-09-21,2021-02-02,,43144.77
+EMP024,Boyd,Dylan,Systems Administrator,IT,2016-03-19,2018-01-19,,103914.58
+EMP025,Stewart,Carl,Compliance Officer,Quality Control,2022-09-26,,,79028.13
+EMP026,Cook,Ashley,Marketing Manager,Marketing,2019-05-08,,,111872.66
+EMP027,Russell,Brandon,Logistics Manager,Logistics,2017-12-31,2022-06-30,,72861.85
+EMP028,Lucas,Michelle,Recruiter,Human Resources,2024-08-27,2025-09-18,,133739.69
+EMP029,Montoya,Crystal,Machine Operator,Production,2018-04-28,2022-05-27,,44735.27
+EMP030,Miller,Becky,Sales Director,Sales,2024-04-10,,,101180.0
+EMP031,Calhoun,Derek,Supply Chain Analyst,Logistics,2019-11-22,2022-05-05,2025-01-14,75467.64
+EMP032,Snyder,Edward,Quality Manager,Quality Control,2022-11-06,2027-04-17,,64047.89
+EMP033,Cunningham,Cindy,Software Developer,IT,2016-07-16,2020-03-05,,49961.88
+EMP034,Barnes,Sandra,Financial Analyst,Finance,2018-11-22,2024-03-31,2022-06-23,94420.94
+EMP035,Maddox,Megan,Sales Director,Sales,2022-01-14,,,116765.51
+EMP036,Kim,Raymond,R&D Manager,Research & Development,2022-10-30,,,83112.12
+EMP037,Carter,Jerome,Compliance Officer,Quality Control,2020-11-12,2023-03-16,,109669.46
+EMP038,Hill,Mary,Marketing Manager,Marketing,2020-06-30,,,142493.35
+EMP039,Robertson,Kevin,Quality Manager,Quality Control,2015-11-04,2019-08-05,,84713.17
+EMP040,Mcfarland,Brian,Chemist,Research & Development,2018-11-22,2023-12-30,,129909.25
+EMP041,Bates,Lisa,Product Developer,Research & Development,2024-03-20,2028-11-10,2030-04-12,53653.49
+EMP042,Ewing,William,HR Manager,Human Resources,2016-03-19,2018-11-25,,47967.22
+EMP043,Wolf,Jennifer,Logistics Manager,Logistics,2017-07-10,2021-10-13,2020-11-09,118028.75
+EMP044,Browning,Justin,HR Coordinator,Human Resources,2016-08-01,,,81074.24
+EMP045,Gray,Kenneth,Marketing Manager,Marketing,2022-10-14,2023-11-30,2026-01-08,63006.68
+EMP046,Powell,Nathan,Sales Representative,Sales,2021-03-03,,,146320.21
+EMP047,Bray,Peter,Logistics Manager,Logistics,2022-07-23,2026-09-24,,134345.18
+EMP048,Donovan,Robert,Operations Manager,Operations,2020-11-01,2025-08-06,,91183.35
+EMP049,Hunter,Danielle,Supply Chain Analyst,Logistics,2024-06-08,,,41378.82
+EMP050,Garcia,Elizabeth,Social Media Specialist,Marketing,2019-01-29,2021-07-30,,135181.53
+EMP051,Smith,Patrick,Financial Analyst,Finance,2020-10-24,2023-03-16,,87936.2
+EMP052,Cook,Melissa,Operations Manager,Operations,2023-08-28,2029-01-14,,54521.94
+EMP053,Morris,Kevin,Plant Supervisor,Operations,2022-08-04,2025-11-29,,58403.6
+EMP054,Friedman,Seth,Logistics Manager,Logistics,2021-01-04,2024-06-24,2026-02-02,120533.32
+EMP055,Trevino,James,HR Coordinator,Human Resources,2023-12-30,2028-07-18,,130565.98
+EMP056,Friedman,Michael,Account Executive,Sales,2024-03-25,2027-05-01,2027-04-10,131657.71
+EMP057,Ritter,Haley,Accountant,Finance,2017-05-29,2018-07-14,,63419.57
+EMP058,Holt,Nicholas,Accounts Payable Clerk,Finance,2023-11-09,2026-12-08,,47047.45
+EMP059,Campos,Donna,Recruiter,Human Resources,2021-08-22,2022-12-08,2025-05-21,111939.65
+EMP060,Jones,Sherry,Financial Analyst,Finance,2018-07-02,2020-06-14,,138061.18
+EMP061,Robinson,Ronald,Plant Supervisor,Operations,2023-02-03,,2026-07-04,73957.52
+EMP062,Ruiz,Mark,Logistics Manager,Logistics,2024-07-18,2025-09-18,2030-03-19,48272.55
+EMP063,Oconnor,Brian,Logistics Manager,Logistics,2017-09-11,,,44437.01
+EMP064,Chavez,Joann,Production Manager,Production,2023-02-07,,2028-05-28,79580.08
+EMP065,Shaffer,Cameron,Systems Administrator,IT,2023-04-13,,,131241.46
+EMP066,Coleman,Charles,Operations Analyst,Operations,2021-05-08,2025-12-08,,123732.74
+EMP067,Mckinney,Daniel,Financial Analyst,Finance,2024-06-20,2026-02-20,2029-03-01,110936.86
+EMP068,Reyes,Amanda,Systems Administrator,IT,2017-09-27,2020-10-14,,105301.69
+EMP069,Kelly,Jennifer,Systems Administrator,IT,2021-01-15,,2026-10-20,51303.46
+EMP070,Phillips,Michael,HR Manager,Human Resources,2020-10-23,2024-08-01,,100415.07
+EMP071,Wiley,Joseph,Chemist,Research & Development,2018-09-13,2020-06-29,,96368.81
+EMP072,Chase,Elizabeth,Financial Analyst,Finance,2024-06-06,,,96020.56
+EMP073,Cook,Leah,Software Developer,IT,2023-11-19,2025-12-14,,68186.75
+EMP074,Martinez,Charles,Recruiter,Human Resources,2019-06-09,2023-01-25,,142369.68
+EMP075,Miller,Fernando,IT Manager,IT,2024-04-02,2026-02-21,,105277.03
+EMP076,Ellis,Lynn,Account Executive,Sales,2017-05-05,2021-03-18,,148145.08
+EMP077,Morrow,Johnny,Sales Director,Sales,2021-06-11,2022-10-02,,139161.12
+EMP078,Hubbard,Austin,Warehouse Coordinator,Logistics,2019-07-20,,,142360.68
+EMP079,Rios,Janice,Logistics Manager,Logistics,2019-06-02,,,75669.51
+EMP080,Cuevas,Robert,Plant Supervisor,Operations,2020-12-01,2024-10-19,,54736.67
+EMP081,Johnson,Kimberly,Logistics Manager,Logistics,2022-08-29,2027-12-08,,94619.09
+EMP082,Smith,Victor,Logistics Manager,Logistics,2023-11-26,2027-09-22,,91645.42
+EMP083,Stuart,Michelle,Operations Manager,Operations,2021-07-11,2026-07-15,2027-02-08,74474.48
+EMP084,Howe,Kimberly,Operations Analyst,Operations,2020-11-29,2023-04-27,,137456.45
+EMP085,Cooper,Debra,Social Media Specialist,Marketing,2020-09-15,2025-11-24,,136036.57
+EMP086,Moore,Bruce,R&D Manager,Research & Development,2019-01-13,2022-09-23,,140737.57
+EMP087,Ross,Holly,Accountant,Finance,2021-12-21,2025-02-02,,69400.42
+EMP088,Frey,Richard,QC Inspector,Quality Control,2018-08-29,2019-09-01,,123306.18
+EMP089,Johnson,Scott,Compliance Officer,Quality Control,2023-06-16,,,142587.9
+EMP090,Mcdaniel,Sharon,Accountant,Finance,2019-12-07,2025-05-04,2026-09-04,135244.1
+EMP091,Daniel,Jamie,Sales Representative,Sales,2023-01-07,2024-02-16,,95031.63
+EMP092,Adams,Justin,Maintenance Technician,Operations,2022-09-23,2026-04-22,,51942.28
+EMP093,Kelley,Laura,Quality Manager,Quality Control,2023-07-17,,,50288.63
+EMP094,Davis,Victoria,Social Media Specialist,Marketing,2018-08-24,2021-11-26,,104527.81
+EMP095,Green,Robyn,IT Manager,IT,2015-10-28,2017-12-07,,52279.23
+EMP096,Yu,Derek,Supply Chain Analyst,Logistics,2018-07-03,,,91103.48
+EMP097,Short,Amanda,QC Inspector,Quality Control,2020-11-14,2023-02-04,,103260.44
+EMP098,Patterson,Samuel,HR Coordinator,Human Resources,2017-07-24,2022-06-08,,91500.14
+EMP099,Johnson,Kimberly,Production Worker,Production,2023-04-27,2028-06-06,,45131.2
+EMP100,Ochoa,Tamara,Chemist,Research & Development,2021-11-18,2025-02-06,,144309.17
+EMP101,Foster,Brandon,Software Developer,IT,2024-07-18,2029-07-13,,72432.11
+EMP102,Reid,Ryan,Sales Director,Sales,2020-03-01,2025-08-01,2026-04-03,42962.54
+EMP103,Rivera,Stacy,Social Media Specialist,Marketing,2021-10-14,2025-08-08,,133817.2
+EMP104,Wells,Frank,Machine Operator,Production,2019-09-07,2022-08-07,,83879.26
+EMP105,Peterson,Amy,HR Coordinator,Human Resources,2019-12-01,2021-07-19,,91609.72
+EMP106,Cooper,Brittany,Brand Strategist,Marketing,2017-02-24,2018-08-21,,55169.58
+EMP107,Stevens,Danielle,HR Manager,Human Resources,2022-11-29,,,126313.73
+EMP108,Erickson,Emma,HR Coordinator,Human Resources,2023-08-20,2028-11-14,,60670.87
+EMP109,Lee,Zachary,Supply Chain Analyst,Logistics,2019-07-05,2023-03-31,,98128.04
+EMP110,Hines,Raymond,Supply Chain Analyst,Logistics,2019-12-09,2022-02-02,,102379.14

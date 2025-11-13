@@ -1,0 +1,111 @@
+UniqueID,LastName,FirstName,JobTitle,Department,HireDate,LastPromotionDate,TerminationDate,AnnualSalary
+1,Swindler,Skylar,CEO,Executive,1/1/2021,1/1/2023,,250000
+2,Bishop,Amanda,HR Coordinator,Human Resources,3/16/2023,2/23/2024,,61197.07
+3,Ramos,Natalie,HR Coordinator,Human Resources,2/1/2019,8/30/2021,,62073.07
+4,Thomas,Anthony,Marketing Coordinator,Marketing,5/1/2018,6/22/2018,,79112.94
+5,Rose,Andrew,Account Executive,Sales,5/19/2019,1/5/2023,,84463.9
+6,Clark,Marvin,Customer Service Rep,Customer Service,7/2/2018,4/28/2025,,119818.64
+7,Brown,William,Recruiter,Human Resources,6/20/2019,8/13/2019,,66250.27
+8,Shaw,Michael,Accountant,Finance,9/27/2015,12/12/2024,,91617.38
+9,Williams,Joel,Content Strategist,Marketing,12/19/2022,2/2/2024,,88689.93
+10,Benitez,Richard,Accountant,Finance,3/7/2022,8/30/2023,,136742.16
+11,Taylor,Anna,SEO Specialist,Marketing,11/25/2015,2/13/2024,,57462.15
+12,Turner,Anthony,Customer Service Director,Customer Service,1/31/2019,10/19/2019,,95642.82
+13,Barton,Paul,Financial Analyst,Finance,6/29/2015,5/8/2022,,149333.37
+14,Lee,Julie,Logistics Coordinator,Operations,6/25/2017,1/7/2023,,104602.5
+15,Mueller,James,Brand Manager,Marketing,11/6/2023,7/9/2023,,56403.08
+16,Johnson,Gerald,Operations Director,Operations,7/12/2018,5/26/2023,,48258.92
+17,Paul,Sharon,Logistics Coordinator,Operations,9/8/2018,7/7/2020,,57544.75
+18,Franklin,Garrett,Brand Manager,Marketing,4/8/2016,8/15/2018,,97496.04
+19,Mcintyre,Anthony,Logistics Coordinator,Operations,1/22/2019,2/13/2022,,107886.45
+20,Pineda,Mallory,Plant Manager,Operations,8/27/2016,11/20/2021,,64151.98
+21,Deleon,Shannon,Recruiter,Human Resources,9/7/2023,10/21/2023,,122711.23
+22,Williamson,Richard,Business Development Rep,Sales,2/1/2019,10/9/2025,,136578.49
+23,Hays,Alyssa,IT Manager,IT,1/7/2015,7/31/2023,1/25/2023,107232.21
+24,Quinn,Patrick,Business Development Rep,Sales,8/13/2023,1/9/2024,,80741.84
+25,Rogers,Richard,Content Strategist,Marketing,9/13/2018,12/23/2019,,133407.98
+26,Garcia,Erik,Marketing Coordinator,Marketing,1/3/2020,10/13/2020,,98005.8
+27,Russell,John,Payroll Specialist,Finance,5/26/2022,10/6/2023,,126396.56
+28,Knapp,Denise,Benefits Specialist,Human Resources,3/25/2016,5/25/2025,,123218.05
+29,Joseph,Lauren,Payroll Specialist,Finance,10/22/2019,2/2/2025,,89790.76
+30,Powell,Jennifer,Systems Analyst,IT,1/27/2023,11/16/2024,11/7/2024,123732.49
+31,Henderson,Julia,Software Engineer,IT,11/26/2016,2/18/2023,,93884.72
+32,Jones,Michael,HR Manager,Human Resources,12/2/2020,9/6/2021,,68841.02
+33,Davis,Walter,Financial Analyst,Finance,3/16/2015,11/18/2021,,98126.41
+34,Mccarthy,Jessica,Sales Manager,Sales,11/19/2023,5/6/2024,,101416.3
+35,Beasley,Janice,HR Coordinator,Human Resources,7/2/2016,1/3/2022,,88899.87
+36,Kerr,Charlotte,Logistics Coordinator,Operations,12/19/2020,4/17/2022,,51722.4
+37,Barajas,John,Software Engineer,IT,9/24/2022,8/26/2022,,54893.06
+38,Rodriguez,Derek,Account Executive,Sales,8/10/2017,4/1/2020,,98812.48
+39,Dean,Erika,Sales Associate,Sales,6/21/2015,4/1/2016,,71830.25
+40,Leonard,Diana,HR Coordinator,Human Resources,12/29/2019,7/6/2025,,145391.8
+41,Morgan,Sherry,IT Support Specialist,IT,11/18/2017,3/26/2019,,108896.71
+42,James,William,HR Manager,Human Resources,2/21/2022,6/21/2024,,119398.78
+43,Mosley,Danielle,Marketing Coordinator,Marketing,3/16/2021,3/13/2024,,132225.59
+44,Taylor,John,HR Coordinator,Human Resources,4/6/2020,7/22/2020,,63286.51
+45,Arnold,Christopher,Brand Manager,Marketing,3/31/2017,3/19/2019,,48041.22
+46,Wilson,Amber,SEO Specialist,Marketing,9/24/2017,12/6/2022,,115357.52
+47,Maddox,Timothy,Marketing Coordinator,Marketing,1/15/2018,4/7/2020,,71934.76
+48,Jackson,Megan,HR Coordinator,Human Resources,7/2/2017,8/15/2025,,48743.35
+49,Davis,Robert,Customer Service Director,Customer Service,12/13/2015,7/8/2024,5/26/2024,92474.77
+50,Jones,Nicholas,Client Success Manager,Customer Service,3/5/2022,9/29/2025,,113813.28
+51,Jackson,Christopher,Benefits Specialist,Human Resources,8/4/2015,3/14/2025,12/8/2025,94438.69
+52,George,Julie,IT Support Specialist,IT,7/9/2019,7/13/2019,,121524.64
+53,Olson,Lance,Accountant,Finance,10/6/2022,3/10/2022,,81776.37
+54,Gonzalez,Leah,Customer Service Rep,Customer Service,12/12/2017,1/24/2024,,65632.32
+55,Phillips,Andrew,Customer Service Director,Customer Service,3/14/2021,2/13/2024,,56703.3
+56,Green,Amanda,Client Success Manager,Customer Service,4/25/2019,12/1/2024,,63334.81
+57,Reed,Robert,Payroll Specialist,Finance,7/30/2015,10/29/2019,,65532.91
+58,Taylor,Kari,Content Strategist,Marketing,8/20/2022,12/8/2024,,88445.36
+59,Vega,Michael,HR Manager,Human Resources,1/29/2015,11/30/2018,,62602.45
+60,Thompson,Pamela,Plant Manager,Operations,8/3/2018,5/12/2022,,49958.81
+61,Meyer,Daniel,Payroll Specialist,Finance,1/17/2021,11/17/2021,,117169.66
+62,Taylor,Brittany,Operations Director,Operations,6/28/2022,9/26/2025,,140533.64
+63,Thomas,Sandra,Business Development Rep,Sales,2/19/2019,8/11/2019,,117521.35
+64,Rubio,Jason,Software Engineer,IT,12/7/2015,10/23/2016,,94010.03
+65,Willis,Corey,Payroll Specialist,Finance,6/26/2023,9/15/2023,,112527.04
+66,Neal,Tony,IT Support Specialist,IT,4/8/2017,9/14/2021,,118891.48
+67,Torres,Joseph,Brand Manager,Marketing,2/3/2015,9/7/2017,,147385.8
+68,Griffin,Nicholas,Recruiter,Human Resources,11/25/2018,3/30/2025,,70335.39
+69,Hopkins,Sandra,Customer Service Rep,Customer Service,10/16/2020,1/25/2023,,88878.33
+70,Gonzalez,Daniel,Accountant,Finance,3/12/2022,1/30/2023,,106566.17
+71,Rodriguez,Christine,Support Lead,Customer Service,8/24/2017,12/28/2025,,143014.88
+72,Sims,Daniel,Plant Manager,Operations,2/21/2019,8/15/2020,,146088.29
+73,Parsons,Daniel,HR Coordinator,Human Resources,2/14/2021,2/25/2024,,97399.42
+74,Mcdonald,Laura,SEO Specialist,Marketing,5/10/2021,4/10/2022,,101229.21
+75,Clark,Lauren,Business Development Rep,Sales,12/11/2019,9/15/2022,,134652.53
+76,Wong,Lauren,Logistics Coordinator,Operations,6/17/2015,8/12/2017,,50906.99
+77,Stevens,Michael,Brand Manager,Marketing,4/28/2020,12/8/2024,8/27/2025,141911.56
+78,Wilcox,Benjamin,IT Support Specialist,IT,2/14/2017,11/2/2019,,75926.56
+79,Thornton,Taylor,Support Lead,Customer Service,3/23/2016,9/26/2021,,71182.91
+80,Campbell,Jeffrey,Customer Service Rep,Customer Service,8/23/2016,9/24/2021,,70338.17
+81,Dunlap,Lisa,Business Development Rep,Sales,1/6/2020,11/29/2023,,114642.05
+82,Cox,Jodi,Systems Analyst,IT,11/18/2022,3/31/2025,,145594.08
+83,Atkinson,Denise,Customer Service Rep,Customer Service,7/25/2018,9/13/2024,,121123.29
+84,Farley,Vanessa,Finance Manager,Finance,5/13/2023,2/23/2025,,140012.57
+85,Richardson,Denise,Business Development Rep,Sales,7/7/2015,4/19/2017,,70535.89
+86,Sanchez,Angel,Customer Service Director,Customer Service,7/6/2018,12/24/2018,,70359.51
+87,Johnson,Erika,Support Lead,Customer Service,4/22/2022,11/18/2023,,57366.77
+88,Hoffman,Devin,Sales Associate,Sales,6/20/2020,9/7/2020,,91189.95
+89,Johnson,Derek,Client Success Manager,Customer Service,7/17/2020,7/15/2022,,80473.44
+90,York,Kimberly,Marketing Coordinator,Marketing,7/28/2019,6/30/2023,12/28/2024,89606.46
+91,Ruiz,Kyle,Recruiter,Human Resources,5/27/2021,4/25/2025,,81090.64
+92,Robertson,Rebecca,Business Development Rep,Sales,8/8/2020,7/9/2024,,128864.95
+93,Wood,Taylor,Financial Analyst,Finance,5/14/2022,6/20/2022,,89131.26
+94,Garcia,Crystal,Support Lead,Customer Service,9/16/2017,8/26/2025,,114594.35
+95,Roach,William,Client Success Manager,Customer Service,7/1/2023,1/4/2025,,62353
+96,Miles,Roberto,Financial Analyst,Finance,7/10/2016,7/22/2024,,132021.68
+97,Willis,Carol,Plant Manager,Operations,9/26/2020,10/12/2024,,55134.18
+98,Webb,Christopher,Content Strategist,Marketing,8/9/2022,11/13/2024,,106610.52
+99,Byrd,Rita,Finance Manager,Finance,4/20/2022,9/2/2025,,119483.86
+100,Adams,Vincent,Software Engineer,IT,5/12/2016,2/1/2018,,109721.59
+101,Thomas,Kyle,Brand Manager,Marketing,5/12/2015,1/24/2015,,57252.33
+102,Fischer,Wanda,Support Lead,Customer Service,11/9/2023,11/16/2024,10/22/2025,47107.12
+103,Williams,Shannon,Financial Analyst,Finance,6/7/2019,12/21/2024,,111017.87
+104,Wiley,Christopher,SEO Specialist,Marketing,5/16/2022,7/11/2025,7/5/2025,97168.66
+105,Hartman,Robert,Recruiter,Human Resources,12/23/2022,7/19/2022,,60386.41
+106,Espinoza,Alexander,Operations Director,Operations,1/28/2015,5/2/2021,,137920.94
+107,Sutton,Kimberly,Customer Service Director,Customer Service,5/6/2018,8/17/2023,,54039.03
+108,Smith,Brent,Recruiter,Human Resources,11/9/2023,4/29/2025,,117638.7
+109,Heath,Amanda,Content Strategist,Marketing,3/6/2021,7/25/2021,12/16/2025,134263.22
+110,Johnson,Craig,Client Success Manager,Customer Service,7/25/2015,2/15/2018,,85567.64

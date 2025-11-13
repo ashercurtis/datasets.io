@@ -1,0 +1,111 @@
+UniqueID,LastName,FirstName,JobTitle,Department,HireDate,LastPromotionDate,TerminationDate,AnnualSalary
+1,Swindler,Skylar,Chief Executive Officer,Executive,2021-01-01,,,1200000
+2,Fernandes,Matheus,Chief Operating Officer,Executive,2017-05-02,,,1425000
+3,Carvalho,João,Chief Operating Officer,Executive,2022-07-25,,,1235000
+4,Lima,Gabriel,Chief Financial Officer,Executive,2024-04-10,,,1015000
+5,Cavalcante,Isabela,HR Manager,Human Resources,2020-08-04,,,80000
+6,Martins,Daniel,HR Analyst,Human Resources,2015-06-12,2017-03-03,,90000
+7,Souza,Felipe,HR Analyst,Human Resources,2014-02-19,,,160000
+8,Gomes,Camila,HR Manager,Human Resources,2020-01-17,2021-07-08,,95000
+9,Nascimento,Thiago,HR Manager,Human Resources,2024-07-27,,,180000
+10,Cavalcante,Sofia,HR Manager,Human Resources,2024-03-27,2024-11-25,,175000
+11,Oliveira,Daniel,HR Analyst,Human Resources,2014-03-24,,,170000
+12,Oliveira,Carla,HR Manager,Human Resources,2018-04-07,,,180000
+13,Teixeira,Felipe,Software Engineer,Information Technology,2016-02-08,,,145000
+14,Machado,Larissa,Data Analyst,Information Technology,2016-04-12,,,235000
+15,Costa,Isabela,Data Analyst,Information Technology,2015-03-04,,,120000
+16,Carvalho,Sofia,Data Analyst,Information Technology,2024-06-14,,,200000
+17,Cavalcante,André,Data Analyst,Information Technology,2014-06-27,,,130000
+18,Martins,Daniel,IT Support Specialist,Information Technology,2015-04-10,,,120000
+19,Rocha,Renata,IT Support Specialist,Information Technology,2023-06-24,,,105000
+20,Oliveira,Luana,Software Engineer,Information Technology,2016-05-22,2018-06-28,,175000
+21,Nascimento,João,Software Engineer,Information Technology,2023-05-06,,,235000
+22,Machado,Mariana,Data Analyst,Information Technology,2025-08-19,,,235000
+23,Oliveira,Renata,Data Analyst,Information Technology,2017-05-20,,,225000
+24,Oliveira,Mariana,Data Analyst,Information Technology,2025-11-06,,,240000
+25,Almeida,Carla,Marketing Analyst,Marketing,2015-07-08,,,165000
+26,Nascimento,Felipe,Marketing Analyst,Marketing,2022-08-09,2023-03-22,,190000
+27,Costa,Sofia,Marketing Analyst,Marketing,2017-03-29,,,165000
+28,Silva,Mariana,Marketing Analyst,Marketing,2020-06-26,,,170000
+29,Martins,Lucas,Marketing Manager,Marketing,2025-05-21,,,120000
+30,Cavalcante,André,Marketing Analyst,Marketing,2025-04-19,,,135000
+31,Almeida,Rafael,Marketing Manager,Marketing,2016-03-18,2017-01-02,,130000
+32,Barbosa,João,Marketing Analyst,Marketing,2023-05-27,,,115000
+33,Nascimento,João,Marketing Manager,Marketing,2018-03-16,,,90000
+34,Freitas,Renata,Marketing Manager,Marketing,2018-08-18,2019-03-17,,105000
+35,Freitas,Isabela,Sales Representative,Sales,2015-10-21,,,75000
+36,Melo,Ana,Sales Representative,Sales,2014-11-13,,,100000
+37,Lima,Lucas,Sales Representative,Sales,2023-10-08,2025-01-19,,105000
+38,Nascimento,André,Sales Representative,Sales,2024-10-09,,,70000
+39,Pereira,Pedro,Sales Manager,Sales,2015-04-17,2016-10-24,,90000
+40,Monteiro,Thiago,Sales Representative,Sales,2025-10-27,,,70000
+41,Araujo,Pedro,Sales Representative,Sales,2021-07-05,,,105000
+42,Rocha,André,Sales Representative,Sales,2024-05-26,,,160000
+43,Dias,Felipe,Sales Manager,Sales,2014-06-23,,,105000
+44,Carvalho,Fernanda,Sales Representative,Sales,2014-01-14,2015-07-12,,170000
+45,Costa,Luana,Sales Representative,Sales,2018-01-22,2019-05-24,,110000
+46,Gomes,Fernanda,Sales Manager,Sales,2015-05-23,,,170000
+47,Fernandes,Sofia,Sales Representative,Sales,2017-09-28,,,145000
+48,Monteiro,Bruno,Sales Manager,Sales,2022-04-01,,,180000
+49,Gomes,Renata,Sales Representative,Sales,2025-12-10,,,105000
+50,Machado,André,Sales Representative,Sales,2019-01-17,,,190000
+51,Carvalho,Thiago,Sales Manager,Sales,2022-04-04,2024-01-28,,180000
+52,Barbosa,Sofia,Sales Representative,Sales,2020-03-31,2022-02-27,2022-11-03,80000
+53,Martins,Daniel,Sales Representative,Sales,2023-02-06,,2024-06-02,105000
+54,Fernandes,Sofia,Sales Representative,Sales,2024-10-12,,,75000
+55,Gomes,Rafael,Accountant,Finance,2016-03-19,2017-12-01,,145000
+56,Gomes,Gabriel,Accountant,Finance,2021-10-11,2022-11-02,,155000
+57,Fernandes,Rafael,Financial Analyst,Finance,2014-10-06,2015-10-11,,235000
+58,Lima,Vinicius,Accountant,Finance,2015-06-09,,,130000
+59,Carvalho,Renata,Accountant,Finance,2023-08-24,2025-08-31,,180000
+60,Rocha,Beatriz,Financial Analyst,Finance,2015-06-18,,,185000
+61,Martins,Fernanda,Accountant,Finance,2016-06-27,,,145000
+62,Nascimento,Pedro,Accountant,Finance,2021-08-04,,,210000
+63,Teixeira,Gabriel,Accountant,Finance,2020-01-10,,,215000
+64,Melo,Ana,Financial Analyst,Finance,2023-04-28,,,135000
+65,Almeida,Juliana,Logistics Coordinator,Operations,2021-04-15,,,205000
+66,Araujo,Daniel,Logistics Coordinator,Operations,2024-09-09,,,165000
+67,Martins,André,Logistics Coordinator,Operations,2015-05-23,2016-04-12,,185000
+68,Fernandes,Bruno,Operations Manager,Operations,2025-08-20,,,170000
+69,Monteiro,Luana,Operations Manager,Operations,2024-01-20,2025-02-21,,215000
+70,Rodrigues,Juliana,Logistics Coordinator,Operations,2020-06-20,,,200000
+71,Oliveira,Lucas,Operations Manager,Operations,2022-04-22,,,105000
+72,Monteiro,Juliana,Logistics Coordinator,Operations,2023-09-19,,,220000
+73,Nascimento,Lucas,Operations Manager,Operations,2025-11-05,,,220000
+74,Rodrigues,Felipe,Operations Manager,Operations,2017-10-20,,,170000
+75,Gomes,Felipe,Operations Manager,Operations,2022-07-30,,,160000
+76,Gomes,Fernanda,Logistics Coordinator,Operations,2025-12-18,,,145000
+77,Souza,Pedro,Operations Manager,Operations,2017-07-30,2018-11-09,,185000
+78,Araujo,João,Operations Manager,Operations,2014-10-04,,,195000
+79,Souza,Beatriz,Logistics Coordinator,Operations,2018-08-04,,,90000
+80,Melo,Larissa,Production Supervisor,Production,2016-02-27,,,125000
+81,Teixeira,Daniel,Production Supervisor,Production,2021-12-03,,,125000
+82,Melo,Renata,Quality Technician,Production,2023-07-24,,,155000
+83,Silva,Ana,Production Supervisor,Production,2022-10-30,,,140000
+84,Gomes,André,Production Supervisor,Production,2014-01-28,,,85000
+85,Machado,João,Quality Technician,Production,2025-10-21,,,105000
+86,Rocha,Matheus,Quality Technician,Production,2025-02-16,,,150000
+87,Pereira,Sofia,Quality Technician,Production,2017-06-04,2018-06-11,,120000
+88,Machado,Gabriel,Production Supervisor,Production,2017-11-16,,,80000
+89,Rodrigues,Renata,Production Supervisor,Production,2021-05-07,2022-09-28,,70000
+90,Araujo,Daniel,Production Supervisor,Production,2018-08-08,,,140000
+91,Oliveira,Ana,Production Supervisor,Production,2023-02-26,2025-04-29,,110000
+92,Almeida,Luana,Production Supervisor,Production,2014-12-15,,,135000
+93,Souza,Fernanda,Production Supervisor,Production,2016-07-13,,,115000
+94,Freitas,Gabriel,Quality Technician,Production,2017-11-07,2018-08-07,,80000
+95,Rocha,Isabela,Production Supervisor,Production,2015-11-30,,,160000
+96,Almeida,Lucas,Production Supervisor,Production,2019-09-24,,,140000
+97,Souza,Ana,Quality Technician,Production,2019-07-25,2021-08-25,,85000
+98,Barbosa,Renata,Quality Technician,Production,2020-04-15,2021-01-15,,125000
+99,Lima,Thiago,Production Supervisor,Production,2019-08-18,2020-04-16,,80000
+100,Carvalho,Pedro,Customer Service Representative,Customer Service,2025-07-07,,,70000
+101,Fernandes,Fernanda,Customer Service Representative,Customer Service,2015-06-27,2016-06-23,,105000
+102,Carvalho,Lucas,Customer Service Representative,Customer Service,2014-01-26,,,100000
+103,Rodrigues,André,Customer Service Representative,Customer Service,2024-06-12,,,105000
+104,Teixeira,Ana,Customer Service Representative,Customer Service,2020-07-07,2021-10-25,,105000
+105,Carvalho,Beatriz,Customer Service Representative,Customer Service,2023-06-02,2024-06-18,,115000
+106,Martins,Gabriel,Customer Service Representative,Customer Service,2019-08-27,,,115000
+107,Martins,Daniel,Customer Service Representative,Customer Service,2015-03-02,,,110000
+108,Monteiro,Fernanda,Customer Service Representative,Customer Service,2015-06-07,,,105000
+109,Ribeiro,Thiago,Customer Service Representative,Customer Service,2025-05-16,,,95000
+110,Monteiro,Fernanda,Customer Service Representative,Customer Service,2015-07-24,2017-02-28,,105000

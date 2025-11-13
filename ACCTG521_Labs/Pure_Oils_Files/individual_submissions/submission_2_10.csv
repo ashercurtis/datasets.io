@@ -1,0 +1,111 @@
+UniqueID,LastName,FirstName,JobTitle,Department,HireDate,LastPromotionDate,TerminationDate,AnnualSalary
+EMP001,Swindler,Skylar,CEO,Executivo,2021-01-04,2023-01-02,,1000000.00
+EMP002,das Neves,Catarina,Gerente de Produção,Manufatura,2021-01-25,,,210835.13
+EMP003,da Rocha,Maitê,Supervisor de Colheita,Colheita,2021-02-10,2022-08-09,,116384.65
+EMP004,Araújo,Natália,Gerente de Logística,Logística,2021-03-22,2022-10-31,,238625.97
+EMP005,Porto,Emanuella,Trabalhador de Produção,Manufatura,2021-04-26,2025-03-05,,60681.69
+EMP006,das Neves,Ana Júlia,Trabalhador de Produção,Manufatura,2021-05-17,,,79857.49
+EMP007,da Mota,Pedro Lucas,Gerente de Produção,Manufatura,2021-06-17,2024-12-09,,181555.23
+EMP008,Santos,Lucca,Operador de Equipamentos Agrícolas,Colheita,2021-07-22,,,104263.76
+EMP009,Azevedo,Natália,Operador de Equipamentos Agrícolas,Colheita,2021-08-25,2023-04-10,,95959.69
+EMP010,Moraes,Alice,Analista Financeiro,Finanças,2021-09-17,2025-02-07,,104874.34
+EMP011,Araújo,Murilo,Supervisor de Colheita,Colheita,2021-09-20,2023-07-03,,110431.45
+EMP012,Rodrigues,Bárbara,Supervisor de Colheita,Colheita,2021-09-23,,2025-09-12,114251.44
+EMP013,da Cruz,Raul,Operador de Equipamentos Agrícolas,Colheita,2021-11-04,2025-05-12,,117420.57
+EMP014,da Mota,Maitê,Trabalhador de Produção,Manufatura,2021-12-06,,,74247.10
+EMP015,da Mota,Yago,Trabalhador de Produção,Manufatura,2022-01-17,2024-11-29,,90234.29
+EMP016,Dias,Yuri,Gerente de Qualidade,Qualidade,2022-03-02,2023-03-20,,225539.22
+EMP017,Moreira,Isis,Supervisor de Colheita,Colheita,2022-03-08,,,136916.81
+EMP018,Ramos,João Vitor,Técnico de Processos,Manufatura,2022-03-25,2023-02-22,,161680.95
+EMP019,Gonçalves,Bianca,Analista Financeiro,Finanças,2022-03-28,2025-10-06,,148139.78
+EMP020,Azevedo,Rebeca,Trabalhador de Produção,Manufatura,2022-04-12,,,67481.16
+EMP021,da Cruz,Henrique,Diretor de Vendas,Vendas,2022-04-18,,,270754.83
+EMP022,da Luz,Ana Laura,Gerente de Logística,Logística,2022-05-17,,,235745.48
+EMP023,da Rosa,Maria,Supervisor de Colheita,Colheita,2022-06-28,2023-11-07,,123062.05
+EMP024,Moreira,Bruno,Operador de Máquina,Manufatura,2022-08-01,,,82005.69
+EMP025,Vieira,Benício,Analista Financeiro,Finanças,2022-09-05,,2025-08-11,141080.55
+EMP026,Porto,Cauê,Coordenador de Armazém,Logística,2022-09-09,2023-11-03,,147079.81
+EMP027,da Luz,Helena,Gerente de Logística,Logística,2022-10-17,2025-01-08,,229163.58
+EMP028,Almeida,Joana,Operador de Máquina,Manufatura,2022-11-07,2023-12-01,,92567.35
+EMP029,Aragão,Samuel,Trabalhador de Produção,Manufatura,2022-11-16,2024-03-18,,92515.64
+EMP030,Sales,Larissa,Coordenador de Armazém,Logística,2022-11-16,2024-12-11,2025-08-11,126881.72
+EMP031,Pires,Eloah,Operador de Equipamentos Agrícolas,Colheita,2022-11-24,2023-08-01,,94781.08
+EMP032,Santos,André,Operador de Equipamentos Agrícolas,Colheita,2022-12-28,2025-03-13,2025-10-07,80312.92
+EMP033,Fernandes,Sabrina,Motorista,Logística,2023-01-16,2023-10-30,2025-08-18,80578.64
+EMP034,Ramos,Alana,Operador de Equipamentos Agrícolas,Colheita,2023-02-22,,,88425.19
+EMP035,Pinto,Diego,Motorista,Logística,2023-04-06,2024-07-01,,80044.85
+EMP036,Fogaça,Ana Vitória,Coordenador de Armazém,Logística,2023-04-10,,,113834.01
+EMP037,Nunes,Igor,Gerente de Logística,Logística,2023-04-18,2024-07-09,,209765.20
+EMP038,Costa,Melissa,Trabalhador de Colheita,Colheita,2023-05-23,,,86493.19
+EMP039,Moreira,Larissa,Representante de Vendas,Vendas,2023-06-26,,,113151.51
+EMP040,Peixoto,Vitor,Gerente de Produção,Manufatura,2023-06-28,,2025-08-06,250903.22
+EMP041,Nascimento,Davi Luiz,Motorista,Logística,2023-07-13,2025-01-06,,105365.39
+EMP042,Vieira,Daniel,Operador de Equipamentos Agrícolas,Colheita,2023-08-21,2024-10-16,,119048.24
+EMP043,Fogaça,Sophia,Analista de Cadeia de Suprimentos,Logística,2023-09-18,,,139931.13
+EMP044,Rodrigues,Sofia,Motorista,Logística,2023-10-30,2025-01-06,,101494.98
+EMP045,Campos,Leandro,Técnico de Processos,Manufatura,2023-11-01,2024-12-12,,165107.11
+EMP046,Viana,Otávio,Trabalhador de Colheita,Colheita,2023-11-16,,,71953.98
+EMP047,Teixeira,Noah,Trabalhador de Colheita,Colheita,2023-11-20,2025-02-27,,75282.17
+EMP048,Castro,Manuela,Trabalhador de Produção,Manufatura,2023-12-26,,,90696.34
+EMP049,Barros,Gustavo,Analista de Cadeia de Suprimentos,Logística,2024-02-01,2024-12-12,,155794.28
+EMP050,Ribeiro,Rafael,Operador de Equipamentos Agrícolas,Colheita,2024-02-21,2025-05-07,,115980.19
+EMP051,Nogueira,Lucas,Trabalhador de Produção,Manufatura,2024-02-23,2024-08-21,,88227.88
+EMP052,Novaes,Yasmin,Operador de Equipamentos Agrícolas,Colheita,2024-04-05,,,117954.98
+EMP053,da Mota,Maria Luiza,Motorista,Logística,2024-05-14,,,98790.17
+EMP054,Moura,Antônio,Gerente de Logística,Logística,2024-06-03,2025-05-16,,196608.97
+EMP055,Nogueira,Daniel,Executivo de Contas,Vendas,2024-07-01,2025-07-10,,173196.39
+EMP056,Farias,Sophia,Motorista,Logística,2024-07-22,2025-01-20,,78407.31
+EMP057,Peixoto,Maria Clara,Operador de Máquina,Manufatura,2024-08-29,2025-06-24,,107025.09
+EMP058,Martins,Bruna,Motorista,Logística,2024-09-09,2025-05-19,,95317.63
+EMP059,Barros,Fernando,Motorista,Logística,2024-09-24,2025-05-19,,75894.16
+EMP060,Lopes,Noah,Técnico de Processos,Manufatura,2024-10-24,2025-05-12,,163168.21
+EMP061,Teixeira,Evelyn,Gerente de Logística,Logística,2024-12-09,2025-10-13,,183281.42
+EMP062,Moura,Mirella,Trabalhador de Colheita,Colheita,2024-12-16,2025-07-14,,88738.98
+EMP063,Fernandes,Nina,Operador de Máquina,Manufatura,2024-12-19,2025-10-13,,98258.47
+EMP064,Peixoto,Bianca,Desenvolvedor de Produto,P&D,2025-01-30,2025-10-08,,196502.77
+EMP065,Silva,Mariana,Trabalhador de Produção,Manufatura,2025-03-10,2025-10-08,,91739.92
+EMP066,Melo,Yuri,Operador de Máquina,Manufatura,2025-03-20,2025-10-01,,110071.07
+EMP067,da Cunha,Stella,Representante de Vendas,Vendas,2025-04-07,2025-10-13,,94354.75
+EMP068,Jesus,Pedro Henrique,Motorista,Logística,2025-05-22,,,82788.38
+EMP069,Nunes,Maria Luiza,Gerente de Logística,Logística,2025-05-30,,,183752.47
+EMP070,Martins,Rafael,Trabalhador de Produção,Manufatura,2025-06-25,,,74552.10
+EMP071,Vieira,Samuel,Coordenador de Armazém,Logística,2025-07-21,,,147303.10
+EMP072,Rodrigues,Noah,Trabalhador de Colheita,Colheita,2025-08-26,,,70552.76
+EMP073,da Paz,Isabelly,Trabalhador de Produção,Manufatura,2025-09-22,,,87995.39
+EMP074,Almeida,Maria Luiza,Supervisor de Colheita,Colheita,2025-10-15,,,111741.49
+EMP075,Correia,Enzo,Analista de Cadeia de Suprimentos,Logística,2025-10-15,,,170430.34
+EMP076,Sales,Sophie,COO,Executivo,2025-10-15,,,627567.83
+EMP077,Ribeiro,Stephany,Gerente de Logística,Logística,2025-10-15,,,211552.86
+EMP078,Barbosa,Breno,Trabalhador de Colheita,Colheita,2025-10-15,,,70125.02
+EMP079,Souza,Maria Fernanda,Técnico de Processos,Manufatura,2025-10-15,,,125136.29
+EMP080,Lima,Bernardo,Analista de Cadeia de Suprimentos,Logística,2025-10-15,,,177115.18
+EMP081,Souza,Luiz Miguel,Técnico de Processos,Manufatura,2025-10-15,,,155253.99
+EMP082,da Cruz,Isis,Desenvolvedor de Software,TI,2025-10-15,,,159083.60
+EMP083,Costa,Renan,CFO,Executivo,2025-10-15,,,709839.49
+EMP084,Souza,Ana Lívia,Executivo de Contas,Vendas,2025-10-15,,,160285.01
+EMP085,Cardoso,Sabrina,Operador de Máquina,Manufatura,2025-10-15,,,81027.14
+EMP086,Gonçalves,Gustavo Henrique,Gerente de Logística,Logística,2025-10-15,,,254732.35
+EMP087,Lima,Vinicius,Gerente de Produção,Manufatura,2025-10-15,,,179171.12
+EMP088,Sales,Mariane,Trabalhador de Produção,Manufatura,2025-10-15,,,94434.55
+EMP089,da Mata,Maitê,Gerente de Logística,Logística,2025-10-15,,,176206.11
+EMP090,Souza,Ana Beatriz,Assistente Contábil,Finanças,2025-10-15,,,74221.55
+EMP091,da Luz,Vitória,CFO,Executivo,2025-10-15,,,545897.34
+EMP092,Silveira,Levi,Motorista,Logística,2025-10-15,,,102327.97
+EMP093,Campos,Sabrina,Trabalhador de Produção,Manufatura,2025-10-15,,,80736.61
+EMP094,Lopes,João Pedro,Gerente de Produção,Manufatura,2025-10-15,,,249346.81
+EMP095,Monteiro,Benício,Inspetor de QC,Qualidade,2025-10-15,,,103455.86
+EMP096,Nogueira,Fernando,Administrador de Sistemas,TI,2025-10-15,,,167869.94
+EMP097,Lopes,Benjamin,Operador de Equipamentos Agrícolas,Colheita,2025-10-15,,,80406.04
+EMP098,Silveira,Sofia,Trabalhador de Colheita,Colheita,2025-10-15,,,76655.29
+EMP099,Costa,João Lucas,Gerente de Produção,Manufatura,2025-10-15,,,241363.96
+EMP100,Lima,Anthony,Operador de Máquina,Manufatura,2025-10-15,,,106558.40
+EMP101,Ferreira,Yuri,Operador de Máquina,Manufatura,2025-10-15,,,109837.42
+EMP102,Oliveira,Thiago,Analista Financeiro,Finanças,2025-10-15,,,103832.28
+EMP103,Rodrigues,Maitê,Trabalhador de Colheita,Colheita,2025-10-15,,,82865.69
+EMP104,da Paz,Gustavo,Motorista,Logística,2025-10-15,,,93583.48
+EMP105,Teixeira,Sabrina,Motorista,Logística,2025-10-15,,,77764.70
+EMP106,das Neves,João Miguel,Gerente de Marketing,Marketing,2025-10-15,,,181392.47
+EMP107,das Neves,Miguel,Gerente de Logística,Logística,2025-10-15,,,181365.15
+EMP108,da Luz,Bianca,Supervisor de Colheita,Colheita,2025-10-15,,,127060.36
+EMP109,Moraes,Gustavo Henrique,Gerente de Produção,Manufatura,2025-10-15,,,254695.72
+EMP110,Pires,Alexandre,Gerente de Logística,Logística,2025-10-15,,,226650.11

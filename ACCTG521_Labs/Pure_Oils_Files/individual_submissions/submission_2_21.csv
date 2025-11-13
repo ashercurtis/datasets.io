@@ -1,0 +1,111 @@
+UniqueID,LastName,FirstName,JobTitle,Department,HireDate,LastPromotionDate,TerminationDate,AnnualSalary
+61,Rocha,Ana,Manager,Finance,10/1/2025,10/1/2025,,62657.31
+81,Teixeira,Camila,Coordinator,Legal,9/5/2025,10/1/2025,,153692.36
+57,Ribeiro,Lucas,Assistant,Procurement,6/24/2025,10/1/2025,,148016.12
+75,Pereira,Rafael,Executive,Operations,6/4/2025,10/1/2025,,39539.98
+104,Carvalho,Pedro,Consultant,Legal,6/3/2025,10/1/2025,,190790.6
+94,Dias,Marcos,Specialist,Legal,3/12/2025,10/1/2025,,109377.27
+79,Barbosa,Eduardo,Analyst,Finance,3/5/2025,10/1/2025,,166466.15
+43,Martins,Felipe,Manager,Sales,2/18/2025,10/1/2025,,119079.78
+71,Teixeira,Ana,Executive,Marketing,2/7/2025,10/1/2025,,68581.49
+22,Ferreira,Rodrigo,Specialist,Operations,1/7/2025,10/1/2025,,198015.9
+72,Costa,Ana,Specialist,Operations,11/26/2024,10/1/2025,,136365.63
+90,Pereira,Rodrigo,Technician,HR,8/12/2024,10/1/2025,,69250.47
+19,Oliveira,Rodrigo,Specialist,IT,7/2/2024,10/1/2025,,160284.33
+63,Santos,Maria,Manager,Operations,6/11/2024,10/1/2025,,173176.73
+31,Teixeira,Ana,Analyst,Customer Service,5/15/2024,7/29/2025,,183391.82
+41,Rocha,Eduardo,Engineer,Sales,3/29/2024,10/1/2025,,66919.67
+26,Araújo,Vinicius,Analyst,IT,2/16/2024,10/1/2025,,179460.95
+93,Lima,Vinicius,Assistant,Legal,2/15/2024,10/1/2025,,222493.13
+97,Ribeiro,Amanda,Executive,Operations,1/5/2024,10/1/2025,,88664.39
+85,Costa,Lucas,Coordinator,Procurement,12/22/2023,5/25/2025,,160073.93
+52,Costa,Maria,Manager,Sales,12/13/2023,5/9/2025,,52321.23
+109,Ribeiro,Camila,Consultant,Customer Service,11/17/2023,10/1/2025,,140978.58
+50,Lima,Juliana,Technician,Procurement,10/26/2023,5/19/2025,,76493.88
+102,Lima,Amanda,Consultant,Operations,9/20/2023,10/1/2025,,148352.46
+99,Pereira,Felipe,Coordinator,Procurement,9/18/2023,10/1/2025,,210978.06
+23,Ribeiro,Felipe,Director,IT,7/31/2023,10/1/2025,,105126.21
+70,Ferreira,Gabriel,Analyst,Procurement,5/29/2023,10/1/2025,,188138.33
+60,Rodrigues,João,Technician,Customer Service,4/18/2023,3/31/2025,,59136.88
+11,Silva,Larissa,Specialist,Procurement,3/27/2023,10/1/2025,,218002.39
+92,Lima,Marcos,Executive,Sales,3/15/2023,9/26/2024,,106872.84
+42,Costa,Patricia,Assistant,Customer Service,1/31/2023,6/25/2024,,51097.01
+56,Souza,Vinicius,Technician,R&D,1/17/2023,10/1/2025,,39010.99
+107,Lima,Beatriz,Analyst,Operations,1/4/2023,3/24/2024,,42943.34
+20,Rocha,Camila,Engineer,Operations,12/14/2022,10/1/2025,,102623.13
+51,Souza,Gustavo,Analyst,IT,9/30/2022,11/10/2024,,209019.47
+89,Lima,Beatriz,Director,Operations,9/28/2022,10/1/2025,,99231.77
+15,Almeida,Beatriz,Analyst,IT,9/27/2022,8/17/2025,,59204.26
+77,Pereira,Vinicius,Manager,Customer Service,9/22/2022,7/15/2024,,171886.12
+105,Ribeiro,Juliana,Technician,Customer Service,8/31/2022,10/1/2025,,43250.32
+13,Gomes,João,Manager,Operations,8/4/2022,1/7/2024,,205652.21
+76,Teixeira,Rafael,Assistant,Legal,7/25/2022,8/9/2025,,169043.32
+87,Silva,Pedro,Analyst,Operations,6/13/2022,10/6/2023,,79176.68
+100,Rocha,Camila,Specialist,Operations,5/11/2022,3/4/2025,,178917.17
+24,Barbosa,Marcos,Consultant,Procurement,4/18/2022,6/1/2024,,76973.9
+82,Ribeiro,Patricia,Assistant,Finance,4/4/2022,1/11/2025,,106461.61
+106,Araújo,Vinicius,Consultant,Legal,3/8/2022,3/11/2025,,145906.67
+95,Pereira,Beatriz,Analyst,Legal,12/1/2021,5/31/2025,,219013.19
+78,Ferreira,Beatriz,Specialist,Customer Service,11/26/2021,9/19/2025,,163464.49
+9,Martins,Lucas,Consultant,Procurement,11/12/2021,12/30/2024,,215978.86
+44,Dias,Eduardo,Executive,Marketing,8/27/2021,12/11/2023,,113035.78
+36,Rodrigues,Eduardo,Director,Legal,8/17/2021,11/17/2024,,90492.35
+34,Rocha,Fernanda,Consultant,Marketing,6/2/2021,2/27/2023,,35579.07
+73,Teixeira,Gustavo,Manager,Customer Service,5/12/2021,6/21/2024,,55703.7
+1,Swindler,Skylar,CEO,Executive,1/1/2021,1/1/2024,,550000
+110,Oliveira,Juliana,Engineer,Marketing,12/29/2020,7/5/2022,,152053.16
+88,Oliveira,Camila,Technician,Procurement,11/26/2020,6/9/2024,,105784.91
+8,Silva,Gustavo,Director,HR,11/25/2020,6/17/2022,,175293.31
+83,Araújo,Patricia,Specialist,Operations,9/15/2020,9/1/2023,,170616.27
+62,Silva,Amanda,Engineer,Operations,8/7/2020,12/28/2021,,184047.6
+66,Barbosa,Rafael,Coordinator,Customer Service,5/18/2020,3/9/2023,,51110.05
+28,Rocha,Fernanda,Consultant,Finance,4/30/2020,2/21/2022,,150074.02
+39,Silva,Felipe,Coordinator,Customer Service,4/6/2020,4/29/2024,,37044.04
+91,Costa,Rafael,Coordinator,Customer Service,2/17/2020,12/25/2023,,201179.88
+6,Carvalho,João,Technician,Sales,1/8/2020,5/1/2021,,130582.18
+65,Melo,Eduardo,Specialist,Procurement,12/26/2019,3/8/2023,,186075.76
+27,Almeida,Juliana,Assistant,HR,8/8/2019,2/3/2023,,103765.55
+10,Carvalho,Marcos,Analyst,IT,6/24/2019,4/1/2021,,223311.38
+29,Barbosa,Juliana,Technician,R&D,5/29/2019,1/28/2021,,37043.3
+98,Ribeiro,Felipe,Manager,R&D,4/19/2019,5/12/2022,,249055.54
+2,Ribeiro,Marcos,Engineer,IT,4/10/2019,10/18/2022,,93980.54
+17,Costa,Ana,Consultant,Customer Service,1/24/2019,3/25/2022,,60415.77
+48,Martins,Ana,Analyst,R&D,11/6/2018,10/14/2020,,126647.65
+68,Almeida,Camila,Analyst,Finance,10/3/2018,3/6/2022,,196525.16
+96,Costa,Gabriel,Assistant,IT,8/7/2018,1/5/2020,,40685.21
+74,Rocha,João,Consultant,HR,4/27/2018,2/9/2020,,158284.27
+16,Lima,Vinicius,Executive,HR,4/3/2018,3/30/2021,,177248.87
+64,Dias,Camila,Manager,HR,2/19/2018,7/24/2019,,103505.31
+55,Carvalho,Vinicius,Analyst,Legal,1/18/2018,4/19/2019,,95287.24
+7,Pereira,Beatriz,Coordinator,HR,11/29/2017,7/18/2019,,127114.7
+3,Oliveira,Fernanda,Analyst,Operations,9/25/2017,11/22/2018,,238205.67
+40,Silva,Ana,Executive,Sales,9/19/2017,5/3/2020,,157360.08
+67,Ribeiro,Rodrigo,Assistant,Sales,8/16/2017,10/3/2019,,209770.61
+4,Souza,Ana,Specialist,R&D,8/8/2017,12/24/2019,,63505.6
+59,Ribeiro,Beatriz,Executive,Sales,7/7/2017,1/19/2021,,133765.73
+12,Almeida,Fernanda,Manager,Legal,5/18/2017,1/26/2021,,146634.79
+103,Rodrigues,Patricia,Manager,Sales,3/3/2017,5/7/2020,,87344.51
+5,Melo,Maria,Analyst,Legal,3/1/2017,6/4/2020,,120603.65
+30,Oliveira,Marcos,Engineer,R&D,2/6/2017,2/1/2020,,86112.72
+86,Barbosa,João,Technician,Marketing,1/19/2017,8/6/2018,,148367.74
+108,Barbosa,Rafael,Coordinator,Marketing,1/3/2017,2/16/2019,,80036.76
+58,Ribeiro,Ana,Analyst,HR,12/30/2016,4/24/2020,,173028.67
+38,Gomes,Beatriz,Analyst,Finance,11/10/2016,11/24/2019,,244248.37
+14,Silva,Camila,Specialist,Sales,10/12/2016,8/14/2020,,198486.97
+53,Teixeira,Eduardo,Assistant,Marketing,9/8/2016,5/14/2020,,101842.81
+80,Dias,João,Coordinator,Sales,9/8/2016,3/18/2019,,86969.96
+49,Martins,Rafael,Assistant,Customer Service,9/2/2016,12/11/2017,,161373.11
+69,Rodrigues,Beatriz,Coordinator,Operations,8/9/2016,2/8/2020,,144932.94
+47,Martins,Marcos,Assistant,Customer Service,6/15/2016,7/16/2017,,132492.17
+21,Almeida,Juliana,Specialist,Sales,5/26/2016,6/6/2018,,90209.25
+33,Souza,Juliana,Specialist,Legal,4/8/2016,3/27/2020,,169078.66
+46,Ribeiro,Vinicius,Manager,R&D,3/23/2016,3/27/2020,,135990.95
+32,Oliveira,Marcos,Assistant,Legal,2/29/2016,5/30/2018,,60518.31
+54,Silva,Rodrigo,Specialist,Procurement,2/18/2016,3/26/2017,,74427.05
+84,Ribeiro,Amanda,Analyst,R&D,2/18/2016,4/15/2019,,140331.21
+45,Gomes,Amanda,Director,Procurement,12/22/2015,7/23/2017,,230724.94
+101,Souza,Rodrigo,Assistant,Operations,10/16/2015,9/1/2017,,173471.78
+37,Melo,Amanda,Assistant,Procurement,3/25/2015,1/20/2019,,130157.12
+25,Barbosa,Marcos,Executive,Customer Service,3/20/2015,9/5/2018,,89120.07
+35,Ribeiro,Beatriz,Consultant,Operations,2/17/2015,6/27/2018,,170683.53
+18,Oliveira,Larissa,Executive,Finance,2/10/2015,12/17/2018,,39430.87

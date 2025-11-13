@@ -1,0 +1,112 @@
+UniqueID,LastName,FirstName,JobTitle,Department,HireDate,LastPromotionDate,TerminationDate,AnnualSalary
+1,Swindler,Skylar,CEO,Executive,1/1/2021,1/1/2023,,250000
+2,Smith,James,Plant Manager,Production,3/28/2016,12/25/2018,,62296
+3,Anderson,Elijah,Supply Chain Analyst,Operations,7/14/2024,12/24/2026,,76547
+4,Johnson,Jack,Sales Associate,Sales,3/24/2019,3/9/2023,,59733
+5,Gonzalez,Jacob,Training Specialist,HR,11/27/2017,7/20/2019,,141261
+6,Ramirez,Ella,Legal Counsel,Legal,8/23/2024,8/21/2028,,101457
+7,Robinson,Scarlett,Operations Manager,Operations,3/2/2022,1/25/2024,,145746
+8,Thompson,Ethan,Recruiter,HR,3/14/2022,1/1/2025,,109630
+9,Davis,Scarlett,Supply Chain Analyst,Operations,5/15/2017,12/2/2020,,149142
+10,Martin,Ella,IT Support Specialist,IT,7/29/2015,7/13/2019,,122008
+11,Perez,Jack,Accountant,Finance,3/24/2022,1/6/2023,4/24/2024,105400
+12,Ramirez,Harper,Compliance Officer,Legal,8/15/2022,5/20/2025,,130499
+13,Sanchez,Grace,Operations Manager,Operations,11/19/2018,11/14/2020,,110647
+14,Smith,Chloe,Content Strategist,Marketing,11/11/2023,11/20/2026,4/8/2025,79800
+15,White,Sebastian,Account Executive,Sales,3/16/2023,9/10/2024,,102035
+16,Moore,Ava,Compliance Officer,Legal,1/27/2024,10/28/2024,,135710
+17,Lewis,Scarlett,Recruiter,HR,2/3/2017,11/27/2020,,58646
+18,Martin,Mia,Sales Associate,Sales,10/9/2021,6/17/2023,,145319
+19,Miller,Sebastian,Research Scientist,R&D,8/2/2018,9/26/2019,,105155
+20,Smith,Mia,Machine Operator,Production,7/19/2020,2/19/2023,,58244
+21,Perez,Michael,Accountant,Finance,2/20/2021,2/20/2022,,82299
+22,Jackson,Daniel,Account Executive,Sales,3/2/2024,6/19/2027,,71297
+23,Miller,Scarlett,Sales Manager,Sales,4/9/2023,10/8/2024,,86104
+24,Jackson,Daniel,SEO Specialist,Marketing,4/21/2022,1/27/2023,,117111
+25,White,Elijah,Operations Manager,Operations,11/30/2017,12/15/2019,,114710
+26,Anderson,Grace,Recruiter,HR,5/14/2018,7/16/2019,,67811
+27,Martin,Emma,Financial Analyst,Finance,2/27/2017,6/18/2019,,140391
+28,Smith,Michael,Recruiter,HR,5/23/2024,5/25/2028,,116566
+29,Anderson,Henry,Operations Manager,Operations,7/23/2023,3/26/2027,,99342
+30,Jackson,Ava,Product Development Engineer,R&D,6/16/2019,12/29/2021,,71914
+31,Garcia,Sebastian,System Administrator,IT,2/9/2019,6/8/2020,,102333
+32,Johnson,Elijah,Recruiter,HR,10/3/2022,1/25/2026,,78397
+33,Miller,Olivia,Supply Chain Analyst,Operations,10/23/2019,10/12/2023,,87649
+34,Thomas,Daniel,Machine Operator,Production,9/15/2017,4/20/2020,2/20/2023,76747
+35,Garcia,Mia,Product Development Engineer,R&D,8/5/2022,9/8/2025,,51549
+36,Martin,Michael,Compliance Officer,Legal,12/10/2016,8/13/2018,,123525
+37,Jackson,Owen,Controller,Finance,1/8/2023,12/6/2026,,63888
+38,Jones,Olivia,HR Manager,HR,5/3/2022,1/11/2025,11/18/2023,128723
+39,Williams,James,Recruiter,HR,7/25/2018,10/20/2021,,68425
+40,Miller,Sophia,Supply Chain Analyst,Operations,5/23/2019,5/29/2020,,55025
+41,Miller,Chloe,Accountant,Finance,10/30/2019,6/17/2022,,120227
+42,Williams,James,Content Strategist,Marketing,10/11/2020,2/29/2024,5/21/2024,134535
+43,Harris,Daniel,Lab Technician,R&D,10/16/2023,6/17/2025,,147434
+44,Rodriguez,Isabella,Compliance Officer,Legal,3/31/2017,7/18/2018,,54174
+45,Jones,Michael,IT Support Specialist,IT,2/23/2024,4/6/2025,,103312
+46,Perez,Grace,Lab Technician,R&D,2/18/2017,9/27/2017,,149141
+47,Hernandez,Harper,Marketing Director,Marketing,6/3/2016,4/6/2017,,88393
+48,Perez,Benjamin,Legal Counsel,Legal,11/11/2016,5/13/2020,,60192
+49,Robinson,Ella,Account Executive,Sales,5/5/2022,6/23/2025,,141750
+50,Miller,Scarlett,Sales Manager,Sales,4/20/2018,3/21/2019,,134231
+51,Garcia,Grace,HR Manager,HR,5/9/2020,4/24/2024,,115818
+52,Jackson,Isabella,Paralegal,Legal,5/24/2019,4/23/2020,,124388
+53,Anderson,Emma,Recruiter,HR,9/18/2021,5/2/2022,,138613
+54,Brown,Olivia,Training Specialist,HR,1/30/2016,4/18/2018,,111427
+55,Perez,Scarlett,Software Engineer,IT,7/1/2023,5/18/2027,,116033
+56,Lee,Jacob,Marketing Director,Marketing,7/27/2020,11/24/2021,,106066
+57,Martinez,Ava,HR Manager,HR,7/9/2018,8/10/2020,,85924
+58,Harris,Emma,Logistics Coordinator,Operations,2/15/2019,2/18/2020,,110355
+59,Lewis,Mia,Product Development Engineer,R&D,5/24/2023,10/18/2025,,122697
+60,Anderson,Chloe,Machine Operator,Production,10/17/2015,5/6/2017,12/23/2019,144111
+61,Clark,Chloe,Logistics Coordinator,Operations,10/6/2024,2/1/2027,,101046
+62,Anderson,Benjamin,Operations Manager,Operations,4/16/2017,2/24/2018,,105008
+63,Williams,Benjamin,Legal Counsel,Legal,4/21/2017,5/7/2021,,113981
+64,Sanchez,Sebastian,Marketing Director,Marketing,3/24/2019,4/16/2022,,108503
+65,Miller,Harper,Quality Control Technician,Production,4/26/2023,2/19/2025,,84757
+66,Ramirez,Mason,Account Executive,Sales,5/4/2022,7/18/2023,6/2/2027,104151
+67,Jones,Jack,Sales Associate,Sales,10/16/2023,4/22/2026,,52697
+68,Harris,Abigail,Content Strategist,Marketing,10/5/2019,9/29/2021,,69869
+69,Moore,Harper,Quality Control Technician,Production,5/22/2018,5/15/2021,,55884
+70,Jackson,Ella,Training Specialist,HR,8/31/2017,9/13/2021,,51329
+71,Martinez,Abigail,Research Scientist,R&D,1/27/2020,8/9/2022,,74468
+72,Moore,Mia,Controller,Finance,10/12/2019,6/1/2021,,131828
+73,Jones,Sebastian,Research Scientist,R&D,1/24/2020,2/13/2022,,74042
+74,Thompson,Olivia,Machine Operator,Production,2/25/2024,6/5/2026,,106804
+75,Lee,Ava,Account Executive,Sales,2/27/2017,3/5/2020,,145277
+76,Smith,Daniel,Sales Manager,Sales,5/21/2015,10/20/2017,,88403
+77,Brown,Ella,Accountant,Finance,10/27/2021,6/23/2024,,147396
+78,Perez,Chloe,Controller,Finance,1/6/2017,10/20/2018,1/8/2021,126710
+79,Lee,Daniel,Account Executive,Sales,1/13/2024,9/21/2027,,146888
+80,Thomas,James,Logistics Coordinator,Operations,5/10/2015,11/29/2016,,52460
+81,Miller,Michael,Product Development Engineer,R&D,12/2/2018,9/14/2022,,138746
+82,Williams,Ethan,Software Engineer,IT,6/6/2018,12/14/2019,,125301
+83,Moore,Michael,Financial Analyst,Finance,2/27/2019,12/16/2020,,106060
+84,Taylor,Noah,Accountant,Finance,11/29/2018,5/24/2020,,56604
+85,Garcia,Mia,Plant Manager,Production,4/6/2023,9/1/2025,,95018
+86,Harris,Amelia,Plant Manager,Production,10/12/2019,6/28/2022,,91810
+87,Wilson,Sebastian,Account Executive,Sales,7/23/2015,9/9/2018,5/31/2018,136364
+88,Gonzalez,Sophia,Controller,Finance,11/23/2023,7/16/2024,,59608
+89,Miller,Mia,Supply Chain Analyst,Operations,12/18/2021,11/27/2025,,70696
+90,Sanchez,Ella,HR Manager,HR,11/20/2021,8/2/2025,,65854
+91,Robinson,Noah,Account Executive,Sales,4/3/2015,3/25/2018,,122805
+92,Jackson,Amelia,Legal Counsel,Legal,12/28/2015,4/23/2017,,111118
+93,Ramirez,Jack,Content Strategist,Marketing,5/9/2023,9/27/2026,,89176
+94,Moore,Henry,Quality Control Technician,Production,5/30/2018,10/23/2021,,75999
+95,Thomas,Abigail,Legal Counsel,Legal,2/10/2023,1/19/2025,,110025
+96,Lewis,Grace,IT Support Specialist,IT,2/15/2019,12/17/2020,3/29/2021,55631
+97,Thomas,Benjamin,Supply Chain Analyst,Operations,11/27/2022,11/9/2023,5/5/2024,82775
+98,Rodriguez,Daniel,Marketing Director,Marketing,7/30/2019,11/25/2020,,131797
+99,White,Chloe,SEO Specialist,Marketing,5/4/2021,9/18/2023,,127540
+100,Davis,Benjamin,Quality Control Technician,Production,7/10/2023,3/14/2025,,74664
+101,Lee,Chloe,Paralegal,Legal,4/18/2020,12/3/2023,,143023
+102,Hernandez,Jacob,Financial Analyst,Finance,7/10/2022,6/11/2024,,144545
+103,Garcia,Daniel,Training Specialist,HR,2/23/2015,8/29/2016,,110181
+104,Wilson,Grace,Marketing Director,Marketing,12/6/2020,5/2/2024,7/6/2022,82835
+105,Smith,Olivia,Compliance Officer,Legal,4/12/2015,6/4/2017,,51911
+106,Harris,Evelyn,Software Engineer,IT,7/5/2015,9/18/2017,,100919
+107,Thomas,Jacob,Sales Manager,Sales,5/24/2024,3/10/2027,,81998
+108,Sanchez,Jack,Lab Technician,R&D,5/25/2019,8/6/2021,,90054
+109,Martin,Amelia,System Administrator,IT,12/11/2015,11/12/2018,,133319
+110,Rodriguez,Isabella,Supply Chain Analyst,Operations,6/23/2020,6/16/2021,8/27/2025,97766
+111,Lewis,Daniel,Content Strategist,Marketing,6/21/2020,7/28/2022,,67637

@@ -1,0 +1,111 @@
+UniqueID,LastName,FirstName,JobTitle,Department,HireDate,LastPromotionDate,TerminationDate,AnnualSalary
+EMP001,Swindler,Skylar,CEO,Executive,1/1/2021,1/1/2023,,255000
+EMP002,Peters,Jordan,CFO,Executive,2/1/2021,3/1/2023,,225000
+EMP003,Nguyen,Avery,COO,Executive,3/1/2021,4/1/2023,,200000
+EMP004,Moore,Charlotte,Customer Support Representative,Customer Service,12/14/2020,6/10/2022,,54322
+EMP005,Garcia,Ava,Operations Manager,Operations,3/24/2024,6/23/2025,,146471
+EMP006,Smith,Elijah,COO,Executive,6/3/2024,,,198008
+EMP007,Martin,Elizabeth,Compliance Officer,Legal,3/2/2015,,,88731
+EMP008,Brown,Lucas,Content Strategist,Marketing,7/20/2017,2/19/2019,,88997
+EMP009,Johnson,James,Account Executive,Sales,6/19/2017,6/27/2019,,70822
+EMP010,Davis,Benjamin,Sales Representative,Sales,7/14/2022,,,53990
+EMP011,Garcia,Elizabeth,HR Coordinator,Human Resources,11/11/2015,7/6/2019,,60450
+EMP012,Johnson,Olivia,Logistics Coordinator,Operations,6/14/2015,,,59599
+EMP013,Anderson,Jacob,CEO,Executive,8/12/2023,9/26/2024,,242665
+EMP014,Moore,Liam,IT Manager,IT,8/12/2021,4/23/2025,,137808
+EMP015,Moore,Lucas,IT Manager,IT,3/21/2020,,,100489
+EMP016,Hernandez,Ava,Product Developer,R&D,8/3/2020,4/25/2023,,84846
+EMP017,Brown,Amelia,Client Success Specialist,Customer Service,12/28/2019,10/22/2023,,57334
+EMP018,Martin,Elizabeth,Procurement Specialist,Procurement,12/8/2020,6/14/2024,,70126
+EMP019,Taylor,Elizabeth,Data Analyst,IT,5/28/2015,6/12/2016,,70153
+EMP020,Brown,Olivia,Procurement Specialist,Procurement,3/17/2015,1/19/2018,,56184
+EMP021,Wilson,Isabella,Research Scientist,R&D,12/16/2024,,,68973
+EMP022,Jackson,Logan,Production Worker,Operations,5/25/2016,3/28/2018,,63902
+EMP023,Lopez,Mason,Sales Associate,Sales,7/13/2015,11/10/2016,,49215
+EMP024,Johnson,Logan,Data Analyst,IT,10/14/2019,8/11/2023,3/10/2024,89171
+EMP025,Martin,Evelyn,Supply Chain Analyst,Procurement,5/10/2015,8/16/2017,,87780
+EMP026,Hernandez,Charlotte,Supply Chain Analyst,Procurement,9/13/2020,,,72850
+EMP027,Jones,Ethan,HR Manager,Human Resources,11/26/2016,8/16/2018,,124278
+EMP028,Martinez,Logan,System Administrator,IT,6/12/2023,10/15/2025,,82030
+EMP029,Brown,James,Product Developer,R&D,4/12/2020,,,72031
+EMP030,Miller,Emma,Legal Counsel,Legal,8/3/2016,10/12/2018,,85974
+EMP031,Martinez,Olivia,Data Analyst,IT,10/21/2024,10/15/2025,,70942
+EMP032,Miller,Amelia,HR Manager,Human Resources,1/17/2022,3/3/2024,,127367
+EMP033,Davis,Abigail,CFO,Executive,8/19/2015,1/21/2019,,229699
+EMP034,Miller,Michael,Software Developer,IT,1/25/2018,,,88087
+EMP035,Smith,Elijah,HR Coordinator,Human Resources,9/18/2015,,,59621
+EMP036,Lopez,Evelyn,Product Developer,R&D,10/22/2015,7/6/2019,,78546
+EMP037,Martin,Emily,CFO,Executive,8/12/2017,,,211604
+EMP038,Hernandez,Mia,Accountant,Finance,7/16/2019,2/6/2022,,87791
+EMP039,Johnson,Logan,Data Analyst,IT,1/3/2019,,,85577
+EMP040,Anderson,Elizabeth,Software Developer,IT,2/7/2018,,,74355
+EMP041,Martinez,Elizabeth,Financial Analyst,Finance,10/12/2019,2/2/2022,,88952
+EMP042,Wilson,Isabella,Product Developer,R&D,3/4/2024,7/15/2025,,83052
+EMP043,Smith,Emily,SEO Specialist,Marketing,8/8/2020,5/20/2022,,59659
+EMP044,Hernandez,Mason,HR Manager,Human Resources,11/23/2019,7/11/2022,,135307
+EMP045,Jones,Logan,Legal Counsel,Legal,4/2/2016,3/22/2018,,68064
+EMP046,Taylor,Emily,Product Developer,R&D,1/9/2016,7/4/2018,,68447
+EMP047,Taylor,Abigail,Legal Counsel,Legal,1/14/2021,,,85992
+EMP048,Brown,Noah,Research Scientist,R&D,10/15/2016,,,72863
+EMP049,Brown,Isabella,Recruiter,Human Resources,2/22/2024,10/15/2025,,60436
+EMP050,Martinez,Sophia,Account Executive,Sales,4/9/2019,4/15/2022,,69685
+EMP051,Moore,Sophia,Recruiter,Human Resources,10/22/2018,2/23/2020,,82837
+EMP052,Martin,Logan,System Administrator,IT,4/10/2016,7/31/2017,,65942
+EMP053,Gonzalez,Noah,CFO,Executive,5/27/2021,4/4/2025,,212434
+EMP054,Davis,Lucas,Accountant,Finance,8/14/2022,7/5/2025,,86851
+EMP055,Johnson,Emma,Content Strategist,Marketing,10/6/2015,7/17/2019,3/13/2022,60722
+EMP056,Garcia,Harper,Accountant,Finance,3/11/2023,8/30/2024,,82116
+EMP057,Thomas,Harper,Sales Manager,Sales,1/2/2023,,,123250
+EMP058,Smith,Mia,Legal Counsel,Legal,1/10/2021,9/15/2022,,84516
+EMP059,Gonzalez,Logan,Compliance Officer,Legal,3/1/2024,,,87546
+EMP060,Smith,Mia,HR Coordinator,Human Resources,12/20/2021,4/23/2023,,79104
+EMP061,Jones,Elizabeth,Compliance Officer,Legal,11/10/2016,10/24/2020,,76717
+EMP062,Brown,Charlotte,Supply Chain Analyst,Procurement,3/26/2017,5/25/2018,,81025
+EMP063,Jackson,Benjamin,HR Manager,Human Resources,3/13/2020,8/22/2021,,119220
+EMP064,Wilson,Emily,Product Developer,R&D,7/17/2022,,,62575
+EMP065,Brown,Logan,Compliance Officer,Legal,4/16/2024,10/15/2025,,79350
+EMP066,Anderson,Michael,Customer Support Representative,Customer Service,10/8/2019,7/24/2023,,45950
+EMP067,Jackson,Harper,Executive Assistant,Executive,6/11/2022,9/27/2023,,108468
+EMP068,Taylor,Isabella,HR Coordinator,Human Resources,8/11/2019,,11/23/2022,78889
+EMP069,Garcia,Emma,Procurement Specialist,Procurement,11/13/2016,5/5/2019,,56057
+EMP070,Thomas,Sophia,Client Success Specialist,Customer Service,2/18/2023,10/15/2025,,69390
+EMP071,Garcia,Harper,Sales Associate,Sales,1/7/2020,3/30/2022,,61338
+EMP072,Davis,Isabella,Compliance Officer,Legal,1/24/2022,10/15/2025,,63139
+EMP073,Martinez,Isabella,Compliance Officer,Legal,10/15/2022,10/15/2025,,87771
+EMP074,Moore,Elijah,IT Manager,IT,3/24/2020,8/31/2023,,103035
+EMP075,Smith,Isabella,Logistics Coordinator,Operations,7/10/2016,10/23/2018,,64532
+EMP076,Thomas,Abigail,Supply Chain Analyst,Procurement,9/27/2021,1/24/2025,,75879
+EMP077,Gonzalez,Elizabeth,Supply Chain Analyst,Procurement,10/7/2015,2/14/2018,,71513
+EMP078,Taylor,Elijah,Legal Counsel,Legal,1/21/2019,,11/5/2022,74380
+EMP079,Anderson,James,Recruiter,Human Resources,1/28/2016,6/23/2018,,61505
+EMP080,Lopez,Elizabeth,Supply Chain Analyst,Procurement,5/7/2024,10/15/2025,,90023
+EMP081,Garcia,Sophia,Social Media Coordinator,Marketing,4/15/2024,8/26/2025,,67086
+EMP082,Smith,Abigail,Social Media Coordinator,Marketing,11/12/2022,8/14/2024,,60234
+EMP083,Jones,Amelia,Product Developer,R&D,7/21/2023,5/5/2025,,69815
+EMP084,Taylor,Noah,CFO,Executive,1/24/2019,2/25/2021,,228252
+EMP085,Taylor,Logan,Executive Assistant,Executive,2/20/2018,,,112665
+EMP086,Garcia,Mia,Accountant,Finance,8/3/2015,6/22/2018,,76267
+EMP087,Taylor,Emily,Sales Representative,Sales,2/4/2022,6/21/2023,,49314
+EMP088,Rodriguez,Logan,Logistics Coordinator,Operations,3/4/2017,4/29/2019,2/19/2023,76848
+EMP089,Rodriguez,Lucas,Customer Support Representative,Customer Service,11/25/2016,2/2/2018,,58603
+EMP090,Davis,Sophia,HR Manager,Human Resources,11/11/2015,10/22/2017,,115896
+EMP091,Hernandez,Lucas,HR Manager,Human Resources,3/17/2019,6/14/2020,,127523
+EMP092,Davis,Abigail,Research Scientist,R&D,1/5/2023,,,67007
+EMP093,Wilson,Benjamin,COO,Executive,11/14/2023,6/12/2025,,203252
+EMP094,Thomas,Michael,Customer Support Representative,Customer Service,11/25/2023,10/15/2025,,61845
+EMP095,Hernandez,Lucas,Research Scientist,R&D,1/26/2021,2/21/2023,,75362
+EMP096,Martin,Emma,Sales Representative,Sales,6/10/2023,2/2/2025,,63328
+EMP097,Lopez,James,Logistics Coordinator,Operations,8/24/2015,9/27/2016,,79471
+EMP098,Lopez,Isabella,Customer Support Representative,Customer Service,8/9/2023,10/15/2025,,60460
+EMP099,Garcia,Noah,Financial Analyst,Finance,10/19/2017,,,76551
+EMP100,Brown,Logan,Sales Representative,Sales,5/1/2018,,,50361
+EMP101,Garcia,Emily,Data Analyst,IT,5/14/2021,5/1/2023,,89145
+EMP102,Garcia,Michael,Social Media Coordinator,Marketing,3/1/2016,5/23/2017,,56459
+EMP103,Martinez,Ava,Software Developer,IT,2/21/2016,3/18/2019,,67011
+EMP104,Martinez,Lucas,Supply Chain Analyst,Procurement,10/12/2017,,,81556
+EMP105,Brown,Isabella,Sales Representative,Sales,11/16/2020,,,45591
+EMP106,Miller,Abigail,System Administrator,IT,6/26/2022,,,63534
+EMP107,Garcia,Sophia,Production Worker,Operations,9/16/2023,1/18/2025,,45818
+EMP108,Jackson,Evelyn,Client Success Specialist,Customer Service,12/9/2018,9/24/2022,,64494
+EMP109,Smith,Mason,Legal Counsel,Legal,12/4/2019,,,78650
+EMP110,Anderson,Emily,Financial Analyst,Finance,3/13/2015,12/30/2016,,87443

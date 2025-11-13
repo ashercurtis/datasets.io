@@ -1,0 +1,111 @@
+UniqueID,LastName,FirstName,JobTitle,Department,HireDate,LastPromotionDate,TerminationDate,AnnualSalary
+1,Swindler,Skylar,CEO,Executivo,2021-01-01,,,1200000
+2,Novaes,Eloah,CFO,Executivo,2019-03-07,2023-11-16,,1278632
+3,Cavalcanti,Stephany,CEO,Executivo,2020-01-24,2020-07-17,,1436529
+4,Rodrigues,Yago,CEO,Executivo,2023-10-18,,,1322561
+5,Sales,Davi,Gerente de RH,Recursos Humanos,2021-08-23,2024-12-25,,81767
+6,da Paz,Ana,Gerente de RH,Recursos Humanos,2017-05-04,,,105016
+7,Novaes,Ana Clara,Gerente de RH,Recursos Humanos,2024-01-07,,,87501
+8,Moraes,Yago,Analista de RH,Recursos Humanos,2025-10-21,,,123452
+9,Cunha,Alana,Analista de RH,Recursos Humanos,2022-07-17,2025-03-16,,79647
+10,da Cunha,Matheus,Gerente de RH,Recursos Humanos,2022-11-23,,,82857
+11,Costela,Maria Eduarda,Analista de RH,Recursos Humanos,2023-07-26,,,124948
+12,Sales,Nicolas,Suporte Técnico,TI,2015-06-11,2016-09-20,,158401
+13,Melo,Arthur,Analista de Dados,TI,2015-10-27,,,152615
+14,Almeida,João,Analista de Dados,TI,2014-12-07,2025-05-04,,103294
+15,da Conceição,Mariana,Suporte Técnico,TI,2024-11-22,,,114165
+16,Dias,Ana Laura,Suporte Técnico,TI,2017-08-05,2024-05-25,,205809
+17,Alves,Miguel,Analista de Dados,TI,2021-11-10,,,218262
+18,da Mota,João,Analista de Dados,TI,2025-08-31,2025-10-07,,132956
+19,Rocha,Emanuel,Analista de Dados,TI,2018-04-06,,,170535
+20,da Paz,Eduarda,Suporte Técnico,TI,2016-11-08,2025-08-07,,161467
+21,Ferreira,Igor,Suporte Técnico,TI,2021-10-16,,,186238
+22,da Paz,Stella,Engenheiro de Software,TI,2016-10-03,,,134305
+23,Farias,Esther,Analista de Dados,TI,2014-11-24,,,221424
+24,Cardoso,Isadora,Gerente de Marketing,Marketing,2024-04-02,,,137621
+25,Pires,Henrique,Analista de Marketing,Marketing,2022-08-09,2024-09-27,,163504
+26,Lima,Guilherme,Analista de Marketing,Marketing,2019-05-16,,,128808
+27,Farias,Julia,Gerente de Marketing,Marketing,2020-03-03,,,90456
+28,Correia,Catarina,Analista de Marketing,Marketing,2014-12-07,2023-01-12,,84577
+29,Peixoto,Ana,Gerente de Marketing,Marketing,2025-06-07,,,129918
+30,Costa,Caio,Analista de Marketing,Marketing,2025-04-10,2025-05-19,,101483
+31,Lopes,Enrico,Analista de Marketing,Marketing,2025-06-18,2025-10-11,,199701
+32,Moraes,Fernanda,Analista de Marketing,Marketing,2014-03-27,2019-06-28,,172462
+33,Dias,Ana Beatriz,Analista de Marketing,Marketing,2017-06-21,2017-07-14,,173508
+34,da Rocha,Alexandre,Representante de Vendas,Vendas,2019-03-28,2021-07-28,,97472
+35,Vieira,Sophia,Representante de Vendas,Vendas,2024-06-17,,,178837
+36,Lima,Leandro,Gerente de Vendas,Vendas,2015-09-07,,2020-09-23,152736
+37,Vieira,Ana,Representante de Vendas,Vendas,2019-10-18,,,158763
+38,Silva,Maria Julia,Gerente de Vendas,Vendas,2016-10-15,,,176416
+39,da Luz,Alice,Gerente de Vendas,Vendas,2018-05-23,2025-06-27,,117725
+40,da Mota,Luana,Representante de Vendas,Vendas,2019-07-19,2021-04-27,,90601
+41,Alves,Sabrina,Gerente de Vendas,Vendas,2021-06-05,,2024-09-11,163802
+42,Aragão,Alana,Gerente de Vendas,Vendas,2020-12-13,,,165306
+43,Azevedo,Nicolas,Representante de Vendas,Vendas,2020-03-21,,,81738
+44,Rodrigues,Breno,Representante de Vendas,Vendas,2020-05-27,2020-09-07,,134858
+45,Almeida,Nicole,Representante de Vendas,Vendas,2025-11-16,,,63507
+46,Freitas,Juliana,Gerente de Vendas,Vendas,2022-09-20,,,77578
+47,Freitas,Stella,Representante de Vendas,Vendas,2018-01-10,2020-09-26,,127234
+48,Silva,Alana,Representante de Vendas,Vendas,2022-07-30,,,158451
+49,Barros,Ana Julia,Representante de Vendas,Vendas,2019-06-19,,2025-07-09,172910
+50,Nogueira,Arthur,Representante de Vendas,Vendas,2023-07-19,2025-06-12,,151177
+51,Gonçalves,Maria Vitória,Representante de Vendas,Vendas,2025-05-19,2025-06-23,,91693
+52,Dias,Augusto,Gerente de Vendas,Vendas,2019-07-04,,,130509
+53,Barros,Eduarda,Gerente de Vendas,Vendas,2023-05-24,,,171449
+54,Pereira,Bryan,Analista Financeiro,Finanças,2022-04-23,2024-10-08,,139230
+55,Peixoto,Emilly,Contador,Finanças,2024-01-15,2025-06-15,,175723
+56,Gonçalves,Kaique,Contador,Finanças,2014-03-02,2021-11-11,,168612
+57,da Paz,Kevin,Analista Financeiro,Finanças,2022-01-11,2024-08-21,,112794
+58,Rodrigues,Laís,Analista Financeiro,Finanças,2015-04-10,,,182292
+59,Correia,Giovanna,Contador,Finanças,2021-09-30,2023-09-05,,167836
+60,da Mota,Ana Luiza,Contador,Finanças,2019-01-21,,2020-02-09,119822
+61,Lopes,Lorenzo,Contador,Finanças,2019-07-22,,,125301
+62,Dias,Pietra,Contador,Finanças,2021-03-30,,,203320
+63,Rodrigues,Kaique,Analista Financeiro,Finanças,2023-03-07,2024-11-24,,126649
+64,Lima,Lucas Gabriel,Gerente de Operações,Operações,2020-07-15,,,95842
+65,Costela,Pietro,Coordenador Logístico,Operações,2019-01-20,2021-12-26,,187984
+66,Jesus,Cecília,Coordenador Logístico,Operações,2015-07-24,2021-05-13,,128801
+67,Monteiro,Ana Júlia,Coordenador Logístico,Operações,2017-11-13,,,142098
+68,Alves,Alexandre,Gerente de Operações,Operações,2014-10-16,2017-02-01,,101972
+69,Nascimento,Augusto,Coordenador Logístico,Operações,2019-08-06,2023-10-27,,130876
+70,Duarte,Ana Sophia,Coordenador Logístico,Operações,2023-08-11,2024-02-09,,87957
+71,Castro,Bruna,Coordenador Logístico,Operações,2017-03-26,,,149441
+72,da Rocha,Catarina,Coordenador Logístico,Operações,2015-03-11,2025-05-02,,140731
+73,Nogueira,Theo,Coordenador Logístico,Operações,2024-07-11,,,177031
+74,Jesus,Bruna,Gerente de Operações,Operações,2018-09-04,,,133174
+75,Rodrigues,Gustavo,Coordenador Logístico,Operações,2020-11-02,,,181638
+76,Nascimento,João,Coordenador Logístico,Operações,2015-10-26,,,113749
+77,Carvalho,Agatha,Gerente de Operações,Operações,2020-01-28,,,184044
+78,Lopes,Nina,Coordenador Logístico,Operações,2014-06-20,2018-01-11,,182154
+79,Freitas,Clarice,Técnico de Qualidade,Produção,2023-08-15,,,87683
+80,Pinto,Lavínia,Técnico de Qualidade,Produção,2020-11-22,2021-02-11,,103055
+81,Teixeira,Yago,Supervisor de Produção,Produção,2025-05-30,,,65451
+82,da Luz,Henrique,Técnico de Qualidade,Produção,2022-03-10,,,72386
+83,Azevedo,João Guilherme,Supervisor de Produção,Produção,2014-03-18,,,75355
+84,da Paz,Olivia,Técnico de Qualidade,Produção,2019-03-28,,,94444
+85,Alves,Luana,Técnico de Qualidade,Produção,2023-11-20,,,96156
+86,das Neves,Isadora,Técnico de Qualidade,Produção,2015-02-01,2015-12-29,,102228
+87,Mendes,João Guilherme,Técnico de Qualidade,Produção,2020-12-05,,,130405
+88,Alves,Diego,Supervisor de Produção,Produção,2015-04-16,,,68772
+89,Nunes,Igor,Técnico de Qualidade,Produção,2024-05-29,2024-09-08,,65341
+90,Sales,Bruna,Supervisor de Produção,Produção,2016-09-04,2020-11-22,,77488
+91,Cavalcanti,Clara,Técnico de Qualidade,Produção,2023-08-30,,,112672
+92,das Neves,Thiago,Supervisor de Produção,Produção,2016-10-20,,,127946
+93,Porto,Kamilly,Supervisor de Produção,Produção,2022-03-07,,,132069
+94,Melo,Maitê,Técnico de Qualidade,Produção,2024-04-17,,,78341
+95,Dias,Noah,Técnico de Qualidade,Produção,2025-06-15,,,63813
+96,Sales,Diogo,Supervisor de Produção,Produção,2024-10-21,,,106321
+97,Cardoso,Davi Lucas,Técnico de Qualidade,Produção,2016-01-17,,,62373
+98,da Rosa,Pedro,Técnico de Qualidade,Produção,2021-01-28,,,139433
+99,Oliveira,Ana Carolina,Atendente de Suporte,Atendimento ao Cliente,2017-12-03,2022-09-15,,54266
+100,Fogaça,Kaique,Atendente de Suporte,Atendimento ao Cliente,2022-11-06,,,83301
+101,da Paz,Thales,Atendente de Suporte,Atendimento ao Cliente,2021-10-07,2024-09-01,,52695
+102,da Conceição,Luana,Atendente de Suporte,Atendimento ao Cliente,2014-06-05,2014-11-09,,53188
+103,da Rocha,Emilly,Atendente de Suporte,Atendimento ao Cliente,2014-07-13,,,94134
+104,da Mota,Rebeca,Atendente de Suporte,Atendimento ao Cliente,2019-10-21,2023-08-10,,93477
+105,Sales,Bárbara,Atendente de Suporte,Atendimento ao Cliente,2018-08-05,2021-10-09,,66730
+106,Caldeira,Sophia,Atendente de Suporte,Atendimento ao Cliente,2023-05-31,2023-10-12,,97103
+107,Barros,Maria Vitória,Atendente de Suporte,Atendimento ao Cliente,2018-01-22,2023-01-15,2024-06-21,94775
+108,Moura,Davi Lucca,Atendente de Suporte,Atendimento ao Cliente,2020-05-30,2024-09-30,,91733
+109,Barros,Carlos Eduardo,Atendente de Suporte,Atendimento ao Cliente,2014-01-22,2022-06-05,,82121
+110,Costela,Marcela,Atendente de Suporte,Atendimento ao Cliente,2014-09-30,,,80884

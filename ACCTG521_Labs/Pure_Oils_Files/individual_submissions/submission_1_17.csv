@@ -1,0 +1,111 @@
+UniqueID,LastName,FirstName,JobTitle,Department,HireDate,LastPromotionDate,TerminationDate,AnnualSalary
+EMP001,Swindler,Skylar,CEO,Executive,2021-01-01,2023-01-01,,250000
+EMP002,Lopez,Amelia,Research Analyst,Research,2022-11-26,2024-10-17,,50630
+EMP003,Martin,Mia,System Administrator,IT,2023-07-13,2025-01-01,,104510
+EMP004,Thomas,Olivia,Legal Advisor,Legal,2021-08-08,2022-12-11,,77227
+EMP005,Taylor,Mia,Lab Technician,Research,2020-10-08,2022-08-26,,68554
+EMP006,Taylor,Olivia,Lab Technician,Research,2023-11-08,2025-01-01,,115958
+EMP007,Wilson,Mason,SEO Specialist,Marketing,2015-06-17,2019-08-30,,139103
+EMP008,Jackson,Logan,Finance Manager,Finance,2022-02-04,2023-10-06,,71382
+EMP009,Davis,Olivia,Supervisor,Operations,2016-01-10,2020-07-06,,137385
+EMP010,Brown,Mason,HR Specialist,Human Resources,2015-03-21,2019-04-30,,75882
+EMP011,Martinez,Abigail,Inventory Specialist,Logistics,2019-06-04,2021-11-24,,118706
+EMP012,Martinez,Abigail,Software Engineer,IT,2018-10-23,2022-12-25,,111051
+EMP013,Gonzalez,Ava,Legal Advisor,Legal,2018-11-15,2021-12-27,,74125
+EMP014,Lee,Mason,Supervisor,Operations,2022-12-27,2025-01-01,,98369
+EMP015,Hernandez,Elijah,Accountant,Finance,2015-05-10,2017-08-03,,85691
+EMP016,Hernandez,Emma,IT Manager,IT,2021-01-18,2023-02-24,,109264
+EMP017,Thomas,Noah,Scientist,Research,2017-07-30,2021-10-15,,126628
+EMP018,Thomas,Ava,Sales Associate,Sales,2022-12-29,2024-08-14,,73013
+EMP019,Jones,Benjamin,HR Manager,Human Resources,2017-07-07,2022-01-04,,141660
+EMP020,Moore,Noah,Sales Manager,Sales,2016-11-17,2018-12-11,,92470
+EMP021,Lee,Ethan,Technician,Operations,2021-04-20,2023-04-02,,123745
+EMP022,Lopez,Harper,Finance Manager,Finance,2022-12-31,2024-11-23,,146705
+EMP023,Davis,Harper,Marketing Manager,Marketing,2022-02-09,2025-01-01,,73501
+EMP024,Jackson,Abigail,Account Executive,Sales,2021-04-08,2025-01-01,,80159
+EMP025,Lopez,Mia,Lab Technician,Research,2022-08-24,2025-01-01,,105888
+EMP026,Hernandez,Logan,Logistics Coordinator,Logistics,2019-05-20,2020-06-20,,106777
+EMP027,Miller,Ethan,Account Executive,Sales,2016-12-16,2018-03-29,,108396
+EMP028,Garcia,Harper,HR Specialist,Human Resources,2018-01-06,2019-06-18,,66951
+EMP029,Lopez,Emma,Paralegal,Legal,2020-07-06,2022-11-02,,147008
+EMP030,Hernandez,Benjamin,Inventory Specialist,Logistics,2015-07-02,2020-01-16,,83469
+EMP031,Gonzalez,Lucas,Finance Manager,Finance,2022-03-10,2024-02-27,,63588
+EMP032,Lee,Charlotte,Recruiter,Human Resources,2019-01-16,2021-05-11,,68440
+EMP033,Hernandez,Benjamin,Legal Advisor,Legal,2015-01-12,2016-03-28,,102726
+EMP034,Johnson,Elijah,Account Executive,Sales,2020-07-02,2022-09-25,,57150
+EMP035,Smith,Liam,Recruiter,Human Resources,2016-01-23,2019-11-07,,100293
+EMP036,Miller,Charlotte,Marketing Manager,Marketing,2018-12-04,2022-05-24,,59879
+EMP037,Hernandez,Benjamin,Logistics Coordinator,Logistics,2022-08-27,2024-07-22,,107370
+EMP038,Martin,Amelia,Sales Manager,Sales,2023-04-16,2025-01-01,,44647
+EMP039,Jones,Olivia,Recruiter,Human Resources,2015-11-12,2018-04-24,,89652
+EMP040,Garcia,Noah,Account Executive,Sales,2018-10-31,2021-02-12,,116518
+EMP041,Martinez,Isabella,HR Specialist,Human Resources,2015-02-26,2018-10-01,,84596
+EMP042,Lopez,Benjamin,Software Engineer,IT,2015-02-19,2018-05-05,,104235
+EMP043,Davis,Noah,System Administrator,IT,2018-02-06,2022-02-08,,76899
+EMP044,Jones,Amelia,Sales Manager,Sales,2020-08-21,2025-01-01,,64119
+EMP045,Lee,Mason,Scientist,Research,2015-04-20,2019-08-21,,52420
+EMP046,Hernandez,Ethan,Compliance Officer,Legal,2016-10-01,2018-08-19,,44982
+EMP047,Martin,Noah,Legal Advisor,Legal,2015-07-02,2019-12-20,,111498
+EMP048,Jackson,Charlotte,Paralegal,Legal,2021-04-21,2025-01-01,,67116
+EMP049,Smith,Logan,Logistics Coordinator,Logistics,2016-01-03,2020-01-16,,140467
+EMP050,Martinez,Charlotte,Inventory Specialist,Logistics,2018-09-06,2023-02-24,,71341
+EMP051,Jackson,Isabella,HR Specialist,Human Resources,2019-11-08,2022-01-06,,63340
+EMP052,Lee,James,Inventory Specialist,Logistics,2016-03-27,2019-07-12,,89996
+EMP053,Thomas,Emma,Supervisor,Operations,2017-12-26,2022-04-27,,47135
+EMP054,Lopez,Noah,IT Manager,IT,2015-12-05,2019-07-07,2024-10-06,80362
+EMP055,Williams,Ava,Paralegal,Legal,2019-01-03,2022-01-19,,149067
+EMP056,Martin,Evelyn,Accountant,Finance,2015-09-25,2020-01-04,,106344
+EMP057,Taylor,Ethan,Financial Analyst,Finance,2015-04-14,2016-10-12,,46338
+EMP058,Taylor,Harper,Inventory Specialist,Logistics,2016-03-28,2018-04-29,2018-10-16,138326
+EMP059,Wilson,Liam,Software Engineer,IT,2020-11-17,2025-01-01,2025-01-01,135418
+EMP060,Brown,Noah,Operations Manager,Operations,2019-08-14,2022-05-29,,70749
+EMP061,Jackson,Ava,Finance Manager,Finance,2022-01-31,2025-01-01,,82785
+EMP062,Davis,Isabella,Compliance Officer,Legal,2021-07-02,2024-03-06,,135129
+EMP063,Lee,Lucas,Warehouse Manager,Logistics,2019-10-24,2022-05-28,2023-09-05,131296
+EMP064,Jones,Olivia,IT Manager,IT,2022-06-07,2025-01-01,,144704
+EMP065,Davis,Liam,Account Executive,Sales,2016-02-28,2018-10-12,,104789
+EMP066,Smith,Lucas,Legal Advisor,Legal,2022-04-30,2025-01-01,,107977
+EMP067,Moore,Logan,Warehouse Manager,Logistics,2016-05-17,2021-04-10,,86763
+EMP068,Gonzalez,Ethan,Paralegal,Legal,2020-03-08,2022-01-24,2023-09-13,132829
+EMP069,Martin,Logan,Brand Strategist,Marketing,2019-06-05,2021-01-25,,89021
+EMP070,Brown,Emma,SEO Specialist,Marketing,2017-07-31,2018-09-17,2021-11-12,51306
+EMP071,Wilson,Liam,Accountant,Finance,2019-12-01,2021-10-16,2023-10-18,126795
+EMP072,Wilson,Elijah,HR Specialist,Human Resources,2018-02-04,2020-07-20,,131152
+EMP073,Johnson,Liam,Compliance Officer,Legal,2015-08-06,2020-03-09,,85176
+EMP074,Jackson,Abigail,Sales Associate,Sales,2019-05-16,2021-03-14,,127295
+EMP075,Lopez,Elijah,Research Analyst,Research,2023-03-23,2025-01-01,,125039
+EMP076,Gonzalez,Ethan,Warehouse Manager,Logistics,2018-02-14,2020-05-17,,124882
+EMP077,Brown,Charlotte,Brand Strategist,Marketing,2016-10-22,2021-02-24,,48034
+EMP078,Moore,Emma,System Administrator,IT,2018-05-09,2021-06-12,,52834
+EMP079,Gonzalez,Isabella,Marketing Manager,Marketing,2021-03-02,2022-12-11,,80998
+EMP080,Garcia,Evelyn,Sales Associate,Sales,2017-05-30,2018-08-15,,71920
+EMP081,Taylor,Charlotte,Recruiter,Human Resources,2017-03-04,2021-01-19,,107902
+EMP082,Gonzalez,Ethan,Marketing Manager,Marketing,2023-01-22,2025-01-01,,43785
+EMP083,Johnson,Harper,HR Manager,Human Resources,2020-12-02,2025-01-01,,122665
+EMP084,Lee,Noah,SEO Specialist,Marketing,2022-05-27,2023-12-24,,83976
+EMP085,Garcia,Charlotte,Logistics Coordinator,Logistics,2019-01-01,2022-02-25,2024-11-29,77793
+EMP086,Davis,Ava,Paralegal,Legal,2017-10-25,2020-04-13,,143717
+EMP087,Hernandez,Charlotte,Lab Technician,Research,2019-08-29,2023-10-21,,145767
+EMP088,Garcia,Isabella,Logistics Coordinator,Logistics,2016-11-05,2021-03-27,,41614
+EMP089,Martin,James,Operations Manager,Operations,2015-04-20,2018-08-24,,123402
+EMP090,Moore,Ava,Financial Analyst,Finance,2018-10-04,2021-01-30,,100275
+EMP091,Lopez,Ava,Inventory Specialist,Logistics,2017-04-16,2021-11-26,,134738
+EMP092,Wilson,Logan,Sales Associate,Sales,2021-09-07,2023-08-14,,139309
+EMP093,Anderson,Emma,Operations Manager,Operations,2016-03-28,2019-02-01,,109013
+EMP094,Moore,Mason,Sales Manager,Sales,2022-09-07,2024-05-14,,103130
+EMP095,Jackson,Elijah,Accountant,Finance,2022-07-23,2023-07-27,,44411
+EMP096,Gonzalez,Sophia,Inventory Specialist,Logistics,2023-09-27,2025-01-01,,134131
+EMP097,Hernandez,Ava,Warehouse Manager,Logistics,2017-05-16,2020-06-23,,46086
+EMP098,Williams,Benjamin,IT Manager,IT,2018-09-20,2022-03-30,,85357
+EMP099,Gonzalez,Logan,Research Analyst,Research,2018-01-04,2020-08-12,,58949
+EMP100,Brown,James,Technician,Operations,2018-02-09,2020-08-23,,50549
+EMP101,Johnson,Lucas,Financial Analyst,Finance,2019-09-04,2023-12-25,,130263
+EMP102,Davis,Logan,SEO Specialist,Marketing,2019-01-16,2020-06-10,,117304
+EMP103,Garcia,Ava,Sales Associate,Sales,2020-01-24,2021-07-21,,78499
+EMP104,Smith,Mia,Logistics Coordinator,Logistics,2016-01-30,2021-01-19,,110906
+EMP105,Lee,Mason,Sales Associate,Sales,2017-12-07,2018-12-24,,105956
+EMP106,Martinez,Sophia,Operations Manager,Operations,2020-05-16,2021-12-13,,71755
+EMP107,Miller,Sophia,Recruiter,Human Resources,2021-12-03,2024-10-09,,40800
+EMP108,Davis,Amelia,Scientist,Research,2018-03-02,2022-12-29,,71393
+EMP109,Williams,Olivia,System Administrator,IT,2023-08-29,2025-01-01,,144447
+EMP110,Martinez,Noah,Financial Analyst,Finance,2017-03-28,2021-09-09,2022-07-13,126011

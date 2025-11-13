@@ -1,0 +1,111 @@
+UniqueID,LastName,FirstName,JobTitle,Department,HireDate,LastPromotionDate,TerminationDate,AnnualSalary
+EMP001,Swindler,Skylar,CEO,Executive,2021-01-01,,,"BRL 900,000"
+EMP002,Fernandes,Maria Eduarda,Administrative Assistant,Administration,2025-11-10,2025-05-15,,BRL 99.149
+EMP003,Freitas,Maysa,Brand Manager,Marketing,2016-01-07,2016-05-31,2021-06-16,BRL 242.275
+EMP004,Martins,Ana Vitória,Payroll Specialist,Finance,2016-07-07,2024-07-05,,BRL 146.562
+EMP005,Moura,Joana,Sensory Analyst,R&D,2018-04-27,2025-12-04,,BRL 351.083
+EMP006,Pereira,Bianca,Office Manager,Administration,2024-12-17,2024-04-09,,BRL 148.531
+EMP007,Dias,Bárbara,Office Manager,Administration,2025-12-04,2025-06-24,2025-10-17,BRL 109.069
+EMP008,Moura,Maria Eduarda,Database Administrator,IT,2025-05-19,2025-02-03,,BRL 201.629
+EMP009,da Rosa,Laís,CEO,Executive,2021-12-14,2021-03-12,,BRL 922.252
+EMP010,Nascimento,Joana,database administrator,IT,2017-12-22,,,BRL 296.930
+EMP011,Vieira,Isadora,Quality Control Analyst,Production,2020-04-03,2025-02-26,,BRL 100.198
+EMP012,Monteiro,João Guilherme,Sales Executive,Sales,2017-10-13,2022-07-07,,BRL 121.847
+EMP013,Martins,Evelyn,Quality Control Analyst,Production,2023-08-24,2023-11-13,,BRL 92.216
+EMP014,Alves,Noah,Digital Marketing Specialist,Marketing,2017-07-03,,,BRL 181.984
+EMP015,da Luz,Guilherme,Market Analyst,Marketing,2025-01-17,2025-11-11,,BRL 225.660
+EMP016,Moreira,Raul,Fragrance Developer,R&D,2024-05-24,2024-10-21,,BRL 248.823
+EMP017,Farias,Kaique,Office Manager,Administration,2017-12-27,,,BRL 79.929
+EMP018,Monteiro,João Gabriel,Logistics Coordinator,Supply Chain,2022-04-07,2024-08-22,,BRL 215.405
+EMP019,Porto,Isadora,Accountant,Finance,2024-01-30,2024-09-19,,BRL 109.664
+EMP020,Azevedo,Brenda,Account Manager,Sales,2020-03-18,2025-01-13,,BRL 217.151
+EMP021,Teixeira,Emanuella,Fragrance Developer,R&D,2019-03-13,2020-02-27,,BRL 345.778
+EMP022,Nascimento,André,Payroll Specialist,Finance,2020-01-03,2021-03-10,,BRL 173.771
+EMP023,Campos,Alice,Lab Technician,R&D,2019-03-04,2024-03-28,,BRL 334.963
+EMP024,Moraes,Maria Eduarda,CFO,Executive,2023-05-23,,,BRL 613.521
+EMP025,Ribeiro,Stella,IT Support,IT,2023-08-31,,,BRL 140.300
+EMP026,Rodrigues,Caio,Market Analyst,Marketing,2024-05-17,2025-10-16,,BRL 284.883
+EMP027,Ferreira,Kamilly,Lab Technician,R&D,2023-11-07,2023-10-19,,BRL 268.719
+EMP028,Silva,Luiz Gustavo,Payroll Specialist,Finance,2021-12-28,2024-02-22,2025-11-12,BRL 103.462
+EMP029,Nunes,Erick,Recruiter,HR,2025-12-05,2025-11-05,,BRL 202.432
+EMP030,Gonçalves,Heloísa,Export Specialist,Sales,2017-03-16,2022-11-10,,BRL 265.847
+EMP031,Rocha,Lavínia,Supply Chain Planner,Supply Chain,2023-07-17,2024-09-30,,BRL 245.008
+EMP032,Jesus,Arthur,Financial Analyst,Finance,2019-03-12,,,BRL 162.036
+EMP033,Moraes,Letícia,Payroll Specialist,Finance,2024-10-10,,,BRL 240.156
+EMP034,Rodrigues,Pietro,Payroll Specialist,Finance,2020-03-19,2023-08-17,,BRL 199.756
+EMP035,Rodrigues,Luna,COO,Executive,2016-07-19,2024-12-05,2016-05-31,BRL 849.506
+EMP036,Freitas,Isabelly,Account Manager,Sales,2017-06-02,2021-07-23,,BRL 145.133
+EMP037,da Luz,Helena,Market Analyst,Marketing,2024-10-07,,,BRL 288.637
+EMP038,Souza,Manuela,CFO,Executive,2019-06-28,,,BRL 793.091
+EMP039,Ribeiro,Maria Julia,Logistics Coordinator,Supply Chain,2017-07-31,,,BRL 180.289
+EMP040,das Neves,Laís,Administrative Assistant,Administration,2023-11-10,2024-12-03,,BRL 142.255
+EMP041,Duarte,Luana,Logistics Coordinator,Supply Chain,2023-11-09,2025-12-09,,BRL 154.936
+EMP042,Cunha,Bruna,Administrative Assistant,Administration,2024-05-10,2024-02-09,,BRL 133.311
+EMP043,Farias,Beatriz,IT Support,IT,2020-06-19,,,BRL 215.981
+EMP044,Ferreira,Lucas,Market Analyst,Marketing,2024-03-22,,,BRL 257.733
+EMP045,Cavalcanti,João Gabriel,CEO,Executive,2025-05-05,2025-02-21,,BRL 833.746
+EMP046,Correia,Vitor Gabriel,Accountant,Finance,2021-08-06,2023-11-27,,BRL 157.421
+EMP047,das Neves,Gustavo,Database Administrator,IT,2023-09-21,2025-05-06,,BRL 278.871
+EMP048,Farias,Francisco,Market Analyst,Marketing,2022-05-20,2024-08-29,,BRL 251.665
+EMP049,Viana,Ana Beatriz,Account Manager,Sales,2021-11-29,,,BRL 178.596
+EMP050,Fernandes,Maria Sophia,Sensory Analyst,R&D,2023-08-03,,,BRL 190.868
+EMP051,Pinto,Paulo,Systems Analyst,IT,2017-09-04,,,BRL 142.008
+EMP052,Silva,Stephany,Financial Analyst,Finance,2016-12-22,2016-04-29,,BRL 157.860
+EMP053,Silva,Maria Sophia,Administrative Assistant,Administration,2018-07-05,2022-02-11,,BRL 100.371
+EMP054,Nunes,Cauã,Administrative Assistant,Administration,2018-01-23,,,BRL 119.385
+EMP055,Ramos,Mariana,HR Manager,HR,2021-12-30,2024-02-29,,BRL 106.043
+EMP056,Moura,Francisco,Procurement Specialist,Supply Chain,2022-11-22,2023-01-31,2023-07-31,BRL 126.099
+EMP057,Barbosa,Júlia,Chemist,Production,2019-10-16,2019-06-20,,BRL 151.365
+EMP058,Araújo,Isabelly,HR Specialist,HR,2020-06-05,,,BRL 198.042
+EMP059,Pinto,Nicolas,hr specialist,HR,2025-10-17,2025-08-15,2025-07-23,BRL 138.171
+EMP060,Ribeiro,Alexandre,Database Administrator,IT,2016-08-23,2024-10-11,,BRL 212.131
+EMP061,Vieira,Vinicius,Supply Chain Planner,Supply Chain,2017-07-10,2019-11-20,,BRL 269.838
+EMP062,Fogaça,Rafael,Financial Analyst,Finance,2019-04-25,,2025-02-05,BRL 238.516
+EMP063,Nunes,Sophie,IT Support,IT,2020-01-29,2020-02-07,,BRL 224.148
+EMP064,Oliveira,Caroline,Procurement Specialist,Supply Chain,2023-04-10,2024-03-12,,BRL 189.445
+EMP065,Silveira,Ana Luiza,Fragrance Developer,R&D,2024-09-24,2024-06-05,,BRL 158.078
+EMP066,Farias,Marcos Vinicius,Logistics Coordinator,Supply Chain,2018-02-26,,2025-05-13,BRL 163.233
+EMP067,da Mata,Danilo,Supply Chain Planner,Supply Chain,2025-06-25,2025-02-13,,BRL 238.901
+EMP068,Melo,Maria Clara,Export Specialist,Sales,2016-04-11,2024-07-15,,BRL 125.338
+EMP069,Jesus,Beatriz,Account Manager,Sales,2016-06-23,,,BRL 195.051
+EMP070,Castro,Luigi,Procurement Specialist,Supply Chain,2019-09-25,2021-04-06,,BRL 231.500
+EMP071,Silveira,Camila,Export Specialist,Sales,2021-08-20,2025-12-26,,BRL 186.589
+EMP072,Nogueira,Júlia,Office Manager,Administration,2021-11-08,2021-05-21,,BRL 91.361
+EMP073,da Cunha,Diogo,Sales Executive,Sales,2021-10-06,,,BRL 166.006
+EMP074,Santos,Sarah,Payroll Specialist,Finance,2016-09-14,2019-10-07,,BRL 214.822
+EMP075,Araújo,Augusto,Digital Marketing Specialist,Marketing,2019-03-04,,,BRL 226.185
+EMP076,Costa,Sofia,CFO,Executive,2021-03-15,2023-02-15,2025-10-24,BRL 940.866
+EMP077,da Mata,Beatriz,IT Support,IT,2019-04-11,2025-05-07,,BRL 278.985
+EMP078,Melo,Yuri,HR Specialist,HR,2022-05-12,2023-11-01,,BRL 188.379
+EMP079,Rocha,Juan,Digital Marketing Specialist,Marketing,2024-08-13,,,BRL 216.937
+EMP080,da Luz,Marcelo,Market Analyst,Marketing,2025-06-02,2025-08-11,,BRL 258.046
+EMP081,Santos,Matheus,Sales Executive,Sales,2020-02-24,,,BRL 127.267
+EMP082,Alves,Laura,Account Manager,Sales,2023-08-21,2023-08-31,,BRL 198.966
+EMP083,Aragão,Danilo,Lab Technician,R&D,2020-01-02,2023-05-09,,BRL 180.456
+EMP084,Viana,Evelyn,Administrative Assistant,Administration,2023-11-09,2025-05-06,,BRL 112.609
+EMP085,Campos,Giovanna,Administrative Assistant,Administration,2018-03-22,2022-03-29,,BRL 138.960
+EMP086,Silva,João Felipe,Supply Chain Planner,Supply Chain,2017-05-30,2021-01-18,,BRL 161.063
+EMP087,Azevedo,Emilly,Account Manager,Sales,2025-12-12,2025-05-09,,BRL 165.545
+EMP088,Moreira,Leonardo,office manager,Administration,2018-06-20,2025-02-24,,BRL 127.705
+EMP089,Alves,Ryan,cfo,Executive,2025-09-26,2025-11-18,,BRL 931.573
+EMP090,Santos,Luiz Miguel,Lab Technician,R&D,2023-04-03,2023-02-24,2023-12-21,BRL 235.040
+EMP091,Rocha,Miguel,Financial Analyst,Finance,2019-01-16,2020-04-29,,BRL 150.924
+EMP092,Souza,Lavínia,Payroll Specialist,Finance,2025-12-01,2025-01-13,,BRL 242.482
+EMP093,da Luz,Diogo,Supply Chain Planner,Supply Chain,2021-08-05,,,BRL 274.650
+EMP094,da Paz,Fernando,Brand Manager,Marketing,2025-10-22,2025-05-30,,BRL 134.653
+EMP095,Cavalcanti,Fernanda,Database Administrator,IT,2018-06-01,2023-08-09,,BRL 213.912
+EMP096,Ribeiro,Ana Beatriz,COO,Executive,2018-08-15,,,BRL 761.935
+EMP097,Ramos,Olivia,Perfumer,Production,2016-08-16,2018-12-28,,BRL 226.303
+EMP098,Nunes,Luna,Production Technician,Production,2017-02-27,2024-03-18,,BRL 247.579
+EMP099,das Neves,Kevin,perfumer,Production,2023-08-09,2025-05-15,,BRL 192.421
+EMP100,da Mata,Gabriel,Systems Analyst,IT,2020-06-03,2021-01-07,,BRL 188.984
+EMP101,Fogaça,Pietra,Production Technician,Production,2023-10-20,2023-10-30,,BRL 190.172
+EMP102,Nogueira,João,Recruiter,HR,2019-07-26,,,BRL 206.276
+EMP103,Barbosa,João Guilherme,Financial Analyst,Finance,2022-09-29,2022-12-29,,BRL 199.689
+EMP104,Barbosa,Paulo,Sensory Analyst,R&D,2018-10-29,2020-03-10,,BRL 381.450
+EMP105,Nogueira,Thomas,Office Manager,Administration,2016-08-08,2025-08-12,,BRL 140.518
+EMP106,Pinto,Maria Sophia,HR Specialist,HR,2017-01-27,,,BRL 163.798
+EMP107,Cardoso,Alice,HR Specialist,HR,2022-06-30,2025-10-31,2025-09-03,BRL 116.541
+EMP108,Novaes,Isadora,Database Administrator,IT,2024-02-19,,,BRL 225.677
+EMP109,Rezende,Lucas,Systems Analyst,IT,2020-05-13,2022-02-08,,BRL 279.687
+EMP110,Porto,Melissa,Sales Executive,Sales,2018-12-20,,,BRL 119.575

@@ -1,0 +1,111 @@
+UniqueID,LastName,FirstName,JobTitle,Department,HireDate,LastPromotionDate,TerminationDate,AnnualSalary
+PO-100001,Swindler,Skylar,CEO,Executive,2021-01-01,,,250000
+100002,Ribeiro,Gabriel,Accountant,Finance,2022-12-13,2024-02-26,,109724
+100003,Martins,Carla,Operations Manager,Operations,2025-07-28,,,79961
+100004,Rocha,João,Inspector,Quality,2023-02-18,2024-12-20,,82286
+100005,Costa,Carla,Supervisor,Logistics,2024-03-30,,,57570
+100006,Rodrigues,Diego,Financial Analyst,Finance,2023-12-14,2024-09-19,,109568
+100007,Carvalho,Rafael,CEO,Executive,2021-10-22,2024-03-27,,235835
+100008,Oliveira,Luana,Financial Analyst,Operations,2023-12-09,2025-06-15,,57125
+100009,Barbosa,Lucas,Marketing Assistant,Logistics,2022-06-01,2023-06-09,,145824
+100010,Gomes,Rodrigo,Marketing Assistant,Marketing,2023-04-27,2024-09-01,,108356
+100011,Fernandes,Eduardo,Engineer,HR,2021-04-13,2022-09-25,,101865
+100012,Oliveira,Felipe,CEO,Executive,2025-01-07,,,153037
+100013,Lima,Diego,Marketing Assistant,Marketing,2025-06-30,,,82241
+100014,Gomes,Fernanda,Director,Executive,2024-04-20,2025-05-02,,148189
+100015,Rodrigues,Diego,CEO,Executive,2022-06-28,2023-07-20,,181079
+100016,Melo,Carla,Coordinator,Operations,2024-10-04,,,64870
+100017,Almeida,Eduardo,Director,Executive,2023-01-20,2025-02-03,2024-03-14,224453
+100018,Carvalho,Carla,Technician,Operations,2023-02-04,2025-01-09,,71736
+100019,Fernandes,João,Quality Specialist,Quality,2025-07-04,,,59317
+100020,Costa,Fernanda,HR Manager,HR,2022-11-09,2024-07-16,,99774
+100021,Ferreira,João,Sales Manager,Sales,2024-12-26,,,60326
+100022,Martins,Pedro,Training Specialist,HR,2024-05-27,,,92494
+100023,Carvalho,Maria,Marketing Assistant,Marketing,2021-06-23,2022-01-15,,99287
+100024,Ferreira,Rodrigo,Finance Supervisor,Finance,2021-07-02,2022-10-22,,65340
+100025,Costa,Bruno,Recruiter,HR,2025-01-22,,,88430
+100026,Ribeiro,Carla,HR Manager,HR,2025-05-22,,,61050
+100027,Souza,Juliana,Software Engineer,IT,2024-12-12,,,87357
+100028,Ribeiro,Bruno,HR Manager,HR,2025-02-03,,,77104
+100029,Martins,Rafael,Account Executive,Quality,2023-12-17,,,78690
+100030,Costa,Paula,Sales Representative,Sales,2024-10-06,,,63088
+100031,Silva,Carla,Executive Assistant,Executive,2021-06-13,2023-06-11,2022-09-17,234213
+100032,Pereira,Paula,Software Engineer,IT,2021-05-15,2023-05-14,,126262
+100033,Oliveira,Beatriz,HR Manager,HR,2022-08-26,2023-11-28,,62286
+100034,Teixeira,Fernanda,Accountant,Finance,2021-05-18,2023-07-20,,112040
+100035,Oliveira,Camila,Accountant,Finance,2022-12-04,2024-08-09,,77601
+100036,Almeida,Diego,Financial Analyst,Finance,2021-12-25,2023-04-12,,65327
+100037,Pereira,Larissa,Accountant,Finance,2021-01-30,2023-01-17,,117168
+100038,Pereira,Ana,Content Specialist,Marketing,2023-07-14,2024-02-04,,99799
+100039,Silva,Fernanda,Logistics Coordinator,Logistics,2025-03-09,,,81971
+100040,Lima,Larissa,Content Specialist,Marketing,2022-08-30,2024-09-23,,93838
+100041,Gomes,João,Logistics Coordinator,Logistics,2025-06-10,,,81292
+100042,Gomes,Juliana,Quality Engineer,Quality,2024-06-13,,,89991
+100043,Lima,Juliana,Quality Engineer,Quality,2023-08-20,2025-01-03,2025-08-31,59635
+100044,Dias,Luana,Account Executive,Sales,2025-03-03,,,106814
+100045,Carvalho,Lucas,Operations Manager,Operations,2024-03-11,2024-09-28,,50465
+100046,Lima,Juliana,Logistics Coordinator,Logistics,2025-08-10,,,81568
+100047,Ferreira,Pedro,Executive Assistant,Executive,2024-01-26,2024-11-07,,208263
+100048,Martins,Felipe,Recruiter,Sales,2021-06-11,2023-01-06,,63916
+100049,Ribeiro,Fernanda,Executive Assistant,Executive,2023-09-04,,,130770
+100050,Souza,Pedro,Supervisor,Logistics,2025-03-05,,,83741
+100051,Pereira,Larissa,Software Engineer,IT,2021-04-22,2022-07-14,,102019
+100052,Fernandes,Eduardo,Technician,Operations,2024-10-10,,,58212
+100053,Dias,Pedro,Inspector,Marketing,2022-02-08,2024-01-05,2023-03-24,81507
+100054,Lima,Maria,Software Engineer,IT,2024-10-03,,,96186
+100055,Fernandes,Larissa,Accountant,Finance,2023-07-26,2024-11-04,,123119
+100056,Teixeira,Pedro,Logistics Coordinator,Logistics,2025-08-07,,,72402
+100057,Souza,Luana,Executive Assistant,Executive,2021-02-27,2022-09-24,,184677
+100058,Rodrigues,Eduardo,IT Specialist,IT,2023-08-28,2024-11-13,,73192
+100059,Almeida,Gabriel,Supervisor,Logistics,2024-11-11,,,86902
+100060,Pereira,Carla,Technician,IT,2023-12-07,2024-07-22,,82056
+100061,Pereira,Juliana,Operations Manager,Operations,2025-09-24,,,77775
+100062,Carvalho,Gabriel,Quality Specialist,Quality,2025-03-13,,,93185
+100063,Ribeiro,Bruno,Operations Manager,Operations,2022-02-12,2024-05-31,,58652
+100064,Oliveira,Felipe,Accountant,Finance,2025-02-04,,,104239
+100065,Silva,Ana,Operations Manager,Operations,2022-02-27,2024-05-18,,96328
+100066,Silva,Camila,Account Executive,Sales,2022-11-25,2023-11-19,,79918
+100067,Carvalho,Lucas,Finance Supervisor,Finance,2023-04-10,2024-11-05,,66793
+100068,Pereira,Carla,Technician,Finance,2021-12-10,2022-07-10,,195396
+100069,Rocha,Luana,Content Specialist,Marketing,2022-02-02,2024-02-13,,88394
+100070,Dias,Fernanda,Accountant,IT,2021-12-17,2023-07-02,,89914
+100071,Santos,Gabriel,IT Specialist,IT,2023-12-07,,,71940
+100072,Dias,Juliana,Director,Executive,2025-06-07,,,120498
+100073,Gomes,Carla,Marketing Manager,Marketing,2025-04-11,,,84032
+100074,Rocha,Pedro,Logistics Coordinator,Logistics,2022-02-27,2022-12-19,,66837
+100075,Martins,Maria,IT Specialist,IT,2023-01-17,2023-09-28,,120670
+100076,Ferreira,Carla,Marketing Assistant,Marketing,2023-04-15,2023-12-21,,114110
+100077,Teixeira,Fernanda,Recruiter,HR,2024-08-24,2025-09-22,,81406
+100078,Teixeira,Fernanda,CEO,Executive,2021-05-02,2023-06-20,,161974
+100079,Santos,Gabriel,Content Specialist,Marketing,2022-02-21,2023-02-07,,101852
+100080,Almeida,Juliana,Financial Analyst,Finance,2024-04-28,,2025-03-26,105205
+100081,Lima,Bruno,CEO,Executive,2025-06-23,,,189635
+100082,Dias,Diego,Coordinator,Operations,2024-08-01,2025-03-17,,50038
+100083,Gomes,Carla,Quality Specialist,Quality,2021-09-23,2022-10-09,,89694
+100084,Oliveira,Carla,HR Manager,HR,2021-11-20,2024-01-15,,85196
+100085,Martins,Eduardo,Engineer,Logistics,2022-03-01,2023-11-01,,86314
+100086,Lima,Pedro,Technician,IT,2023-07-31,2025-01-25,,90275
+100087,Almeida,Juliana,Executive Assistant,Executive,2023-01-09,2023-08-28,,153350
+100088,Gomes,Diego,Technician,Operations,2025-07-07,,,50418
+100089,Dias,Pedro,Supervisor,Logistics,2021-09-14,2023-09-19,,64661
+100090,Barbosa,Larissa,Engineer,Logistics,2022-04-06,2023-04-26,2023-09-23,70116
+100091,Souza,Maria,Software Engineer,IT,2022-10-01,2023-05-27,,72513
+100092,Dias,Fernanda,Sales Manager,Sales,2022-07-30,2024-08-30,,70951
+100093,Rodrigues,Gabriel,Engineer,Logistics,2025-08-18,,,66400
+100094,Dias,Paula,Accountant,Finance,2025-05-25,,,120418
+100095,Martins,Rafael,Software Engineer,IT,2024-09-24,,,81559
+100096,Ribeiro,Eduardo,IT Specialist,IT,2025-08-26,,,129934
+100097,Gomes,Juliana,Director,Executive,2023-09-23,2025-06-02,,222554
+100098,Melo,Ana,IT Specialist,IT,2024-10-09,,,123979
+100099,Carvalho,Gabriel,Technician,IT,2022-01-27,2024-02-27,,94353
+100100,Lima,Larissa,Training Specialist,HR,2021-04-22,2022-01-17,,77598
+100101,Gomes,Lucas,Quality Engineer,Quality,2022-12-14,2024-07-22,,92577
+100102,Lima,Maria,Inspector,Quality,2024-05-06,,,72805
+100103,Melo,Ana,Quality Engineer,Quality,2024-04-09,2025-04-08,,94624
+100104,Fernandes,Paula,Technician,Operations,2024-09-03,2025-06-11,,80681
+100105,Souza,Rafael,Technician,Operations,2021-02-09,2022-02-17,2024-02-18,82489
+100106,Martins,Felipe,Technician,IT,2024-11-24,,,119979
+100107,Ferreira,Camila,Executive Assistant,Executive,2022-07-23,2023-06-30,2024-05-28,170540
+100108,Ferreira,Pedro,Quality Engineer,Quality,2025-03-21,,,66796
+100109,Souza,Gabriel,Technician,Operations,2022-10-20,2024-12-15,,72896
+100110,Dias,Eduardo,IT Specialist,IT,2023-04-12,2024-08-01,2024-12-03,78615

@@ -1,0 +1,111 @@
+UniqueID,LastName,FirstName,JobTitle,Department,HireDate,LastPromotionDate,TerminationDate,AnnualSalary
+EMP001,Swindler,Skylar,CEO,Executive,2021-01-01,2023-01-01,,250000
+EMP002,Larson,Breanna,Financial Analyst,Finance,2021-02-13,2022-10-18,,113537
+EMP003,Roberson,Robert,Sales Associate,Sales,2018-12-23,2022-03-01,,99866
+EMP004,Webb,Barbara,Recruiter,HR,2018-07-15,2022-05-14,,82332
+EMP005,Thomas,Jacob,IT Support,IT,2025-08-01,2025-09-05,2025-10-11,114515
+EMP006,Roberts,Penny,HR Manager,HR,2019-03-24,2022-07-13,,50098
+EMP007,Gentry,Edward,Logistics Coordinator,Operations,2023-06-26,2023-09-13,,135135
+EMP008,Kim,Wesley,Systems Analyst,IT,2020-05-08,2025-06-04,,50899
+EMP009,Pollard,Amber,Accountant,Finance,2021-04-12,,,84905
+EMP010,Coffey,Samuel,Innovation Manager,R&D,2024-09-16,2025-07-11,,61754
+EMP011,Mcdowell,Melissa,HR Manager,HR,2018-02-13,2018-02-26,,50347
+EMP012,Blake,Thomas,Production Supervisor,Operations,2024-05-26,2025-06-08,,151937
+EMP013,Moody,Margaret,Marketing Specialist,Marketing,2019-02-22,,,88735
+EMP014,Sanford,Steven,Inventory Planner,Procurement,2023-12-26,2025-02-05,2024-12-13,120287
+EMP015,Richmond,Leslie,HR Specialist,HR,2021-08-26,,,152384
+EMP016,Ramirez,Amanda,Product Developer,R&D,2020-11-06,2022-05-25,,71243
+EMP017,Rogers,Terrance,Content Strategist,Marketing,2023-10-08,2025-09-02,,102952
+EMP018,Hughes,Christy,Procurement Specialist,Procurement,2024-04-17,2024-07-31,,158377
+EMP019,Jones,Susan,Research Scientist,R&D,2018-06-24,,,60124
+EMP020,Taylor,Keith,SEO Analyst,Marketing,2024-03-31,2025-03-12,,158542
+EMP021,Johnson,Barry,Sales Associate,Sales,2017-11-16,2020-02-18,,58150
+EMP022,Pena,Linda,Inventory Planner,Procurement,2020-09-12,2021-10-02,,71144
+EMP023,Tyler,Brenda,Systems Analyst,IT,2017-11-26,2018-11-11,,110311
+EMP024,Miller,Matthew,Finance Manager,Finance,2021-05-27,,,71346
+EMP025,Brock,James,Content Strategist,Marketing,2024-07-10,,,47053
+EMP026,Keith,Erik,Business Development Rep,Sales,2019-11-04,2023-03-02,,141313
+EMP027,Young,Kimberly,Content Strategist,Marketing,2023-09-10,2025-07-25,,95191
+EMP028,Chaney,Nicholas,HR Specialist,HR,2019-05-04,2020-10-03,,139726
+EMP029,Smith,Timothy,Lab Technician,R&D,2019-08-07,2024-03-24,,136598
+EMP030,Hunter,Felicia,Finance Manager,Finance,2024-05-10,2024-09-21,2025-09-26,93743
+EMP031,Carlson,Melanie,Procurement Specialist,Procurement,2018-09-10,2025-08-24,,156980
+EMP032,Washington,Amanda,Production Supervisor,Operations,2017-11-26,2021-01-01,,115824
+EMP033,Black,Gregory,Accountant,Finance,2018-11-24,2019-10-05,,158676
+EMP034,Reyes,James,Warehouse Associate,Operations,2023-01-07,2025-02-23,,66196
+EMP035,Nichols,Seth,Logistics Coordinator,Operations,2021-12-04,2022-03-30,,142161
+EMP036,Kaiser,Keith,Research Scientist,R&D,2018-08-29,2019-08-04,,112160
+EMP037,Torres,Colton,Warehouse Associate,Operations,2024-06-06,2025-05-11,,123550
+EMP038,Mendoza,Donald,Content Strategist,Marketing,2024-08-21,,2024-12-15,114161
+EMP039,Reilly,Marc,Systems Analyst,IT,2019-12-06,2021-05-10,,45002
+EMP040,Wolfe,Peter,HR Specialist,HR,2023-06-02,2024-09-03,,136484
+EMP041,Turner,William,Business Development Rep,Sales,2025-05-16,2025-07-06,,42983
+EMP042,Burke,Frank,Accountant,Finance,2018-03-30,2022-10-29,,62811
+EMP043,Santiago,Bryan,Innovation Manager,R&D,2020-04-16,2025-04-29,,77413
+EMP044,Bowers,Jennifer,Warehouse Associate,Operations,2018-03-22,,,99967
+EMP045,Marsh,Ann,Inventory Planner,Procurement,2025-07-27,2025-08-29,,58281
+EMP046,Ponce,Ronnie,SEO Analyst,Marketing,2025-06-03,2025-07-18,,100735
+EMP047,Davis,Bryan,Recruiter,HR,2021-10-09,2024-08-02,,91003
+EMP048,Banks,Stacy,Operations Manager,Operations,2018-09-17,2020-11-18,2019-10-23,79926
+EMP049,Shelton,Gregory,Network Engineer,IT,2019-06-24,,,139475
+EMP050,Mcdonald,William,Supply Chain Analyst,Procurement,2019-07-14,2025-09-10,,104948
+EMP051,Shannon,Stephanie,Innovation Manager,R&D,2022-12-13,2025-09-04,,55241
+EMP052,Obrien,Kevin,HR Specialist,HR,2021-07-31,2023-08-15,,69680
+EMP053,Clark,Amanda,Controller,Finance,2018-12-30,2022-08-08,,44684
+EMP054,Leonard,Julia,HR Manager,HR,2020-10-09,2025-03-03,,148490
+EMP055,Ramos,Anthony,Supply Chain Analyst,Procurement,2024-10-04,,,46169
+EMP056,Steele,Robert,Brand Manager,Marketing,2021-12-02,2023-10-24,,107463
+EMP057,Nunez,Stephanie,HR Specialist,HR,2022-10-24,2025-08-19,,95924
+EMP058,Mcneil,Omar,Innovation Manager,R&D,2021-09-26,,,154043
+EMP059,Dunn,Gregory,Sales Manager,Sales,2018-09-07,2024-04-24,,140024
+EMP060,Hardy,Natalie,Accountant,Finance,2021-05-04,2023-04-19,,115469
+EMP061,Avila,Gregory,Product Developer,R&D,2025-01-24,2025-10-10,,48032
+EMP062,Tran,Tina,Research Scientist,R&D,2019-05-11,2024-02-11,,49819
+EMP063,Rose,Dale,Warehouse Associate,Operations,2021-01-28,2022-06-22,,102830
+EMP064,Beasley,Denise,SEO Analyst,Marketing,2019-02-26,2024-11-06,,132706
+EMP065,Duran,Bethany,Supply Chain Analyst,Procurement,2019-10-11,2023-09-04,,52327
+EMP066,Arnold,Renee,Business Development Rep,Sales,2024-02-15,2024-03-06,,54013
+EMP067,Rogers,Patrick,Buyer,Procurement,2020-01-11,2020-09-04,,108873
+EMP068,Bailey,Angel,Brand Manager,Marketing,2018-09-25,,,135645
+EMP069,Newton,Raymond,Innovation Manager,R&D,2022-09-13,,,134643
+EMP070,Garcia,Andrea,Logistics Coordinator,Operations,2020-09-20,,,73413
+EMP071,Potter,Daniel,Buyer,Procurement,2019-10-04,,,82340
+EMP072,Donovan,Christopher,Production Supervisor,Operations,2019-06-26,2021-02-24,,122761
+EMP073,Taylor,Patricia,Operations Manager,Operations,2022-04-10,2024-10-10,,136209
+EMP074,Christian,Luke,Product Developer,R&D,2023-06-03,2024-07-17,,80197
+EMP075,Chung,Megan,Innovation Manager,R&D,2024-03-02,2024-10-30,,104948
+EMP076,Werner,Michael,Marketing Specialist,Marketing,2017-10-31,,,80248
+EMP077,Johnson,Maureen,Production Supervisor,Operations,2025-09-01,2025-10-02,,71092
+EMP078,Frye,Stephen,IT Support,IT,2017-12-17,2023-08-21,,95435
+EMP079,Brown,William,Operations Manager,Operations,2020-12-20,2025-03-10,,138577
+EMP080,Washington,Ashley,Product Developer,R&D,2018-11-06,2025-01-19,,43701
+EMP081,Jones,Deborah,Account Executive,Sales,2019-04-19,2025-03-26,,67830
+EMP082,Reed,Marc,Research Scientist,R&D,2018-09-23,2021-12-07,,96924
+EMP083,Cooper,Joseph,Production Supervisor,Operations,2024-10-15,2025-09-23,,47841
+EMP084,Wheeler,Diana,HR Specialist,HR,2024-02-12,,,143160
+EMP085,Ross,Maria,Training Coordinator,HR,2024-02-02,2024-11-26,,154268
+EMP086,Wood,George,Supply Chain Analyst,Procurement,2023-10-23,2023-11-25,,60530
+EMP087,Burns,Tammy,Sales Associate,Sales,2022-10-31,2023-09-05,,149032
+EMP088,Simmons,Steven,Systems Analyst,IT,2021-07-15,2023-02-12,,125079
+EMP089,Johnson,Rachel,Recruiter,HR,2024-05-01,2024-10-18,,115755
+EMP090,Green,Marcus,Finance Manager,Finance,2021-10-26,2025-05-27,2022-01-06,81401
+EMP091,Thompson,Joseph,SEO Analyst,Marketing,2020-05-06,2024-07-16,,93505
+EMP092,Mcclain,Kristina,Production Supervisor,Operations,2022-08-20,,,149343
+EMP093,Oneill,Jessica,Sales Associate,Sales,2018-05-20,,,97254
+EMP094,Hayes,Vincent,Innovation Manager,R&D,2020-08-12,2021-09-02,,101449
+EMP095,Welch,Joshua,Training Coordinator,HR,2017-10-15,2022-02-04,,110157
+EMP096,Franco,Connie,Product Developer,R&D,2019-01-11,2023-07-19,,66309
+EMP097,Miller,Jennifer,Innovation Manager,R&D,2020-07-06,2020-11-08,,131468
+EMP098,Warner,Tiffany,Recruiter,HR,2022-05-19,2022-10-01,,109020
+EMP099,Jones,Elizabeth,Marketing Specialist,Marketing,2021-09-18,2024-05-10,,66501
+EMP100,Jackson,Michael,Product Developer,R&D,2024-06-10,2024-12-01,,80857
+EMP101,Owens,Shelly,IT Support,IT,2024-03-20,2025-06-30,,53806
+EMP102,Barrera,Samantha,Warehouse Associate,Operations,2021-01-24,2021-09-10,,85451
+EMP103,Kramer,Cory,Account Executive,Sales,2019-02-18,2019-08-30,,157806
+EMP104,Davis,Phillip,SEO Analyst,Marketing,2021-12-11,2023-09-03,,46776
+EMP105,Ellis,Nicole,Software Developer,IT,2018-06-29,2022-01-25,,75205
+EMP106,Bolton,Kristin,Systems Analyst,IT,2018-12-11,2020-05-21,,78158
+EMP107,Robinson,Brian,HR Specialist,HR,2022-04-09,2022-08-04,,110889
+EMP108,Ford,Michael,Product Developer,R&D,2023-08-12,,,69524
+EMP109,Lopez,Robin,Buyer,Procurement,2019-06-20,2025-03-16,,112411
+EMP110,Marshall,John,Buyer,Procurement,2019-12-28,2021-12-12,,47869

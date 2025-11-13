@@ -1,0 +1,112 @@
+UniqueID,LastName,FirstName,JobTitle,Department,HireDate,LastPromotionDate,TerminationDate,AnnualSalary
+1,Swindler,Skylar,CEO,Executive,2021-01-01,,,250000
+2,Zuniga,Matthew,Operations Manager,Operations,2016-10-31,,,149353
+3,Perry,Heather,Production Supervisor,Production,2022-02-10,,,77162
+4,Krueger,Brianna,HR Manager,HR,2017-06-04,,,149019
+5,Rodriguez,Carol,Systems Administrator,IT,2021-08-31,2023-12-16,,59739
+6,Carr,Henry,Machine Operator,Production,2022-02-18,,,89371
+7,Koch,Katherine,Payroll Specialist,Finance,2015-05-22,2020-08-26,,130013
+8,Carpenter,Wendy,Accountant,Finance,2021-02-08,2023-11-21,,50839
+9,White,Cody,Supply Chain Analyst,Logistics,2021-04-24,,,58535
+10,Duncan,Troy,Recruiter,HR,2016-01-07,2019-02-10,,87897
+11,Nelson,Jeremy,SEO Specialist,Marketing,2019-04-20,,,98996
+12,Martinez,Chelsea,Product Developer,Research & Development,2017-02-26,2021-01-12,,49536
+13,Hebert,Timothy,Production Supervisor,Production,2021-11-20,2027-04-17,2025-02-10,141695
+14,Fernandez,Jessica,HR Manager,HR,2020-06-26,2022-09-25,,47757
+15,Powell,James,Sales Executive,Sales,2020-10-17,,,138482
+16,Brooks,Brittany,Sales Executive,Sales,2023-04-01,2024-07-08,,116125
+17,Ruiz,Laurie,Product Developer,Research & Development,2018-12-01,2023-10-04,,91056
+18,Ramirez,Linda,R&D Scientist,Research & Development,2020-08-04,2024-12-18,,68218
+19,Roberson,Nathan,R&D Scientist,Research & Development,2022-10-09,2027-04-17,,65038
+20,Bradley,Tammy,SEO Specialist,Marketing,2016-10-22,,,120480
+21,Smith,Daniel,Sales Executive,Sales,2023-05-20,,,147692
+22,Kelley,Raymond,Sales Executive,Sales,2016-01-16,2018-12-08,,49296
+23,Wright,Laura,Assistant Operations Manager,Operations,2017-05-11,,,120201
+24,Frank,Lonnie,Logistics Coordinator,Logistics,2021-03-29,,,61240
+25,Romero,Brandon,Warehouse Manager,Logistics,2019-12-10,2022-06-18,,147835
+26,Smith,Justin,IT Support Specialist,IT,2017-06-17,,,143244
+27,Riggs,William,Payroll Specialist,Finance,2018-11-02,2021-11-28,2024-01-09,120987
+28,Johnson,Amanda,Sales Executive,Sales,2016-04-14,2021-05-25,,120794
+29,Smith,Erica,Sales Associate,Sales,2022-06-27,2026-07-29,,81651
+30,George,Lindsey,Operations Manager,Operations,2019-06-25,,,91103
+31,Miller,Eric,IT Support Specialist,IT,2023-03-23,,,115091
+32,Gardner,Larry,Payroll Specialist,Finance,2015-11-16,,,71918
+33,Reed,Willie,Supply Chain Analyst,Logistics,2020-11-12,2024-01-14,,88870
+34,Miller,Jasmine,Marketing Manager,Marketing,2015-10-22,,,146385
+35,White,Jennifer,Financial Analyst,Finance,2015-01-01,2016-10-29,,137893
+36,Mullins,Jesse,QA Analyst,Quality Assurance,2017-11-21,2020-08-17,,67488
+37,White,Larry,R&D Scientist,Research & Development,2015-11-14,2020-03-31,,111983
+38,Johnson,Kelly,Software Developer,IT,2019-01-03,,,63826
+39,Tate,Deborah,SEO Specialist,Marketing,2022-06-16,,,91943
+40,Rodriguez,Renee,Sales Associate,Sales,2018-10-26,2022-01-22,,65694
+41,Rivera,Sherry,Process Coordinator,Operations,2022-01-30,,,65891
+42,Bowers,Stuart,Account Manager,Sales,2019-10-19,,,47633
+43,Hoffman,Marcus,Recruiter,HR,2023-06-19,2027-11-15,,107907
+44,Walker,Michael,Operations Manager,Operations,2020-04-11,2022-05-22,,82587
+45,Wheeler,Megan,Account Manager,Sales,2018-08-18,2021-10-10,,130297
+46,Morris,Travis,IT Support Specialist,IT,2023-05-19,2026-05-02,2031-01-10,74128
+47,Ramirez,Anna,Product Developer,Research & Development,2016-02-23,2020-05-28,,90771
+48,West,Sheila,Sales Associate,Sales,2018-02-24,,,61600
+49,Perry,Robert,Warehouse Manager,Logistics,2019-11-17,2024-06-30,,106578
+50,Jenkins,Jerry,Process Coordinator,Operations,2018-08-25,2022-04-21,,126413
+51,Bailey,Mark,Content Strategist,Marketing,2021-08-04,,,145074
+52,Atkinson,Alex,Quality Inspector,Quality Assurance,2020-12-30,2025-04-17,2025-07-10,79496
+53,Rose,Ronald,Sales Associate,Sales,2022-05-30,,,94304
+54,Perkins,Chad,Software Developer,IT,2020-09-11,,,54919
+55,Gibson,Michael,HR Manager,HR,2018-02-20,,,65764
+56,Roberts,Andrew,Marketing Manager,Marketing,2019-03-25,2024-05-14,,83451
+57,Miranda,Zachary,Recruiter,HR,2015-10-11,2018-06-27,,136791
+58,Marsh,Michael,Sales Executive,Sales,2021-12-28,2025-05-30,,129172
+59,Stone,Charles,Quality Inspector,Quality Assurance,2020-09-04,2026-02-04,,81559
+60,King,Joseph,Operations Manager,Operations,2017-12-22,2022-04-22,,80338
+61,Smith,Daniel,Assistant Operations Manager,Operations,2016-07-21,2021-05-14,,54038
+62,Robinson,Dennis,SEO Specialist,Marketing,2023-06-02,,,147226
+63,Ray,Lisa,Technician,Production,2017-05-19,2018-06-02,,141529
+64,Maldonado,Gabriel,Sales Executive,Sales,2016-09-22,2018-09-20,,59622
+65,Burns,Richard,Quality Inspector,Quality Assurance,2016-09-26,2020-12-24,,112912
+66,Peters,Robert,Software Developer,IT,2022-06-22,,,102358
+67,Cunningham,Bryan,Accountant,Finance,2022-09-08,,,92305
+68,Peterson,Jean,Payroll Specialist,Finance,2020-05-10,2024-06-16,,108095
+69,Munoz,Paul,Lab Technician,Research & Development,2021-09-03,,,75151
+70,Lopez,Sheila,Warehouse Manager,Logistics,2021-12-18,2025-11-22,,45131
+71,Gordon,Dale,Financial Analyst,Finance,2022-08-02,2026-12-04,,60427
+72,Lynch,Richard,HR Manager,HR,2015-12-26,2021-05-04,,87960
+73,Porter,Randall,SEO Specialist,Marketing,2016-02-05,,2020-02-14,103211
+74,Patrick,Vanessa,Process Coordinator,Operations,2018-01-12,2019-10-17,,128723
+75,Ball,Timothy,Compliance Specialist,Quality Assurance,2023-12-12,2028-06-02,,72648
+76,Thompson,Jeremy,Accountant,Finance,2022-09-05,,,142836
+77,Crosby,Daniel,HR Manager,HR,2019-02-23,,,119950
+78,Miller,Sarah,IT Support Specialist,IT,2015-06-05,2019-06-25,2022-05-23,104935
+79,Avila,William,Production Supervisor,Production,2015-10-11,,,143087
+80,Mccarty,William,Supply Chain Analyst,Logistics,2018-02-08,2019-02-20,2022-09-16,94286
+81,Merritt,Marissa,Assistant Operations Manager,Operations,2015-01-06,2019-11-19,,132601
+82,Hoffman,Sean,Machine Operator,Production,2023-07-08,2025-11-22,,78330
+83,Shea,Christina,Recruiter,HR,2016-09-10,,,59038
+84,Maynard,Emma,Accountant,Finance,2015-12-17,2020-07-20,,55591
+85,Chapman,Alicia,Lab Technician,Research & Development,2016-05-20,2017-08-02,,69216
+86,Lang,Jennifer,SEO Specialist,Marketing,2022-01-06,,,118303
+87,Jackson,Scott,Process Coordinator,Operations,2023-09-08,,,46539
+88,Davis,April,Assistant Operations Manager,Operations,2015-11-01,2018-02-11,,84646
+89,Johnson,Kenneth,HR Assistant,HR,2021-11-26,2026-09-26,,115225
+90,Jackson,Jennifer,HR Manager,HR,2023-06-23,2025-04-21,,111281
+91,Sullivan,David,Payroll Specialist,Finance,2022-06-26,2027-01-04,,57505
+92,Rose,Lori,Account Manager,Sales,2023-02-10,2027-05-08,2026-06-19,138269
+93,Little,Traci,Machine Operator,Production,2021-07-24,,,86593
+94,Wells,William,Systems Administrator,IT,2015-04-24,,,119975
+95,Hines,Johnny,Warehouse Manager,Logistics,2020-09-17,,,102568
+96,Baldwin,Wendy,Quality Inspector,Quality Assurance,2019-10-31,,,78171
+97,Campbell,Jason,QA Analyst,Quality Assurance,2021-08-10,,,47143
+98,Robinson,Nicole,Systems Administrator,IT,2019-06-10,2024-04-02,,95772
+99,Hill,Brian,Machine Operator,Production,2020-01-27,2024-06-12,,115607
+100,Villegas,Roger,Production Supervisor,Production,2020-05-15,2024-08-04,,103452
+101,Williams,Joe,Lab Technician,Research & Development,2023-03-11,,,58560
+102,Morrow,David,Financial Analyst,Finance,2020-05-14,2024-08-28,,109468
+103,Hart,David,Quality Inspector,Quality Assurance,2016-07-28,2020-06-24,,126300
+104,Bailey,Scott,Compliance Specialist,Quality Assurance,2021-11-13,,,76172
+105,Harris,Randy,SEO Specialist,Marketing,2017-08-06,2020-07-14,,134826
+106,Price,Kevin,R&D Scientist,Research & Development,2023-02-25,,,113496
+107,Moore,Molly,Content Strategist,Marketing,2020-03-08,2022-08-06,,48878
+108,Thomas,Elizabeth,Compliance Specialist,Quality Assurance,2015-12-11,2020-05-14,,125322
+109,Rodriguez,Russell,Accountant,Finance,2023-08-22,,,65101
+110,May,Tiffany,Accountant,Finance,2015-05-08,2018-10-29,,148378
+111,Rogers,Erica,Content Strategist,Marketing,2015-05-17,2020-03-14,,110232

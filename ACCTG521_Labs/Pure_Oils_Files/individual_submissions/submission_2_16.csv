@@ -1,0 +1,112 @@
+UniqueID,LastName,FirstName,JobTitle,Department,HireDate,LastPromotionDate,TerminationDate,AnnualSalary
+EMP001,Swindler,Skylar,Executive Manager,Executive,2021-01-01,2023-01-01,,250000.0
+EMP002,Barros,Lara,Recruiter,Human Resources,2021-01-01,2023-05-29,,100293.0
+EMP003,Luz,Mariana,IT Manager,IT,2021-01-18,2023-02-24,,109264.0
+EMP004,Braga,Luiza,Legal Advisor,Legal,2021-02-06,2023-06-05,,74125.0
+EMP005,Araújo,Marina,Marketing Manager,Marketing,2021-03-02,2022-12-11,,80998.0
+EMP006,Rezende,Renata,Account Executive,Sales,2021-03-03,2023-09-24,,108396.0
+EMP007,Ribeiro,Gabriel,Inventory Specialist,Logistics,2021-03-26,2023-08-26,,89996.0
+EMP008,Moura,Bruna,Account Executive,Sales,2021-04-08,2025-01-01,,80159.0
+EMP009,Moreira,Henrique,SEO Specialist,Marketing,2021-04-16,2022-12-24,2024-09-18,51306.0
+EMP010,Macedo,Sabrina,HR Specialist,Human Resources,2021-04-17,2024-05-11,,75882.0
+EMP011,Souza,Sofia,Technician,Operations,2021-04-20,2023-04-02,,123745.0
+EMP012,Souza,Matheus,Paralegal,Legal,2021-04-21,2025-01-01,,67116.0
+EMP013,Freitas,Gabriel,Legal Advisor,Legal,2021-04-27,2022-09-05,,111498.0
+EMP014,Luz,Paula,Compliance Officer,Legal,2021-04-29,2023-03-30,,44982.0
+EMP015,Carvalho,Letícia,Sales Manager,Sales,2021-05-05,2025-01-01,,64119.0
+EMP016,Barbosa,Henrique,Inventory Specialist,Logistics,2021-05-25,2024-06-04,,83469.0
+EMP017,Luz,Beatriz,Compliance Officer,Legal,2021-07-02,2024-03-06,,135129.0
+EMP018,Campos,Matheus,Financial Analyst,Finance,2021-07-13,2023-12-25,,130263.0
+EMP019,Gomes,Marta,Software Engineer,IT,2021-07-25,2022-09-23,,104235.0
+EMP020,Cardoso,Luiza,Legal Advisor,Legal,2021-08-08,2022-12-11,,77227.0
+EMP021,Ribeiro,Rafael,Warehouse Manager,Logistics,2021-08-14,2024-02-15,,124882.0
+EMP022,Souza,Laura,Sales Associate,Sales,2021-09-07,2023-08-14,,139309.0
+EMP023,Lima,Clara,Brand Strategist,Marketing,2021-09-29,2024-03-03,,48034.0
+EMP024,Freitas,Rafael,Software Engineer,IT,2021-10-16,2022-12-25,,111051.0
+EMP025,Macedo,Clara,Operations Manager,Operations,2021-12-01,2024-07-02,,123402.0
+EMP026,Freitas,Letícia,Recruiter,Human Resources,2021-12-03,2024-10-09,,40800.0
+EMP027,Carvalho,Heitor,SEO Specialist,Marketing,2021-12-14,2024-07-29,,117304.0
+EMP028,Ribeiro,Rafaela,Sales Associate,Sales,2021-12-23,2023-12-23,,78499.0
+EMP029,Ribeiro,Mariana,Logistics Coordinator,Logistics,2021-12-28,2024-05-28,,41614.0
+EMP030,Araújo,Letícia,Account Executive,Sales,2022-01-02,2024-08-30,,116518.0
+EMP031,Araújo,Lara,Supervisor,Operations,2022-01-09,2023-12-07,,137385.0
+EMP032,Santos,Leandro,Scientist,Research,2022-01-10,2023-02-18,,126628.0
+EMP033,Pereira,Bianca,Compliance Officer,Legal,2022-01-30,2023-02-09,,85176.0
+EMP034,Cavalcanti,Manuela,Finance Manager,Finance,2022-01-31,2025-01-01,,82785.0
+EMP035,Alves,Isabela,Finance Manager,Finance,2022-02-04,2023-10-06,,71382.0
+EMP036,Souza,Gabriel,Marketing Manager,Marketing,2022-02-09,2025-01-01,,73501.0
+EMP037,Oliveira,Leandro,Inventory Specialist,Logistics,2022-02-10,2023-09-23,,134738.0
+EMP038,Leão,Samuel,System Administrator,IT,2022-03-04,2024-09-28,,76899.0
+EMP039,Pinto,Beatriz,HR Specialist,Human Resources,2022-03-10,2024-05-25,,84596.0
+EMP040,Rocha,Aline,Finance Manager,Finance,2022-03-10,2024-02-27,,63588.0
+EMP041,Amaral,Yasmin,Legal Advisor,Legal,2022-04-30,2025-01-01,,107977.0
+EMP042,Monteiro,Thaís,Account Executive,Sales,2022-05-11,2024-01-31,,104789.0
+EMP043,Gomes,Marina,SEO Specialist,Marketing,2022-05-27,2023-12-24,,83976.0
+EMP044,Rezende,Heitor,IT Manager,IT,2022-06-07,2025-01-01,,144704.0
+EMP045,Dias,Fernanda,Accountant,Finance,2022-06-15,2024-07-06,,85691.0
+EMP046,Borges,Renata,Brand Strategist,Marketing,2022-07-05,2023-10-04,,89021.0
+EMP047,Braga,Priscila,Accountant,Finance,2022-07-23,2023-07-27,,44411.0
+EMP048,Barros,Yasmin,Lab Technician,Research,2022-08-24,2025-01-01,,105888.0
+EMP049,Gomes,Samuel,Logistics Coordinator,Logistics,2022-08-27,2024-07-22,,107370.0
+EMP050,Barbosa,Luiza,Sales Manager,Sales,2022-09-03,2024-12-08,,92470.0
+EMP051,Carvalho,Davi,Sales Manager,Sales,2022-09-07,2024-05-14,,103130.0
+EMP052,Cardoso,Camila,Sales Associate,Sales,2022-09-15,2024-06-11,,105956.0
+EMP053,Dias,Isabela,Legal Advisor,Legal,2022-10-25,2024-01-15,,102726.0
+EMP054,Amaral,Eduarda,Financial Analyst,Finance,2022-11-02,2024-03-06,,100275.0
+EMP055,Santos,Valentina,Research Analyst,Research,2022-11-26,2024-10-17,,50630.0
+EMP056,Pereira,Gabriel,Research Analyst,Research,2022-12-14,2024-02-25,,58949.0
+EMP057,Moreira,Letícia,Operations Manager,Operations,2022-12-17,2024-09-17,,109013.0
+EMP058,Faria,Alice,Supervisor,Operations,2022-12-27,2025-01-01,,98369.0
+EMP059,Monteiro,Samuel,Sales Associate,Sales,2022-12-29,2024-08-14,,73013.0
+EMP060,Leão,Sabrina,Finance Manager,Finance,2022-12-31,2024-11-23,,146705.0
+EMP061,Campos,Pedro,Financial Analyst,Finance,2023-01-21,2024-09-29,,46338.0
+EMP062,Cavalcanti,Renata,Marketing Manager,Marketing,2023-01-22,2025-01-01,,43785.0
+EMP063,Lima,Lucas,HR Manager,Human Resources,2023-01-23,2024-04-10,,141660.0
+EMP064,Freitas,Fernanda,Research Manager,Research,2023-03-20,2024-09-16,,90000.0
+EMP065,Borges,Bernardo,Research Analyst,Research,2023-03-23,2025-01-01,,125039.0
+EMP066,Cardoso,Matheus,Sales Manager,Sales,2023-04-16,2025-01-01,,44647.0
+EMP067,Lima,Júlia,Scientist,Research,2023-05-02,2024-10-18,,52420.0
+EMP068,Lima,Rafael,Operations Manager,Operations,2023-05-15,2024-05-15,,71755.0
+EMP069,Moura,Camila,Sales Associate,Sales,2023-05-20,2024-06-25,,127295.0
+EMP070,Mendes,Vitor,Lab Technician,Research,2023-05-25,2024-01-11,,145767.0
+EMP071,Nogueira,Camila,Legal Manager,Legal,2023-07-03,2024-01-09,,143717.0
+EMP072,Freitas,Miguel,System Administrator,IT,2023-07-13,2025-01-01,,104510.0
+EMP073,Lima,Aline,Logistics Coordinator,Logistics,2023-07-29,2024-08-21,,110906.0
+EMP074,Alves,Bernardo,Accountant,Finance,2023-08-12,2024-12-02,2024-11-28,126795.0
+EMP075,Martins,Enzo,Logistics Coordinator,Logistics,2023-08-17,2024-09-15,,106777.0
+EMP076,Mendes,Camila,IT Manager,IT,2023-08-18,2024-09-18,,85357.0
+EMP077,Santos,Diogo,System Administrator,IT,2023-08-29,2025-01-01,,144447.0
+EMP078,Dias,Bernardo,Sales Associate,Sales,2023-09-09,2024-11-11,,71920.0
+EMP079,Cavalcanti,Heitor,Software Engineer,IT,2023-09-10,2025-01-01,2024-09-17,135418.0
+EMP080,Oliveira,Guilherme,Inventory Specialist,Logistics,2023-09-27,2025-01-01,,134131.0
+EMP081,Santos,Lara,Supervisor,Operations,2023-10-15,2024-01-25,,47135.0
+EMP082,Ribeiro,Júlia,Paralegal,Legal,2023-10-17,2024-04-27,,149067.0
+EMP083,Teixeira,Pedro,Technician,Operations,2023-10-31,2024-02-24,,50549.0
+EMP084,Silva,Manuela,Lab Technician,Research,2023-11-08,2025-01-01,,115958.0
+EMP085,Rezende,Isabela,Paralegal,Legal,2023-11-09,2024-07-19,,147008.0
+EMP086,Andrade,Renata,Financial Analyst,Finance,2023-11-18,2024-02-15,2024-12-16,126011.0
+EMP087,Rezende,Beatriz,Scientist,Research,2023-12-20,2024-05-21,,71393.0
+EMP088,Ferreira,Eduarda,Inventory Specialist,Logistics,2024-01-23,2024-07-08,,71341.0
+EMP089,Gomes,Arthur,IT Manager,IT,2024-01-24,2024-08-23,2024-10-06,80362.0
+EMP090,Mendes,Felipe,SEO Specialist,Marketing,2024-01-27,2024-04-30,,139103.0
+EMP091,Silva,Enzo,HR Specialist,Human Resources,2024-03-08,2024-07-01,,63340.0
+EMP092,Barbosa,Yasmin,HR Specialist,Human Resources,2024-04-10,2024-08-13,,66951.0
+EMP093,Dias,Lucas,Recruiter,Human Resources,2024-04-26,2024-07-23,,89652.0
+EMP094,Faria,Eduarda,Warehouse Manager,Logistics,2024-05-01,2024-07-07,2024-07-18,131296.0
+EMP095,Nogueira,Luiza,Recruiter,Human Resources,2024-05-10,2024-04-15,,68440.0
+EMP096,Barbosa,Pedro,HR Specialist,Human Resources,2024-05-26,2024-03-16,,131152.0
+EMP097,Cavalcanti,Bruna,Warehouse Manager,Logistics,2024-06-02,2024-02-21,,86763.0
+EMP098,Rezende,Paula,HR Manager,Human Resources,2024-06-07,2024-03-10,,122665.0
+EMP099,Macedo,Vitor,Recruiter,Human Resources,2024-06-09,2024-07-02,,107902.0
+EMP100,Monteiro,Eduarda,Operations Manager,Operations,2024-06-14,2024-09-21,,70749.0
+EMP101,Gomes,Paula,Marketing Manager,Marketing,2024-06-16,2024-06-05,,59879.0
+EMP102,Araújo,Camila,Inventory Specialist,Logistics,2024-06-22,2024-04-28,2024-11-08,138326.0
+EMP103,Rocha,Diogo,Warehouse Manager,Logistics,2024-07-01,2024-10-07,,46086.0
+EMP104,Moura,Guilherme,Logistics Coordinator,Logistics,2024-08-22,2024-12-12,2024-12-19,77793.0
+EMP105,Martins,Camila,Inventory Specialist,Logistics,2024-08-28,2024-10-11,,118706.0
+EMP106,Rocha,Thaís,System Administrator,IT,2024-09-02,2024-07-17,,52834.0
+EMP107,Pinto,Heitor,Account Executive,Sales,2024-09-06,2024-05-31,,57150.0
+EMP108,Santos,Lucas,Logistics Coordinator,Logistics,2024-09-27,2024-04-06,,140467.0
+EMP109,Martins,Laura,Paralegal,Legal,2024-10-02,2024-09-14,2024-08-19,132829.0
+EMP110,Cardoso,João,Accountant,Finance,2024-12-07,2024-01-27,,106344.0
+EMP001,,,,,,,,

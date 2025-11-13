@@ -1,0 +1,111 @@
+UniqueID,LastName,FirstName,JobTitle,Department,HireDate,LastPromotionDate,TerminationDate,AnnualSalary
+PO-0001,Swindler,Skylar,CEO,Executive,01/01/2021,04/01/2023,,380000
+PO-0002,Wilson,Dylan,"VP, Strategy",Executive,09/30/2018,05/21/2020,,288125
+PO-0003,Morgan,Ruby,Comp & Benefits Analyst,HR,05/10/2016,07/02/2017,01/20/2019,113150
+PO-0004,Williams,Yuna,Help Desk Analyst,IT,09/14/2020,07/01/2024,,98775
+PO-0005,Long,Avery,Content Strategist,Marketing,10/25/2019,07/06/2021,,82025
+PO-0006,Hernandez,Charlie,Logistics Manager,Logistics,01/10/2020,11/26/2023,,154295
+PO-0007,Castillo,Morgan,EHS Specialist,Compliance,05/26/2017,02/19/2022,,65775
+PO-0008,Torres,Rhea,Packaging Operator,Manufacturing,02/26/2018,02/28/2019,,74575
+PO-0009,Torres,Violet,HR Business Partner,HR,09/19/2025,,,78625
+PO-0010,Watson,Evan,Production Supervisor,Manufacturing,02/25/2020,05/26/2024,,97575
+PO-0011,Gray,Leo,HR Business Partner,HR,12/27/2021,05/25/2023,,90475
+PO-0012,King,Theo,Lab Technician,R&D,06/14/2025,,,63725
+PO-0013,Brown,Zion,Customer Support Rep,Customer Support,01/01/2019,01/08/2023,08/10/2025,73450
+PO-0014,Morales,Felix,Shipping Coordinator,Logistics,02/22/2021,06/02/2022,,232575
+PO-0015,Peterson,Sam,Compliance Analyst,Legal,07/22/2022,09/06/2024,,106475
+PO-0016,Ramirez,Rafael,Sales Operations Analyst,Sales,01/07/2017,09/28/2018,,90250
+PO-0017,Martin,Caleb,Auditor,Quality,09/17/2016,11/20/2023,,100350
+PO-0018,Young,Nolan,Executive Assistant,Executive,08/14/2024,03/10/2025,,79250
+PO-0019,Martin,Blake,Compliance Manager,Compliance,02/05/2024,12/15/2024,,185075
+PO-0020,Perez,Ulric,Plant Manager,Operations,06/09/2025,,,146625
+PO-0021,Campbell,Kendall,Content Strategist,Marketing,08/20/2019,05/19/2021,,83375
+PO-0022,Robinson,Jude,Controller,Finance,05/12/2022,05/02/2023,,183125
+PO-0023,Long,Quinn,Sales Director,Sales,05/26/2023,06/06/2025,,141250
+PO-0024,Gutierrez,Diego,Quality Manager,Quality,01/17/2022,08/31/2023,,160425
+PO-0025,James,Xena,Maintenance Technician,Manufacturing,10/20/2021,09/07/2023,,74375
+PO-0026,Nelson,Quinn,Executive Assistant,Executive,01/30/2016,03/26/2017,05/27/2023,75775
+PO-0027,Brown,Quinn,Support Manager,Customer Support,10/06/2021,12/23/2024,,148925
+PO-0028,Thomas,Priya,Facilities Manager,Facilities,10/18/2024,07/29/2025,,144925
+PO-0029,Lopez,Alex,Quality Engineer,Quality,09/30/2020,04/30/2025,,98175
+PO-0030,Chavez,Ivy,Plant Manager,Operations,03/01/2024,10/22/2024,,152825
+PO-0031,White,Sage,Compliance Manager,Compliance,09/24/2020,10/26/2023,,152325
+PO-0032,Parker,Hayden,Supply Planner,Operations,01/23/2022,01/29/2023,,95025
+PO-0033,Phillips,Micah,Office Coordinator,Facilities,05/25/2018,07/19/2019,,221725
+PO-0034,Swindler,Theo,Warehouse Supervisor,Logistics,10/16/2024,06/26/2025,,107150
+PO-0035,Castillo,Leo,Facilities Manager,Facilities,02/16/2018,04/11/2019,,127295
+PO-0036,Flores,Sam,Accounts Payable Specialist,Finance,08/21/2021,02/08/2025,,70275
+PO-0037,Cook,Drew,HR Business Partner,HR,10/07/2016,10/30/2024,,75325
+PO-0038,Anderson,Xena,QA/QC Chemist,R&D,12/01/2016,12/15/2023,,94825
+PO-0039,Allen,Kai,Systems Administrator,IT,09/04/2018,08/20/2020,,79175
+PO-0040,Flores,Evan,HR Director,HR,02/20/2021,10/15/2024,,133175
+PO-0041,Ortiz,Hayden,Help Desk Analyst,IT,12/22/2018,05/19/2023,,84875
+PO-0042,Campbell,Beau,Procurement Director,Procurement,11/29/2020,05/07/2025,,159400
+PO-0043,Chavez,Zara,Executive Assistant,Executive,07/04/2017,03/14/2019,,70350
+PO-0044,Scott,Eli,Systems Administrator,IT,04/13/2018,09/25/2021,,93050
+PO-0045,Young,Isla,Accounts Payable Specialist,Finance,04/20/2025,,,60425
+PO-0046,Ross,Milo,Account Executive,Sales,10/23/2017,06/27/2024,,98075
+PO-0047,Smith,Soren,Supply Planner,Operations,09/02/2017,04/21/2022,,118575
+PO-0048,Moore,Rhea,Quality Manager,Quality,06/20/2016,05/29/2017,,166875
+PO-0049,Gray,Sidney,Lab Technician,R&D,09/30/2024,07/11/2025,,70775
+PO-0050,Martin,Aria,Content Strategist,Marketing,04/11/2016,06/29/2020,,86875
+PO-0051,Sanders,Henry,Lab Technician,R&D,10/14/2017,06/28/2019,,85175
+PO-0052,Reyes,Parker,Formulation Scientist,R&D,02/26/2025,09/16/2025,,115525
+PO-0053,Ramirez,Zion,Executive Assistant,Executive,09/06/2019,12/13/2020,,78825
+PO-0054,Brooks,Owen,Shipping Coordinator,Logistics,06/17/2025,,,203350
+PO-0055,Allen,Reese,Digital Marketing Specialist,Marketing,06/05/2016,11/09/2018,07/18/2021,80375
+PO-0056,Kim,Blake,Supply Planner,Operations,06/19/2022,03/16/2023,,108275
+PO-0057,Rogers,Avery,Systems Administrator,IT,11/01/2020,03/07/2023,10/21/2024,80250
+PO-0058,Anderson,Grace,Buyer,Procurement,06/20/2019,08/14/2023,,86175
+PO-0059,Torres,Leo,Sales Director,Sales,09/18/2020,05/02/2023,,142425
+PO-0060,Bailey,Zara,Sourcing Manager,Procurement,02/22/2022,05/04/2024,,157250
+PO-0061,Diaz,Sidney,Customer Support Rep,Customer Support,12/14/2020,08/23/2022,,93575
+PO-0062,Sanders,Gianna,Digital Marketing Specialist,Marketing,10/12/2021,09/29/2025,,81175
+PO-0063,Myers,Rowan,Lab Technician,R&D,07/09/2018,08/30/2020,,61295
+PO-0064,Walker,Morgan,Safety Technician,Facilities,07/12/2025,,,89475
+PO-0065,Richardson,Zane,Data Engineer,IT,07/17/2021,11/11/2022,,137625
+PO-0066,Swindler,Keira,Supply Planner,Operations,06/15/2018,10/02/2024,,110150
+PO-0067,Peterson,Casey,Lab Technician,R&D,06/30/2017,06/22/2025,,94150
+PO-0068,Ramos,Soren,Customer Support Rep,Customer Support,11/14/2022,10/10/2024,,87350
+PO-0069,Cruz,Rhea,Content Strategist,Marketing,01/17/2021,12/04/2022,,78350
+PO-0070,Foster,Violet,Safety Technician,Facilities,09/06/2018,01/16/2020,,78125
+PO-0071,King,Aria,Customer Support Rep,Customer Support,01/21/2022,09/17/2022,02/23/2023,85075
+PO-0072,Jackson,Keira,Help Desk Analyst,IT,07/27/2020,09/04/2023,,107150
+PO-0073,Sanchez,Drew,Quality Engineer,Quality,08/19/2024,08/12/2025,,96775
+PO-0074,Reed,Ulric,Warehouse Supervisor,Logistics,01/25/2016,11/28/2019,,105450
+PO-0075,Ortiz,Zane,QA/QC Chemist,R&D,06/17/2018,05/25/2024,,61350
+PO-0076,Nelson,Vera,Manager,Logistics,11/07/2017,10/10/2019,,281525
+PO-0077,Williams,Olive,Manager,Logistics,04/30/2022,04/16/2023,,284025
+PO-0078,Taylor,Amelia,Compliance Manager,Compliance,07/24/2016,09/21/2020,,147775
+PO-0079,Green,Evan,Customer Support Rep,Customer Support,02/13/2019,05/03/2024,,76775
+PO-0080,Reyes,Skylar,Executive Assistant,Executive,07/07/2018,06/16/2019,,62825
+PO-0081,Harris,Beau,Executive Assistant,Executive,06/01/2017,03/11/2019,,74250
+PO-0082,Ruiz,Faith,Legal Counsel,Legal,11/18/2017,08/29/2019,,145195
+PO-0083,Hill,Logan,Plant Manager,Operations,06/16/2022,01/19/2025,,171295
+PO-0084,Harris,Noah,HR Business Partner,HR,02/21/2017,01/06/2021,,67095
+PO-0085,Jones,Tara,Packaging Operator,Manufacturing,10/20/2020,09/06/2021,,93825
+PO-0086,Nelson,Eden,Executive Assistant,Executive,03/22/2025,10/01/2025,,83195
+PO-0087,Edwards,Dylan,Sales Operations Analyst,Sales,12/22/2017,10/05/2025,,97525
+PO-0088,Ortiz,Zara,Manager,Facilities,11/19/2020,09/12/2024,,235875
+PO-0089,Walker,Lena,Recruiter,HR,01/20/2021,02/25/2024,,107575
+PO-0090,James,Zara,Warehouse Supervisor,Logistics,04/27/2016,06/16/2020,,91450
+PO-0091,Clark,Isla,Maintenance Technician,Manufacturing,10/26/2019,08/26/2023,,78095
+PO-0092,White,Maya,HR Business Partner,HR,01/28/2024,05/06/2025,,75175
+PO-0093,Reyes,Keira,Manager,Facilities,11/21/2024,,05/05/2025,229375
+PO-0094,Mendoza,Xena,Lab Technician,R&D,06/12/2023,04/06/2025,,94375
+PO-0095,Turner,Owen,Customer Support Rep,Customer Support,11/18/2023,03/25/2025,,76675
+PO-0096,Anderson,Zion,Systems Administrator,IT,05/04/2017,07/27/2025,,72475
+PO-0097,Clark,Sage,Manager,Facilities,02/15/2024,09/06/2025,,268725
+PO-0098,Scott,Xavier,Operations Manager,Operations,04/28/2019,10/28/2021,,159825
+PO-0099,Hughes,Jordan,Account Executive,Sales,07/05/2016,03/17/2023,,89075
+PO-0100,Thomas,Leo,Facilities Manager,Facilities,10/14/2025,,,157825
+PO-0101,Stewart,Gianna,ESG Reporting Analyst,Compliance,01/25/2018,05/23/2021,,111525
+PO-0102,Davis,Reese,Warehouse Supervisor,Logistics,10/30/2016,01/07/2025,,83425
+PO-0103,Jackson,Kendall,Procurement Director,Procurement,10/13/2018,09/03/2022,09/11/2023,149775
+PO-0104,Rogers,Wyatt,Warehouse Supervisor,Logistics,12/18/2020,10/03/2024,,108875
+PO-0105,Bailey,Jude,Accounts Payable Specialist,Finance,04/19/2024,01/30/2025,08/12/2025,73475
+PO-0106,Wood,Diego,HR Business Partner,HR,09/09/2018,01/09/2020,,70175
+PO-0107,Phillips,Avery,EHS Specialist,Compliance,08/29/2022,03/30/2023,,75050
+PO-0108,Hughes,Gavin,Buyer,Procurement,08/21/2025,,,75725
+PO-0109,Richardson,Diego,Data Engineer,IT,04/15/2017,01/15/2025,,104150
+PO-0110,Moore,Eli,HR Director,HR,11/10/2017,01/09/2025,,157095

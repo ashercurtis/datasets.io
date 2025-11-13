@@ -1,0 +1,111 @@
+UniqueID,LastName,FirstName,JobTitle,Department,HireDate,LastPromotionDate,TerminationDate,AnnualSalary
+EMP001,Swindler,Skylar,CEO,Executive,2021-01-01,2023-01-01,,250000
+EMP002,Johnson,Reese,Logistics Coordinator,Operations,2023-02-25,2026-02-05,,128062
+EMP003,Evans,Morgan,Account Manager,Sales,2019-09-04,2022-12-29,,60700
+EMP004,Evans,Cameron,Social Media Specialist,Marketing,2022-03-20,2024-10-13,,134874
+EMP005,Lee,Reese,Research Scientist,R&D,2019-09-17,2022-06-08,,113125
+EMP006,Clark,Morgan,Operations Manager,Operations,2020-07-21,2022-12-18,,54931
+EMP007,Adams,Jordan,Product Developer,R&D,2018-01-22,2019-03-14,,63918
+EMP008,Brown,Reese,Social Media Specialist,Marketing,2022-12-31,2024-05-25,,72115
+EMP009,Brown,Drew,Research Scientist,R&D,2022-07-05,2024-08-23,,65403
+EMP010,Davis,Morgan,Software Engineer,IT,2023-09-16,2027-10-03,,65733
+EMP011,Adams,Taylor,Production Supervisor,Production,2019-10-22,2021-09-19,,135763
+EMP012,Martinez,Taylor,Procurement Officer,Operations,2021-01-26,2025-02-03,,71977
+EMP013,Evans,Taylor,HR Manager,HR,2021-02-16,2024-02-29,,122619
+EMP014,Smith,Avery,HR Coordinator,HR,2020-03-09,2022-10-05,,76834
+EMP015,Baker,Jamie,Research Scientist,R&D,2020-10-01,2021-12-04,,120839
+EMP016,Clark,Drew,Social Media Specialist,Marketing,2020-11-05,2021-12-14,,90912
+EMP017,Brown,Drew,Research Scientist,R&D,2021-05-17,2025-01-28,,64906
+EMP018,Adams,Kris,Social Media Specialist,Marketing,2021-01-01,2022-09-26,,46448
+EMP019,Baker,Cameron,Sales Executive,Sales,2022-04-25,2024-11-21,,74223
+EMP020,Brown,Robin,Research Scientist,R&D,2024-02-01,2025-04-17,,62080
+EMP021,Martinez,Avery,Payroll Specialist,Finance,2021-07-03,2022-11-16,,89934
+EMP022,Brown,Sky,Controller,Finance,2022-08-05,2024-01-12,,63473
+EMP023,Garcia,Kris,Machine Operator,Production,2019-04-09,2020-10-18,,130772
+EMP024,Adams,Reese,Controller,Finance,2021-05-25,2023-06-15,,99877
+EMP025,Adams,Sky,Account Manager,Sales,2023-11-02,2027-05-21,,108550
+EMP026,Lee,Reese,Compliance Officer,Legal,2021-08-19,2025-03-28,,84331
+EMP027,Garcia,Avery,Production Supervisor,Production,2023-11-01,2027-10-14,,96208
+EMP028,Miller,Kris,Marketing Manager,Marketing,2022-02-26,2023-07-31,,79338
+EMP029,Smith,Alex,System Administrator,IT,2023-06-05,2026-09-27,,52768
+EMP030,Lee,Drew,Research Scientist,R&D,2018-05-07,2021-05-24,,102349
+EMP031,Lee,Sky,Account Manager,Sales,2020-05-25,2024-05-01,,131970
+EMP032,Garcia,Sky,Accountant,Finance,2018-03-27,2022-04-07,,82487
+EMP033,Baker,Jamie,Production Supervisor,Production,2023-02-28,2026-07-02,,108413
+EMP034,Adams,Robin,Data Analyst,IT,2021-01-15,2024-12-15,,74483
+EMP035,Brown,Jamie,System Administrator,IT,2022-01-13,2023-03-11,2024-01-22,109229
+EMP036,Wilson,Cameron,Research Scientist,R&D,2020-07-07,2022-12-18,,103666
+EMP037,Smith,Casey,Customer Success Rep,Sales,2022-10-20,2026-10-17,,115489
+EMP038,Davis,Casey,Sales Executive,Sales,2024-08-04,2027-10-06,2030-06-23,72180
+EMP039,Davis,Alex,HR Manager,HR,2021-11-01,2023-11-23,,100340
+EMP040,Martinez,Morgan,Production Supervisor,Production,2019-03-24,2022-05-16,,94157
+EMP041,Clark,Jordan,Production Supervisor,Production,2019-10-16,2023-02-05,,108419
+EMP042,Lee,Reese,Logistics Coordinator,Operations,2018-06-09,2022-02-25,,107234
+EMP043,Davis,Sky,Product Developer,R&D,2022-01-11,2025-07-11,,79768
+EMP044,Brown,Casey,Procurement Officer,Operations,2022-11-17,2026-05-11,,86007
+EMP045,Wilson,Morgan,Recruiter,HR,2020-05-19,2022-02-28,,86129
+EMP046,Martinez,Riley,Sales Executive,Sales,2024-07-05,2026-09-25,,83609
+EMP047,Clark,Robin,Customer Success Rep,Sales,2021-09-13,2024-08-22,,102849
+EMP048,Evans,Sky,Operations Manager,Operations,2021-10-04,2023-08-20,,134833
+EMP049,Smith,Robin,Procurement Officer,Operations,2023-05-07,2026-05-11,,118372
+EMP050,Lee,Jordan,Research Scientist,R&D,2023-11-25,2026-04-25,2027-08-09,46698
+EMP051,Baker,Robin,Brand Strategist,Marketing,2019-05-22,2023-01-13,,58404
+EMP052,Davis,Cameron,Data Analyst,IT,2020-08-04,2023-04-25,,117116
+EMP053,Brown,Blake,Financial Analyst,Finance,2023-08-05,2024-12-09,,54412
+EMP054,Smith,Reese,Operations Manager,Operations,2021-01-10,2023-06-09,,59566
+EMP055,Clark,Drew,Accountant,Finance,2022-08-05,2025-09-07,,89856
+EMP056,Smith,Jordan,Software Engineer,IT,2022-02-21,2023-02-23,,63595
+EMP057,Garcia,Riley,HR Coordinator,HR,2023-10-13,2027-06-24,,79902
+EMP058,Lee,Jordan,Graphic Designer,Marketing,2021-06-18,2023-02-18,,64651
+EMP059,Lopez,Kris,Product Developer,R&D,2018-08-20,2021-03-15,,90052
+EMP060,Johnson,Reese,Research Scientist,R&D,2022-05-14,2024-04-09,,102216
+EMP061,Adams,Blake,Payroll Specialist,Finance,2024-03-20,2027-07-26,,53930
+EMP062,Garcia,Jordan,Recruiter,HR,2018-11-19,2021-01-25,2022-06-15,73328
+EMP063,Adams,Sky,Procurement Officer,Operations,2024-05-04,2025-05-18,,51304
+EMP064,Lee,Morgan,Legal Counsel,Legal,2022-10-07,2024-05-03,2025-09-15,116597
+EMP065,Anderson,Jordan,Data Analyst,IT,2021-05-23,2025-02-25,,118530
+EMP066,Garcia,Kris,HR Manager,HR,2021-04-17,2024-02-08,,60587
+EMP067,Davis,Reese,Brand Strategist,Marketing,2023-04-25,2025-06-20,,117846
+EMP068,Miller,Alex,Software Engineer,IT,2022-11-21,2025-09-12,,123253
+EMP069,Martinez,Blake,Legal Counsel,Legal,2020-09-18,2022-09-30,,114123
+EMP070,Baker,Casey,Recruiter,HR,2022-04-07,2026-04-18,,135013
+EMP071,Garcia,Morgan,Research Scientist,R&D,2022-03-28,2024-12-24,,94901
+EMP072,Davis,Avery,Sales Executive,Sales,2021-11-24,2024-07-15,,124249
+EMP073,Martinez,Alex,Logistics Coordinator,Operations,2022-02-17,2024-12-02,,67625
+EMP074,Miller,Sky,Software Engineer,IT,2018-07-16,2022-02-15,,70696
+EMP075,Brown,Riley,Controller,Finance,2018-01-10,2019-09-18,2020-11-01,124189
+EMP076,Adams,Robin,Account Manager,Sales,2018-07-09,2020-11-30,,116704
+EMP077,Clark,Alex,Recruiter,HR,2023-04-09,2025-07-16,,93383
+EMP078,Miller,Kris,Quality Inspector,Production,2021-11-26,2025-11-07,,95332
+EMP079,Wilson,Casey,Machine Operator,Production,2018-04-18,2019-08-19,,130159
+EMP080,Anderson,Jamie,HR Coordinator,HR,2020-11-15,2022-12-28,,84871
+EMP081,Lee,Alex,Production Supervisor,Production,2018-10-22,2022-04-05,,116973
+EMP082,Baker,Cameron,Machine Operator,Production,2024-06-16,2027-10-19,,134881
+EMP083,Lee,Taylor,Production Supervisor,Production,2019-09-23,2023-08-30,,69357
+EMP084,Wilson,Avery,Machine Operator,Production,2022-02-09,2023-04-19,,105225
+EMP085,Adams,Kris,Recruiter,HR,2022-05-05,2025-11-15,,62050
+EMP086,Brown,Jordan,Production Supervisor,Production,2020-04-13,2021-09-13,,93186
+EMP087,Baker,Riley,Accountant,Finance,2022-04-19,2025-03-17,,109506
+EMP088,Brown,Avery,Accountant,Finance,2023-01-03,2024-10-08,,114546
+EMP089,Johnson,Kris,Product Developer,R&D,2020-09-30,2022-01-01,,51211
+EMP090,Adams,Taylor,Graphic Designer,Marketing,2023-06-10,2026-06-25,,101272
+EMP091,Garcia,Jamie,Sales Executive,Sales,2023-02-14,2025-03-10,,49105
+EMP092,Adams,Blake,Recruiter,HR,2018-06-24,2022-02-20,,90993
+EMP093,Adams,Jamie,Software Engineer,IT,2018-01-23,2021-04-23,,58483
+EMP094,Adams,Taylor,Research Scientist,R&D,2020-09-24,2022-01-17,,48667
+EMP095,Garcia,Sky,Brand Strategist,Marketing,2023-05-06,2025-11-26,,87145
+EMP096,Smith,Cameron,Production Supervisor,Production,2020-11-16,2023-03-22,,112263
+EMP097,Clark,Drew,Logistics Coordinator,Operations,2022-06-08,2025-10-31,,105437
+EMP098,Baker,Morgan,Recruiter,HR,2018-06-02,2020-07-08,2021-07-31,73688
+EMP099,Baker,Morgan,Quality Inspector,Production,2019-08-20,2021-02-13,,102230
+EMP100,Martinez,Blake,HR Coordinator,HR,2021-09-07,2025-07-01,,73024
+EMP101,Smith,Robin,Account Manager,Sales,2018-05-27,2021-08-04,,110725
+EMP102,Davis,Jamie,Brand Strategist,Marketing,2018-11-13,2021-12-12,,124034
+EMP103,Garcia,Reese,Quality Inspector,Production,2024-09-12,2025-09-18,,53510
+EMP104,Garcia,Kris,Product Developer,R&D,2019-08-30,2023-03-30,,86316
+EMP105,Martinez,Riley,Brand Strategist,Marketing,2018-11-05,2020-11-07,,98193
+EMP106,Davis,Reese,Brand Strategist,Marketing,2023-11-25,2025-11-22,2028-04-08,102290
+EMP107,Baker,Blake,Recruiter,HR,2019-03-08,2020-04-07,,82776
+EMP108,Lopez,Morgan,Product Developer,R&D,2023-05-05,2026-06-17,,119180
+EMP109,Garcia,Kris,Payroll Specialist,Finance,2020-07-21,2022-05-13,,112372
+EMP110,Johnson,Kris,Software Engineer,IT,2018-03-09,2021-01-22,2023-02-24,120503

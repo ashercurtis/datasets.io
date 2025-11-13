@@ -1,0 +1,111 @@
+UniqueID,LastName,FirstName,JobTitle,Department,HireDate,LastPromotionDate,TerminationDate,AnnualSalary
+1,Swindler,Skylar,CEO,Executive,01/01/2021,,,500000
+2,Melo,Mateus,Account Executive,Sales,09/05/2023,12/07/2024,,103147
+3,Souza,João,Social Media Specialist,Marketing,01/05/2021,31/01/2022,,85919
+4,Moreira,Gabriel,Marketing Manager,Marketing,16/03/2022,12/03/2023,,121039
+5,Gomes,Rodrigo,Plant Manager,Operations,05/09/2021,17/09/2023,,87162
+6,Rodrigues,Bruno,Controller,Finance,14/07/2021,09/05/2022,,161684
+7,Barbosa,Camila,COO,Executive,29/07/2022,01/04/2024,,185010
+8,Ribeiro,Maria,Warehouse Supervisor,Logistics,02/01/2024,,,142759
+9,Moreira,Mariana,Driver,Logistics,24/05/2020,11/08/2022,,132659
+10,Barbosa,Fernanda,Marketing Manager,Marketing,30/01/2020,18/05/2022,,158174
+11,Silva,Thiago,CFO,Executive,30/01/2023,29/02/2024,,153752
+12,Rocha,Mariana,Accountant,Finance,20/08/2022,11/11/2024,,183207
+13,Silva,Rafael,Warehouse Supervisor,Logistics,04/10/2022,,,51747
+14,Santos,Lucas,Social Media Specialist,Marketing,21/09/2020,29/11/2022,,112766
+15,Almeida,Ana,Sales Manager,Sales,18/03/2023,06/07/2024,,48007
+16,Rocha,Thiago,Plant Manager,Operations,11/07/2023,,,171340
+17,Oliveira,Patrícia,HR Assistant,HR,02/01/2020,01/03/2021,,188335
+18,Martins,Camila,Financial Analyst,Finance,11/11/2023,,,116401
+19,Gomes,Gabriel,Social Media Specialist,Marketing,28/08/2021,18/10/2022,,54857
+20,Rodrigues,Fernanda,Sales Representative,Sales,08/05/2022,31/07/2024,,46433
+21,Dias,Pedro,CFO,Executive,08/01/2021,16/01/2022,,117206
+22,Moreira,Juliana,Account Executive,Sales,07/04/2020,17/10/2021,,32441
+23,Almeida,Mariana,HR Assistant,HR,25/08/2023,,,115082
+24,Ribeiro,Beatriz,Accountant,Finance,15/10/2023,12/06/2024,,81277
+25,Ferreira,Gabriel,Sales Manager,Sales,24/06/2020,15/03/2022,,191036
+26,Moreira,Rodrigo,Brand Strategist,Marketing,08/11/2020,09/11/2022,,65103
+27,Dias,Fernanda,CTO,Executive,17/03/2022,12/10/2023,,91442
+28,Ferreira,Bruno,Forklift Operator,Logistics,01/01/2021,27/01/2022,,41515
+29,Araújo,Patrícia,Accountant,Finance,22/10/2021,15/03/2024,,80456
+30,Lima,João,Social Media Specialist,Marketing,04/11/2020,23/08/2021,,75108
+31,Oliveira,Ana,Production Supervisor,Operations,03/06/2020,25/07/2021,,122611
+32,Rocha,Letícia,Production Supervisor,Operations,14/10/2023,,,73256
+33,Rodrigues,Bruno,Accountant,Finance,27/08/2023,,,161270
+34,Teixeira,Letícia,CTO,Executive,18/03/2023,,,66427
+35,Dias,Ana,CFO,Executive,29/03/2021,03/02/2022,,63209
+36,Teixeira,Patrícia,Controller,Finance,14/10/2020,15/10/2021,,149862
+37,Barbosa,Camila,Recruiter,HR,09/10/2020,31/05/2022,,196643
+38,Teixeira,Camila,Production Supervisor,Operations,10/02/2021,08/10/2022,,58186
+39,Oliveira,Maria,Recruiter,HR,05/08/2020,06/12/2022,,194510
+40,Barbosa,Rodrigo,Recruiter,HR,21/02/2021,01/11/2022,,74978
+41,Martins,Felipe,Brand Strategist,Marketing,09/06/2022,10/12/2022,,194052
+42,Ribeiro,Fernanda,Account Executive,Sales,09/03/2020,11/10/2021,,51099
+43,Araújo,Camila,Quality Inspector,Operations,26/02/2022,11/12/2022,,65756
+44,Costa,Juliana,CMO,Executive,08/09/2023,04/12/2024,,47550
+45,Araújo,Fernanda,Plant Manager,Operations,30/04/2023,13/09/2024,,106473
+46,Barbosa,Beatriz,CTO,Executive,23/02/2020,27/05/2021,,118976
+47,Moreira,Rodrigo,Sales Representative,Sales,09/03/2021,07/08/2022,,31763
+48,Melo,João,CTO,Executive,19/07/2023,,,128350
+49,Ferreira,Patrícia,Recruiter,HR,02/08/2023,,,101032
+50,Araújo,Pedro,CFO,Executive,11/03/2020,17/03/2021,,114315
+51,Silva,Thiago,CEO,Executive,14/11/2020,16/11/2022,,146478
+52,Melo,Patrícia,Sales Representative,Sales,02/04/2020,09/09/2021,,138549
+53,Rocha,Felipe,HR Manager,HR,19/08/2023,,,142338
+54,Almeida,Rafael,Sales Manager,Sales,12/07/2023,13/08/2024,,144062
+55,Oliveira,Maria,HR Manager,HR,24/07/2021,23/09/2022,,122703
+56,Melo,Juliana,Social Media Specialist,Marketing,26/10/2020,02/08/2022,,90270
+57,Martins,Larissa,Production Supervisor,Operations,24/01/2023,,,113565
+58,Almeida,Gabriel,Forklift Operator,Logistics,24/01/2022,08/04/2024,,181180
+59,Oliveira,Felipe,COO,Executive,08/03/2020,02/03/2021,,176381
+60,Melo,Thiago,Social Media Specialist,Marketing,15/05/2021,24/06/2023,,78204
+61,Oliveira,Juliana,Driver,Logistics,13/11/2020,26/01/2023,,52511
+62,Silva,Gabriel,Marketing Manager,Marketing,15/02/2021,26/07/2022,,117901
+63,Araújo,Maria,CTO,Executive,04/03/2020,28/12/2021,,197370
+64,Gomes,Gabriel,COO,Executive,16/02/2021,22/01/2022,,88056
+65,Martins,Camila,CEO,Executive,07/03/2020,01/08/2022,,122170
+66,Dias,Mateus,Driver,Logistics,01/03/2023,14/02/2024,,165068
+67,Rodrigues,Larissa,Recruiter,HR,11/12/2021,30/11/2022,,89686
+68,Barbosa,Thiago,Sales Manager,Sales,02/02/2020,02/11/2020,,89631
+69,Silva,Ana,Payroll Specialist,Finance,10/07/2023,,,90823
+70,Almeida,Pedro,Account Executive,Sales,28/11/2023,,,174938
+71,Dias,Mateus,Sales Representative,Sales,18/07/2022,26/03/2024,,109130
+72,Santos,Gabriel,Sales Representative,Sales,12/05/2023,,,50886
+73,Lima,Lucas,Recruiter,HR,06/09/2020,11/03/2021,,97000
+74,Moreira,Rodrigo,Financial Analyst,Finance,15/08/2022,06/06/2023,,139032
+75,Rodrigues,Rafael,Sales Representative,Sales,30/07/2020,14/09/2021,,81289
+76,Moreira,Rafael,Quality Inspector,Operations,03/02/2023,13/05/2024,,43843
+77,Araújo,Ana,Sales Manager,Sales,18/04/2023,23/08/2024,,132533
+78,Rocha,Ana,Sales Representative,Sales,09/08/2021,13/10/2022,,64811
+79,Rodrigues,Beatriz,COO,Executive,18/03/2020,02/03/2022,,61010
+80,Dias,Camila,Marketing Manager,Marketing,25/11/2023,,,198278
+81,Almeida,Bruno,Social Media Specialist,Marketing,15/05/2021,13/04/2022,,58888
+82,Ferreira,Thiago,Social Media Specialist,Marketing,27/11/2022,05/09/2024,,68396
+83,Teixeira,Pedro,Recruiter,HR,26/01/2022,13/04/2024,,111779
+84,Ferreira,Mariana,Marketing Manager,Marketing,18/03/2023,19/10/2024,,112331
+85,Lima,Lucas,Accountant,Finance,30/03/2020,08/03/2022,,159377
+86,Gomes,Rodrigo,Driver,Logistics,18/10/2023,,,66585
+87,Martins,Rodrigo,Account Executive,Sales,10/01/2020,17/10/2020,,186552
+88,Carvalho,Mateus,Forklift Operator,Logistics,09/11/2020,30/01/2022,,77811
+89,Melo,Rafael,Brand Strategist,Marketing,02/01/2020,20/04/2022,,165598
+90,Ribeiro,Felipe,Account Executive,Sales,08/06/2020,03/11/2021,,33580
+91,Barbosa,Fernanda,CEO,Executive,23/10/2022,07/09/2023,,144869
+92,Costa,Rodrigo,Sales Representative,Sales,09/09/2021,15/02/2024,,45917
+93,Lima,Pedro,Accountant,Finance,17/10/2020,06/10/2022,,181307
+94,Moreira,Camila,CFO,Executive,11/01/2020,01/01/2022,,95438
+95,Lima,Fernanda,Sales Representative,Sales,01/06/2022,13/04/2024,,32468
+96,Martins,Ana,Production Supervisor,Operations,10/06/2021,23/03/2022,,100116
+97,Carvalho,Gabriel,CFO,Executive,25/11/2023,,,148243
+98,Souza,Felipe,HR Manager,HR,22/12/2021,12/07/2023,,183208
+99,Almeida,Fernanda,Controller,Finance,13/07/2022,02/12/2024,,39100
+100,Dias,Camila,Social Media Specialist,Marketing,25/12/2020,20/10/2021,,94116
+101,Lima,Letícia,Quality Inspector,Operations,16/09/2023,12/07/2024,,70819
+102,Oliveira,Fernanda,HR Assistant,HR,04/08/2022,09/03/2024,,100704
+103,Santos,Mariana,Supply Chain Coordinator,Logistics,15/10/2020,14/02/2023,,110112
+104,Almeida,Mariana,Quality Inspector,Operations,09/12/2020,12/06/2021,,93286
+105,Dias,Maria,Sales Representative,Sales,04/11/2020,15/08/2021,,64660
+106,Silva,Mateus,Financial Analyst,Finance,27/10/2023,,,95794
+107,Teixeira,Patrícia,HR Assistant,HR,28/12/2023,04/10/2024,,110303
+108,Barbosa,Camila,Account Executive,Sales,16/11/2021,07/01/2024,,43490
+109,Teixeira,Larissa,Sales Representative,Sales,08/03/2021,10/07/2022,,110460
+110,Rodrigues,Pedro,Recruiter,HR,30/12/2022,25/03/2024,,37568

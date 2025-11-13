@@ -1,0 +1,111 @@
+UniqueID,LastName,FirstName,JobTitle,Department,HireDate,LastPromotionDate,TerminationDate,AnnualSalary
+1,Swindler,Skylar,CEO,Executive,2021-01-01,2023-01-01,,650000
+17,Pereira,Fernanda,Financial Analyst,Finance,2021-04-15,2021-11-14,,130000
+74,Lima,Fernanda,Sales Representative,Sales,2021-04-22,2021-11-04,,100000
+41,Souza,Igor,Sales Representative,Sales,2021-05-07,2022-12-08,,100000
+26,Almeida,Daniela,Sales Representative,Sales,2021-05-21,2022-10-25,,100000
+100,Pereira,Helena,Operations Manager,Operations,2021-05-31,2022-12-12,,200000
+65,Costa,Ana,Recruiter,HR,2021-06-09,2022-06-15,,90000
+107,Oliveira,Eduardo,Field Engineer,Operations,2021-06-28,2022-06-23,,130000
+4,Pereira,Juliana,Operations Manager,Operations,2021-06-29,2023-05-21,,200000
+103,Silva,Igor,Sales Manager,Sales,2021-07-15,2023-02-10,,160000
+60,Lima,Helena,System Administrator,IT,2021-07-27,2023-01-28,,110000
+105,Almeida,Fernanda,Sales Representative,Sales,2021-08-30,2022-03-16,,100000
+2,Rodrigues,Helena,Operations Manager,Operations,2021-09-08,2022-05-17,,200000
+51,Lima,Ana,IT Manager,IT,2021-09-24,2023-04-17,,160000
+62,Ferreira,Helena,Research Scientist,R&D,2021-10-01,2022-06-24,,140000
+56,Oliveira,Ana,Accountant,Finance,2021-10-21,2023-10-10,,110000
+78,Pereira,Daniela,Sales Representative,Sales,2021-10-26,2023-02-05,,100000
+95,Oliveira,Gustavo,HR Manager,HR,2021-10-26,2023-03-09,,150000
+27,Pereira,Gustavo,Accountant,Finance,2021-11-11,2023-02-02,,110000
+36,Almeida,Gustavo,Technician,Operations,2021-11-17,2022-10-22,,80000
+43,Santos,Ana,Lab Technician,R&D,2021-11-18,2023-10-09,,85000
+24,Lima,Gustavo,CFO,Executive,2021-11-23,2022-11-24,,500000
+83,Santos,Gustavo,Research Scientist,R&D,2021-11-26,2022-12-27,,140000
+81,Rodrigues,Juliana,Operations Manager,Operations,2021-12-16,2023-04-22,,200000
+8,Pereira,Carlos,HR Manager,HR,2022-01-06,2023-11-13,,150000
+94,Lima,Bruno,Operations Manager,Operations,2022-01-19,2022-08-11,,200000
+33,Lima,Igor,CEO,Executive,2022-02-25,2023-03-16,,650000
+91,Souza,Juliana,System Administrator,IT,2022-02-28,2023-02-01,,110000
+14,Costa,Carlos,Field Engineer,Operations,2022-03-03,2022-11-26,,130000
+89,Pereira,Igor,COO,Executive,2022-03-28,2023-03-30,,500000
+44,Santos,Gustavo,Support Technician,IT,2022-04-07,2024-01-01,,70000
+46,Lima,Fernanda,IT Manager,IT,2022-04-14,2023-04-07,,160000
+90,Santos,Gustavo,Field Engineer,Operations,2022-04-28,2023-06-01,,130000
+61,Costa,Gustavo,Sales Representative,Sales,2022-05-12,2024-02-22,,100000
+22,Almeida,Daniela,System Administrator,IT,2022-05-17,2022-12-14,,110000
+15,Pereira,Juliana,Accountant,Finance,2022-05-30,2024-03-30,,110000
+25,Oliveira,Ana,Technician,Operations,2022-06-14,2024-01-08,,80000
+66,Rodrigues,Ana,Sales Manager,Sales,2022-06-17,2023-05-20,,160000
+84,Silva,Fernanda,Accountant,Finance,2022-06-23,2023-02-28,,110000
+35,Santos,Gustavo,Research Scientist,R&D,2022-07-20,2023-01-23,,140000
+96,Lima,Helena,Accountant,Finance,2022-07-29,2024-04-09,,110000
+34,Santos,Igor,Financial Analyst,Finance,2022-08-02,2023-05-04,,130000
+69,Santos,Carlos,Sales Manager,Sales,2022-08-29,2023-04-08,,160000
+64,Silva,Eduardo,Research Scientist,R&D,2022-09-02,2024-06-29,,140000
+57,Souza,Daniela,Support Technician,IT,2022-09-29,2024-07-12,,70000
+52,Almeida,Daniela,Legal Advisor,Legal,2022-11-11,2023-10-28,,170000
+32,Lima,Gustavo,Legal Advisor,Legal,2022-11-16,2023-09-13,,170000
+70,Rodrigues,Gustavo,Field Engineer,Operations,2022-11-24,2024-03-24,,130000
+97,Oliveira,Bruno,Research Scientist,R&D,2022-11-29,2023-09-24,,140000
+92,Ferreira,Ana,Sales Representative,Sales,2022-12-08,2024-02-28,,100000
+11,Silva,Daniela,Research Scientist,R&D,2023-01-11,2024-04-01,,140000
+67,Costa,Fernanda,Support Technician,IT,2023-01-16,2024-10-08,,70000
+9,Souza,Gustavo,CFO,Executive,2023-03-01,2024-12-15,,500000
+108,Ferreira,Juliana,Recruiter,HR,2023-03-01,2024-05-20,,90000
+23,Lima,Eduardo,CEO,Executive,2023-03-10,2024-07-14,,650000
+16,Almeida,Eduardo,Legal Advisor,Legal,2023-03-24,2024-09-24,,170000
+54,Oliveira,Gustavo,Sales Manager,Sales,2023-05-08,2024-09-28,,160000
+82,Pereira,Fernanda,Accountant,Finance,2023-06-02,2023-12-13,,110000
+53,Almeida,Helena,Recruiter,HR,2023-06-09,2024-12-17,,90000
+68,Ferreira,Gustavo,Accountant,Finance,2023-06-27,2024-12-19,,110000
+3,Oliveira,Helena,Legal Advisor,Legal,2023-07-20,2024-08-31,,170000
+86,Costa,Gustavo,Operations Manager,Operations,2023-07-20,2024-08-08,,200000
+6,Lima,Ana,Operations Manager,Operations,2023-07-25,2024-02-13,,200000
+20,Rodrigues,Fernanda,Accountant,Finance,2023-08-08,2025-04-29,,110000
+93,Lima,Bruno,Legal Advisor,Legal,2023-08-15,2025-03-28,,170000
+39,Costa,Carlos,Technician,Operations,2023-09-11,2024-07-01,,80000
+102,Almeida,Gustavo,Sales Manager,Sales,2023-09-26,2025-03-09,,160000
+104,Ferreira,Fernanda,CEO,Executive,2023-11-01,2025-08-30,,650000
+79,Souza,Ana,Field Engineer,Operations,2023-11-28,2025-02-09,,130000
+63,Lima,Ana,CFO,Executive,2023-12-06,2025-07-16,,500000
+50,Pereira,Carlos,HR Manager,HR,2023-12-21,2025-01-12,,150000
+30,Lima,Bruno,HR Manager,HR,2023-12-29,2025-01-10,,150000
+55,Ferreira,Juliana,COO,Executive,2024-03-21,2025-04-15,,500000
+106,Souza,Bruno,Support Technician,IT,2024-03-27,2025-06-22,,70000
+80,Costa,Eduardo,HR Manager,HR,2024-04-10,2025-02-10,,150000
+76,Pereira,Igor,Recruiter,HR,2024-05-13,,,90000
+12,Lima,Ana,Legal Advisor,Legal,2024-06-21,,,170000
+59,Lima,Carlos,Accountant,Finance,2024-06-21,,,110000
+48,Pereira,Carlos,IT Manager,IT,2024-07-05,,,160000
+75,Lima,Fernanda,CEO,Executive,2024-07-15,,,650000
+73,Costa,Helena,Accountant,Finance,2024-07-19,,,110000
+29,Silva,Juliana,Accountant,Finance,2024-07-29,,,110000
+85,Oliveira,Eduardo,Legal Advisor,Legal,2024-08-08,2025-02-16,,170000
+88,Silva,Bruno,Operations Manager,Operations,2024-08-12,2025-02-13,,200000
+31,Oliveira,Carlos,COO,Executive,2024-08-22,,,500000
+49,Silva,Gustavo,Recruiter,HR,2024-08-30,2025-03-14,,90000
+98,Santos,Eduardo,System Administrator,IT,2024-09-13,2025-06-25,,110000
+77,Lima,Bruno,Sales Manager,Sales,2024-09-26,,,160000
+21,Souza,Gustavo,Sales Manager,Sales,2024-10-02,2025-06-29,,160000
+109,Lima,Gustavo,Research Scientist,R&D,2024-10-07,2025-09-10,,140000
+110,Costa,Helena,Recruiter,HR,2024-11-05,,,90000
+37,Silva,Carlos,HR Manager,HR,2024-11-11,2025-09-22,,150000
+72,Rodrigues,Bruno,Sales Manager,Sales,2024-11-14,,,160000
+28,Santos,Daniela,Operations Manager,Operations,2024-11-18,,,200000
+40,Rodrigues,Igor,IT Manager,IT,2024-12-03,,,160000
+47,Santos,Helena,CFO,Executive,2025-01-07,,,500000
+5,Lima,Fernanda,COO,Executive,2025-02-03,,,500000
+71,Pereira,Bruno,Research Scientist,R&D,2025-02-26,,,140000
+38,Santos,Igor,Lab Technician,R&D,2025-02-27,,,85000
+18,Rodrigues,Helena,Sales Manager,Sales,2025-02-28,,,160000
+58,Almeida,Fernanda,Financial Analyst,Finance,2025-03-07,,,130000
+7,Pereira,Juliana,HR Manager,HR,2025-03-11,,,150000
+19,Rodrigues,Igor,CFO,Executive,2025-03-24,,,500000
+13,Lima,Daniela,CEO,Executive,2025-04-15,,,650000
+87,Oliveira,Ana,Legal Advisor,Legal,2025-05-05,,,170000
+45,Souza,Gustavo,COO,Executive,2025-05-12,,,500000
+42,Lima,Juliana,Technician,Operations,2025-05-16,,,80000
+101,Ferreira,Bruno,Support Technician,IT,2025-08-07,,,70000
+10,Lima,Bruno,Legal Advisor,Legal,2025-08-21,,,170000
+99,Lima,Gustavo,Lab Technician,R&D,2025-09-19,,,85000

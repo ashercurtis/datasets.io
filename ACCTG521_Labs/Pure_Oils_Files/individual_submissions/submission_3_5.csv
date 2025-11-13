@@ -1,0 +1,122 @@
+UniqueID,LastName,FirstName,JobTitle,Department,HireDate,LastPromotionDate,TerminationDate,AnnualSalary
+E001,Swindler,Skylar,CEO,Executive,1/1/2021,,,175000 USD
+E002,Guedes,Maria Cristina,Palm Leaf Harvester,Harvesting Operations,9/1/2021,,,6445 R
+E003,Nogueira,Francisco,Recruiter,Human Resources,18/01/2021,,,39790 R
+E004,Pires,Maria Helena,Warehouse Lead,Harvesting Operations,20/01/2021,30/09/2021,,7487 R
+E005,Moreira,ConceiÃ§Ã£o,Warehouse Lead,Harvesting Operations,24/01/2021,30/09/2021,,8360 R
+E006,Pinto,Roberto,Warehouse Lead,Harvesting Operations,28/01/2021,30/09/2021,,8857 R
+E007,Martins,Patricia,Palm Leaf Harvester,Harvesting Operations,8/2/2021,,,6716 R
+E008,Barbosa,Paulo,Sales Manager,Sales/Marketing,26/02/2021,,28/04/2021,57319 R
+E009,Zimmermann,Heidi,Palm Leaf Harvester,Harvesting Operations,27/02/2021,,6/5/2022,7041 R
+E010,Cunha,ConceiÃ§Ã£o,Warehouse Lead,Harvesting Operations,2/3/2021,30/09/2021,,8218 R
+E011,Borges,Carlos Eduardo,Palm Leaf Harvester,Harvesting Operations,15/04/2021,,,6792 R
+E012,Cunha,Aparecida,Operations Manager,Harvesting Operations,17/04/2021,,,60339 R
+E013,Castro,Ricardo,Logistics Coordinator,Harvesting Operations,18/04/2021,,,33508 R
+E014,Rodrigues,Carlos Alberto,Palm Leaf Harvester,Harvesting Operations,20/04/2021,,,6102 R
+E015,Azevedo,JosÃ© Francisco,Palm Leaf Harvester,Harvesting Operations,9/5/2021,,,6926 R
+E016,Brito,AntÃ´nio,Palm Leaf Harvester,Harvesting Operations,18/05/2021,,,6305 R
+E017,Lima,Raimundo,Sales Manager,Sales/Marketing,22/05/2021,30/09/2022,,46969 R
+E018,Carvalho,Simone,Palm Leaf Harvester,Harvesting Operations,23/05/2021,,20/03/2022,7163 R
+E019,Costa,Antonio Carlos,Palm Leaf Harvester,Harvesting Operations,5/6/2021,,,6971 R
+E020,Monteiro,Bruno,Operations Manager,Harvesting Operations,17/06/2021,,,61415 R
+E021,Neves,Paulo,Sales Manager,Sales/Marketing,20/06/2021,30/09/2022,,55421 R
+E022,Lima,Maria JosÃ©,Warehouse Lead,Harvesting Operations,21/06/2021,30/09/2022,,8508 R
+E023,Santos,Simone,Sales Representative,Sales/Marketing,23/06/2021,,,35903 R
+E024,Yamada,Michiko,Palm Leaf Harvester,Harvesting Operations,30/06/2021,,,7120 R
+E025,Machado,Paulo,Warehouse Lead,Harvesting Operations,1/7/2021,30/09/2022,,7406 R
+E026,Thompson,Sarah,Accounts Receivable Specialist,Finance/Accounting,4/7/2021,,,31225 USD
+E027,Rodrigues,Ana,Palm Leaf Harvester,Harvesting Operations,8/7/2021,,,6221 R
+E028,Borges,Gustavo,Palm Leaf Harvester,Harvesting Operations,12/7/2021,,1/7/2023,6834 R
+E029,Rodrigues,Ana,Palm Leaf Harvester,Harvesting Operations,23/07/2021,,,6457 R
+E030,Ferreira,JoÃ£o Carlos,Palm Leaf Harvester,Harvesting Operations,29/07/2021,,,7065 R
+E031,Dias,Larissa,Palm Leaf Harvester,Harvesting Operations,29/07/2021,,,6292 R
+E032,Martins,Julio,HR Coordinator,Human Resources,2/8/2021,,,31690 R
+E033,Teixeira,Ivone,Palm Leaf Harvester,Harvesting Operations,26/08/2021,,,6429 R
+E034,Rocha,Fernando,Palm Leaf Harvester,Harvesting Operations,26/08/2021,,6/12/2021,6114 R
+E035,Melo,Sebastiana,HR Coordinator,Human Resources,10/9/2021,,,32270 R
+E036,Souza,JoÃ£o Paulo,Sales Manager,Sales/Marketing,15/09/2021,30/09/2022,,33895 R
+E037,Moreira,Renata,Warehouse Lead,Harvesting Operations,15/09/2021,30/09/2022,,8562 R
+E038,Fonseca,Larissa,Warehouse Lead,Harvesting Operations,26/09/2021,30/09/2022,,7856 R
+E039,Costa,Rodrigo,Palm Leaf Harvester,Harvesting Operations,4/10/2021,,,6532 R
+E040,Moreira,Anderson,Warehouse Lead,Harvesting Operations,9/10/2021,30/09/2022,,8129 R
+E041,Pereira,Luis Fernando,Palm Leaf Harvester,Harvesting Operations,27/10/2021,,,6216 R
+E042,Carvalho,Simone,Palm Leaf Harvester,Harvesting Operations,28/10/2021,,,6906 R
+E043,Kobayashi,Naomi,Accounts Payable Specialist,Finance/Accounting,4/11/2021,,,27625 R
+E044,Ribeiro,Julio,Palm Leaf Harvester,Harvesting Operations,5/11/2021,,18/10/2022,6826 R
+E045,Matsumoto,Koji,Palm Leaf Harvester,Harvesting Operations,7/11/2021,,,6941 R
+E046,Rocha,Maria,Warehouse Lead,Harvesting Operations,8/11/2021,30/09/2022,,8009 R
+E047,Dias,JosÃ© Carlos,Palm Leaf Harvester,Harvesting Operations,9/11/2021,,,6492 R
+E048,Freitas,Carlos Alberto,Palm Leaf Harvester,Harvesting Operations,28/11/2021,,7/2/2023,6139 R
+E049,Machado,Monica,Accounts Receivable Specialist,Finance/Accounting,12/12/2021,,,27003 R
+E050,Martins,Eduardo,Palm Leaf Harvester,Harvesting Operations,15/12/2021,,,7048 R
+E051,Mendes,Leandro,Payroll Specialist,Finance/Accounting,6/1/2022,,,33641 R
+E052,Cunha,Josefa,Accounts Payable Specialist,Finance/Accounting,7/1/2022,,,30133 R
+E053,Teixeira,Anderson,Warehouse Manager,Harvesting Operations,18/01/2022,30/09/2022,,66955 R
+E054,Cavalcanti,Beatriz,Logistics Coordinator,Harvesting Operations,28/01/2022,,,31537 R
+E055,Pereira,Raimundo,Sales Manager,Sales/Marketing,13/02/2022,30/09/2022,,39700 R
+E056,Nogueira,Carlos Eduardo,Warehouse Lead,Harvesting Operations,15/02/2022,30/09/2022,,8530 R
+E057,Cardoso,Maria Cristina,Palm Leaf Harvester,Harvesting Operations,6/3/2022,,,6397 R
+E058,Ramos,AntÃ´nio,Palm Leaf Harvester,Harvesting Operations,9/3/2022,,,6933 R
+E059,Lopes,Neuza,Warehouse Lead,Harvesting Operations,10/3/2022,,,33733 R
+E060,Fonseca,Carlos Eduardo,Palm Leaf Harvester,Harvesting Operations,6/4/2022,,,7116 R
+E061,Lopes,Simone,HR Manager,Human Resources,24/04/2022,,,51110 R
+E062,Teixeira,Rafael,Sales Manager,Sales/Marketing,2/5/2022,30/09/2023,,34503 R
+E063,Martins,JoÃ£o Pedro,Palm Leaf Harvester,Harvesting Operations,2/5/2022,,,6611 R
+E064,Santos,Carlos Alberto,Warehouse Manager,Harvesting Operations,4/5/2022,30/09/2023,,40636 R
+E065,Rodrigues,Antonio Carlos,Palm Leaf Harvester,Harvesting Operations,10/5/2022,,,6824 R
+E066,Cavalcanti,Maria Luiza,Payroll Specialist,Finance/Accounting,17/05/2022,,,32331 R
+E067,Castro,Sandra,HR Manager,Human Resources,18/05/2022,,,57691 R
+E068,Pereira,Francisca,Palm Leaf Harvester,Harvesting Operations,18/05/2022,,,6477 R
+E069,Pires,JoÃ£o Pedro,Recruiter,Human Resources,21/05/2022,30/09/2023,,36144 R
+E070,Schroeder,Karl,Palm Leaf Harvester,Harvesting Operations,22/05/2022,,,6588 R
+E071,Pinto,Luiz,Warehouse Lead,Harvesting Operations,7/6/2022,30/09/2023,,9399 R
+E072,Duarte,Carlos Alberto,Palm Leaf Harvester,Harvesting Operations,8/6/2022,,23/03/2023,7061 R
+E073,Vieira,Tatiana,Accounting Manager,Finance/Accounting,14/06/2022,,,61131 R
+E074,Nakamura,Masao,Palm Leaf Harvester,Harvesting Operations,14/06/2022,,28/09/2022,6338 R
+E075,Borges,JosÃ© Francisco,Palm Leaf Harvester,Harvesting Operations,24/06/2022,,,6464 R
+E076,Cardoso,Maria Luiza,Palm Leaf Harvester,Harvesting Operations,7/7/2022,,,6549 R
+E077,Borges,Dirce,Palm Leaf Harvester,Harvesting Operations,16/07/2022,,,6143 R
+E078,Almeida,Fernando,Palm Leaf Harvester,Harvesting Operations,16/08/2022,,,6259 R
+E079,Pires,Lucas,Palm Leaf Harvester,Harvesting Operations,18/08/2022,,,7024 R
+E080,Gomes,Benedita,Marketing Coordinator,Sales/Marketing,21/08/2022,,,29054 R
+E081,Campos,Maria Clara,Palm Leaf Harvester,Harvesting Operations,24/08/2022,,,6225 R
+E082,AraÃºjo,Eduardo,Logistics Coordinator,Harvesting Operations,28/08/2022,,,31368 R
+E083,Freitas,Manoel,Warehouse Manager,Harvesting Operations,29/08/2022,,,54064 R
+E084,AraÃºjo,Gustavo,Accountant,Finance/Accounting,16/09/2022,,,39767 R
+E085,Oliveira,Cristina,Warehouse Lead,Harvesting Operations,4/10/2022,,,34624 R
+E086,Guedes,Leandro,Palm Leaf Harvester,Harvesting Operations,24/10/2022,,,7109 R
+E087,Martins,Simone,Palm Leaf Harvester,Harvesting Operations,27/10/2022,,,6987 R
+E088,Borges,Aparecida,Accounting Manager,Finance/Accounting,12/11/2022,,,54191 R
+E089,Gomes,Ana Maria,Palm Leaf Harvester,Harvesting Operations,25/11/2022,,,7177 R
+E090,Moreira,Eduardo,Accounts Payable Specialist,Finance/Accounting,1/12/2022,,,29871 R
+E091,Barbosa,Leandro,Accounts Receivable Specialist,Finance/Accounting,1/12/2022,,,25008 R
+E092,Nascimento,Camila,Accountant,Finance/Accounting,13/12/2022,,,31808 R
+E093,Ferreira,Maria JosÃ©,Payroll Specialist,Finance/Accounting,14/12/2022,,,32906 R
+E094,Martins,Julio,Palm Leaf Harvester,Harvesting Operations,24/12/2022,,,6529 R
+E095,Barbosa,Rodrigo,Accountant,Finance/Accounting,27/12/2022,,,31947 R
+E096,Cunha,Amanda,Palm Leaf Harvester,Harvesting Operations,28/12/2022,,,6744 R
+E097,Azevedo,Gabriela,Palm Leaf Harvester,Harvesting Operations,6/2/2023,,,6510 R
+E098,Braun,Otto,Palm Leaf Harvester,Harvesting Operations,14/02/2023,,,6221 R
+E099,Rodrigues,Mateus,Palm Leaf Harvester,Harvesting Operations,21/03/2023,,4/1/2024,6739 R
+E100,Reis,Aparecida,Palm Leaf Harvester,Harvesting Operations,31/03/2023,,,6676 R
+E101,Teixeira,Rodrigo,Palm Leaf Harvester,Harvesting Operations,2/4/2023,,,7197 R
+E102,Ramos,Carlos Alberto,Palm Leaf Harvester,Harvesting Operations,4/4/2023,,,6549 R
+E103,Almeida,Terezinha,Palm Leaf Harvester,Harvesting Operations,5/4/2023,,,6346 R
+E104,Souza,Raimunda,Palm Leaf Harvester,Harvesting Operations,14/04/2023,,,6667 R
+E105,Dias,Paulo,Palm Leaf Harvester,Harvesting Operations,18/04/2023,,,6610 R
+E106,Machado,JosÃ© Roberto,Palm Leaf Harvester,Harvesting Operations,22/04/2023,,,6877 R
+E107,Gomes,Gabriela,Palm Leaf Harvester,Harvesting Operations,26/04/2023,,,6350 R
+E108,Teixeira,Rodrigo,Palm Leaf Harvester,Harvesting Operations,7/5/2023,,,7043 R
+E109,Cavalcanti,Raimundo,Palm Leaf Harvester,Harvesting Operations,8/5/2023,,18/06/2024,7181 R
+E110,Castro,Marcos,Palm Leaf Harvester,Harvesting Operations,8/5/2023,,,6425 R
+E111,Martins,Felipe,Palm Leaf Harvester,Harvesting Operations,25/05/2023,,,6266 R
+E112,Costa,Antonio Carlos,Palm Leaf Harvester,Harvesting Operations,26/06/2023,,19/11/2023,6102 R
+E113,Ribeiro,Ana,Palm Leaf Harvester,Harvesting Operations,8/7/2023,,,6874 R
+E114,Yoshida,Takeshi,Palm Leaf Harvester,Harvesting Operations,11/7/2023,,,6597 R
+E115,Campos,Paulo Roberto,Palm Leaf Harvester,Harvesting Operations,20/07/2023,,,6260 R
+E116,Barbosa,Fernando,Palm Leaf Harvester,Harvesting Operations,29/07/2023,,2/4/2024,6857 R
+E117,Carvalho,Gabriel,Palm Leaf Harvester,Harvesting Operations,23/08/2023,,,7052 R
+E118,Cardoso,Felipe,Palm Leaf Harvester,Harvesting Operations,27/08/2023,,,6949 R
+E119,Pereira,Ana Beatriz,Palm Leaf Harvester,Harvesting Operations,7/10/2023,,17/07/2024,7139 R
+E120,Costa,Aparecida,Palm Leaf Harvester,Harvesting Operations,23/11/2023,,,6952 R
+E121,Fonseca,Ana,Palm Leaf Harvester,Harvesting Operations,9/12/2023,,,6354 R

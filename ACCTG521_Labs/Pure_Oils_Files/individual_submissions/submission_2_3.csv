@@ -1,0 +1,111 @@
+UniqueID,LastName,FirstName,JobTitle,Department,HireDate,LastPromotionDate,TerminationDate,AnnualSalary
+1,Swindler,Skylar,CEO,Executive,1/1/2021,, ,300000
+2,Souza,Lucas,CFO,Finance,3/12/2018,5/15/2022,,180000
+3,Silva,Maria,Operations Manager,Operations,7/25/2019,8/30/2022,,95000
+4,Santos,João,HR Manager,HR,1/15/2020,3/10/2022,,88000
+5,Lima,Ana,Sales Director,Sales,2/10/2021,1/5/2023,,120000
+6,Pereira,Bruno,Marketing Specialist,Marketing,6/18/2022,6/20/2023,,90000
+7,Oliveira,Felipe,R&D Director,R&D,9/18/2018,9/25/2021,,145000
+8,Ribeiro,Carla,Production Supervisor,Production,1/10/2019,1/20/2022,,88000
+9,Alves,Gustavo,Legal Counsel,Legal,6/5/2020,6/15/2022,,125000
+10,Costa,Juliana,Software Engineer,IT,10/12/2021,2/10/2023,,95000
+11,Cardoso,Thiago,Procurement Manager,Procurement,1/12/2023, , ,90000
+12,Moura,Isabela,Accountant,Finance,3/20/2022,3/15/2023,,75000
+13,Barbosa,Rafael,Operations Analyst,Operations,8/30/2020,9/1/2022,,92000
+14,Martins,Mariana,Sales Associate,Sales,4/15/2023, , ,68000
+15,Teixeira,Pedro,Marketing Analyst,Marketing,7/23/2021,1/20/2023,,85000
+16,Freitas,Aline,Research Scientist,R&D,9/11/2022, , ,98000
+17,Gomes,Leandro,Production Operator,Production,11/2/2021,3/15/2023,,87000
+18,Mendes,Vanessa,Paralegal,Legal,3/19/2019,4/1/2021,12/31/2022,115000
+19,Lopes,Marcelo,Systems Administrator,IT,5/5/2020,5/25/2022,,88000
+20,Teixeira,Ana,Inventory Specialist,Procurement,8/17/2021,2/28/2023,,76000
+21,Ribeiro,Lucas,Financial Analyst,Finance,1/10/2022,1/20/2023,,82000
+22,Silva,Camila,HR Coordinator,HR,6/22/2023, , ,65000
+23,Santos,Fernando,Sales Representative,Sales,9/30/2021,4/15/2023,,70000
+24,Lima,Juliana,Marketing Coordinator,Marketing,6/18/2019,6/25/2021,,85000
+25,Pereira,Rafael,Lab Technician,R&D,10/5/2020,1/20/2022,,94000
+26,Oliveira,Paula,Production Operator,Production,12/12/2021,1/30/2023,,68000
+27,Alves,Felipe,Compliance Officer,Legal,2/15/2022, , ,120000
+28,Costa,Marcela,IT Director,IT,12/1/2019,12/15/2022,,135000
+29,Cardoso,Bruno,Inventory Assistant,Procurement,4/20/2023, , ,76000
+30,Moura,Isadora,Financial Analyst,Finance,3/28/2021,3/30/2022,,80000
+31,Barbosa,Ana,HR Manager,HR,5/15/2020,5/20/2023,,90000
+32,Martins,Thiago,Sales Director,Sales,10/10/2018,10/25/2021,,115000
+33,Teixeira,Carla,Marketing Specialist,Marketing,1/5/2021,1/20/2022,,87000
+34,Freitas,Fernando,R&D Scientist,R&D,6/17/2019,6/30/2022,,95000
+35,Gomes,Lucas,Production Supervisor,Production,9/2/2020,9/10/2023,,88000
+36,Mendes,Bruna,Legal Counsel,Legal,3/25/2021,3/30/2022,,118000
+37,Lopes,Aline,Software Engineer,IT,7/14/2020,7/1/2023,,92000
+38,Teixeira,Rafael,Buyer,Procurement,12/1/2019,1/15/2022,,77000
+39,Ribeiro,Mariana,Financial Analyst,Finance,6/20/2021,1/10/2023,,84000
+40,Silva,Felipe,HR Coordinator,HR,11/11/2020,1/15/2023,,66000
+41,Santos,Fernando,Sales Associate,Sales,2/14/2019,2/28/2021,,69000
+42,Lima,Isadora,Marketing Specialist,Marketing,4/22/2020,4/30/2023,,88000
+43,Pereira,Paula,R&D Scientist,R&D,9/10/2017,9/25/2020,,96000
+44,Oliveira,Lucas,Production Operator,Production,12/5/2018,12/20/2021,,67000
+45,Alves,Juliana,Legal Counsel,Legal,8/18/2019,8/25/2022,,122000
+46,Costa,Thiago,Software Engineer,IT,10/10/2020,1/5/2023,,95000
+47,Cardoso,Mariana,Inventory Specialist,Procurement,5/21/2017,5/30/2020,,78000
+48,Moura,Pedro,Financial Analyst,Finance,2/17/2018,2/28/2021,,81000
+49,Barbosa,Aline,HR Manager,HR,7/29/2019,8/10/2022,,89000
+50,Martins,Fernando,Sales Director,Sales,3/18/2020,3/30/2023,,118000
+51,Teixeira,Carla,Marketing Specialist,Marketing,11/2/2017,11/15/2020,,86000
+52,Freitas,Rafael,R&D Scientist,R&D,6/23/2018,6/30/2021,,94000
+53,Gomes,Paula,Production Supervisor,Production,1/14/2019,1/28/2022,,87000
+54,Mendes,Thiago,Legal Counsel,Legal,7/12/2020,7/25/2023,,119000
+55,Lopes,Lucas,Software Engineer,IT,8/19/2017,8/30/2020,,93000
+56,Teixeira,Aline,Buyer,Procurement,10/5/2018,10/20/2021,,76000
+57,Ribeiro,Fernando,Financial Analyst,Finance,12/22/2019,1/10/2022,,83000
+58,Silva,Juliana,HR Coordinator,HR,6/15/2020,6/25/2023,,67000
+59,Santos,Lucas,Sales Associate,Sales,3/14/2017,3/30/2020,,71000
+60,Lima,Mariana,Marketing Specialist,Marketing,9/19/2018,9/30/2021,,87000
+61,Pereira,Thiago,R&D Scientist,R&D,5/12/2019,5/28/2022,,95000
+62,Oliveira,Aline,Production Operator,Production,11/23/2020,11/30/2023,,68000
+63,Alves,Lucas,Legal Counsel,Legal,2/28/2017,2/28/2020,9/30/2022,117000
+64,Costa,Juliana,Software Engineer,IT,12/14/2018,12/25/2021,,94000
+65,Cardoso,Pedro,Inventory Specialist,Procurement,8/7/2019,8/20/2022,,78000
+66,Moura,Aline,Financial Analyst,Finance,1/10/2020,1/20/2023,,84000
+67,Barbosa,Fernando,HR Manager,HR,5/22/2017,5/30/2020,,88000
+68,Martins,Rafael,Sales Director,Sales,7/30/2018,8/10/2021,,115000
+69,Teixeira,Mariana,Marketing Specialist,Marketing,11/1/2019,11/15/2022,,86000
+70,Freitas,Lucas,R&D Scientist,R&D,2/12/2020,2/25/2023,,95000
+71,Gomes,Paula,Production Supervisor,Production,9/8/2017,9/20/2020,,87000
+72,Mendes,Thiago,Legal Counsel,Legal,4/17/2018,4/30/2021,,120000
+73,Lopes,Aline,Software Engineer,IT,6/5/2019,6/20/2022,,94000
+74,Teixeira,Lucas,Buyer,Procurement,10/15/2020,10/20/2023,,77000
+75,Ribeiro,Fernando,Financial Analyst,Finance,11/12/2017,11/25/2020,,82000
+76,Silva,Mariana,HR Coordinator,HR,5/20/2018,5/30/2021,,66000
+77,Santos,Rafael,Sales Associate,Sales,8/18/2019,8/30/2022,,70000
+78,Lima,Juliana,Marketing Specialist,Marketing,3/15/2020,3/30/2023,,88000
+79,Pereira,Lucas,R&D Scientist,R&D,12/1/2017,12/15/2020,,95000
+80,Oliveira,Aline,Machine Operator,Production,6/10/2018,6/20/2021,,67000
+81,Alves,Thiago,Legal Counsel,Legal,9/23/2019,9/30/2022,,118000
+82,Costa,Lucas,Software Engineer,IT,11/5/2020,11/20/2023,,95000
+83,Cardoso,Mariana,Inventory Specialist,Procurement,2/28/2017,3/15/2020,,78000
+84,Moura,Fernando,Financial Analyst,Finance,8/17/2018,8/30/2021,,83000
+85,Barbosa,Aline,HR Manager,HR,12/12/2019,12/25/2022,,89000
+86,Martins,Rafael,Sales Director,Sales,5/20/2020,5/30/2023,,118000
+87,Teixeira,Mariana,Marketing Specialist,Marketing,9/30/2017,9/15/2020,,87000
+88,Freitas,Lucas,R&D Scientist,R&D,10/5/2018,10/20/2021,,94000
+89,Gomes,Paula,Production Supervisor,Production,1/18/2019,1/30/2022,,88000
+90,Mendes,Thiago,Legal Counsel,Legal,6/12/2020,6/25/2023,,119000
+91,Lopes,Lucas,Software Engineer,IT,5/14/2017,5/30/2020,,94000
+92,Teixeira,Aline,Buyer,Procurement,11/23/2018,12/5/2021,,76000
+93,Ribeiro,Fernando,Financial Analyst,Finance,3/30/2019,4/10/2022,,84000
+94,Silva,Juliana,HR Coordinator,HR,7/14/2020,7/28/2023,,67000
+95,Santos,Lucas,Sales Associate,Sales,6/1/2017,6/15/2020,,71000
+96,Lima,Mariana,Marketing Specialist,Marketing,8/19/2018,8/30/2021,,87000
+97,Pereira,Thiago,R&D Scientist,R&D,12/22/2019,12/30/2022,,95000
+98,Oliveira,Aline,Machine Operator,Production,3/28/2020,4/10/2023,,68000
+99,Alves,Lucas,Legal Counsel,Legal,9/10/2017,9/25/2020,11/30/2022,116000
+100,Costa,Juliana,Software Engineer,IT,5/15/2018,5/30/2021,,94000
+101,Cardoso,Pedro,Inventory Specialist,Procurement,7/22/2019,8/5/2022,,78000
+102,Moura,Aline,Financial Analyst,Finance,10/10/2020,10/25/2023,,83000
+103,Barbosa,Fernando,HR Manager,HR,11/5/2017,11/20/2020,,88000
+104,Martins,Rafael,Sales Director,Sales,6/30/2018,7/15/2021,,115000
+105,Teixeira,Mariana,Marketing Specialist,Marketing,8/12/2019,8/25/2022,,86000
+106,Freitas,Lucas,R&D Scientist,R&D,2/28/2020,3/10/2023,,95000
+107,Gomes,Paula,Production Supervisor,Production,3/19/2017,3/30/2020,,87000
+108,Mendes,Thiago,Legal Counsel,Legal,10/22/2018,11/5/2021,,120000
+109,Lopes,Sofia,Leave Gatherer,HR,3/1/2023, , ,45000
+110,Teixeira,João,Leave Gatherer,Production,5/20/2023, , ,43000

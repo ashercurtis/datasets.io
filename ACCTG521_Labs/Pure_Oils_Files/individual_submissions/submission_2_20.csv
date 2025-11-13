@@ -1,0 +1,112 @@
+UniqueID,LastName,FirstName,JobTitle,Department,HireDate,LastPromotionDate,TerminationDate,AnnualSalary
+1,Farias,Isis,Executive Director,Executive,2021-01-01,,2021-06-21,178450
+2,Costa,Eloah,Operations Manager,Operations,2021-01-01,,,99950
+3,Nascimento,Maria Alice,Production Supervisor,Production,2022-02-10,,,99720
+4,Cunha,Enzo Gabriel,HR Manager,HR,2021-01-01,2023-09-01,2024-01-12,91870
+5,da Luz,Isis,Systems Administrator,IT,2021-08-31,2025-03-12,,78260
+6,Barbosa,Júlia,Machine Operator,Production,2022-02-18,2024-12-07,,48350
+7,Nascimento,Isabel,Payroll Specialist,Finance,2021-01-01,2023-04-02,,65370
+8,Fogaça,Cecília,Finance Director,Finance,2021-02-08,2023-12-08,,191390
+9,Moura,Ana,Supply Chain Analyst,Logistics,2021-04-24,2024-02-07,,74580
+10,Correia,Milena,Recruiter,HR,2021-01-01,,,70560
+11,Campos,Alícia,SEO Specialist,Marketing,2021-01-01,2022-05-06,,60650
+12,Vieira,Maria Luiza,Product Developer,Research & Development,2021-01-01,,,94130
+13,Teixeira,Bryan,Production Supervisor,Production,2021-11-20,2025-03-28,,74930
+14,da Rosa,Maitê,HR Manager,HR,2021-01-01,,,139710
+15,Moraes,Ana Clara,Sales Executive,Sales,2021-01-01,,,86390
+16,Monteiro,Pedro Henrique,Sales Director,Sales,2023-04-01,,,180240
+17,Novaes,Clarice,Product Developer,Research & Development,2021-01-01,,,91160
+18,Cavalcanti,Ana Luiza,R&D Scientist,Research & Development,2021-01-01,2023-01-31,,121380
+19,Cunha,Breno,R&D Scientist,Research & Development,2022-10-09,,2024-04-28,110000
+20,da Rosa,Bernardo,SEO Specialist,Marketing,2021-01-01,,,82820
+21,Fernandes,Lorena,Sales Executive,Sales,2023-05-20,2025-02-02,,81050
+22,Cardoso,Lucca,Sales Executive,Sales,2021-01-01,2024-07-26,,73210
+23,Santos,Diego,Assistant Operations Manager,Operations,2021-01-01,,,137430
+24,da Conceição,Maria Alice,Logistics Coordinator,Logistics,2021-03-29,2024-07-19,2025-09-21,64970
+25,da Paz,João Miguel,Warehouse Manager,Logistics,2021-01-01,2025-01-01,,113060
+26,Nunes,Natália,IT Support Specialist,IT,2021-01-01,2022-01-29,,64990
+27,Peixoto,Joaquim,Payroll Specialist,Finance,2021-01-01,,,56010
+28,da Conceição,Emanuel,Sales Executive,Sales,2021-01-01,2022-04-16,,72500
+29,Araújo,Lavínia,Sales Associate,Sales,2022-06-27,,,72180
+30,Sales,Ana,Operations Manager,Operations,2021-01-01,2021-09-04,,90210
+31,Azevedo,Vicente,IT Support Specialist,IT,2023-03-23,2024-07-23,,59460
+32,Monteiro,Leonardo,Payroll Specialist,Finance,2021-01-01,2023-08-27,,72450
+33,Pires,Caio,Supply Chain Analyst,Logistics,2021-01-01,,,85160
+34,Fogaça,Beatriz,Marketing Manager,Marketing,2021-01-01,,,97980
+35,Barbosa,Raul,Financial Analyst,Finance,2021-01-01,,,76450
+36,Duarte,Mariana,QA Analyst,Quality Assurance,2021-01-01,2025-03-06,,75710
+37,Monteiro,Bruno,R&D Scientist,Research & Development,2021-01-01,2022-06-17,,114160
+38,Correia,Sarah,Software Developer,IT,2021-01-01,2022-09-24,,103510
+39,Araújo,Isis,SEO Specialist,Marketing,2022-06-16,,,65250
+40,Mendes,Camila,Sales Associate,Sales,2021-01-01,2022-01-30,,79290
+41,Santos,Ana Vitória,Process Coordinator,Operations,2022-01-30,2024-08-24,,78100
+42,Peixoto,Cecília,Account Manager,Sales,2021-01-01,,,94620
+43,da Rocha,Lorenzo,Recruiter,HR,2023-06-19,2024-02-22,,64510
+44,Moreira,Sofia,Operations Manager,Operations,2021-01-01,,,92470
+45,Gomes,Ana Lívia,Account Manager,Sales,2021-01-01,,,129980
+46,Alves,Anthony,IT Support Specialist,IT,2023-05-19,2024-06-04,,84010
+47,Sales,Joana,Research & Development Director,Research & Development,2021-01-01,2024-11-22,,152070
+48,Monteiro,Alícia,Sales Associate,Sales,2021-01-01,,,86000
+49,Lima,Melissa,Warehouse Manager,Logistics,2021-01-01,2022-04-14,,126460
+50,da Cunha,Maysa,Process Coordinator,Operations,2021-01-01,,,77450
+51,Vieira,Erick,Marketing Director,Marketing,2021-08-04,,2023-06-10,155710
+52,Cunha,Sarah,Quality Inspector,Quality Assurance,2021-01-01,,,52300
+53,Freitas,Nicolas,Sales Associate,Sales,2022-05-30,,,78920
+54,Porto,Heitor,IT Director,IT,2021-01-01,2022-05-16,,151490
+55,Jesus,Francisco,HR Manager,HR,2021-01-01,2023-05-11,2024-03-07,111200
+56,Costa,Leonardo,Marketing Manager,Marketing,2021-01-01,2023-02-17,2024-09-09,123930
+57,da Conceição,Ana Lívia,Recruiter,HR,2021-01-01,2023-04-13,2024-01-29,72970
+58,Nascimento,Igor,Sales Executive,Sales,2021-12-28,,,77530
+59,da Luz,Ana Julia,Quality Inspector,Quality Assurance,2021-01-01,,,53380
+60,da Conceição,Noah,Operations Manager,Operations,2021-01-01,2022-02-16,,101860
+61,da Costa,Isabel,Assistant Operations Manager,Operations,2021-01-01,,,129780
+62,Cunha,Cecília,SEO Specialist,Marketing,2023-06-02,2024-07-24,,83660
+63,Barros,Marcela,Production Director,Production,2021-01-01,,,184280
+64,Novaes,Diogo,Sales Executive,Sales,2021-01-01,,,73580
+65,Sales,Milena,Quality Inspector,Quality Assurance,2021-01-01,2024-10-07,,63420
+66,da Cunha,Murilo,Software Developer,IT,2022-06-22,,,105960
+67,Costa,Rafaela,Accountant,Finance,2022-09-08,,,79420
+68,Barros,Lucas Gabriel,Payroll Specialist,Finance,2021-01-01,,,68700
+69,Almeida,Maria Luiza,Lab Technician,Research & Development,2021-09-03,2023-11-11,,61850
+70,Novaes,Ana Luiza,Logistics Director,Logistics,2021-12-18,2024-02-23,,177180
+71,Novaes,Bruna,Financial Analyst,Finance,2022-08-02,,2023-11-24,72910
+72,da Rocha,Emilly,HR Manager,HR,2021-01-01,,,117650
+73,Mendes,Lucas Gabriel,SEO Specialist,Marketing,2021-01-01,,,67450
+74,da Mata,Marcela,Process Coordinator,Operations,2021-01-01,,,56840
+75,Nogueira,Guilherme,Compliance Specialist,Quality Assurance,2023-12-12,2024-07-29,,74400
+76,Martins,Heloísa,Accountant,Finance,2022-09-05,,,72430
+77,Carvalho,Maria Alice,HR Director,HR,2021-01-01,2024-05-06,,155270
+78,Vieira,Luiz Miguel,IT Support Specialist,IT,2021-01-01,2022-06-19,2024-10-22,68840
+79,Castro,Thales,Production Supervisor,Production,2021-01-01,2023-11-06,,75510
+80,Moura,Manuela,Supply Chain Analyst,Logistics,2021-01-01,2024-10-29,,72530
+81,Costela,Isadora,Assistant Operations Manager,Operations,2021-01-01,2021-11-11,,124940
+82,da Conceição,Stella,Machine Operator,Production,2023-07-08,2024-11-21,,42130
+83,Cardoso,Otávio,Recruiter,HR,2021-01-01,2023-03-13,,84710
+84,Silva,Miguel,Accountant,Finance,2021-01-01,2022-10-17,,70560
+85,Oliveira,Maria Cecília,Lab Technician,Research & Development,2021-01-01,,,48680
+86,da Rosa,Marcos Vinicius,SEO Specialist,Marketing,2022-01-06,,,80060
+87,Pinto,Luiz Miguel,Process Coordinator,Operations,2023-09-08,2024-11-22,,74940
+88,da Conceição,Cecília,Operations Director,Operations,2021-01-01,2024-06-29,,193090
+89,Silva,Breno,HR Assistant,HR,2021-11-26,,,51350
+90,Rodrigues,Clarice,HR Manager,HR,2023-06-23,,2024-07-28,114700
+91,Porto,Maria Alice,Payroll Specialist,Finance,2022-06-26,,,82520
+92,Campos,Beatriz,Account Manager,Sales,2023-02-10,2024-03-24,,123110
+93,Farias,João Miguel,Machine Operator,Production,2021-07-24,,,54970
+94,da Cunha,Emanuel,Systems Administrator,IT,2021-01-01,2023-07-31,,87010
+95,Fernandes,Marcela,Warehouse Manager,Logistics,2021-01-01,,,119670
+96,Azevedo,Maria Fernanda,Quality Inspector,Quality Assurance,2021-01-01,2021-10-11,,56480
+97,Fernandes,Elisa,QA Analyst,Quality Assurance,2021-08-10,,,72750
+98,da Paz,Mariane,Systems Administrator,IT,2021-01-01,2023-05-21,,78130
+99,Castro,João Guilherme,Machine Operator,Production,2021-01-01,2022-11-24,,50150
+100,Ribeiro,Camila,Production Supervisor,Production,2021-01-01,2023-01-24,2024-02-03,92010
+101,da Cruz,Diogo,Lab Technician,Research & Development,2023-03-11,,,61150
+102,Porto,Gabrielly,Financial Analyst,Finance,2021-01-01,2024-07-11,,68240
+103,Barbosa,Samuel,Quality Assurance Director,Quality Assurance,2021-01-01,,,182640
+104,Souza,João Gabriel,Compliance Specialist,Quality Assurance,2021-11-13,,,57760
+105,Gomes,Alexandre,SEO Specialist,Marketing,2021-01-01,,,64990
+106,Correia,Lara,R&D Scientist,Research & Development,2023-02-25,2025-03-03,,109550
+107,Melo,Isabelly,Content Strategist,Marketing,2021-01-01,2025-03-11,,84860
+108,Porto,Luana,Compliance Specialist,Quality Assurance,2021-01-01,2022-06-22,,78380
+109,Fernandes,Bruno,Accountant,Finance,2023-08-22,2024-06-29,,76750
+110,da Mata,Maria Julia,Accountant,Finance,2021-01-01,2022-03-30,,63520
+111,Barbosa,Davi Luiz,Content Strategist,Marketing,2021-01-01,,,61660

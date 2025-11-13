@@ -1,0 +1,111 @@
+UniqueID,LastName,FirstName,JobTitle,Department,HireDate,LastPromotionDate,TerminationDate,AnnualSalary
+1001,Swindler,Skylar,CEO,Diretoria,1/1/21,,,R$420000
+2638,Lima,Felipe,Analista Comercial,Vendas,1/21/21,3/4/24,,R$45.224
+2679,Gonçalves,Beatriz,Secretária Administrativa,Administração,2/22/21,3/27/23,,R$32.286
+3496,Rocha,Bruna,Coletor de Folhas,Produção,3/6/21,2/10/23,,R$24.166
+1434,Miranda,Carla,Analista Financeiro,Finanças,3/8/21,11/24/21,4/14/23,R$44.279
+8478,Barbosa,Vanessa,Executivo de Vendas,Vendas,4/14/21,12/15/24,,R$46.988
+1993,Moreira,Renato,Analista de Marca,Marketing,4/22/21,8/18/25,,R$37.612
+3977,Carvalho,Luana,Contador,Finanças,6/22/21,8/16/25,,R$49.564
+3060,Barbosa,Paula,Contador,Finanças,6/26/21,10/3/24,,R$50.727
+1722,Silva,Renato,Analista Comercial,Vendas,7/10/21,8/17/25,,R$40.533
+4262,Santos,Mariana,Secretária Administrativa,Administração,7/12/21,5/24/23,,R$33.680
+8886,Pereira,Sofia,Contador,Finanças,7/12/21,5/27/23,,R$49.956
+2983,Costa,Rodrigo,Assistente de Produção,Produção,7/29/21,10/24/23,,R$34.918
+2040,Cardoso,André,Analista Comercial,Vendas,8/14/21,1/9/23,,R$42.916
+1053,Teixeira,Bruno,Executivo de Vendas,Vendas,8/18/21,10/28/23,,R$52.433
+4923,Carvalho,Murilo,Analista de Marketing,Marketing,8/19/21,3/19/24,,R$41.038
+5198,Ferreira,Luiza,Comunicação,Marketing,8/24/21,5/10/25,,R$37.619
+6862,Pereira,Marcos,Supervisor de Logística,Logística,9/20/21,7/2/22,,R$40.653
+7054,Barreto,Luiza,Assistente de Logística,Logística,9/30/21,4/1/24,,R$32.001
+3546,Silveira,Fernanda,Secretária Administrativa,Administração,10/4/21,10/15/23,3/2/24,R$39.064
+9830,Teixeira,José,Secretária Administrativa,Administração,10/21/21,2/18/23,,R$39.197
+7965,Gomes,Thiago,Analista de Marketing,Marketing,10/31/21,5/30/22,,R$37.746
+8699,Barreto,Rodrigo,Contador,Finanças,11/18/21,6/11/22,,R$51.729
+1009,Fonseca,Leticia,Assistente de Logística,Logística,11/28/21,6/24/25,,R$34.344
+7149,Moreira,Carla,Contador,Finanças,12/3/21,3/19/24,5/14/24,R$47.111
+1441,Moreira,José,Secretária Administrativa,Administração,12/6/21,2/5/25,,R$38.751
+7932,Pereira,Felipe,Comunicação,Marketing,12/6/21,12/18/23,,R$39.938
+6576,Silveira,Carla,Analista de Marca,Marketing,1/9/22,10/5/23,,R$40.232
+7615,Freitas,Marina,Contador,Finanças,1/17/22,12/23/22,,R$45.853
+9883,Carvalho,Leticia,Secretária Administrativa,Administração,1/25/22,4/11/24,,R$30.958
+4033,Barros,Diego,Motorista,Logística,1/31/22,5/26/24,3/26/25,R$35.789
+3573,Rocha,Thiago,Coletor de Folhas,Produção,3/3/22,11/25/23,,R$24.665
+6279,Correia,Daniel,Analista de Sustentabilidade,Pesquisa,3/8/22,2/20/25,,R$45.939
+5558,Nascimento,Luana,Analista de Marca,Marketing,3/11/22,4/15/25,,R$42.211
+2389,Barreto,Bruno,Comunicação,Marketing,3/15/22,8/12/25,,R$32.780
+6881,Vasquez,Carla,Analista Ambiental,Pesquisa,3/18/22,8/23/24,4/4/25,R$37.584
+7371,Mendes,Paula,Supervisor de Logística,Logística,3/27/22,4/23/24,,R$40.475
+3615,Machado,Renato,Secretária Administrativa,Administração,3/29/22,5/6/24,,R$30.106
+6378,Silveira,Gustavo,Analista Ambiental,Pesquisa,4/3/22,12/7/22,,R$42.528
+4770,Alves,Isabela,Assistente de Produção,Produção,4/7/22,3/4/23,,R$34.819
+5915,Correia,Leticia,Assistente de Logística,Logística,5/5/22,5/17/24,,R$35.502
+8342,Oliveira,Beatriz,Comunicação,Marketing,5/9/22,7/27/25,,R$38.041
+8939,Rocha,Paulo,Analista de Marca,Marketing,5/23/22,4/17/25,,R$44.540
+4697,Lopes,André,Analista Ambiental,Pesquisa,5/25/22,4/11/23,,R$42.818
+3296,Machado,Thiago,Analista Comercial,Vendas,5/26/22,6/26/23,,R$43.350
+2604,Carvalho,Camila,Analista de Sustentabilidade,Pesquisa,5/28/22,5/27/25,,R$43.260
+5636,Almeida,Carla,Secretária Administrativa,Administração,7/22/22,2/17/25,,R$38.595
+9056,Ribeiro,Henrique,Secretária Administrativa,Administração,7/25/22,8/14/23,,R$37.141
+3167,Costa,Marina,Contador,Finanças,7/26/22,12/27/24,,R$50.834
+7209,Mendes,Mariana,Analista Comercial,Vendas,7/27/22,8/2/25,,R$43.613
+9849,Ribeiro,Bruna,Analista de Marketing,Marketing,8/10/22,10/24/23,,R$41.238
+6003,Costa,Roberto,Analista de Marca,Marketing,9/2/22,8/17/25,,R$43.025
+9199,Gonçalves,Flavia,Comunicação,Marketing,9/16/22,3/20/25,,R$34.460
+5728,Barroso,Julia,Assistente de Produção,Produção,9/23/22,12/10/24,,R$34.662
+8177,Lopes,Daniel,Analista Comercial,Vendas,10/2/22,6/1/24,,R$42.118
+7744,Guerra,Fernanda,Analista de Sustentabilidade,Pesquisa,10/21/22,3/25/25,6/4/25,R$41.403
+9280,Guerra,Luana,Contador,Finanças,12/5/22,1/17/24,,R$46.325
+6425,Oliveira,Julia,Executivo de Vendas,Vendas,12/22/22,4/26/25,,R$53.785
+9818,Gonçalves,Carla,Analista de Marketing,Marketing,12/23/22,5/11/24,,R$42.865
+3532,Rocha,Luiza,Motorista,Logística,12/27/22,2/7/25,,R$31.329
+3073,Silveira,Rodrigo,Analista Ambiental,Pesquisa,1/11/23,1/29/24,,R$44.751
+3041,Neves,Bruno,Analista Comercial,Vendas,1/17/23,10/19/24,5/6/25,R$41.143
+5673,Machado,Beatriz,Assistente de Produção,Produção,2/17/23,10/8/24,,R$33.727
+4269,Correia,Mariana,Motorista,Logística,2/24/23,10/21/23,,R$29.822
+2052,Nascimento,Rafael,Transporte de Folhas,Logística,2/25/23,8/23/25,,R$29.752
+3236,Lima,Paulo,Contador,Finanças,2/26/23,3/27/24,,R$50.327
+8144,Silva,Luciana,Contador,Finanças,3/1/23,4/29/25,,R$42.727
+9348,Guerra,Beatriz,Comunicação,Marketing,3/30/23,10/20/24,,R$32.266
+3485,Santos,Marina,Analista Comercial,Vendas,4/2/23,3/5/25,9/12/25,R$36.878
+4483,Guerra,Sofia,Executivo de Vendas,Vendas,4/3/23,7/20/24,6/5/25,R$50.155
+7046,Pinto,Beatriz,Analista Ambiental,Pesquisa,4/10/23,7/2/24,,R$45.528
+3085,Barros,Rafael,Analista de Planta,Pesquisa,4/18/23,10/3/24,,R$40.844
+7745,Rocha,Paulo,Analista Comercial,Vendas,4/26/23,12/7/23,,R$41.442
+5352,Santos,Gustavo,Analista Comercial,Vendas,5/22/23,4/3/24,,R$38.441
+5438,Neves,Luana,Analista Financeiro,Finanças,5/23/23,6/24/25,,R$43.434
+7882,Guerra,Pedro,Analista de Planta,Pesquisa,5/29/23,12/28/24,7/20/25,R$36.207
+8305,Castro,Henrique,Secretária Administrativa,Administração,6/27/23,6/12/25,,R$38.976
+5803,Nunes,Patricia,Analista Ambiental,Pesquisa,7/31/23,8/18/25,9/29/25,R$37.291
+1320,Costa,André,Analista de Planta,Pesquisa,8/14/23,4/30/25,9/14/25,R$42.381
+6733,Gomes,Camila,Analista Comercial,Vendas,8/23/23,3/29/24,,R$36.853
+8062,Vasquez,Sandra,Analista de Marketing,Marketing,8/28/23,5/5/25,,R$37.588
+4185,Cardoso,Flavia,Assistente de Produção,Produção,9/2/23,6/2/24,,R$35.159
+5136,Pinto,Julia,Analista de Sustentabilidade,Pesquisa,9/9/23,6/21/25,,R$36.841
+9317,Fonseca,Carla,Analista Comercial,Vendas,11/7/23,9/4/25,10/14/25,R$40.889
+8736,Rocha,Vanessa,Secretária Administrativa,Administração,11/10/23,5/24/25,,R$37.905
+2876,Gonçalves,Paulo,Analista Financeiro,Finanças,12/21/23,11/13/24,,R$36.188
+2899,Moreira,Bruno,Secretária Administrativa,Administração,2/2/24,4/9/25,7/12/25,R$35.296
+2924,Santos,Flavia,Contador,Finanças,2/7/24,3/21/25,5/19/25,R$49.560
+2402,Rocha,Rafael,Secretária Administrativa,Administração,2/14/24,9/6/24,,R$33.130
+6663,Campos,Sandra,Analista Ambiental,Pesquisa,4/5/24,3/6/25,9/4/25,R$43.119
+9701,Castro,Ana,Coletor de Folhas,Produção,4/12/24,6/30/25,,R$30.985
+5102,Oliveira,Beatriz,Analista de Marketing,Marketing,5/10/24,12/16/24,,R$41.280
+5397,Campos,Murilo,Secretária Administrativa,Administração,6/16/24,9/6/25,,R$39.707
+9565,Campos,Luana,Motorista,Logística,6/23/24,1/29/25,,R$32.781
+5375,Miranda,Bruna,Analista Financeiro,Finanças,7/5/24,5/14/25,,R$39.335
+1514,Mendes,Gustavo,Coletor de Folhas,Produção,7/17/24,2/17/25,,R$31.417
+6820,Pereira,Paula,Analista de Sustentabilidade,Pesquisa,7/26/24,9/12/25,,R$42.065
+8135,Martins,Luciana,Analista de Marca,Marketing,7/26/24,9/11/25,,R$38.506
+8007,Miranda,Lucas,Analista Comercial,Vendas,7/29/24,4/22/25,,R$43.239
+1916,Gomes,Rodrigo,Analista de Marca,Marketing,8/4/24,8/15/25,,R$41.313
+4073,Lopes,Patricia,Analista Comercial,Vendas,9/9/24,8/13/25,,R$36.888
+3870,Pinto,Luciana,Motorista,Logística,10/9/24,7/4/25,,R$34.251
+7653,Miranda,Lucas,Secretária Administrativa,Administração,10/20/24,6/21/25,,R$34.930
+5010,Castro,Vanessa,Analista de Planta,Pesquisa,11/1/24,8/10/25,9/19/25,R$44.751
+7049,Alves,Beatriz,Coletor de Folhas,Produção,11/17/24,6/24/25,,R$30.837
+2680,Silva,Marina,Supervisor de Coleta,Produção,11/30/24,7/4/25,,R$48.042
+4920,Castro,Bruno,Analista de Sustentabilidade,Pesquisa,12/2/24,8/21/25,10/10/25,R$45.975
+1128,Miranda,Bruno,Comunicação,Marketing,12/12/24,8/7/25,,R$38.666
+4814,Almeida,André,Contador,Finanças,12/14/24,7/10/25,9/15/25,R$43.307
+2166,Gomes,Luana,Assistente de Logística,Logística,12/19/24,8/12/25,,R$33.719

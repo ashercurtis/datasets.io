@@ -1,0 +1,111 @@
+UniqueID,LastName,FirstName,JobTitle,Department,HireDate,LastPromotionDate,TerminationDate,AnnualSalary
+1,Swindler,Skylar,CEO,Executive,2021-01-01,2023-01-01,,250000.0
+2,Thomas,Reese,Supply Chain Analyst,Procurement,2023-09-26,2025-10-10,,146705.96
+3,Anderson,Riley,HR Manager,HR,2022-01-12,2024-08-22,2024-12-26,51392.64
+4,Brown,Quinn,Research Scientist,R&D,2022-04-08,2024-04-03,,76743.73
+5,Harris,Morgan,HR Manager,HR,2023-11-08,2024-10-06,2025-02-04,50259.9
+6,Robinson,Jordan,Lab Technician,R&D,2019-06-25,2020-10-30,,76017.86
+7,Anderson,Alex,Lab Technician,R&D,2020-11-21,2024-01-22,,58986.07
+8,Thomas,Elliot,Lab Technician,R&D,2019-07-26,2021-01-17,2022-09-22,102707.69
+9,Martinez,Jordan,Accountant,Finance,2020-02-09,2022-10-17,,76710.25
+10,Smith,Emerson,Quality Supervisor,Operations,2018-10-31,2020-12-11,2021-05-30,128489.15
+11,Wilson,Taylor,Training Specialist,HR,2020-10-06,2022-02-08,,118527.24
+12,Wilson,Jamie,Logistics Coordinator,Operations,2023-09-07,2025-04-03,,46046.75
+13,White,Emerson,Procurement Officer,Procurement,2020-03-31,2022-09-03,,104202.1
+14,Taylor,Casey,Customer Service Rep,Customer Support,2024-01-17,,,91896.7
+15,Martinez,Jamie,Quality Supervisor,Operations,2024-08-22,,,94002.25
+16,Thomas,Riley,Financial Analyst,Finance,2023-12-27,,,87835.58
+17,Taylor,Emerson,Sales Executive,Sales,2023-01-18,2024-05-12,,74812.46
+18,Miller,Peyton,HR Manager,HR,2018-07-09,2021-04-27,,155845.42
+19,Johnson,Morgan,Controller,Finance,2022-06-24,2025-08-03,,60302.77
+20,Davis,Sky,Product Developer,R&D,2022-03-14,2023-11-21,,145776.17
+21,Martinez,Elliot,Research Scientist,R&D,2024-05-16,,,47344.62
+22,Thompson,Jamie,Vendor Manager,Procurement,2019-12-22,2022-01-07,2023-09-25,73822.61
+23,Wilson,Cameron,Financial Analyst,Finance,2021-02-22,2024-05-20,,58853.56
+24,Anderson,Reese,Account Manager,Sales,2022-10-29,2025-06-08,,76575.96
+25,Garcia,Reese,Operations Manager,Operations,2018-12-28,2021-04-16,2022-02-20,53644.03
+26,Thomas,Casey,Systems Administrator,IT,2023-05-04,,,89606.44
+27,Harris,Harper,HR Manager,HR,2022-09-25,2025-04-30,,143671.34
+28,Martinez,Emerson,Social Media Coordinator,Marketing,2019-02-24,2021-02-12,,63047.7
+29,Brown,Logan,Systems Administrator,IT,2023-08-12,,,110373.12
+30,Thompson,Alex,Customer Service Rep,Customer Support,2021-06-07,2024-08-23,2024-03-10,59558.52
+31,Robinson,Cameron,Financial Analyst,Finance,2021-05-18,2022-09-12,,57488.5
+32,Anderson,Reese,Systems Administrator,IT,2018-11-07,2021-11-03,,95328.65
+33,Smith,Sky,IT Manager,IT,2024-01-07,2025-03-30,,68380.31
+34,Wilson,Logan,Supply Chain Analyst,Procurement,2018-12-12,2020-09-19,,74240.67
+35,Garcia,Sky,Marketing Manager,Marketing,2023-08-01,2024-12-01,,85294.21
+36,Clark,Taylor,HR Manager,HR,2021-05-06,2023-05-26,2022-12-15,133048.56
+37,Robinson,Peyton,Sales Executive,Sales,2021-10-22,2024-11-27,2023-09-19,92367.26
+38,Taylor,Quinn,Procurement Officer,Procurement,2022-11-06,2024-12-23,,152677.26
+39,Robinson,Elliot,Operations Manager,Operations,2020-09-28,2022-04-29,,55358.52
+40,Moore,Elliot,Accountant,Finance,2018-05-18,2019-10-03,2019-08-29,84407.0
+41,Moore,Rowan,Research Scientist,R&D,2022-04-14,2024-05-21,,57396.05
+42,Harris,Rowan,Regional Sales Lead,Sales,2020-10-25,2022-12-19,,123983.54
+43,White,Quinn,Lab Technician,R&D,2022-10-29,2025-06-20,,68463.08
+44,Taylor,Morgan,Brand Specialist,Marketing,2022-08-31,2025-07-01,2023-11-08,141391.91
+45,Martin,Harper,IT Manager,IT,2022-02-05,2024-03-10,2024-12-30,56954.16
+46,Garcia,Emerson,Financial Analyst,Finance,2022-04-24,2025-02-01,,48256.84
+47,Thompson,Emerson,Client Success Manager,Customer Support,2024-06-22,,,118276.77
+48,Harris,Riley,Regional Sales Lead,Sales,2022-04-11,2024-06-30,,108801.73
+49,Clark,Alex,Regional Sales Lead,Sales,2018-01-11,2018-12-20,,59512.66
+50,Brown,Logan,Research Scientist,R&D,2023-09-06,2025-10-10,,109395.87
+51,Martin,Morgan,Software Engineer,IT,2019-02-23,2021-11-06,,124511.08
+52,Clark,Alex,Quality Supervisor,Operations,2024-03-17,2025-09-11,,76246.56
+53,Taylor,Elliot,Supply Chain Analyst,Procurement,2024-08-03,,,91965.84
+54,Moore,Drew,Software Engineer,IT,2022-02-28,2024-07-22,2024-10-29,91645.29
+55,Harris,Avery,Supply Chain Analyst,Procurement,2020-12-14,2021-11-14,,131794.18
+56,Brown,Drew,Marketing Manager,Marketing,2024-06-29,2025-05-04,,85911.57
+57,Taylor,Charlie,Accountant,Finance,2020-08-16,2022-03-24,,93272.12
+58,Miller,Drew,Marketing Manager,Marketing,2023-09-05,,,148371.01
+59,Anderson,Alex,Marketing Manager,Marketing,2020-06-04,2023-04-06,,78921.7
+60,Rodriguez,Elliot,Research Scientist,R&D,2022-02-06,2023-07-07,,121562.34
+61,White,Jordan,Financial Analyst,Finance,2024-03-07,,,71457.82
+62,Davis,Reese,HR Manager,HR,2023-04-04,2024-12-26,,98722.63
+63,Johnson,Jordan,Marketing Manager,Marketing,2024-03-26,2025-01-28,,86853.46
+64,Johnson,Drew,IT Manager,IT,2020-05-24,2023-05-31,2023-12-17,127577.9
+65,Martinez,Jordan,Software Engineer,IT,2018-02-22,2021-03-16,,113701.07
+66,Smith,Quinn,Support Specialist,Customer Support,2020-05-27,2022-06-22,,114826.42
+67,Clark,Reese,Logistics Coordinator,Operations,2024-08-03,,,144454.62
+68,Jackson,Harper,Training Specialist,HR,2024-08-03,,,112586.66
+69,White,Cameron,Client Success Manager,Customer Support,2022-03-14,2023-01-25,,65358.85
+70,Martin,Emerson,Controller,Finance,2020-04-06,2022-07-09,,98893.22
+71,Smith,Peyton,IT Manager,IT,2021-03-12,2023-09-27,2022-08-30,144437.94
+72,Martin,Elliot,Training Specialist,HR,2020-06-08,2023-09-12,2022-08-26,86053.71
+73,Taylor,Rowan,Training Specialist,HR,2020-04-06,2021-09-13,,82040.37
+74,Moore,Harper,Support Specialist,Customer Support,2018-10-10,2020-08-13,,72198.62
+75,Wilson,Drew,Sales Executive,Sales,2019-02-26,2020-08-12,2020-09-26,81025.16
+76,Wilson,Elliot,Client Success Manager,Customer Support,2020-09-18,2022-01-13,,111187.06
+77,Anderson,Harper,Procurement Officer,Procurement,2024-02-11,,,55167.54
+78,Garcia,Harper,Sales Executive,Sales,2021-07-21,2024-08-02,2022-12-27,128277.93
+79,Garcia,Riley,Logistics Coordinator,Operations,2021-07-29,2022-12-13,,101154.47
+80,Clark,Charlie,Client Success Manager,Customer Support,2018-03-16,2021-05-24,,74431.51
+81,Smith,Peyton,Operations Manager,Operations,2021-08-22,2023-11-20,,52785.77
+82,Thompson,Jamie,Supply Chain Analyst,Procurement,2018-12-10,2021-06-22,,99334.47
+83,Rodriguez,Emerson,Accountant,Finance,2023-05-19,2024-04-25,2024-12-01,62131.3
+84,Clark,Harper,Supply Chain Analyst,Procurement,2018-02-21,2021-04-04,,92810.82
+85,Harris,Jordan,Training Specialist,HR,2020-04-05,2021-05-20,,61094.63
+86,Davis,Casey,Account Manager,Sales,2021-05-08,2024-06-02,,142567.88
+87,Rodriguez,Logan,Research Scientist,R&D,2019-06-01,2020-05-29,,92867.52
+88,Smith,Rowan,Accountant,Finance,2024-11-05,,,63608.24
+89,Miller,Taylor,Logistics Coordinator,Operations,2024-07-24,,,115075.22
+90,Brown,Emerson,Social Media Coordinator,Marketing,2020-08-17,2023-01-29,,65516.81
+91,Davis,Sky,Quality Supervisor,Operations,2023-04-28,2024-12-25,,144409.85
+92,Johnson,Emerson,Product Developer,R&D,2023-07-16,2024-12-17,,80497.45
+93,Taylor,Jamie,Training Specialist,HR,2023-10-23,2025-07-30,,128181.75
+94,Taylor,Harper,Software Engineer,IT,2018-06-26,2020-12-20,2022-05-27,69727.27
+95,Taylor,Reese,Research Scientist,R&D,2022-05-24,2024-07-15,,154062.72
+96,Wilson,Charlie,Account Manager,Sales,2018-12-28,2020-08-25,,103313.62
+97,White,Rowan,Quality Supervisor,Operations,2023-02-26,2024-09-24,,121776.85
+98,Robinson,Avery,Lab Technician,R&D,2022-06-01,2023-09-18,,95417.12
+99,Thompson,Morgan,Brand Specialist,Marketing,2021-10-15,2023-01-21,,127988.17
+100,Jackson,Emerson,Systems Administrator,IT,2024-07-29,,,82210.65
+101,Brown,Cameron,Logistics Coordinator,Operations,2022-09-12,2024-01-18,,53405.7
+102,Johnson,Taylor,Support Specialist,Customer Support,2024-04-26,,,116413.59
+103,Wilson,Charlie,Research Scientist,R&D,2021-11-22,2023-10-21,2023-05-12,113005.71
+104,Rodriguez,Avery,Marketing Manager,Marketing,2023-08-11,,,45362.43
+105,Anderson,Reese,Quality Supervisor,Operations,2018-12-07,2019-11-21,,143800.2
+106,Garcia,Casey,HR Manager,HR,2023-02-01,,,67854.24
+107,Moore,Casey,Customer Service Rep,Customer Support,2023-10-24,2025-06-19,,101327.07
+108,White,Jordan,Accountant,Finance,2018-12-15,2021-12-23,,111580.31
+109,Jackson,Harper,Recruiter,HR,2024-04-25,,2025-08-24,109254.71
+110,Clark,Cameron,Customer Service Rep,Customer Support,2019-07-13,2020-08-28,,128788.04

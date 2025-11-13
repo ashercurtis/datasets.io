@@ -1,0 +1,112 @@
+UniqueID,LastName,FirstName,JobTitle,Department,HireDate,LastPromotionDate,TerminationDate,AnnualSalary
+000001,Swindler,Skylar,CEO,Executive,2021-01-01,2023-01-01,,420000.0
+000002,Costa,Pedro,CFO,Executive,2022-05-22,2025-01-31,,429772.55
+000003,Moura,João,Executive Assistant,Executive,2021-04-02,,,370969.76
+000004,Jesus,Mariane,COO,Executive,2022-08-22,2025-04-28,,312624.47
+000005,da Mota,Ana Clara,COO,Executive,2023-04-14,2025-10-15,,323918.16
+000006,Sales,Yago,Accounts Payable Clerk,Finance,2025-06-22,2025-10-15,,117341.9
+000007,Sales,Emanuel,Accounts Payable Clerk,Finance,2025-03-12,2025-10-15,,132242.56
+000008,Lopes,Kevin,Accounts Payable Clerk,Finance,2025-05-12,2025-10-15,,127252.55
+000009,Nogueira,Ana,Finance Manager,Finance,2024-10-27,,,89536.84
+000010,Oliveira,Isadora,Finance Manager,Finance,2022-03-08,,,74149.92
+000011,Freitas,Kamilly,Accounts Payable Clerk,Finance,2024-07-10,2025-10-15,,76133.81
+000012,Duarte,Emanuel,Accounts Payable Clerk,Finance,2023-10-07,2025-01-24,,62315.51
+000013,Rezende,Ana Júlia,Finance Manager,Finance,2022-02-09,2024-08-20,,98410.34
+000014,Freitas,Sophia,Logistics Coordinator,Operations,2023-05-01,,,97240.7
+000015,da Rosa,Enrico,Logistics Coordinator,Operations,2024-10-29,2025-10-15,,91275.64
+000016,Araújo,Marcelo,Operations Manager,Operations,2024-12-12,2025-10-15,,166949.62
+000017,Moreira,Leandro,Operations Director,Operations,2023-08-03,2025-10-15,,178776.17
+000018,da Rocha,Emanuelly,Logistics Coordinator,Operations,2025-03-14,2025-10-15,,169230.59
+000019,da Cruz,Eduarda,Operations Manager,Operations,2023-04-20,2025-10-15,,147653.56
+000020,da Mata,Ana Laura,Operations Manager,Operations,2024-11-02,,,97085.26
+000021,Ribeiro,Eduarda,Logistics Coordinator,Operations,2022-01-13,2023-09-26,,103028.98
+000022,da Paz,Alana,Logistics Coordinator,Operations,2022-06-07,2024-09-17,,98999.83
+000023,Moraes,Thales,Operations Director,Operations,2021-03-02,2022-03-21,,179086.84
+000024,Oliveira,Nathan,Operations Director,Operations,2025-03-21,2025-10-15,,156506.64
+000025,Ferreira,Pietra,Logistics Coordinator,Operations,2021-03-08,2024-06-02,,128468.62
+000026,Azevedo,Murilo,Logistics Coordinator,Operations,2022-12-09,,,140583.99
+000027,da Cunha,Gabriel,Operations Manager,Operations,2023-09-12,2025-10-15,,150463.09
+000028,Ferreira,Ana Luiza,Operations Manager,Operations,2025-01-14,,,90501.41
+000029,da Rosa,Milena,Packaging Operator,Production,2023-05-24,,2023-10-02,39603.96
+000030,da Costa,Enzo,Quality Control Analyst,Production,2025-05-28,2025-10-15,,76766.21
+000031,Silveira,Erick,Production Supervisor,Production,2023-09-18,2024-12-05,,50407.4
+000032,da Conceição,Anthony,Quality Control Analyst,Production,2021-07-06,2023-09-03,,45632.57
+000033,Viana,Luiz Felipe,Quality Control Analyst,Production,2024-04-30,2025-10-15,,61725.47
+000034,Alves,Augusto,Packaging Operator,Production,2022-08-13,2025-10-15,,60764.28
+000035,Sales,Gustavo Henrique,Technician,Production,2023-07-29,2025-10-15,,85709.1
+000036,Freitas,Erick,Production Manager,Production,2024-01-26,,,60057.22
+000037,Gonçalves,Eduarda,Packaging Operator,Production,2023-02-20,,,34516.04
+000038,Novaes,Pedro Miguel,Production Manager,Production,2025-06-20,,,87801.6
+000039,Lima,Raul,Quality Control Analyst,Production,2023-11-02,2025-02-28,,73847.88
+000040,Pires,Joaquim,Packaging Operator,Production,2022-06-05,,,51732.65
+000041,da Luz,Clarice,Technician,Production,2024-06-14,2025-10-15,,67957.48
+000042,Moura,Sophia,Packaging Operator,Production,2021-05-28,,,77880.94
+000043,Almeida,Ana Lívia,Production Manager,Production,2022-08-18,2025-02-21,,46247.1
+000044,Araújo,Valentina,Production Manager,Production,2021-01-01,2022-01-25,,75040.39
+000045,Viana,Lara,Quality Control Analyst,Production,2024-04-23,,2024-05-08,58674.66
+000046,Monteiro,Antônio,Quality Control Analyst,Production,2023-09-06,2025-02-05,,57379.83
+000047,Pereira,Levi,Technician,Production,2024-07-29,2025-10-15,,41687.82
+000048,da Costa,Sarah,Production Supervisor,Production,2025-04-07,2025-10-15,,33301.16
+000049,Correia,Yago,Packaging Operator,Production,2025-09-28,2025-10-15,,77622.97
+000050,Ramos,Davi Lucas,Production Manager,Production,2022-09-20,2024-05-30,,67321.64
+000051,Mendes,Ryan,Packaging Operator,Production,2025-04-09,2025-10-15,,41986.82
+000052,Costa,Rafaela,Production Manager,Production,2023-10-02,2025-10-15,,47346.63
+000053,Duarte,Miguel,Quality Control Analyst,Production,2023-03-16,,,43547.94
+000054,Nogueira,Isaac,Production Supervisor,Production,2025-09-13,2025-10-15,,64629.21
+000055,Souza,Vicente,Quality Control Analyst,Production,2025-03-15,2025-10-15,,83478.34
+000056,Melo,Ana Júlia,Technician,Production,2025-09-04,2025-10-15,,59989.91
+000057,Almeida,Sofia,Quality Control Analyst,Production,2021-06-11,2024-07-30,,58266.03
+000058,Martins,Maria Sophia,Technician,Production,2022-05-11,2025-06-18,,76419.08
+000059,Freitas,Luiz Felipe,Production Supervisor,Production,2024-07-08,2025-10-15,,57527.03
+000060,Ferreira,Thiago,Packaging Operator,Production,2023-10-16,2025-10-15,,71780.67
+000061,da Paz,Miguel,Production Manager,Production,2023-11-30,2025-10-15,,44523.03
+000062,Novaes,Pedro,Technician,Production,2023-01-30,2025-10-15,,66279.76
+000063,Souza,Arthur,Packaging Operator,Production,2023-11-11,,,74097.5
+000064,Nunes,Luiz Miguel,Packaging Operator,Production,2023-06-30,2024-12-27,,62371.38
+000065,Pereira,Ana Clara,Quality Control Analyst,Production,2022-11-17,,,51019.33
+000066,Nascimento,Enzo Gabriel,Technician,Production,2024-09-26,2025-10-15,,74092.16
+000067,Nascimento,Noah,Packaging Operator,Production,2022-04-02,2023-06-25,,56736.67
+000068,Jesus,Brenda,Packaging Operator,Production,2022-07-05,2025-04-19,,60815.51
+000069,Caldeira,Vitória,Packaging Operator,Production,2024-01-06,2025-10-15,,81302.65
+000070,Nunes,Vitor Hugo,Quality Control Analyst,Production,2024-06-15,2025-07-16,,44467.81
+000071,Novaes,Luiz Henrique,Production Manager,Production,2024-12-21,2025-10-15,,79120.34
+000072,Cavalcanti,Rafael,Quality Control Analyst,Production,2022-11-14,2025-05-20,,56990.53
+000073,Melo,Ana Vitória,Production Supervisor,Production,2024-02-08,2025-02-22,,83023.13
+000074,Monteiro,Lucas Gabriel,Sales Director,Sales,2023-02-25,,,64587.18
+000075,da Cunha,Olivia,Sales Representative,Sales,2023-02-04,2025-10-09,,122686.39
+000076,Melo,Helena,Sales Representative,Sales,2023-05-31,2025-10-15,,125308.54
+000077,Martins,Luiz Miguel,Sales Representative,Sales,2025-02-11,2025-10-15,,56340.15
+000078,Barbosa,Sarah,Sales Director,Sales,2022-12-18,2025-08-27,,134864.16
+000079,Sales,Cauã,Sales Representative,Sales,2022-08-14,,,74341.09
+000080,Nascimento,Larissa,Sales Director,Sales,2025-09-17,2025-10-15,,142492.6
+000081,Fogaça,Valentina,Sales Director,Sales,2021-06-07,2024-02-11,,141740.75
+000082,Jesus,Matheus,Sales Director,Sales,2021-08-07,2022-08-26,,118108.89
+000083,Carvalho,Lucca,Sales Representative,Sales,2022-04-09,,,136264.3
+000084,da Cruz,Vinicius,Brand Strategist,Marketing,2024-09-14,,,128445.31
+000085,Cavalcanti,Benício,Marketing Director,Marketing,2021-11-08,2024-12-07,,85647.25
+000086,Moura,Diogo,Marketing Coordinator,Marketing,2021-09-23,2023-05-22,,57544.76
+000087,Farias,Bryan,Marketing Coordinator,Marketing,2023-12-28,2025-10-15,2025-10-15,52823.01
+000088,Alves,Olivia,Marketing Director,Marketing,2022-12-11,2025-01-16,,65122.95
+000089,Ribeiro,Isabel,Social Media Specialist,Marketing,2025-03-07,2025-10-15,2025-10-15,96532.37
+000090,Aragão,Rafaela,Brand Strategist,Marketing,2022-06-17,2024-05-27,,78295.23
+000091,Pires,Marcelo,Marketing Director,Marketing,2022-03-20,2024-05-16,,76746.98
+000092,Lima,Luiz Henrique,Social Media Specialist,Marketing,2021-07-07,2022-08-30,,128285.76
+000093,Nunes,Kaique,Marketing Director,Marketing,2024-06-12,2025-10-15,,57262.57
+000094,Fernandes,Marcos Vinicius,HR Assistant,HR,2025-04-29,2025-10-15,,109102.32
+000095,Pires,Lucca,HR Manager,HR,2022-11-04,2025-07-24,,118822.73
+000096,Martins,Luana,HR Manager,HR,2025-01-22,2025-10-15,,113261.33
+000097,Azevedo,Maria Sophia,Recruiter,HR,2021-03-04,2022-11-30,,121620.2
+000098,Martins,Agatha,HR Director,HR,2024-03-29,2025-10-15,,89183.62
+000099,Moura,Kamilly,Recruiter,HR,2022-11-05,2024-01-31,,86640.61
+000100,da Luz,Júlia,Software Developer,IT,2025-06-12,,,120585.26
+000101,Lopes,Davi Lucas,IT Manager,IT,2024-03-16,2025-10-15,,139272.63
+000102,Pinto,Kaique,IT Manager,IT,2021-08-20,2022-11-22,,156247.32
+000103,Jesus,Camila,System Support Analyst,IT,2021-08-24,2024-08-05,,119449.81
+000104,Castro,Eloah,IT Manager,IT,2024-10-29,2025-10-15,,104062.18
+000105,Lopes,Vitória,System Support Analyst,IT,2022-04-03,2024-10-30,,128299.67
+000106,da Mota,Camila,Customer Support Specialist,Customer Service,2022-09-19,2024-09-03,,43673.32
+000107,Gonçalves,João Miguel,Customer Service Manager,Customer Service,2021-11-26,2024-12-27,,40571.76
+000108,Azevedo,Gabriela,Customer Service Manager,Customer Service,2025-03-25,2025-10-15,2025-10-15,89025.41
+000109,Ribeiro,Cauê,Customer Service Manager,Customer Service,2024-04-20,2025-09-15,,85885.17
+000110,Viana,Luna,Customer Support Specialist,Customer Service,2023-11-29,2025-10-15,,86719.69
+000111,Silveira,Isabel,Customer Support Specialist,Customer Service,2021-12-05,2025-02-26,,49985.28

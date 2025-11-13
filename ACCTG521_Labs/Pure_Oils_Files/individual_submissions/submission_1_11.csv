@@ -1,0 +1,111 @@
+UniqueID,LastName,FirstName,JobTitle,Department,HireDate,LastPromotionDate,TerminationDate,AnnualSalary
+EMP001,Swindler,Skylar,CEO,Executive,1/1/2021,1/1/2023,,300000
+EMP002,Jackson,Emma,Accountant,Finance,1/31/2021,6/22/2022,,109348
+EMP003,Jackson,Sophia,Software Engineer,IT,5/3/2018,,,73478
+EMP004,Anderson,Mia,Software Engineer,IT,1/14/2023,1/20/2024,,90926
+EMP005,Jones,James,Marketing Manager,Marketing,5/31/2020,5/10/2022,,79898
+EMP006,Brown,Alexander,Procurement Officer,Operations,12/19/2020,4/3/2023,,84807
+EMP007,Brown,Liam,SEO Specialist,Marketing,12/8/2024,12/13/2026,,101174
+EMP008,Gonzalez,Ethan,Sales Associate,Sales,11/23/2018,3/5/2020,,109429
+EMP009,Brown,William,Logistics Coordinator,Operations,5/8/2020,4/26/2023,,102469
+EMP010,Rodriguez,Mia,Training Specialist,HR,9/29/2020,,,91500
+EMP011,Martin,Mia,CFO,Executive,5/12/2018,6/25/2020,,235307
+EMP012,Garcia,Mason,Account Executive,Sales,8/7/2023,5/26/2026,,84718
+EMP013,Garcia,Harper,SEO Specialist,Marketing,7/22/2024,3/11/2027,,69373
+EMP014,Lee,Emma,Customer Support Rep,Customer Service,7/12/2018,12/15/2019,,67666
+EMP015,Jones,Alexander,Systems Administrator,IT,9/6/2024,3/1/2027,,71504
+EMP016,Smith,Isabella,SEO Specialist,Marketing,10/25/2021,,,84735
+EMP017,Lee,Sophia,Training Specialist,HR,3/12/2019,1/10/2021,,88270
+EMP018,Lopez,Henry,Recruiter,HR,10/24/2019,4/19/2022,,94252
+EMP019,Martin,Emma,CEO,Executive,1/26/2022,12/6/2023,,243143
+EMP020,Taylor,Alexander,Controller,Finance,6/14/2023,12/10/2025,,73414
+EMP021,Davis,Lucas,Recruiter,HR,12/2/2023,2/7/2026,,90343
+EMP022,Rodriguez,Emma,Data Analyst,IT,3/10/2022,8/20/2024,,102493
+EMP023,Johnson,Mason,Operations Manager,Operations,8/6/2024,3/31/2027,,64652
+EMP024,Taylor,Sophia,Accountant,Finance,9/15/2021,,,108842
+EMP025,Davis,Noah,Training Specialist,HR,5/27/2024,1/30/2026,,81677
+EMP026,Johnson,Noah,Controller,Finance,11/1/2022,12/25/2024,,112780
+EMP027,Jackson,Charlotte,CTO,Executive,10/21/2021,2/9/2023,,229862
+EMP028,Thomas,Alexander,Recruiter,HR,1/22/2020,10/3/2021,,59940
+EMP029,Miller,Benjamin,Accountant,Finance,1/24/2024,4/28/2025,,80491
+EMP030,Wilson,Isabella,Customer Success Manager,Customer Service,5/25/2020,7/24/2021,,40141
+EMP031,Garcia,Sophia,Customer Success Manager,Customer Service,9/29/2022,4/20/2025,,71894
+EMP032,Johnson,Evelyn,Marketing Manager,Marketing,8/28/2018,3/5/2021,5/31/2022,58746
+EMP033,Miller,Emma,Service Coordinator,Customer Service,12/16/2023,,,45250
+EMP034,Johnson,William,Controller,Finance,8/21/2020,3/27/2023,,103962
+EMP035,Lopez,Mason,Financial Analyst,Finance,7/18/2024,6/6/2026,,78386
+EMP036,Brown,Ava,Content Strategist,Marketing,6/21/2019,4/23/2021,,104274
+EMP037,Martinez,Olivia,Service Coordinator,Customer Service,4/25/2024,7/9/2025,,73153
+EMP038,Hernandez,William,Operations Manager,Operations,9/27/2020,3/7/2022,,95600
+EMP039,Jackson,Olivia,COO,Executive,3/1/2019,7/15/2020,,208058
+EMP040,Martinez,Harper,Content Strategist,Marketing,10/13/2024,9/29/2026,,96565
+EMP041,Johnson,Ava,Customer Success Manager,Customer Service,7/28/2018,,,58132
+EMP042,Anderson,Alexander,Operations Manager,Operations,12/8/2020,,,106246
+EMP043,Johnson,James,CEO,Executive,11/5/2018,10/12/2021,,323023
+EMP044,Gonzalez,Sophia,Recruiter,HR,6/7/2019,,,57614
+EMP045,Lee,Olivia,Account Executive,Sales,2/26/2019,9/21/2021,,103264
+EMP046,Anderson,Mason,Sales Manager,Sales,12/27/2019,1/20/2021,,93540
+EMP047,Davis,Charlotte,Marketing Manager,Marketing,3/19/2019,4/26/2020,,69577
+EMP048,Martinez,Emma,Logistics Coordinator,Operations,7/21/2020,5/27/2023,,81512
+EMP049,Jones,Isabella,Content Strategist,Marketing,9/18/2023,3/20/2026,,56808
+EMP050,Lopez,Benjamin,Training Specialist,HR,12/23/2020,,,77654
+EMP051,Moore,Alexander,Financial Analyst,Finance,6/19/2024,,11/28/2028,65110
+EMP052,Lee,Mia,Sales Associate,Sales,11/2/2022,,,93279
+EMP053,Hernandez,Alexander,Controller,Finance,5/15/2021,3/27/2024,,91371
+EMP054,Lee,Evelyn,HR Manager,HR,9/19/2022,10/11/2024,,66405
+EMP055,Martin,William,Content Strategist,Marketing,2/23/2024,12/30/2025,,83173
+EMP056,Miller,Emma,Logistics Coordinator,Operations,12/15/2022,7/20/2024,,108231
+EMP057,Davis,Olivia,SEO Specialist,Marketing,12/11/2024,8/8/2026,,69722
+EMP058,Thomas,Benjamin,CEO,Executive,9/29/2020,6/16/2023,,199091
+EMP059,Jones,Benjamin,Account Executive,Sales,4/22/2022,12/27/2023,,50726
+EMP060,Thomas,Olivia,Sales Manager,Sales,10/23/2023,5/15/2026,,65906
+EMP061,Lee,Harper,Service Coordinator,Customer Service,12/16/2023,8/16/2026,,69004
+EMP062,Martinez,Harper,Data Analyst,IT,1/1/2023,5/1/2025,,102406
+EMP063,Martinez,Mia,Service Coordinator,Customer Service,9/6/2020,11/24/2021,,55367
+EMP064,Garcia,Sophia,Procurement Officer,Operations,11/27/2018,,,105478
+EMP065,Anderson,Amelia,Financial Analyst,Finance,7/28/2022,11/16/2024,,78555
+EMP066,Anderson,Alexander,CTO,Executive,5/8/2023,,,282232
+EMP067,Miller,Charlotte,Sales Associate,Sales,6/17/2020,10/27/2022,5/5/2024,102994
+EMP068,Smith,Emma,Training Specialist,HR,12/28/2023,,,91987
+EMP069,Davis,Charlotte,Software Engineer,IT,3/7/2023,,,112906
+EMP070,Taylor,Ava,Logistics Coordinator,Operations,4/2/2022,6/6/2024,,65367
+EMP071,Davis,Ava,COO,Executive,7/7/2020,5/5/2023,9/8/2022,244823
+EMP072,Thomas,Isabella,HR Manager,HR,6/2/2019,9/26/2020,,69284
+EMP073,Hernandez,Noah,Operations Manager,Operations,10/17/2024,2/11/2026,,70732
+EMP074,Brown,Evelyn,COO,Executive,6/16/2024,7/5/2026,,231990
+EMP075,Gonzalez,Alexander,Sales Manager,Sales,5/20/2021,1/24/2024,,55383
+EMP076,Anderson,Henry,Data Analyst,IT,2/26/2022,,,71658
+EMP077,Miller,Harper,Financial Analyst,Finance,1/23/2022,5/7/2024,,93540
+EMP078,Martin,Isabella,SEO Specialist,Marketing,1/14/2024,5/4/2026,,102908
+EMP079,Martin,William,Operations Manager,Operations,12/21/2018,3/26/2021,,90455
+EMP080,Gonzalez,Isabella,Systems Administrator,IT,4/28/2018,3/25/2020,,97802
+EMP081,Davis,Emma,Logistics Coordinator,Operations,9/7/2024,6/16/2026,,93857
+EMP082,Thomas,Ava,Account Executive,Sales,7/23/2022,3/25/2024,,114332
+EMP083,Gonzalez,Henry,Financial Analyst,Finance,6/26/2020,3/2/2022,,103112
+EMP084,Martinez,Mason,Logistics Coordinator,Operations,3/4/2024,2/21/2027,,80094
+EMP085,Miller,Sophia,Controller,Finance,2/28/2020,8/29/2022,,110230
+EMP086,Lee,Lucas,Account Executive,Sales,6/7/2023,1/30/2026,,118765
+EMP087,Jackson,Olivia,Accountant,Finance,4/28/2021,10/28/2022,,111400
+EMP088,Taylor,Noah,Marketing Manager,Marketing,8/12/2018,7/26/2021,,96803
+EMP089,Martinez,Henry,COO,Executive,4/7/2023,3/20/2025,,193468
+EMP090,Garcia,Olivia,Accountant,Finance,6/30/2022,2/9/2025,,68513
+EMP091,Lee,William,Marketing Manager,Marketing,10/13/2020,,,94735
+EMP092,Hernandez,Evelyn,Account Executive,Sales,4/8/2022,7/4/2024,,106207
+EMP093,Rodriguez,Ethan,CEO,Executive,5/1/2020,1/26/2022,,221171
+EMP094,Johnson,Mason,Accountant,Finance,1/11/2018,12/16/2020,,84087
+EMP095,Martin,Sophia,SEO Specialist,Marketing,3/4/2021,6/11/2023,6/24/2024,72337
+EMP096,Brown,Liam,Software Engineer,IT,2/9/2024,7/10/2025,,88643
+EMP097,Jones,Charlotte,Recruiter,HR,9/3/2024,4/8/2027,,83780
+EMP098,Brown,William,SEO Specialist,Marketing,7/7/2022,11/30/2024,,83688
+EMP099,Martin,Liam,CTO,Executive,8/13/2021,9/8/2022,9/24/2023,250650
+EMP100,Anderson,Henry,Recruiter,HR,10/27/2023,8/6/2025,,93360
+EMP101,Lopez,Benjamin,Financial Analyst,Finance,11/26/2021,10/20/2023,,75539
+EMP102,Martinez,Mia,Customer Success Manager,Customer Service,6/29/2022,1/12/2025,12/25/2024,60612
+EMP103,Thomas,Benjamin,Financial Analyst,Finance,10/9/2023,10/9/2024,,100559
+EMP104,Davis,Isabella,CFO,Executive,10/25/2023,3/18/2026,,193529
+EMP105,Rodriguez,Ethan,Recruiter,HR,11/30/2022,4/9/2025,,94903
+EMP106,Jones,Charlotte,SEO Specialist,Marketing,2/26/2018,6/1/2019,,110142
+EMP107,Anderson,Henry,Controller,Finance,9/23/2019,7/17/2021,,82919
+EMP108,Garcia,Emma,Customer Support Rep,Customer Service,2/14/2023,3/12/2025,,73308
+EMP109,Hernandez,Lucas,Content Strategist,Marketing,10/24/2021,3/26/2024,,55168
+EMP110,Thomas,Mia,Customer Support Rep,Customer Service,1/4/2023,12/22/2024,,64720

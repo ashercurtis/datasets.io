@@ -1,0 +1,112 @@
+UniqueID,LastName,FirstName,JobTitle,Department,HireDate,LastPromotionDate,TerminationDate,AnnualSalary
+1,Swindler,Skylar,CEO,Executive,1/1/21,1/1/23,,250000
+2,Young,Chloe,Marketing Specialist,Marketing,1/31/21,8/4/22,,98917.7
+3,Hall,Ava,SEO Analyst,Marketing,9/25/22,8/23/23,4/2/24,58612.87
+4,Johnson,Victoria,Procurement Specialist,Operations,9/15/22,2/22/24,,62255.26
+5,Scott,Harper,Sales Manager,Sales,9/28/22,7/7/24,,57225.1
+6,Harris,Logan,Marketing Specialist,Marketing,4/6/22,5/10/23,,67516.46
+7,Martin,Zoe,Controller,Finance,2/25/23,6/23/25,8/10/25,46304.02
+8,Martin,Olivia,HR Manager,HR,2/27/20,12/14/22,10/21/24,58231.86
+9,Thomas,Isabella,Operations Coordinator,Operations,4/6/22,11/11/23,,106728.83
+10,Hall,Scarlett,HR Specialist,HR,12/29/20,10/13/23,,91842.83
+11,Allen,Alexander,Sales Manager,Sales,9/29/20,1/9/22,,61595.83
+12,Baker,Liam,Procurement Specialist,Operations,8/21/21,10/27/24,,44475.04
+13,King,Harper,Recruiter,HR,1/1/21,1/3/22,,115432.78
+14,Anderson,Mia,Procurement Specialist,Operations,8/7/23,7/12/25,,91428.15
+15,Martinez,Isabella,Sales Representative,Sales,12/12/20,11/11/23,,111825.83
+16,Anderson,Scarlett,Operations Coordinator,Operations,9/19/23,10/1/25,10/1/25,108888.23
+17,Clark,Benjamin,Sales Manager,Sales,9/26/22,3/24/25,6/29/25,87671.07
+18,Lee,Victoria,Product Developer,Research,2/17/18,11/9/20,,94536.83
+19,Johnson,Chloe,Product Developer,Research,10/25/21,12/13/22,,52652.62
+20,Martin,Zoe,Product Developer,Research,1/2/20,3/31/22,,109641.49
+21,Lewis,Ava,Operations Coordinator,Operations,3/12/22,2/24/25,,116279.98
+22,Baker,Logan,Recruiter,HR,3/21/18,5/9/19,,110297.75
+23,Brown,Chloe,Lab Technician,Research,8/26/18,2/23/20,,115755.96
+24,Thomas,Mia,Customer Service Rep,Customer Service,12/22/23,10/1/25,10/1/25,115747.89
+25,Allen,Isabella,IT Support,IT,4/3/20,1/28/23,,119611.95
+26,Johnson,Ella,Client Relations Lead,Customer Service,1/24/23,3/22/24,,45122.07
+27,Brown,Liam,Procurement Specialist,Operations,6/21/20,4/24/21,11/6/24,44709.9
+28,Lee,Emma,HR Specialist,HR,10/7/23,4/2/25,,78833.16
+29,Young,Mason,Customer Service Rep,Customer Service,4/22/23,10/1/25,,47546.06
+30,Allen,Scarlett,Recruiter,HR,8/11/22,9/27/24,,44333.69
+31,White,Amelia,Marketing Specialist,Marketing,7/8/22,5/18/25,,108933.8
+32,White,Olivia,Procurement Specialist,Operations,1/12/23,3/30/24,,62283.61
+33,Johnson,Olivia,Client Relations Lead,Customer Service,2/6/19,1/23/20,,83247.04
+34,Smith,Elijah,Operations Coordinator,Operations,7/23/22,9/27/24,,109172.03
+35,Martin,Mason,IT Support,IT,5/19/22,12/11/23,,102810.35
+36,Wright,Evelyn,Customer Service Rep,Customer Service,2/17/20,10/12/21,,44678.66
+37,Lewis,Elijah,Controller,Finance,7/8/21,7/1/22,3/3/25,80228.03
+38,Young,Lucas,Controller,Finance,11/25/18,2/8/22,,87602.81
+39,Robinson,Grace,IT Support,IT,10/5/20,3/16/23,,89550.52
+40,Martinez,Emma,Recruiter,HR,4/16/20,12/27/22,,59094.88
+41,Hall,Ella,Research Associate,Research,7/19/21,6/22/24,,40745.24
+42,Brown,Lucas,Marketing Specialist,Marketing,5/23/20,8/19/22,,114660.75
+43,Hall,Logan,Recruiter,HR,10/9/19,10/26/21,,96283.19
+44,Taylor,Chloe,Controller,Finance,5/11/21,1/15/24,5/31/24,61157.27
+45,Young,Scarlett,Account Executive,Sales,2/28/21,9/5/23,,67430.42
+46,Brown,Scarlett,Product Developer,Research,6/25/23,1/2/25,,107688.3
+47,Harris,Elijah,Software Engineer,IT,6/30/18,4/29/19,,50465.57
+48,King,Emma,Client Relations Lead,Customer Service,10/18/22,3/10/25,3/29/25,115604.08
+49,Green,Liam,Financial Analyst,Finance,8/30/19,9/8/21,6/1/23,69172.12
+50,Robinson,Henry,HR Specialist,HR,10/19/20,6/28/23,9/3/25,84790.68
+51,Johnson,Elijah,Sales Representative,Sales,10/28/19,11/20/22,,110513.3
+52,Martinez,Liam,Recruiter,HR,10/13/20,5/9/22,,96102.26
+53,Baker,Logan,Customer Service Rep,Customer Service,3/28/20,5/8/23,,67972.67
+54,Brown,Victoria,Operations Coordinator,Operations,4/7/18,12/7/20,,66260.96
+55,Thompson,Ava,Research Associate,Research,9/18/23,8/27/25,,107492.89
+56,Taylor,Henry,Brand Manager,Marketing,1/2/20,6/14/22,,61237.31
+57,Martinez,Ella,Software Engineer,IT,7/8/21,7/24/23,,80913.84
+58,Green,Evelyn,Logistics Manager,Operations,7/1/18,4/21/21,,81593.63
+59,Hall,Harper,Logistics Manager,Operations,11/2/22,11/8/23,,113661.67
+60,Martinez,Alexander,SEO Analyst,Marketing,5/15/21,8/12/23,,72671.43
+61,Young,Chloe,Product Developer,Research,6/6/19,10/14/20,,115229.09
+62,Martin,Amelia,Sales Manager,Sales,5/17/21,5/2/23,,40032.48
+63,Lewis,James,Systems Analyst,IT,8/12/21,9/27/23,,94050.18
+64,Thompson,Olivia,Sales Manager,Sales,12/14/18,7/26/20,,90635.27
+65,Smith,Lucas,Procurement Specialist,Operations,6/25/21,12/7/22,,51788.32
+66,Jackson,Alexander,Client Relations Lead,Customer Service,10/26/18,11/30/20,,90381.23
+67,Scott,Noah,Software Engineer,IT,6/25/22,12/26/23,12/31/23,111412.79
+68,Smith,Evelyn,IT Support,IT,12/22/19,1/18/23,,81436.62
+69,Lee,Henry,Operations Coordinator,Operations,2/13/23,4/24/24,,93406.22
+70,Thomas,Chloe,Recruiter,HR,8/30/23,9/4/25,,83829.76
+71,Scott,Victoria,Support Specialist,Customer Service,11/27/20,11/1/23,,91012.91
+72,White,Mia,Client Relations Lead,Customer Service,9/6/20,4/10/22,,97083.59
+73,Anderson,Alexander,Recruiter,HR,11/27/18,2/11/20,,70642.82
+74,Smith,Amelia,Operations Coordinator,Operations,8/27/22,8/13/24,,77273.94
+75,Rodriguez,Ava,Software Engineer,IT,3/22/18,6/11/21,,86055.23
+76,Lee,Chloe,Recruiter,HR,5/17/22,8/2/25,,106858.29
+77,Thompson,Grace,Logistics Manager,Operations,6/17/20,1/17/22,,42321.99
+78,Hall,Evelyn,Systems Analyst,IT,11/8/19,1/11/23,,50210.22
+79,Clark,Elijah,Financial Analyst,Finance,4/22/18,5/12/19,,50855.96
+80,Scott,Sophia,Financial Analyst,Finance,4/2/22,12/28/23,,66147.66
+81,Smith,Isabella,Research Associate,Research,10/30/20,12/28/23,1/16/24,99921.94
+82,Johnson,Lucas,Procurement Specialist,Operations,10/9/18,10/12/21,,43220.65
+83,Jackson,Charlotte,Operations Coordinator,Operations,9/17/19,3/14/21,12/14/24,49151.16
+84,Taylor,Victoria,Research Associate,Research,11/19/19,5/27/22,,99834.05
+85,Martinez,Sophia,Account Executive,Sales,3/19/19,8/27/21,5/27/23,86063.74
+86,Young,Henry,Operations Coordinator,Operations,9/21/20,10/30/21,,64126.61
+87,Brown,Benjamin,SEO Analyst,Marketing,6/18/18,4/3/20,,92921.71
+88,Garcia,Scarlett,HR Specialist,HR,9/17/22,10/1/25,,74681.87
+89,Allen,Mia,Client Relations Lead,Customer Service,9/19/19,10/3/21,,81739.74
+90,White,Zoe,Support Specialist,Customer Service,11/20/22,10/1/25,,61471.64
+91,Young,Sophia,Brand Manager,Marketing,1/21/23,7/23/24,,85587.97
+92,Garcia,Logan,HR Specialist,HR,7/18/23,10/1/25,,79003.99
+93,Johnson,Benjamin,Research Associate,Research,2/19/21,8/18/23,,62101.49
+94,White,Alexander,Operations Coordinator,Operations,9/15/20,7/19/23,,84414.1
+95,White,Sophia,Client Relations Lead,Customer Service,7/4/23,7/31/25,,47444.27
+96,Wright,Evelyn,Logistics Manager,Operations,2/20/22,4/14/24,,67500.59
+97,Wright,Amelia,Recruiter,HR,2/2/23,9/1/24,,58443.04
+98,Wright,Ella,HR Specialist,HR,1/29/20,6/8/21,,78735.89
+99,Johnson,Alexander,Lab Technician,Research,3/6/20,10/30/21,,54355.32
+100,Anderson,Scarlett,Account Executive,Sales,7/6/18,6/26/19,,95793.39
+101,Thompson,Elijah,Customer Service Rep,Customer Service,2/20/18,7/26/20,,78297.14
+102,Brown,Ella,Financial Analyst,Finance,5/11/23,6/30/24,,72056.6
+103,White,Noah,Accountant,Finance,9/4/19,10/8/22,,64306.84
+104,Clark,Ethan,Systems Analyst,IT,7/13/20,7/12/23,,76041.16
+105,Scott,Amelia,Software Engineer,IT,9/4/18,3/16/21,,47938.69
+106,Thomas,Ava,Logistics Manager,Operations,11/29/18,3/3/20,,84159.38
+107,King,Charlotte,Software Engineer,IT,4/9/23,11/27/24,4/23/25,96556.47
+108,Young,Logan,SEO Analyst,Marketing,8/14/20,3/7/22,,90004.64
+109,Harris,Zoe,Logistics Manager,Operations,4/16/19,8/20/21,,51919.15
+110,Baker,Ella,Sales Representative,Sales,9/2/18,12/15/19,,87603.52
+111,Harris,Benjamin,Research Associate,Research,5/25/19,7/12/21,,95978.69

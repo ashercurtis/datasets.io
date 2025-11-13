@@ -1,0 +1,112 @@
+UniqueID,LastName,FirstName,JobTitle,Department,HireDate,LastPromotionDate,TerminationDate,AnnualSalary
+1,Swindler,Skylar,CEO,Executive,1/1/2021,1/1/2023,,275000
+2,Chang,Megan,IT Manager,IT,6/15/2015,5/10/2018,,110600.24
+3,Green,Robert,Brand Manager,Marketing,1/6/2019,7/22/2025,,74489.77
+4,Sullivan,William,Recruiter,HR,7/26/2016,1/15/2025,5/23/2025,178279.99
+5,Turner,Kristen,Recruiter,HR,2/9/2016,4/16/2024,3/20/2025,108739.27
+6,Silva,Thomas,Finance Manager,Finance,11/14/2019,6/1/2023,,168256.49
+7,Wagner,Rebecca,Product Developer,R&D,9/14/2024,6/7/2025,,153678.76
+8,Campos,Juan,CEO,Executive,1/26/2023,6/4/2025,,156354.07
+9,King,Christine,VP of Finance,Executive,7/14/2020,3/5/2025,,77927.97
+10,Mcgrath,Renee,Supply Chain Analyst,Operations,10/5/2024,11/6/2024,,121613.95
+11,Barrera,Lisa,Sales Associate,Sales,1/3/2024,7/12/2025,,55860.19
+12,Blair,Kyle,Supply Chain Analyst,Operations,6/27/2020,2/5/2021,,84297.24
+13,Sutton,Rachel,Finance Manager,Finance,2/19/2024,8/25/2025,,152922.66
+14,Garcia,Thomas,Brand Manager,Marketing,1/11/2016,9/18/2022,,87801.32
+15,Carr,Ryan,Sales Manager,Sales,1/23/2017,3/9/2019,,49451.28
+16,Levy,Robin,Brand Manager,Marketing,10/10/2015,10/11/2016,,62580.3
+17,Grimes,Thomas,HR Manager,HR,6/12/2024,7/23/2024,,169616.13
+18,Trujillo,Jorge,Software Engineer,IT,11/7/2020,5/27/2025,,74052.17
+19,Smith,Ana,Software Engineer,IT,1/20/2020,7/29/2025,,179494.81
+20,Ross,Jennifer,Operations Coordinator,Operations,8/21/2018,7/4/2025,,124255.08
+21,Barnett,Mallory,Operations Coordinator,Operations,9/22/2017,11/27/2017,,60813.13
+22,Snyder,Aaron,Sales Manager,Sales,11/29/2023,5/21/2024,,155148.27
+23,Sanchez,Mikayla,Accountant,Finance,8/4/2024,7/27/2025,,155311.24
+24,Harrell,Mark,Financial Analyst,Finance,5/24/2016,7/7/2023,,157061.63
+25,Bradley,James,Payroll Specialist,Finance,1/10/2016,3/5/2020,,60666.23
+26,Ponce,John,CFO,Executive,1/27/2017,2/15/2025,,73427.83
+27,West,Linda,CEO,Executive,2/7/2021,6/28/2023,,157846.86
+28,Flores,Christopher,Accountant,Finance,10/22/2015,1/22/2023,,103869.27
+29,Cantu,William,VP of Finance,Executive,3/28/2020,6/16/2020,,139408.62
+30,Arnold,Daniel,Systems Analyst,IT,12/1/2017,12/8/2021,,108479.18
+31,Kelley,Jasmine,HR Coordinator,HR,7/18/2022,9/7/2023,,52836.88
+32,Fernandez,Lisa,HR Manager,HR,11/3/2018,10/10/2024,,125566.84
+33,Morrison,Tamara,Quality Assurance Engineer,R&D,12/17/2016,2/9/2017,,100337.23
+34,Wallace,Briana,Content Strategist,Marketing,1/2/2019,5/12/2023,,78875.91
+35,Cruz,Caitlyn,VP of Operations,Executive,4/26/2023,7/15/2023,,51169.03
+36,Roberts,Barbara,Marketing Specialist,Marketing,9/10/2017,2/4/2023,,83863.52
+37,Lopez,Jaime,Supply Chain Analyst,Operations,2/8/2022,8/2/2025,,86890.17
+38,Douglas,Chloe,IT Support Specialist,IT,1/7/2015,9/7/2021,,90144.23
+39,Davis,Thomas,Sales Associate,Sales,2/23/2022,8/28/2024,,163182.16
+40,Mcdowell,Katherine,IT Support Specialist,IT,7/6/2019,3/14/2024,,140715.81
+41,Kirby,Sandra,Recruiter,HR,9/19/2015,8/15/2018,,105259.24
+42,Leblanc,Rachael,Quality Assurance Engineer,R&D,10/9/2021,10/9/2021,,111768.66
+43,Myers,Amber,Brand Manager,Marketing,7/24/2015,8/18/2024,,176513.88
+44,Hill,Janet,Systems Analyst,IT,2/24/2021,9/12/2024,,158055.53
+45,Atkinson,Lisa,HR Manager,HR,7/4/2019,3/9/2024,,73825.83
+46,Lawrence,Patty,VP of Finance,Executive,11/12/2021,5/31/2022,,127128.55
+47,Riley,Stephanie,Sales Manager,Sales,2/20/2018,3/7/2020,,160281.64
+48,Keller,Shannon,IT Support Specialist,IT,3/31/2015,4/29/2018,,152976.32
+49,Stark,Wendy,Finance Manager,Finance,6/30/2016,10/29/2023,,132855.74
+50,Miller,Laura,Operations Coordinator,Operations,10/11/2024,12/29/2024,,47507.53
+51,Tucker,Chloe,CFO,Executive,8/21/2022,2/3/2024,,172777.84
+52,Bruce,Crystal,VP of Finance,Executive,5/8/2022,2/13/2025,,166865.87
+53,Dennis,John,Software Engineer,IT,10/9/2024,7/11/2025,,95703.15
+54,Robinson,Dave,Marketing Specialist,Marketing,7/21/2016,3/31/2018,,90563.99
+55,Cook,Laura,Supply Chain Analyst,Operations,1/19/2016,11/4/2019,,49814.84
+56,Garcia,Lisa,Marketing Specialist,Marketing,9/4/2016,3/21/2023,,98296.92
+57,Wolfe,Dustin,Recruiter,HR,4/15/2016,8/25/2021,,171056.8
+58,Berry,Brandon,Marketing Specialist,Marketing,8/11/2024,5/5/2025,,85860.54
+59,Ferguson,Renee,Plant Manager,Operations,8/26/2019,11/13/2020,7/26/2023,108990.63
+60,Johnson,Erin,Operations Coordinator,Operations,5/16/2020,1/8/2021,,102582.27
+61,Obrien,Cynthia,Brand Manager,Marketing,3/29/2023,3/1/2025,,169157.99
+62,Myers,Barbara,IT Support Specialist,IT,9/27/2015,10/17/2024,2/7/2025,53256.08
+63,Hooper,Mitchell,CEO,Executive,6/2/2019,8/28/2025,,105553.48
+64,Smith,Benjamin,Quality Assurance Engineer,R&D,1/5/2023,11/30/2024,,56294.54
+65,Lopez,Susan,Sales Manager,Sales,7/25/2021,7/1/2022,,93400.25
+66,Clark,David,Financial Analyst,Finance,11/23/2020,6/5/2023,,72227.87
+67,Giles,Lauren,Product Developer,R&D,11/16/2017,3/13/2020,,179600.47
+68,Coleman,Andrew,Account Executive,Sales,8/22/2016,10/24/2017,,96034.32
+69,Green,Craig,HR Manager,HR,9/8/2021,6/3/2024,,99797.43
+70,Lucas,Jeffrey,IT Manager,IT,8/14/2022,6/4/2024,,179754.71
+71,White,Michael,Account Executive,Sales,11/2/2021,1/24/2023,1/15/2025,174946.47
+72,Williams,William,Plant Manager,Operations,5/26/2015,4/14/2021,,79679.06
+73,Mcneil,Craig,Recruiter,HR,7/15/2021,3/9/2023,,153952.48
+74,Howard,James,Financial Analyst,Finance,10/16/2020,8/30/2025,,53957.88
+75,Massey,Jessica,HR Manager,HR,5/15/2018,7/16/2018,,105559.53
+76,Jackson,Samantha,HR Manager,HR,9/28/2024,8/29/2025,,95128.45
+77,Levy,Emily,IT Support Specialist,IT,6/8/2021,12/10/2021,,153689.85
+78,Lowe,Brian,Payroll Specialist,Finance,6/18/2023,1/15/2024,,166653.73
+79,Peterson,Megan,IT Manager,IT,6/25/2024,8/4/2025,,127003.04
+80,Carlson,John,Sales Associate,Sales,5/15/2022,5/15/2022,,85829.68
+81,Thompson,Scott,Brand Manager,Marketing,9/26/2015,4/8/2021,,172297.85
+82,Ortiz,Thomas,Brand Manager,Marketing,4/23/2019,8/11/2023,5/28/2025,171295.79
+83,Romero,Ashley,Sales Manager,Sales,3/7/2023,7/3/2025,,172151.38
+84,Howard,Larry,Product Developer,R&D,7/31/2016,2/4/2022,,126265.51
+85,King,Mary,Accountant,Finance,2/1/2024,1/27/2025,,127589.07
+86,Smith,Ann,IT Manager,IT,7/12/2015,8/30/2016,,65434.65
+87,Rogers,Judith,VP of Finance,Executive,12/3/2021,8/31/2022,,59214.53
+88,Campbell,Brandon,Operations Coordinator,Operations,4/20/2019,10/18/2024,,53121.71
+89,Benton,John,Quality Assurance Engineer,R&D,2/2/2022,12/25/2023,,175880.53
+90,Roberts,Michael,Marketing Specialist,Marketing,5/7/2019,8/22/2022,,162792.19
+91,Arroyo,Michael,Accountant,Finance,6/6/2015,3/13/2024,,95163.52
+92,Oliver,Cynthia,Sales Manager,Sales,12/31/2018,11/4/2019,,166760.22
+93,Hughes,Jennifer,VP of Operations,Executive,11/12/2017,3/1/2018,,134979.01
+94,Curtis,Robert,Sales Associate,Sales,1/18/2016,10/1/2024,,164984.23
+95,Lee,Aaron,Software Engineer,IT,4/9/2016,11/26/2017,,121411.75
+96,Allen,Matthew,Financial Analyst,Finance,8/30/2019,5/13/2020,9/13/2024,66081.19
+97,Gray,Dana,VP of Operations,Executive,11/1/2019,7/5/2024,9/20/2025,174902.74
+98,Carroll,Nancy,Marketing Specialist,Marketing,12/14/2018,9/28/2019,,138389.65
+99,Morales,Robert,Plant Manager,Operations,12/29/2016,2/7/2017,,76116.63
+100,Barnes,Jacqueline,Operations Coordinator,Operations,9/9/2021,6/29/2022,,72646.76
+101,Williams,Eileen,Financial Analyst,Finance,4/16/2018,6/5/2022,,170926.38
+102,Green,Sean,Sales Associate,Sales,2/4/2017,3/9/2022,,91500.7
+103,Rose,Eric,Marketing Specialist,Marketing,4/25/2015,8/24/2017,,108905
+104,Hoffman,Tony,Brand Manager,Marketing,3/15/2021,10/7/2024,,125057.62
+105,Henson,Karla,Financial Analyst,Finance,12/24/2020,3/27/2024,,95839.51
+106,Collins,Troy,HR Manager,HR,1/8/2024,8/23/2024,,77783.22
+107,Lamb,Steven,Recruiter,HR,3/6/2019,11/19/2023,,161231.57
+108,Burnett,Nancy,VP of Operations,Executive,11/16/2015,10/1/2023,12/4/2024,85417.2
+109,Key,Jacob,Systems Analyst,IT,8/18/2021,12/30/2023,,92866.16
+110,Miller,Cynthia,Sales Manager,Sales,2/4/2022,3/1/2024,,116442.99
+111,Hatfield,Jessica,IT Manager,IT,2/4/2015,10/9/2019,,166670.41

@@ -1,0 +1,111 @@
+UniqueID,LastName,FirstName,JobTitle,Department,HireDate,LastPromotionDate,TerminationDate,AnnualSalary
+1,Swindler,Skylar,CEO,Executive,2021/1/1,2021/1/1,,250000
+2,Hall,Kimberly,Engineer,Technology,2022/12/8,2025/8/26,2025/9/25,98238
+3,Johnson,William,Engineer,Engineering,2023/9/27,2024/6/15,2025/7/17,73274
+4,Martin,Nathaniel,Research Scientist,Marketing,2020/9/4,2024/2/18,2024/3/11,64729
+5,Martin,Veronica,Accountant,Marketing,2017/10/29,2025/3/19,,69135
+6,Martinez,Colton,Engineer,Customer Service,2022/4/5,2023/3/17,2024/6/7,97437
+7,Robinson,Timothy,Sales Manager,Human Resources,2025/2/3,2025/9/21,2025/5/17,110792
+8,Smith,John,Financial Analyst,Sales,2016/2/26,2024/6/24,2018/9/18,111292
+9,Merritt,James,Operations Manager,Customer Service,2022/8/25,2023/5/8,,96880
+10,Marquez,Kevin,Operations Manager,Operations,2024/1/7,2025/8/5,,125431
+11,Love,Lisa,VP of HR,Customer Service,2022/5/14,2025/8/12,2025/7/27,214602
+12,Coleman,Douglas,Accountant,Sales,2016/11/2,2021/1/22,2024/9/6,48534
+13,Marshall,Scott,CTO,Research,2023/3/21,2023/5/21,2023/4/27,207339
+14,Carlson,Christopher,Marketing Manager,Executive,2022/2/18,2023/8/26,2024/6/11,136511
+15,Johnston,Keith,VP of Marketing,Engineering,2018/9/21,2019/4/19,2020/7/8,191028
+16,Johnston,Nathaniel,Data Analyst,Executive,2018/11/19,2025/6/6,2022/6/23,102116
+17,Nelson,Karen,Marketing Manager,Technology,2017/8/28,2024/1/20,2024/11/29,133325
+18,Kennedy,Janice,Sales Manager,Customer Service,2018/7/19,2023/9/24,2023/12/6,121820
+19,White,Stacy,VP of Sales,Finance,2022/7/26,2025/4/5,2024/7/25,215756
+20,Roberts,Thomas,CTO,Sales,2025/8/21,2025/9/5,2025/8/24,205212
+21,Rios,Cynthia,CFO,Customer Service,2019/2/23,2023/10/15,2023/2/16,206639
+22,Lucas,Latoya,Financial Analyst,Finance,2025/2/15,2025/4/12,2025/7/6,97918
+23,Sanford,Catherine,CTO,Sales,2019/2/15,2024/2/7,2020/12/6,182500
+24,Garrison,John,Marketing Manager,Marketing,2019/5/5,2019/9/6,2025/6/20,102781
+25,Mason,Erik,Marketing Manager,Research,2016/11/17,2022/10/29,2022/10/4,98269
+26,Richardson,Penny,Research Scientist,Engineering,2025/6/9,2025/8/27,2025/9/8,56310
+27,Cameron,Mark,Research Scientist,Engineering,2017/2/10,2018/1/22,2023/3/20,46669
+28,Owens,Lisa,Accountant,Sales,2024/9/8,2025/3/29,2025/9/28,71402
+29,Martin,Crystal,IT Support,Sales,2022/12/21,2023/12/27,2023/8/6,63610
+30,Barton,Sarah,Software Developer,Research,2019/10/17,2021/2/26,2022/7/29,96802
+31,Ross,Ryan,IT Support,Engineering,2023/9/8,2024/3/24,2023/11/21,41102
+32,Dunn,Dawn,VP of Sales,Marketing,2017/5/27,2021/3/30,2018/8/10,180458
+33,Nielsen,Andrew,IT Support,Research,2024/4/6,2024/8/9,,57586
+34,Taylor,Patricia,Marketing Manager,Technology,2017/9/17,2021/8/2,2020/11/27,126455
+35,Thompson,Joseph,VP of HR,Marketing,2017/2/25,2020/8/10,2019/8/20,213148
+36,Green,Daniel,VP of Marketing,Marketing,2020/3/29,2025/5/28,2022/10/2,159422
+37,Martinez,Matthew,Legal Counsel,Finance,2023/3/29,2023/12/21,2025/5/15,43100
+38,Ashley,Manuel,Research Scientist,Human Resources,2021/2/23,2022/6/11,2021/3/3,66220
+39,Smith,Mark,CTO,Engineering,2024/10/23,2025/1/25,2024/12/22,198230
+40,Taylor,Lisa,COO,Customer Service,2025/7/23,2025/9/24,,177256
+41,Patterson,Joseph,Engineer,Customer Service,2025/8/3,2025/9/19,2025/9/1,91041
+42,Allen,Michelle,Sales Manager,Human Resources,2022/12/6,2024/9/16,2024/9/24,120263
+43,Page,Ryan,Operations Manager,Operations,2020/7/13,2025/2/14,2022/6/7,125863
+44,Miller,Jennifer,Sales Manager,Research,2024/2/4,2024/4/1,2024/10/22,121907
+45,Chang,Rhonda,CFO,Finance,2021/1/14,2023/5/10,2023/2/20,199959
+46,Weber,Joanna,Research Scientist,Operations,2020/5/15,2021/10/10,2020/8/4,49669
+47,Garrett,Cynthia,IT Support,Technology,2019/7/5,2024/11/18,2020/5/3,44172
+48,Bradley,Leah,Engineer,Operations,2018/1/22,2021/1/2,2019/7/8,83543
+49,Henry,Alexis,Research Scientist,Human Resources,2024/8/9,2025/1/24,2025/4/17,47049
+50,Smith,Kevin,Operations Manager,Marketing,2024/4/21,2024/10/6,2024/8/11,129678
+51,Massey,James,Research Scientist,Customer Service,2019/10/2,2025/7/14,2025/3/27,45202
+52,Sutton,Michelle,Research Scientist,Marketing,2021/9/6,2025/8/21,2024/8/9,79251
+53,Thomas,Ashley,Customer Service Rep,Engineering,2025/4/10,2025/9/14,2025/7/21,50090
+54,Kennedy,Sarah,CFO,Research,2019/4/22,2024/1/30,2021/4/27,155766
+55,Thompson,Curtis,VP of Sales,Customer Service,2020/3/28,2022/12/29,2023/4/4,185279
+56,Wright,Amanda,Legal Counsel,Engineering,2016/1/29,2016/4/22,2021/10/16,48239
+57,Bennett,Megan,Legal Counsel,Marketing,2021/5/27,2023/11/24,2024/12/8,53840
+58,Melendez,Paul,Operations Manager,Human Resources,2019/2/23,2022/11/11,2019/4/24,136249
+59,Murphy,Jason,Software Developer,Customer Service,2019/11/22,2020/2/6,2023/8/29,100693
+60,Williams,Wesley,Sales Manager,Research,2023/5/10,2025/1/27,2025/6/17,132395
+61,Ryan,Robert,VP of Sales,Operations,2024/11/6,2025/3/25,,181105
+62,Jones,Barry,IT Support,Marketing,2019/4/25,2023/11/30,2023/3/3,54855
+63,Liu,Sheri,VP of Sales,Marketing,2025/7/16,2025/9/1,2025/10/12,178867
+64,Mcpherson,Brian,COO,Engineering,2024/7/5,2024/12/10,,152475
+65,Moyer,Christopher,CTO,Executive,2018/8/31,2019/12/11,2020/11/4,205329
+66,Castro,Brent,Sales Manager,Research,2017/3/26,2022/1/15,2019/9/17,129830
+67,Garcia,James,Operations Manager,Customer Service,2020/9/1,2020/12/1,2024/1/26,131437
+68,Allen,Susan,Software Developer,Sales,2016/8/13,2025/1/25,2024/3/17,73618
+69,Foley,Elizabeth,CFO,Technology,2023/1/28,2025/9/17,2024/2/8,202955
+70,Cisneros,Jacqueline,Marketing Manager,Engineering,2022/11/28,2025/4/22,2025/3/27,116729
+71,Griffin,Adam,Accountant,Executive,2025/1/26,2025/6/1,2025/2/7,51337
+72,Stein,Katie,Operations Manager,Human Resources,2025/8/6,2025/9/15,2025/8/25,90179
+73,Carter,Wayne,VP of Sales,Human Resources,2017/8/17,2020/3/14,2022/12/18,201094
+74,Trujillo,Megan,IT Support,Technology,2025/2/24,2025/8/25,2025/9/7,45427
+75,Davis,Mark,Customer Service Rep,Research,2021/3/2,2021/8/25,2024/6/29,55245
+76,Cole,Abigail,Software Developer,Sales,2018/10/5,2024/9/1,2024/7/3,89881
+77,Campbell,Sherry,Data Analyst,Operations,2022/6/20,2024/8/6,2023/11/23,109263
+78,Miller,Shawn,CTO,Legal,2019/3/16,2022/3/17,2020/10/24,212303
+79,Kirk,Gina,Operations Manager,Operations,2018/2/4,2025/3/7,2021/4/25,99280
+80,Bowman,Natalie,Sales Manager,Operations,2019/2/22,2020/12/10,2024/6/21,132263
+81,Garcia,Michael,Operations Manager,Research,2025/2/8,2025/2/26,2025/2/16,103806
+82,Mcconnell,Dana,VP of HR,Research,2017/6/26,2024/6/17,2018/4/22,212864
+83,Davis,Emily,Software Developer,Human Resources,2020/10/1,2022/10/1,2023/9/21,104136
+84,Flores,Shelly,Research Scientist,Customer Service,2023/7/31,2025/1/14,2024/10/9,64880
+85,Boyd,Kirk,VP of HR,Human Resources,2017/7/5,2018/8/20,2019/4/24,164102
+86,Gonzalez,Sabrina,Customer Service Rep,Operations,2025/3/14,2025/6/12,2025/4/15,62081
+87,Adkins,Melanie,CTO,Technology,2023/2/8,2025/5/19,2025/1/4,161115
+88,Crawford,Terry,Research Scientist,Legal,2021/7/26,2021/8/11,2025/1/16,59498
+89,Case,Douglas,VP of HR,Operations,2019/11/27,2021/5/31,2025/2/7,176859
+90,Bird,Steven,CTO,Customer Service,2019/7/13,2024/3/3,2023/10/23,180833
+91,Key,Amanda,Engineer,Finance,2023/1/20,2024/6/29,2025/6/28,82144
+92,Johnson,Monica,CFO,Sales,2025/8/2,2025/9/6,,155192
+93,Braun,Michael,VP of Marketing,Human Resources,2025/8/1,2025/8/1,2025/10/2,163862
+94,Hansen,Jennifer,Research Scientist,Finance,2021/8/12,2025/7/10,2023/12/18,55096
+95,Santos,Joshua,Financial Analyst,Engineering,2016/3/16,2022/7/11,2021/3/8,81512
+96,Becker,Cynthia,Software Developer,Customer Service,2025/7/12,2025/8/6,2025/7/17,111143
+97,Marshall,Leslie,IT Support,Operations,2024/4/12,2025/3/25,2025/9/7,42499
+98,Johnston,Clinton,Accountant,Research,2020/1/22,2021/1/2,2024/4/24,51944
+99,Walter,Alexandra,VP of Marketing,Customer Service,2022/6/28,2024/8/3,2025/9/2,196270
+100,Acosta,Rebecca,IT Support,Research,2022/10/14,2025/10/2,2022/12/2,73219
+101,Wood,Justin,HR Manager,Legal,2023/5/14,2023/7/21,2025/2/16,103519
+102,Carter,Elizabeth,Data Analyst,Customer Service,2024/12/10,2025/6/25,2024/12/16,96925
+103,Chaney,Wendy,Software Developer,Technology,2021/7/27,2022/12/25,2024/2/17,102577
+104,Mcbride,Debra,Research Scientist,Research,2021/4/24,2022/10/6,2025/5/14,48945
+105,Smith,Theresa,Customer Service Rep,Sales,2021/3/12,2023/9/29,2023/8/17,50185
+106,Jones,Joshua,CFO,Customer Service,2025/10/10,2025/10/10,2025/10/12,208778
+107,Kidd,Stephanie,Operations Manager,Marketing,2018/7/1,2024/9/6,2025/2/11,107073
+108,Mccall,Lisa,Customer Service Rep,Legal,2024/2/9,2025/4/1,2025/9/7,65334
+109,Castro,Sarah,Software Developer,Operations,2022/1/24,2024/1/16,2023/6/23,102647
+110,Wilson,Amy,Sales Manager,Legal,2025/9/2,2025/10/4,2025/9/13,126062

@@ -1,0 +1,112 @@
+UniqueID,LastName,FirstName,JobTitle,Department,HireDate,LastPromotionDate,TerminationDate,AnnualSalary
+E001,Swindler,Skylar,CEO,Executive,2021-01-01,2023-01-01,,250000.0
+E002,Mcdonald,Matthew,Accountant,Finance,2022-03-12,2024-05-26,,133165.29
+E003,Cooper,Gary,Client Relations Specialist,Customer Service,2023-06-29,,,118590.85
+E004,Walker,Dustin,HR Coordinator,HR,2022-03-31,2024-08-12,,50438.87
+E005,Cooper,Cody,Logistics Coordinator,Operations,2025-03-08,,,176089.22
+E006,Cooper,Patty,Supply Chain Analyst,Operations,2024-10-03,,,175253.8
+E007,Martinez,Virginia,Logistics Coordinator,Operations,2022-09-19,2023-09-26,,109401.22
+E008,Dixon,Alicia,Account Executive,Sales,2023-06-26,,,41601.41
+E009,Garcia,Timothy,Operations Manager,Operations,2024-12-14,,,124565.21
+E010,Simmons,Ashley,Software Engineer,IT,2021-06-23,2024-05-21,,73951.41
+E011,Harmon,Robert,Software Engineer,IT,2025-05-17,,,100654.02
+E012,Collins,Brian,Technician,Production,2023-01-25,2024-04-05,,127324.25
+E013,Berg,Chad,SEO Specialist,Marketing,2023-02-02,,,99803.12
+E014,Barker,William,Sales Representative,Sales,2021-06-06,2022-06-11,,116817.79
+E015,Stevens,Brandy,Sales Manager,Sales,2024-05-22,,,136932.81
+E016,Ortiz,Vanessa,Recruiter,HR,2023-12-08,,,116182.36
+E017,King,Amber,Recruiter,HR,2024-04-28,,,172458.87
+E018,Porter,Michael,Recruiter,HR,2021-04-01,2023-12-30,,117920.29
+E019,Wilson,Jennifer,Sales Representative,Sales,2020-12-10,2023-10-10,,81763.16
+E020,Nichols,Kristina,HR Coordinator,HR,2021-01-22,2023-09-05,,84657.67
+E021,Odonnell,Gregg,CFO,Executive,2023-03-17,2025-06-16,,94156.87
+E022,Garcia,Cassandra,System Administrator,IT,2025-08-12,,,77449.75
+E023,Martin,George,Content Strategist,Marketing,2024-01-14,2025-08-08,2025-07-21,106344.95
+E024,Brown,Margaret,Accountant,Finance,2024-08-15,,2025-07-14,106029.68
+E025,Carter,Jeremiah,Accountant,Finance,2024-02-20,2025-07-23,,89988.84
+E026,Lewis,Misty,System Administrator,IT,2023-10-14,,,151470.89
+E027,Wheeler,Ricky,CFO,Executive,2021-04-04,2022-12-16,,61319.44
+E028,Reed,Willie,Accountant,Finance,2024-12-30,,,152219.78
+E029,Graham,Adam,Recruiter,HR,2023-06-24,2025-07-03,,47225.66
+E030,Baker,Calvin,IT Manager,IT,2021-12-26,2025-01-24,,145459.68
+E031,Long,Rebekah,Sales Representative,Sales,2021-08-06,2024-03-30,,78406.47
+E032,Ryan,Jerome,Customer Service Manager,Customer Service,2022-01-31,2024-02-23,,137122.06
+E033,Reyes,Thomas,Content Strategist,Marketing,2025-02-14,,,69407.5
+E034,Davis,Miguel,Client Relations Specialist,Customer Service,2020-12-28,2022-09-30,,146359.59
+E035,Jones,Susan,Sales Manager,Sales,2025-05-23,,,117023.6
+E036,Allison,Ricky,Technician,Production,2024-02-24,,,55981.13
+E037,Martinez,Jennifer,CFO,Executive,2023-11-28,2025-08-04,,134574.27
+E038,Williams,Adrian,Client Relations Specialist,Customer Service,2021-09-06,2024-10-11,,106118.35
+E039,Cox,Elizabeth,Logistics Coordinator,Operations,2021-12-18,2024-11-27,,41794.09
+E040,Schneider,Heather,Payroll Specialist,Finance,2025-09-24,,,74383.12
+E041,King,Kelly,Sales Manager,Sales,2024-02-01,2025-05-23,,122033.11
+E042,Ross,Jackie,Sales Manager,Sales,2022-09-20,2024-12-09,,117780.26
+E043,Mann,Christopher,Financial Analyst,Finance,2020-12-27,2023-10-09,,137675.87
+E044,Murphy,Steven,Account Executive,Sales,2024-01-19,2025-07-11,2025-04-11,155041.71
+E045,Cuevas,Shaun,Quality Control Specialist,Production,2023-09-14,,,92784.77
+E046,Bass,Robin,Technician,Production,2021-07-05,2023-02-12,,96603.68
+E047,Watkins,Allen,Marketing Manager,Marketing,2024-09-28,,,124417.35
+E048,Sanders,Matthew,Supply Chain Analyst,Operations,2022-10-21,2024-09-08,,127776.93
+E049,Parks,Andrea,Customer Service Manager,Customer Service,2022-01-21,2024-08-02,,156306.44
+E050,Lewis,Jennifer,IT Manager,IT,2023-10-06,2025-08-09,,151334.03
+E051,Miller,Kimberly,Production Supervisor,Production,2022-01-10,2024-12-12,,115573.31
+E052,Maldonado,Sean,Payroll Specialist,Finance,2020-11-05,2022-11-19,,139840.52
+E053,Calderon,Luis,SEO Specialist,Marketing,2021-01-28,2024-01-04,,169813.26
+E054,Harris,Matthew,Recruiter,HR,2021-12-01,2025-03-15,,65906.06
+E055,Osborne,Derek,Customer Service Manager,Customer Service,2025-04-01,,,59988.81
+E056,Gonzalez,Adam,Customer Support Rep,Customer Service,2020-10-14,2023-10-20,,148715.79
+E057,Clark,James,Sales Manager,Sales,2023-02-16,2024-05-06,,63959.99
+E058,Barton,Kendra,Logistics Coordinator,Operations,2021-12-18,2025-02-24,,106730.15
+E059,Rosario,Heidi,Technician,Production,2025-06-23,,,58029.14
+E060,Warner,Katie,CEO,Executive,2024-02-12,,,98928.38
+E061,Garcia,Nancy,System Administrator,IT,2025-07-02,,,100803.61
+E062,Escobar,Holly,Customer Service Manager,Customer Service,2022-01-06,2025-01-28,2024-03-27,97353.7
+E063,Johnson,Jesus,SEO Specialist,Marketing,2023-09-14,2025-03-13,,66308.99
+E064,Chaney,Shawn,Customer Service Manager,Customer Service,2022-06-23,2023-09-11,,145621.1
+E065,Collier,Brendan,Technician,Production,2024-02-18,,,72266.39
+E066,Hebert,Maria,HR Manager,HR,2020-12-20,2023-09-22,,138256.36
+E067,Miller,Gerald,Software Engineer,IT,2023-06-12,2024-07-03,,66582.0
+E068,Dawson,Danielle,Financial Analyst,Finance,2023-03-20,2024-05-26,,143867.35
+E069,Nichols,Dana,Quality Control Specialist,Production,2024-01-13,2025-02-27,,51864.64
+E070,Moore,Melissa,IT Manager,IT,2022-01-13,2023-02-18,,70404.78
+E071,Wright,Robert,IT Manager,IT,2021-10-13,2024-08-24,,113076.67
+E072,Perez,Jacqueline,HR Manager,HR,2025-08-08,,,172334.27
+E073,Warren,Laura,Technician,Production,2021-09-20,2024-04-27,,59142.02
+E074,Hall,Alexandria,Quality Control Specialist,Production,2020-11-05,2022-02-15,,155942.9
+E075,Buck,Jason,Logistics Coordinator,Operations,2022-09-15,2024-09-26,,88411.85
+E076,Dunn,Jennifer,Software Engineer,IT,2021-09-02,2023-10-11,,57373.25
+E077,Dickerson,Janet,Software Engineer,IT,2022-10-14,2023-12-03,,161588.17
+E078,Salinas,Sara,Software Engineer,IT,2024-01-16,,,131183.51
+E079,Fowler,Derek,Accountant,Finance,2024-02-07,,,91722.13
+E080,Garcia,Rhonda,Customer Support Rep,Customer Service,2020-10-21,2024-01-25,,110376.24
+E081,Mejia,Vicki,Operations Manager,Operations,2022-07-11,2024-09-03,,52665.1
+E082,Murray,Christopher,Software Engineer,IT,2025-08-07,,,171617.11
+E083,Mcdonald,Jacqueline,Software Engineer,IT,2021-11-17,2024-12-16,,130185.68
+E084,Roman,Drew,Logistics Coordinator,Operations,2023-11-12,,,80797.73
+E085,Perry,Robert,IT Manager,IT,2022-03-31,2024-03-29,,176327.15
+E086,Gardner,Zachary,HR Manager,HR,2021-12-27,2024-08-18,,62293.45
+E087,Davis,Phillip,Accountant,Finance,2021-09-18,2023-10-01,,48934.89
+E088,Benjamin,Wayne,Marketing Manager,Marketing,2025-03-19,,,154070.47
+E089,Garrison,Thomas,Accountant,Finance,2024-02-18,2025-05-16,,164898.42
+E090,Stewart,Samantha,CEO,Executive,2023-07-16,2025-04-23,,52144.56
+E091,Peterson,Todd,Payroll Specialist,Finance,2020-12-24,2022-12-25,,169156.93
+E092,Payne,David,CFO,Executive,2024-08-15,,,79080.02
+E093,Bradford,Theodore,COO,Executive,2021-10-11,2024-07-04,,47777.5
+E094,Hernandez,Yvette,IT Manager,IT,2023-10-25,,,129576.34
+E095,Harvey,Tony,Logistics Coordinator,Operations,2025-04-17,,,138155.98
+E096,Wilson,Robert,Supply Chain Analyst,Operations,2024-12-06,,,59565.93
+E097,Ryan,Aaron,Customer Support Rep,Customer Service,2024-01-03,,,161169.59
+E098,Rivera,Roberto,Production Supervisor,Production,2020-12-06,2023-02-02,,67562.9
+E099,Porter,Lisa,Quality Control Specialist,Production,2021-08-18,2023-08-11,,137547.91
+E100,Payne,Julie,HR Coordinator,HR,2021-09-07,2022-12-21,,98743.66
+E101,Bell,Gail,Content Strategist,Marketing,2024-07-06,,,125269.46
+E102,Fry,Jennifer,Operations Manager,Operations,2021-02-14,2022-06-09,,160763.77
+E103,Baker,Andrew,Sales Manager,Sales,2022-05-10,2025-08-09,,87684.45
+E104,Wright,Gerald,COO,Executive,2024-03-27,,,65367.71
+E105,Klein,Daniel,Accountant,Finance,2022-11-02,2024-04-14,,124535.6
+E106,Thomas,Patrick,IT Manager,IT,2024-05-15,2025-09-05,,56003.25
+E107,Smith,Lindsey,Sales Manager,Sales,2021-04-14,2024-03-14,,124287.65
+E108,Johnson,Amy,CFO,Executive,2021-07-19,2022-10-15,,170955.8
+E109,Martinez,Bryan,Recruiter,HR,2021-03-02,2023-04-03,,83477.61
+E110,Roberts,Darrell,HR Manager,HR,2025-01-22,,,127786.41
+E111,Delacruz,Kimberly,Content Strategist,Marketing,2020-11-30,2022-06-18,2024-06-25,118109.79
