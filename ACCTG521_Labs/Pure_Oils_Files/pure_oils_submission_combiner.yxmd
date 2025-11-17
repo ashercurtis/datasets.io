@@ -1,0 +1,475 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2025.1" RunE2="T">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="66" y="66" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="FileName">C:\GitHubConnections\mylocalhelpers\pureOilsHelpers\A521_output_data\submission_*.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>submission_*.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="UniqueID" size="254" source="File: C:\GitHubConnections\mylocalhelpers\pureOilsHelpers\A521_output_data\submission_1_1.csv" type="V_String" />
+            <Field name="LastName" size="254" source="File: C:\GitHubConnections\mylocalhelpers\pureOilsHelpers\A521_output_data\submission_1_1.csv" type="V_String" />
+            <Field name="FirstName" size="254" source="File: C:\GitHubConnections\mylocalhelpers\pureOilsHelpers\A521_output_data\submission_1_1.csv" type="V_String" />
+            <Field name="JobTitle" size="254" source="File: C:\GitHubConnections\mylocalhelpers\pureOilsHelpers\A521_output_data\submission_1_1.csv" type="V_String" />
+            <Field name="Department" size="254" source="File: C:\GitHubConnections\mylocalhelpers\pureOilsHelpers\A521_output_data\submission_1_1.csv" type="V_String" />
+            <Field name="HireDate" size="254" source="File: C:\GitHubConnections\mylocalhelpers\pureOilsHelpers\A521_output_data\submission_1_1.csv" type="V_String" />
+            <Field name="LastPromotionDate" size="254" source="File: C:\GitHubConnections\mylocalhelpers\pureOilsHelpers\A521_output_data\submission_1_1.csv" type="V_String" />
+            <Field name="TerminationDate" size="254" source="File: C:\GitHubConnections\mylocalhelpers\pureOilsHelpers\A521_output_data\submission_1_1.csv" type="V_String" />
+            <Field name="AnnualSalary" size="254" source="File: C:\GitHubConnections\mylocalhelpers\pureOilsHelpers\A521_output_data\submission_1_1.csv" type="V_String" />
+            <Field name="FileName" size="254" source="File: FileName" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="3">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.RegEx.RegEx">
+        <Position x="174" y="66" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Field>FileName</Field>
+          <RegExExpression value="submission_(\d)_\d+" />
+          <CaseInsensitve value="True" />
+          <Method>ParseComplex</Method>
+          <Replace expression="">
+            <CopyUnmatched value="True" />
+          </Replace>
+          <ParseSimple>
+            <SplitToRows value="False" />
+            <RootName>FileName</RootName>
+            <NumFields value="3" />
+            <ErrorHandling>Warn</ErrorHandling>
+          </ParseSimple>
+          <ParseComplex>
+            <Field field="Source" type="V_String" size="254" />
+          </ParseComplex>
+          <Match>
+            <Field>UniqueID_Matched</Field>
+            <ErrorUnmatched value="False" />
+          </Match>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxRegEx" />
+    </Node>
+    <Node ToolID="29">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.MultiFieldFormula.MultiFieldFormula">
+        <Position x="330" y="66" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FieldType>Text</FieldType>
+          <Fields orderChanged="False">
+            <Field name="HireDate" />
+            <Field name="LastPromotionDate" />
+            <Field name="TerminationDate" />
+            <Field name="UniqueID" selected="False" />
+            <Field name="LastName" selected="False" />
+            <Field name="FirstName" selected="False" />
+            <Field name="JobTitle" selected="False" />
+            <Field name="Department" selected="False" />
+            <Field name="AnnualSalary" selected="False" />
+            <Field name="FileName" selected="False" />
+            <Field name="Source" selected="False" />
+            <Field name="*Unknown" selected="False" />
+          </Fields>
+          <NewFieldAddOn>New_</NewFieldAddOn>
+          <NewFieldAddOnPos>Prefix</NewFieldAddOnPos>
+          <CopyOutput value="True" />
+          <Expression>Replace([_CurrentField_], "/", "-")</Expression>
+          <ChangeFieldType value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Replace([_CurrentField_], "/", "-")</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMultiFieldFormula" />
+    </Node>
+    <Node ToolID="30">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextToColumns.TextToColumns">
+        <Position x="414" y="66" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Field>New_HireDate</Field>
+          <ErrorHandling>Last</ErrorHandling>
+          <RootName>New_HireDate</RootName>
+          <Delimeters value="-" />
+          <NumFields value="3" />
+          <Flags value="0" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextToColumns" />
+    </Node>
+    <Node ToolID="32">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.MultiFieldFormula.MultiFieldFormula">
+        <Position x="510" y="66" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FieldType>Text</FieldType>
+          <Fields orderChanged="False">
+            <Field name="New_HireDate1" />
+            <Field name="New_HireDate2" />
+            <Field name="New_HireDate3" />
+            <Field name="UniqueID" selected="False" />
+            <Field name="LastName" selected="False" />
+            <Field name="FirstName" selected="False" />
+            <Field name="JobTitle" selected="False" />
+            <Field name="Department" selected="False" />
+            <Field name="HireDate" selected="False" />
+            <Field name="LastPromotionDate" selected="False" />
+            <Field name="TerminationDate" selected="False" />
+            <Field name="AnnualSalary" selected="False" />
+            <Field name="FileName" selected="False" />
+            <Field name="Source" selected="False" />
+            <Field name="New_HireDate" selected="False" />
+            <Field name="New_LastPromotionDate" selected="False" />
+            <Field name="New_TerminationDate" selected="False" />
+            <Field name="*Unknown" selected="False" />
+          </Fields>
+          <NewFieldAddOn>Num_</NewFieldAddOn>
+          <NewFieldAddOnPos>Prefix</NewFieldAddOnPos>
+          <CopyOutput value="True" />
+          <Expression>ToNumber([_CurrentField_])</Expression>
+          <ChangeFieldType value="True" />
+          <OutputFieldType type="Int16" size="2" scale="1" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>ToNumber([_CurrentField_])</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMultiFieldFormula" />
+    </Node>
+    <Node ToolID="33">
+      <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+        <Position x="606" y="102" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SummarizeFields>
+            <SummarizeField field="FileName" action="GroupBy" rename="FileName" />
+            <SummarizeField field="Num_New_HireDate1" action="Max" rename="Max_Num_New_HireDate1" />
+            <SummarizeField field="Num_New_HireDate2" action="Max" rename="Max_Num_New_HireDate2" />
+            <SummarizeField field="Num_New_HireDate3" action="Max" rename="Max_Num_New_HireDate3" />
+          </SummarizeFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+    </Node>
+    <Node ToolID="34">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="714" y="102" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="IF [Max_Num_New_HireDate1]&gt;31 AND [Max_Num_New_HireDate2]&lt;=12 AND [Max_Num_New_HireDate3]&gt;=31 THEN 1 ELSE 0 ENDIF" field="yyyy_mm_dd_match" size="1" type="Bool" enabled="true" />
+            <FormulaField expression="IF [Max_Num_New_HireDate1]&lt;=12 AND [Max_Num_New_HireDate2]&gt;=12 AND [Max_Num_New_HireDate3]&gt;31 THEN 1 ELSE 0 ENDIF" field="mm_dd_yyyy_match" size="1" type="Bool" enabled="true" />
+            <FormulaField expression="IF [Max_Num_New_HireDate1]&lt;=31 AND [Max_Num_New_HireDate2]&lt;=12 AND [Max_Num_New_HireDate3]&gt;=31 THEN 1 ELSE 0 ENDIF" field="dd_mm_yyyy_match" size="1" type="Bool" enabled="true" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>yyyy_mm_dd_match = IF [Max_Num_New_HireDate1]&gt;31 AND [Max_Num_New_HireDate2]&lt;=12...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="39">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="858" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="FileName" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="FileName" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Right_FileName" selected="True" rename="Right_FileName" input="Right_" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="40">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.MultiFieldFormula.MultiFieldFormula">
+        <Position x="1002" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FieldType>Text</FieldType>
+          <Fields orderChanged="False">
+            <Field name="New_HireDate" />
+            <Field name="New_LastPromotionDate" />
+            <Field name="New_TerminationDate" />
+            <Field name="UniqueID" selected="False" />
+            <Field name="LastName" selected="False" />
+            <Field name="FirstName" selected="False" />
+            <Field name="JobTitle" selected="False" />
+            <Field name="Department" selected="False" />
+            <Field name="HireDate" selected="False" />
+            <Field name="LastPromotionDate" selected="False" />
+            <Field name="TerminationDate" selected="False" />
+            <Field name="AnnualSalary" selected="False" />
+            <Field name="FileName" selected="False" />
+            <Field name="Source" selected="False" />
+            <Field name="New_HireDate1" selected="False" />
+            <Field name="New_HireDate2" selected="False" />
+            <Field name="New_HireDate3" selected="False" />
+            <Field name="Right_FileName" selected="False" />
+            <Field name="*Unknown" selected="False" />
+          </Fields>
+          <NewFieldAddOn>Date_Fix_</NewFieldAddOn>
+          <NewFieldAddOnPos>Prefix</NewFieldAddOnPos>
+          <CopyOutput value="True" />
+          <Expression>IF [yyyy_mm_dd_match] THEN 
+DateTimeParse(ToString([_CurrentField_]),"%Y-%m-%d")
+ELSEIF [mm_dd_yyyy_match] 
+ THEN DateTimeParse(ToString([_CurrentField_]),"%m-%d-%Y")
+ELSEIF [dd_mm_yyyy_match] 
+ THEN DateTimeParse(ToString([_CurrentField_]),"%d-%m-%Y")
+ ELSE "" ENDIF</Expression>
+          <ChangeFieldType value="True" />
+          <OutputFieldType type="Date" size="10" scale="1" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>IF [yyyy_mm_dd_match] THEN 
+DateTimeParse(ToString([_CurrentF...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMultiFieldFormula" />
+    </Node>
+    <Node ToolID="41">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="1158" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="True" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="UniqueID" selected="True" />
+            <SelectField field="LastName" selected="True" />
+            <SelectField field="FirstName" selected="True" />
+            <SelectField field="JobTitle" selected="True" />
+            <SelectField field="Department" selected="True" />
+            <SelectField field="HireDate" selected="False" />
+            <SelectField field="LastPromotionDate" selected="False" />
+            <SelectField field="TerminationDate" selected="False" />
+            <SelectField field="Date_Fix_New_HireDate" selected="True" rename="HireDate" />
+            <SelectField field="Date_Fix_New_LastPromotionDate" selected="True" rename="LastPromotionDate" />
+            <SelectField field="Date_Fix_New_TerminationDate" selected="True" rename="TerminationDate" />
+            <SelectField field="AnnualSalary" selected="True" />
+            <SelectField field="FileName" selected="True" />
+            <SelectField field="Source" selected="True" />
+            <SelectField field="New_HireDate" selected="False" />
+            <SelectField field="New_LastPromotionDate" selected="False" />
+            <SelectField field="New_TerminationDate" selected="False" />
+            <SelectField field="New_HireDate1" selected="False" />
+            <SelectField field="New_HireDate2" selected="False" />
+            <SelectField field="New_HireDate3" selected="False" />
+            <SelectField field="Num_New_HireDate1" selected="False" />
+            <SelectField field="Num_New_HireDate2" selected="False" />
+            <SelectField field="Num_New_HireDate3" selected="False" />
+            <SelectField field="Right_FileName" selected="False" />
+            <SelectField field="Max_Num_New_HireDate1" selected="False" />
+            <SelectField field="Max_Num_New_HireDate2" selected="False" />
+            <SelectField field="Max_Num_New_HireDate3" selected="False" />
+            <SelectField field="yyyy_mm_dd_match" selected="False" />
+            <SelectField field="mm_dd_yyyy_match" selected="False" />
+            <SelectField field="dd_mm_yyyy_match" selected="False" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="42">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="1266" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File MaxRecords="" FileFormat="19">C:\GitHubConnections\mylocalhelpers\pureOilsHelpers\combined_submissions.yxdb</File>
+          <Passwords />
+          <Disable>False</Disable>
+          <FormatSpecificOptions>
+            <WriteCompatibleVersion>False</WriteCompatibleVersion>
+            <NoSpatialIndex>False</NoSpatialIndex>
+            <SaveSource>True</SaveSource>
+            <SuppressBlankFile>False</SuppressBlankFile>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>combined_submissions.yxdb</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="3" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="Output" />
+      <Destination ToolID="29" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="29" Connection="Output" />
+      <Destination ToolID="30" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="30" Connection="Output" />
+      <Destination ToolID="32" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="32" Connection="Output" />
+      <Destination ToolID="33" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="32" Connection="Output" />
+      <Destination ToolID="39" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="34" Connection="Output" />
+      <Destination ToolID="39" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="33" Connection="Output" />
+      <Destination ToolID="34" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="39" Connection="Join" />
+      <Destination ToolID="40" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="40" Connection="Output" />
+      <Destination ToolID="41" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="41" Connection="Output" />
+      <Destination ToolID="42" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <DefaultTZ value="Local" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <IsTemplate value="False" />
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>pure_oils_submission_combiner</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="7f344132-8642-474b-8fe0-05ae00c9e63e" />
+      <Telemetry>
+        <PreviousWorkflowId value="008118bb-882a-4cc0-98e0-119685f505bd" />
+        <OriginWorkflowId value="64d61bb2-b044-45d0-b81b-aae3ae045918" />
+      </Telemetry>
+      <PlatformWorkflowId value="" />
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
