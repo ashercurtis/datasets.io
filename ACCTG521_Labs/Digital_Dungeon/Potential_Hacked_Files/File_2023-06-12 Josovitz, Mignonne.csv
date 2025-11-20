@@ -1,0 +1,2 @@
+[{"OrderID":2195,"CustomerID":1309,"CustomerName":"Capital Cars","Date":"6/12/2023","EmployeeID":248,"EmployeeName":"Josovitz, Mignonne","":{"Make":["Toyota"],"Model":["Niro EV EX"],"Price":[42991],"Quantity":[4]}}]
+[{"OrderID":2197,"CustomerID":1340,"CustomerName":"Delta Motors","Date":"6/12/2023","EmployeeID":248,"EmployeeName":"Josovitz, Mignonne","":{"Make":["Audi","Mazda"],"Model":["Rogue S","Kona Electric SEL"],"Price":[24850,26029],"Quantity":[6,5]}}]

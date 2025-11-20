@@ -1,0 +1,2 @@
+[{"OrderID":2507,"CustomerID":1323,"CustomerName":"Olympic Motors","Date":"9/28/2023","EmployeeID":253,"EmployeeName":"Pentin, Brandyn","":{"Make":["Infiniti"],"Model":["Crosstrek"],"Price":[27308],"Quantity":[3]}}]
+[{"OrderID":2508,"CustomerID":1313,"CustomerName":"Freedom Auto Sales","Date":"9/28/2023","EmployeeID":253,"EmployeeName":"Pentin, Brandyn","":{"Make":["Kia","Honda"],"Model":["Taycan","Highlander LE"],"Price":[23792,27612],"Quantity":[4,6]}}]

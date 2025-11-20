@@ -1,0 +1,2 @@
+[{"OrderID":2625,"CustomerID":1349,"CustomerName":"Mega Motors","Date":"11/11/2023","EmployeeID":257,"EmployeeName":"Pollington, Arabele","":{"Make":["Ford","Chevrolet","Honda"],"Model":["Kona Electric SEL","Crosstrek","Impreza 2.0i"],"Price":[36855,39359,33010],"Quantity":[2,6,5]}}]
+[{"OrderID":2626,"CustomerID":1321,"CustomerName":"Motor City","Date":"11/11/2023","EmployeeID":257,"EmployeeName":"Pollington, Arabele","":{"Make":["Subaru"],"Model":["XC40 Recharge"],"Price":[23333],"Quantity":[3]}}]

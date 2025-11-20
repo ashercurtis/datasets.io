@@ -1,0 +1,2 @@
+[{"OrderID":2354,"CustomerID":1308,"CustomerName":"American Auto Mall","Date":"8/4/2023","EmployeeID":259,"EmployeeName":"Meddick, Jane","":{"Make":["GMC"],"Model":["Q50 Pure"],"Price":[55419],"Quantity":[1]}}]
+[{"OrderID":2356,"CustomerID":1328,"CustomerName":"Sunshine Motors","Date":"8/4/2023","EmployeeID":259,"EmployeeName":"Meddick, Jane","":{"Make":["Kia","Hyundai"],"Model":["Kona Electric SEL","3 Series 330i"],"Price":[33763,39727],"Quantity":[5,2]}}]

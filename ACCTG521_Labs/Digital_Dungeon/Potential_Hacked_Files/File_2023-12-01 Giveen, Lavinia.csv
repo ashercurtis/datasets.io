@@ -1,0 +1,2 @@
+[{"OrderID":2675,"CustomerID":1331,"CustomerName":"United Auto Sales","Date":"12/1/2023","EmployeeID":261,"EmployeeName":"Giveen, Lavinia","":{"Make":["Hyundai"],"Model":["Forte GT-Line"],"Price":[23541],"Quantity":[5]}}]
+[{"OrderID":2676,"CustomerID":1350,"CustomerName":"New Wave Auto Sales","Date":"12/1/2023","EmployeeID":261,"EmployeeName":"Giveen, Lavinia","":{"Make":["Volkswagen"],"Model":["XC40 Recharge"],"Price":[31714],"Quantity":[5]}}]

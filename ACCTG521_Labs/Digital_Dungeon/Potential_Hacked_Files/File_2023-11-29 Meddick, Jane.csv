@@ -1,0 +1,2 @@
+[{"OrderID":2667,"CustomerID":1342,"CustomerName":"Fast Lane Auto","Date":"11/29/2023","EmployeeID":259,"EmployeeName":"Meddick, Jane","":{"Make":["Honda","Mercedes-Benz"],"Model":["EQC 400","XC40 Recharge"],"Price":[23778,28504],"Quantity":[6,2]}}]
+[{"OrderID":2669,"CustomerID":1352,"CustomerName":"Platinum Auto Group","Date":"11/29/2023","EmployeeID":259,"EmployeeName":"Meddick, Jane","":{"Make":["Mercedes-Benz","Chevrolet"],"Model":["ES 350","G70 2.0T"],"Price":[81496,27277],"Quantity":[5,6]}}]

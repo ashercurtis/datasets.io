@@ -1,0 +1,3 @@
+[{"OrderID":2485,"CustomerID":1327,"CustomerName":"Smart Buy Cars","Date":"9/21/2023","EmployeeID":246,"EmployeeName":"Ewols, Mirelle","":{"Make":["Audi"],"Model":["CR-V LX"],"Price":[33876],"Quantity":[6]}}]
+[{"OrderID":2487,"CustomerID":1310,"CustomerName":"DriveTime","Date":"9/21/2023","EmployeeID":246,"EmployeeName":"Ewols, Mirelle","":{"Make":["Ford","Nissan"],"Model":["Highlander LE","CX-30"],"Price":[66535,54533],"Quantity":[4,4]}}]
+[{"OrderID":2489,"CustomerID":1314,"CustomerName":"Grand Auto","Date":"9/21/2023","EmployeeID":246,"EmployeeName":"Ewols, Mirelle","":{"Make":["Honda"],"Model":["Cruze LS"],"Price":[22641],"Quantity":[6]}}]

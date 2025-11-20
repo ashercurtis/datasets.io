@@ -1,0 +1,2 @@
+[{"OrderID":2212,"CustomerID":1340,"CustomerName":"Delta Motors","Date":"6/20/2023","EmployeeID":253,"EmployeeName":"Pentin, Brandyn","":{"Make":["Jaguar"],"Model":["Niro EV EX"],"Price":[38604],"Quantity":[5]}}]
+[{"OrderID":2216,"CustomerID":1316,"CustomerName":"Infinity Motors","Date":"6/20/2023","EmployeeID":253,"EmployeeName":"Pentin, Brandyn","":{"Make":["GMC"],"Model":["Wrangler Sport"],"Price":[37951],"Quantity":[5]}}]

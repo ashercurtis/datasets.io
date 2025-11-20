@@ -1,0 +1,3 @@
+[{"OrderID":2502,"CustomerID":1318,"CustomerName":"Keystone Motors","Date":"9/28/2023","EmployeeID":256,"EmployeeName":"Birmingham, Lisette","":{"Make":["Volvo"],"Model":["I-PACE S"],"Price":[23486],"Quantity":[4]}}]
+[{"OrderID":2506,"CustomerID":1325,"CustomerName":"Quality Motors","Date":"9/28/2023","EmployeeID":256,"EmployeeName":"Birmingham, Lisette","":{"Make":["Honda"],"Model":["Impreza 2.0i"],"Price":[26275],"Quantity":[3]}}]
+[{"OrderID":2510,"CustomerID":1318,"CustomerName":"Keystone Motors","Date":"9/28/2023","EmployeeID":256,"EmployeeName":"Birmingham, Lisette","":{"Make":["Kia"],"Model":["Niro EV EX"],"Price":[21586],"Quantity":[5]}}]

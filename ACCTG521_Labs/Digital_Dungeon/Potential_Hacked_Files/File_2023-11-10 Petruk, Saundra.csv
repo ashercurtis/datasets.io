@@ -1,0 +1,2 @@
+[{"OrderID":2618,"CustomerID":1346,"CustomerName":"Just Right Auto","Date":"11/10/2023","EmployeeID":245,"EmployeeName":"Petruk, Saundra","":{"Make":["Hyundai"],"Model":["e-tron Premium"],"Price":[55116],"Quantity":[1]}}]
+[{"OrderID":2620,"CustomerID":1314,"CustomerName":"Grand Auto","Date":"11/10/2023","EmployeeID":245,"EmployeeName":"Petruk, Saundra","":{"Make":["Volkswagen"],"Model":["CT4 Luxury"],"Price":[23789],"Quantity":[4]}}]

@@ -1,0 +1,2 @@
+[{"OrderID":2582,"CustomerID":1326,"CustomerName":"Reliable Auto","Date":"10/27/2023","EmployeeID":258,"EmployeeName":"Summers, Emma","":{"Make":["Mazda","Chevrolet"],"Model":["CX-30","Leaf S"],"Price":[35767,23085],"Quantity":[3,6]}}]
+[{"OrderID":2585,"CustomerID":1313,"CustomerName":"Freedom Auto Sales","Date":"10/27/2023","EmployeeID":258,"EmployeeName":"Summers, Emma","":{"Make":["Ford"],"Model":["ES 350"],"Price":[33538],"Quantity":[3]}}]

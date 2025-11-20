@@ -1,0 +1,2 @@
+[{"OrderID":2465,"CustomerID":1351,"CustomerName":"Oasis Motors","Date":"9/11/2023","EmployeeID":259,"EmployeeName":"Meddick, Jane","":{"Make":["Jeep"],"Model":["Acadia SLE"],"Price":[42852],"Quantity":[3]}}]
+[{"OrderID":2469,"CustomerID":1320,"CustomerName":"Main Street Motors","Date":"9/11/2023","EmployeeID":259,"EmployeeName":"Meddick, Jane","":{"Make":["Chevrolet","Toyota"],"Model":["TLX Base","Kona Electric SEL"],"Price":[32062,22810],"Quantity":[5,3]}}]
