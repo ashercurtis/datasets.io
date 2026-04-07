@@ -1,1 +1,1 @@
-A repository for datasets used in my courses at Foster School of Business, University of Washington.
+A repository for datasets used in my courses at Foster School of Business, University of Washington. This repo changes with the requirements of the courses I teach and should not be used as a source of data. The materials are restricted for academic and learning purposes and cannot be used in for-profit activites. 
