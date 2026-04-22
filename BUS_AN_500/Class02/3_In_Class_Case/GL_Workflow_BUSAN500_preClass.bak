@@ -575,7 +575,7 @@ Query=`GL Detail by Acct or OBS(1)...</DefaultAnnotationText>
     <IsTemplate value="False" />
     <MetaInfo>
       <NameIsFileName value="True" />
-      <Name>GL_Workflow_BUSAN500_Starter</Name>
+      <Name>GL_Workflow_BUSAN500_preClass</Name>
       <Description />
       <RootToolName />
       <ToolVersion />
@@ -590,9 +590,9 @@ Query=`GL Detail by Acct or OBS(1)...</DefaultAnnotationText>
         <Description />
         <File />
       </Example>
-      <WorkflowId value="ff49868d-4938-4760-8a50-d4ef192d588f" />
+      <WorkflowId value="b94b2d93-0324-41cd-9b17-09463bad2937" />
       <Telemetry>
-        <PreviousWorkflowId value="de4cc6b7-83e7-41f7-92a0-b4d0437514bf" />
+        <PreviousWorkflowId value="ff49868d-4938-4760-8a50-d4ef192d588f" />
         <OriginWorkflowId value="0490140f-c204-498f-a65d-1d462386afb6" />
       </Telemetry>
       <PlatformWorkflowId value="" />

@@ -86,20 +86,14 @@ All of the report header information can be ignored but there are challenges wit
     </Node>
     <Node ToolID="38">
       <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
-        <Position x="1651" y="389" width="148" height="291" />
+        <Position x="1757" y="389" width="148" height="291" />
       </GuiSettings>
       <Properties>
         <Configuration>
           <Caption>Final Output</Caption>
           <Style TextColor="#314c4a" FillColor="#ff9e18" BorderColor="#314c4a" Transparency="50" Margin="25" />
-          <Disabled value="True" />
-          <Folded value="False" />
-          <Caption>Final Output</Caption>
-          <Style TextColor="#314c4a" FillColor="#ff9e18" BorderColor="#314c4a" Transparency="50" Margin="25" />
           <Disabled value="False" />
-          <Caption>Final Output</Caption>
-          <Style TextColor="#314c4a" FillColor="#ff9e18" BorderColor="#314c4a" Transparency="50" Margin="25" />
-          <Disabled value="True" />
+          <Folded value="False" />
         </Configuration>
         <Annotation DisplayMode="0">
           <Name />
@@ -110,15 +104,20 @@ All of the report header information can be ignored but there are challenges wit
       <ChildNodes>
         <Node ToolID="39">
           <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-            <Position x="1676" y="534" />
+            <Position x="1782" y="534" />
           </GuiSettings>
           <Properties>
             <Configuration>
               <File MaxRecords="" FileFormat="25">\2020 - GL Data - Solution Output.xlsx|||GL Data</File>
               <Passwords />
+              <Disable>False</Disable>
               <FormatSpecificOptions>
+                <MipTenantId />
                 <PreserveFormat>False</PreserveFormat>
+                <MipSensitivity />
+                <UNCLocal>False</UNCLocal>
                 <SkipFieldNames>False</SkipFieldNames>
+                <SuppressBlankFile>False</SuppressBlankFile>
                 <OutputOption>Overwrite</OutputOption>
               </FormatSpecificOptions>
               <MultiFile value="False" />
@@ -129,16 +128,19 @@ All of the report header information can be ignored but there are challenges wit
 Query=GL Data</DefaultAnnotationText>
               <Left value="False" />
             </Annotation>
+            <Dependencies>
+              <Implicit />
+            </Dependencies>
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
         </Node>
         <Node ToolID="10">
           <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-            <Position x="1676" y="438" />
+            <Position x="1782" y="438" />
           </GuiSettings>
           <Properties>
             <Configuration>
-              <TempFile>C:\ProgramData\Alteryx\Engine\Engine_19212_a3c2469b92514b0e907bbc70a50b398d_\Engine_15736_2256bc4ac17a4f81b8c4b795d5227e59_.yxdb</TempFile>
+              <TempFile>C:\Users\abcurtis\AppData\Local\Temp\Alteryx\Engine_63328_e6f85a6890274112b0a1d62c3818064f_\Engine_123912_46b670a7e57842a1964cd9131e959b7e_.yxdb</TempFile>
               <TempFileDataProfiling />
               <Layout>
                 <ViewMode>Single</ViewMode>
@@ -165,13 +167,13 @@ Query=GL Data</DefaultAnnotationText>
     </Node>
     <Node ToolID="37">
       <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
-        <Position x="1027" y="389" width="600" height="210" />
+        <Position x="953" y="389" width="804" height="240" />
       </GuiSettings>
       <Properties>
         <Configuration>
           <Caption>Fill In Row Information, Clean and Format Data</Caption>
           <Style TextColor="#373a36" FillColor="#ffffff" BorderColor="#314c4a" Transparency="50" Margin="25" />
-          <Disabled value="True" />
+          <Disabled value="False" />
           <Folded value="False" />
         </Configuration>
         <Annotation DisplayMode="0">
@@ -183,7 +185,7 @@ Query=GL Data</DefaultAnnotationText>
       <ChildNodes>
         <Node ToolID="6">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Sample.Sample">
-            <Position x="1052" y="438" />
+            <Position x="978" y="438" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -201,7 +203,7 @@ Query=GL Data</DefaultAnnotationText>
         </Node>
         <Node ToolID="7">
           <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-            <Position x="1124" y="438" />
+            <Position x="1050" y="438" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -235,7 +237,7 @@ Query=GL Data</DefaultAnnotationText>
         </Node>
         <Node ToolID="23">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-            <Position x="1220" y="438" />
+            <Position x="1434" y="438" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -257,7 +259,7 @@ AND [Balance] != "BALANCE"</DefaultAnnotationText>
         </Node>
         <Node ToolID="24">
           <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-            <Position x="1496" y="438" />
+            <Position x="1626" y="438" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -282,7 +284,7 @@ Remove RecordID</DefaultAnnotationText>
         </Node>
         <Node ToolID="25">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
-            <Position x="1328" y="438" />
+            <Position x="1530" y="438" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -298,11 +300,100 @@ Remove RecordID</DefaultAnnotationText>
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
         </Node>
+        <Node ToolID="43">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.MultiRowFormula.MultiRowFormula">
+            <Position x="1242" y="438" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <UpdateField value="True" />
+              <UpdateField_Name>AccountName</UpdateField_Name>
+              <CreateField_Name>New Field</CreateField_Name>
+              <CreateField_Type>Int32</CreateField_Type>
+              <CreateField_Size>4</CreateField_Size>
+              <OtherRows>Empty</OtherRows>
+              <NumRows value="1" />
+              <Expression><![CDATA[if isNull([AccountName])
+then [Row-1:AccountName]
+else [AccountName]
+endif
+]]></Expression>
+              <GroupByFields />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>if isNull([AccountName])
+then [Row-1:AccountName]
+else [Accou...</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMultiRowFormula" />
+        </Node>
+        <Node ToolID="44">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.MultiRowFormula.MultiRowFormula">
+            <Position x="1338" y="438" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <UpdateField value="True" />
+              <UpdateField_Name>PD</UpdateField_Name>
+              <CreateField_Name>New Field</CreateField_Name>
+              <CreateField_Type>Int32</CreateField_Type>
+              <CreateField_Size>4</CreateField_Size>
+              <OtherRows>Empty</OtherRows>
+              <NumRows value="1" />
+              <Expression><![CDATA[if isempty([PD]) and !IsEmpty([trans code])
+then [Row-1:PD]
+else [PD]
+endif
+]]></Expression>
+              <GroupByFields />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>if isempty([PD]) and !IsEmpty([trans code])
+then [Row-1:PD]
+e...</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMultiRowFormula" />
+        </Node>
+        <Node ToolID="45">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.MultiRowFormula.MultiRowFormula">
+            <Position x="1146" y="438" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <UpdateField value="True" />
+              <UpdateField_Name>AccountNumber</UpdateField_Name>
+              <CreateField_Name>New Field</CreateField_Name>
+              <CreateField_Type>Int32</CreateField_Type>
+              <CreateField_Size>4</CreateField_Size>
+              <OtherRows>Empty</OtherRows>
+              <NumRows value="1" />
+              <Expression>if isnull([AccountNumber])
+then [Row-1:AccountNumber]
+else [AccountNumber]
+endif</Expression>
+              <GroupByFields />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>if isnull([AccountNumber])
+then [Row-1:AccountNumber]
+else [A...</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMultiRowFormula" />
+        </Node>
       </ChildNodes>
     </Node>
     <Node ToolID="36">
       <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
-        <Position x="485" y="389" width="274" height="165" />
+        <Position x="437" y="389" width="291" height="165" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -320,7 +411,7 @@ Remove RecordID</DefaultAnnotationText>
       <ChildNodes>
         <Node ToolID="11">
           <GuiSettings Plugin="AlteryxBasePluginsGui.MultiRowFormula.MultiRowFormula">
-            <Position x="594" y="438" />
+            <Position x="618" y="438" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -350,7 +441,7 @@ Else Null(...</DefaultAnnotationText>
         </Node>
         <Node ToolID="22">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
-            <Position x="510" y="438" />
+            <Position x="534" y="438" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -365,6 +456,41 @@ Else Null(...</DefaultAnnotationText>
             </Annotation>
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+        </Node>
+        <Node ToolID="40">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.RegEx.RegEx">
+            <Position x="462" y="438" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Field>Account</Field>
+              <RegExExpression value="(\d+-\d+-\d+)" />
+              <CaseInsensitve value="True" />
+              <Method>ParseComplex</Method>
+              <Replace expression="">
+                <CopyUnmatched value="True" />
+              </Replace>
+              <ParseSimple>
+                <SplitToRows value="False" />
+                <RootName>Account</RootName>
+                <NumFields value="3" />
+                <ErrorHandling>Warn</ErrorHandling>
+              </ParseSimple>
+              <ParseComplex>
+                <Field field="AccountNumber" type="V_String" size="255" />
+              </ParseComplex>
+              <Match>
+                <Field>Account_Matched</Field>
+                <ErrorUnmatched value="False" />
+              </Match>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxRegEx" />
         </Node>
       </ChildNodes>
     </Node>
@@ -432,7 +558,7 @@ Query=`GL Detail by Acct or OBS(1)...</DefaultAnnotationText>
           </GuiSettings>
           <Properties>
             <Configuration>
-              <TempFile>C:\Users\abcurtis\AppData\Local\Temp\Alteryx\Engine_38544_b3c1e7490a6b426a9821fc55ce64b050_\Engine_25716_bbdb3bd29f8c4d309b8d144dddb77a9b_.yxdb</TempFile>
+              <TempFile>C:\Users\abcurtis\AppData\Local\Temp\Alteryx\Engine_63328_e6f85a6890274112b0a1d62c3818064f_\Engine_123912_943741dce2e84a4d83219c2e6615bc44_.yxdb</TempFile>
               <TempFileDataProfiling />
               <Layout>
                 <ViewMode>Single</ViewMode>
@@ -519,7 +645,7 @@ Query=`GL Detail by Acct or OBS(1)...</DefaultAnnotationText>
     </Connection>
     <Connection>
       <Origin ToolID="7" Connection="Output" />
-      <Destination ToolID="23" Connection="Input" />
+      <Destination ToolID="45" Connection="Input" />
     </Connection>
     <Connection>
       <Origin ToolID="23" Connection="True" />
@@ -534,8 +660,32 @@ Query=`GL Detail by Acct or OBS(1)...</DefaultAnnotationText>
       <Destination ToolID="39" Connection="Input" />
     </Connection>
     <Connection>
+      <Origin ToolID="25" Connection="Output" />
+      <Destination ToolID="24" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="43" Connection="Output" />
+      <Destination ToolID="44" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="44" Connection="Output" />
+      <Destination ToolID="23" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="45" Connection="Output" />
+      <Destination ToolID="43" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="11" Connection="Output" />
+      <Destination ToolID="6" Connection="Input" />
+    </Connection>
+    <Connection>
       <Origin ToolID="22" Connection="Output" />
       <Destination ToolID="11" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="40" Connection="Output" />
+      <Destination ToolID="22" Connection="Input" />
     </Connection>
     <Connection>
       <Origin ToolID="1" Connection="Output" />
@@ -551,7 +701,7 @@ Query=`GL Detail by Acct or OBS(1)...</DefaultAnnotationText>
     </Connection>
     <Connection>
       <Origin ToolID="3" Connection="Output" />
-      <Destination ToolID="22" Connection="Input" />
+      <Destination ToolID="40" Connection="Input" />
     </Connection>
   </Connections>
   <Properties>
@@ -575,7 +725,7 @@ Query=`GL Detail by Acct or OBS(1)...</DefaultAnnotationText>
     <IsTemplate value="False" />
     <MetaInfo>
       <NameIsFileName value="True" />
-      <Name>GL_Workflow_BUSAN500_Starter</Name>
+      <Name>GL_Workflow_BUSAN500_preClass</Name>
       <Description />
       <RootToolName />
       <ToolVersion />
@@ -590,9 +740,9 @@ Query=`GL Detail by Acct or OBS(1)...</DefaultAnnotationText>
         <Description />
         <File />
       </Example>
-      <WorkflowId value="ff49868d-4938-4760-8a50-d4ef192d588f" />
+      <WorkflowId value="b94b2d93-0324-41cd-9b17-09463bad2937" />
       <Telemetry>
-        <PreviousWorkflowId value="de4cc6b7-83e7-41f7-92a0-b4d0437514bf" />
+        <PreviousWorkflowId value="ff49868d-4938-4760-8a50-d4ef192d588f" />
         <OriginWorkflowId value="0490140f-c204-498f-a65d-1d462386afb6" />
       </Telemetry>
       <PlatformWorkflowId value="" />
