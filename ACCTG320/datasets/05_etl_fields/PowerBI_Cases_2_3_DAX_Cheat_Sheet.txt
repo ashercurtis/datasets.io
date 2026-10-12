@@ -1,0 +1,229 @@
+POWER BI DAX CHEAT SHEET — ETL CASES 2 AND 3
+Table view / New column | Separating, standardizing, and rejoining fields
+=======================================================================
+
+HOW TO USE
+----------
+1. In Power BI, open Table view (the table icon on the left).
+2. Select your data table and choose Table tools > New column.
+3. Paste ONE formula at a time. Each definition creates a separate column.
+4. Replace '[Sheet]' with the actual table name if it is not named Sheet.
+   DAX table references normally use 'Sheet'[Column], not [Sheet][Column].
+5. These are DAX calculated-column formulas, NOT Power Query M formulas.
+6. The formulas below use the column name EmployeeCode; adjust if needed.
+
+COMMON DAX TEXT FUNCTIONS
+=========================
+LEFT(text, n)                    First n characters
+RIGHT(text, n)                   Last n characters
+MID(text, start, count)          Characters from 1-based start
+LEN(text)                        Number of characters
+SEARCH(find, text, start, 0)     Position; 0 if not found
+TRIM(text)                       Remove extra spaces
+UPPER(text)                      Convert to uppercase
+SUBSTITUTE(text, old, new)       Replace matching text throughout
+REPLACE(text, start, n, new)     Replace at a specified position
+SWITCH(expression, ...)          Map known values to new values
+&                                Concatenate text
+BLANK()                          Missing value
+
+QUICK CHECKS FOR STUDENTS
+=========================
+- Does each employee code produce the expected components?
+- Do M and Mo represent the same underlying pay period?
+- Are location codes consistent between the main and lookup tables?
+- Is CountryPlantID unique in the lookup table (not necessarily in
+  the employee table)?
+- If you merge in Power Query, does the row count remain unchanged?
+- Do any rows fail to match the lookup table?
+
+IMPORTANT WORKFLOW DISTINCTION
+==============================
+These DAX calculated columns are created in Power BI Table view.
+They do not perform a Power Query merge. For an ETL merge, open
+Home > Transform data > Merge Queries, match CountryPlantID in both
+tables, select Left Outer, and expand the desired lookup fields.
+Alternatively, use a model relationship between the two tables.
+
+Classroom note: DAX columns are calculated after data is loaded into
+the model; Power Query transformations happen during data preparation.
+
+CASE 2 — STRUCTURED EMPLOYEE CODES
+==================================
+
+Example: JAP1080-19M
+Expected: Location = JAP, EmpID = 1080, PlantID = 19, PayPeriod = M
+Assumptions: three-character location prefix; dash separates employee
+and plant/pay-period portions; plant is numeric; pay period is one letter.
+
+A. Extract the part before the dash
+----------------------------------
+EmployeeCode_1 =
+VAR Code = 'Sheet'[EmployeeCode]
+VAR Dash = SEARCH("-", Code, 1, 0)
+RETURN IF(Dash > 0, LEFT(Code, Dash - 1), BLANK())
+
+B. Extract the part after the dash
+---------------------------------
+EmployeeCode_2 =
+VAR Code = 'Sheet'[EmployeeCode]
+VAR Dash = SEARCH("-", Code, 1, 0)
+RETURN IF(Dash > 0, MID(Code, Dash + 1, LEN(Code)), BLANK())
+
+C. Extract the three-letter location prefix
+-------------------------------------------
+LocationCode =
+LEFT('Sheet'[EmployeeCode_1], 3)
+
+D. Extract the employee ID (all characters after the 3-letter prefix)
+--------------------------------------------------------------------
+EmpID =
+MID('Sheet'[EmployeeCode_1], 4, LEN('Sheet'[EmployeeCode_1]))
+
+E. Extract plant ID (everything before the final pay-period letter)
+-----------------------------------------------------------------
+PlantID =
+LEFT('Sheet'[EmployeeCode_2], LEN('Sheet'[EmployeeCode_2]) - 1)
+
+F. Extract the pay period (final character)
+-----------------------------------------
+PayPeriod =
+RIGHT('Sheet'[EmployeeCode_2], 1)
+
+G. Rejoin location and plant into a merge key
+---------------------------------------------
+CountryPlantID =
+'Sheet'[LocationCode] & "-" & 'Sheet'[PlantID]
+
+Alternative: remove the location prefix with SUBSTITUTE (replaces ALL
+occurrences, not only a prefix; use MID above when prefix is fixed):
+EmpID_Alternative =
+SUBSTITUTE('Sheet'[EmployeeCode_1], 'Sheet'[LocationCode], "")
+
+CASE 3 — VARIABLE-LENGTH EMPLOYEE CODES
+=======================================
+
+Examples:
+  Japan177-3Mo  -> JAP, 177, 3, Mo
+  AUS551-2Mo    -> AUS, 551, 2, Mo
+  Canada351-3W  -> CAN, 351, 3, W
+  US219-8M      -> USA, 219, 8, M
+
+Assumptions: location contains letters and appears before the first
+number; employee ID is numeric and ends at the dash; plant ID is the
+numeric part immediately after the dash; pay period is M, Mo, or W.
+
+A. Extract original location (before the first digit)
+----------------------------------------------------
+RawLocation =
+VAR Code = TRIM('Sheet'[EmployeeCode])
+VAR FirstDigit =
+    MINX(
+        FILTER(
+            GENERATESERIES(1, LEN(Code)),
+            MID(Code, [Value], 1) >= "0"
+                && MID(Code, [Value], 1) <= "9"
+        ),
+        [Value]
+    )
+RETURN
+    IF(ISBLANK(FirstDigit), BLANK(), LEFT(Code, FirstDigit - 1))
+
+B. Standardize location codes
+-----------------------------
+LocationCode =
+SWITCH(
+    UPPER(TRIM('Sheet'[RawLocation])),
+    "JAPAN", "JAP",
+    "US", "USA",
+    "CANADA", "CAN",
+    "AUS", "AUS",
+    "GER", "GER",
+    "ENG", "ENG",
+    "ARG", "ARG",
+    "MEX","MEX"
+    BLANK()
+)
+
+NOTE: Unexpected location values become BLANK for review.
+
+C. Extract employee ID (between location and dash)
+--------------------------------------------------
+EmpID =
+VAR Code = TRIM('Sheet'[EmployeeCode])
+VAR StartPosition = LEN('Sheet'[RawLocation]) + 1
+VAR Dash = SEARCH("-", Code, 1, 0)
+RETURN
+    IF(Dash > StartPosition,
+       MID(Code, StartPosition, Dash - StartPosition),
+       BLANK())
+
+D. Extract the part after the dash
+---------------------------------
+AfterDash =
+VAR Code = TRIM('Sheet'[EmployeeCode])
+VAR Dash = SEARCH("-", Code, 1, 0)
+RETURN IF(Dash > 0, MID(Code, Dash + 1, LEN(Code)), BLANK())
+
+E. Extract plant ID (leading digits after dash)
+----------------------------------------------
+PlantID =
+VAR Code = 'Sheet'[AfterDash]
+VAR FirstNonDigit =
+    MINX(
+        FILTER(
+            GENERATESERIES(1, LEN(Code)),
+            NOT (
+                MID(Code, [Value], 1) >= "0"
+                    && MID(Code, [Value], 1) <= "9"
+            )
+        ),
+        [Value]
+    )
+RETURN
+    IF(FirstNonDigit > 1,
+       LEFT(Code, FirstNonDigit - 1),
+       BLANK())
+
+F. Extract pay period (remaining letters after plant ID)
+-------------------------------------------------------
+PayPeriod =
+VAR Code = 'Sheet'[AfterDash]
+VAR PlantLength = LEN('Sheet'[PlantID])
+RETURN
+    IF(PlantLength > 0 && LEN(Code) > PlantLength,
+       RIGHT(Code, LEN(Code) - PlantLength),
+       BLANK())
+
+G. Rejoin standardized location and plant ID
+--------------------------------------------
+CountryPlantID =
+IF(
+    NOT ISBLANK('Sheet'[LocationCode])
+        && NOT ISBLANK('Sheet'[PlantID]),
+    'Sheet'[LocationCode] & "-" & 'Sheet'[PlantID],
+    BLANK()
+)
+
+H. Optional: standardize pay period (M and Mo both mean monthly)
+---------------------------------------------------------------
+PayPeriodStandard =
+SWITCH(
+    UPPER('Sheet'[PayPeriod]),
+    "M", "Monthly",
+    "MO", "Monthly",
+    "W", "Weekly",
+    BLANK()
+)
+
+I. Validate that required fields were extracted
+-----------------------------------------------
+Validation =
+IF(
+    ISBLANK('Sheet'[LocationCode])
+        || ISBLANK('Sheet'[EmpID])
+        || ISBLANK('Sheet'[PlantID])
+        || ISBLANK('Sheet'[PayPeriodStandard]),
+    "Check",
+    "OK"
+)
