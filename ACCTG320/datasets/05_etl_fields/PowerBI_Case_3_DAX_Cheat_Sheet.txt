@@ -40,7 +40,7 @@ SWITCH(
     "GER", "GER",
     "ENG", "ENG",
     "ARG", "ARG",
-    "MEX","MEX"
+    "MEX","MEX",
     BLANK()
 )
 
