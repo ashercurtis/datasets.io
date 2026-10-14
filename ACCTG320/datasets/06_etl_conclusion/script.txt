@@ -1,0 +1,113 @@
+ETL_Conclusion_Solution =
+VAR Base =
+    SELECTCOLUMNS(
+        'EmployeeData',
+        "EmployeeCode", 'EmployeeData'[EmployeeCode],
+        "FirstName", 'EmployeeData'[FirstName],
+        "LastName", 'EmployeeData'[LastName]
+    )
+VAR Parsed =
+    ADDCOLUMNS(
+        Base,
+        "RawLocation",
+            VAR Code = TRIM([EmployeeCode])
+            VAR DigitPos = MINX(
+                FILTER(GENERATESERIES(1, LEN(Code)),
+                    VAR Ch = MID(Code, [Value], 1)
+                    RETURN Ch >= "0" && Ch <= "9"), [Value])
+            RETURN IF(ISBLANK(DigitPos), BLANK(), UPPER(LEFT(Code, DigitPos - 1))),
+        "DashPos", SEARCH("-", [EmployeeCode], 1, 0)
+    )
+VAR Components =
+    ADDCOLUMNS(
+        Parsed,
+        "LocationCode",
+            SWITCH([RawLocation],
+                "JAPAN", "JAP", "CANADA", "CAN", "US", "USA",
+                "AUS", "AUS", "GER", "GER", "ENG", "ENG", "ARG", "ARG", "MEX", "MEX", BLANK()),
+        "EmpID",
+            VAR StartPos = LEN([RawLocation]) + 1
+            RETURN IF([DashPos] >= StartPos,
+                MID([EmployeeCode], StartPos, [DashPos] - StartPos), BLANK()),
+        "AfterDash", IF([DashPos] > 0,
+            MID([EmployeeCode], [DashPos] + 1, LEN([EmployeeCode])), BLANK())
+    )
+VAR SplitFields =
+    ADDCOLUMNS(
+        Components,
+
+        "PlantID",
+            VAR Code = [EmployeeCode]
+            VAR DashPosition = SEARCH("-", Code, 1, 0)
+            VAR CodeTail =
+                IF(
+                    DashPosition > 0,
+                    MID(Code, DashPosition + 1, LEN(Code)),
+                    ""
+                )
+            VAR LetterPos =
+                MINX(
+                    FILTER(
+                        GENERATESERIES(1, LEN(CodeTail)),
+                        VAR Ch = MID(CodeTail, [Value], 1)
+                        RETURN NOT (Ch >= "0" && Ch <= "9")
+                    ),
+                    [Value]
+                )
+            RETURN
+                IF(
+                    LetterPos > 1,
+                    LEFT(CodeTail, LetterPos - 1),
+                    BLANK()
+                ),
+
+        "PayCode",
+            VAR Code = [EmployeeCode]
+            VAR DashPosition = SEARCH("-", Code, 1, 0)
+            VAR CodeTail =
+                IF(
+                    DashPosition > 0,
+                    MID(Code, DashPosition + 1, LEN(Code)),
+                    ""
+                )
+            VAR LetterPos =
+                MINX(
+                    FILTER(
+                        GENERATESERIES(1, LEN(CodeTail)),
+                        VAR Ch = MID(CodeTail, [Value], 1)
+                        RETURN NOT (Ch >= "0" && Ch <= "9")
+                    ),
+                    [Value]
+                )
+            RETURN
+                IF(
+                    NOT ISBLANK(LetterPos),
+                    MID(CodeTail, LetterPos, LEN(CodeTail)),
+                    BLANK()
+                )
+    )
+VAR WithKeys =
+    ADDCOLUMNS(
+        SplitFields,
+        "CountryPlantID", IF(NOT ISBLANK([LocationCode]) && NOT ISBLANK([PlantID]),
+            [LocationCode] & "-" & [PlantID], BLANK()),
+        "ActualPayFrequency", SWITCH(UPPER([PayCode]),
+            "W", "Weekly", "M", "Monthly", "MO", "Monthly", BLANK())
+    )
+VAR WithLookup =
+    ADDCOLUMNS(
+        WithKeys,
+        "PlantType", LOOKUPVALUE('PlantLookup'[PlantType],
+            'PlantLookup'[CountryPlantID], [CountryPlantID]),
+        "ExpectedPayFrequency", LOOKUPVALUE('PlantLookup'[ExpectedPayFrequency],
+            'PlantLookup'[CountryPlantID], [CountryPlantID])
+    )
+RETURN
+    ADDCOLUMNS(
+        WithLookup,
+        "ExceptionFlag",
+            IF(ISBLANK([ActualPayFrequency]) || ISBLANK([ExpectedPayFrequency]),
+                "CHECK / UNMATCHED",
+                IF([ActualPayFrequency] <> [ExpectedPayFrequency], "EXCEPTION", "OK"))
+    )
+
