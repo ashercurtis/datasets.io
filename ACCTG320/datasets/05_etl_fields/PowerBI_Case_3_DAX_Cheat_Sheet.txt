@@ -1,0 +1,71 @@
+POWER BI DAX CHEAT SHEET — ETL CASES 2 AND 3
+Table view / New column | Separating, standardizing, and rejoining fields
+=======================================================================
+
+HOW TO USE
+----------
+1. In Power BI, open Table view (the table icon on the left).
+2. Select your data table and choose Table tools > New column.
+3. Paste ONE formula at a time. Each definition creates a separate column.
+4. Replace '[Sheet]' with the actual table name if it is not named Sheet.
+   DAX table references normally use 'Sheet'[Column], not [Sheet][Column].
+5. These are DAX calculated-column formulas, NOT Power Query M formulas.
+6. The formulas below use the column name EmployeeCode; adjust if needed.
+
+COMMON DAX TEXT FUNCTIONS
+=========================
+LEFT(text, n)                    First n characters
+RIGHT(text, n)                   Last n characters
+MID(text, start, count)          Characters from 1-based start
+LEN(text)                        Number of characters
+SEARCH(find, text, start, 0)     Position; 0 if not found
+TRIM(text)                       Remove extra spaces
+UPPER(text)                      Convert to uppercase
+SUBSTITUTE(text, old, new)       Replace matching text throughout
+REPLACE(text, start, n, new)     Replace at a specified position
+SWITCH(expression, ...)          Map known values to new values
+&                                Concatenate text
+BLANK()                          Missing value
+
+
+Standardize location codes
+-----------------------------
+LocationCode =
+SWITCH(
+    UPPER(TRIM('Sheet'[RawLocation])),
+    "JAPAN", "JAP",
+    "US", "USA",
+    "CANADA", "CAN",
+    "AUS", "AUS",
+    "GER", "GER",
+    "ENG", "ENG",
+    "ARG", "ARG",
+    "MEX","MEX"
+    BLANK()
+)
+
+NOTE: Unexpected location values become BLANK for review.
+
+
+Standardize pay period (M and Mo both mean monthly)
+---------------------------------------------------------------
+PayPeriodStandard =
+SWITCH(
+    UPPER('Sheet'[PayPeriod]),
+    "M", "Monthly",
+    "MO", "Monthly",
+    "W", "Weekly",
+    BLANK()
+)
+
+Validate that required fields were extracted (Optional)
+-----------------------------------------------
+Validation =
+IF(
+    ISBLANK('Sheet'[LocationCode])
+        || ISBLANK('Sheet'[EmpID])
+        || ISBLANK('Sheet'[PlantID])
+        || ISBLANK('Sheet'[PayPeriodStandard]),
+    "Check",
+    "OK"
+)
