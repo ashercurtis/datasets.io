@@ -1,0 +1,11 @@
+POID,VendorID,TranNo,TranDate,BuyerName,CloseDate,IsClosedForInvoiced,IsClosedForReceiving,CompanyID,CreateDate,PurchAmt,TranStatus,InvoicedAmt,SalestaxAmt,TranType,Count,TranAmt,PaymentTerm,DueDayOrMonth,PmtTermsID,TEST_Tran_Date,PrevTEST_Tran_Date
+12157,11709,0000005471,2016-03-06,Vanna W,,No,Yes,C06,2016-03-06 15:44:55,1243.7,Open,0,0,Purchase Order (Standard),17,1243.7,Net 30 Days,30,30,0,12
+12158,11709,0000005472,2016-03-06,Vanna W,,No,Yes,C06,2016-03-06 15:52:15,2000.31,Open,1428.16,0,Purchase Order (Standard),17,2000.31,Net 30 Days,30,30,16,0
+12991,20262,0000006098,2016-08-01,Casey L,,No,Yes,C06,2016-08-01 15:22:59,200.47,Open,0,0,Purchase Order (Standard),6,200.47,Net 30 Days,30,30,1,91
+13014,20262,0000006116,2016-08-02,Vanna W,,No,Yes,C06,2016-08-02 15:00:35,250,Open,0,0,Purchase Order (Standard),6,250,Net 30 Days,30,30,,1
+13017,36649,0000006119,2016-08-02,Vanna W,,No,Yes,C06,2016-08-02 15:16:37,186000,Open,146873.11,0,Purchase Order (Standard),2,186000,Net 30 Days,30,30,0,
+13019,36649,0000006120,2016-08-02,Vanna W,,No,Yes,C06,2016-08-02 16:15:28,780000,Open,294876.6,0,Purchase Order (Standard),2,780000,Net 30 Days,30,30,,0
+13878,41624,0000006692,2016-12-28,Vanna W,,No,Yes,C06,2016-12-28 00:00:00,38500,Open,35000,0,Purchase Order (Standard),2,38500,Net 30 Days,30,30,0,
+13879,41624,0000006693,2016-12-28,Vanna W,,No,Yes,C06,2016-12-28 00:00:00,66000,Open,60000,0,Purchase Order (Standard),2,66000,Net 30 Days,30,30,,0
+13009,6569,0000006111,2016-08-02,Vanna W,,No,Yes,C06,2016-08-02 13:56:44,71250,Open,54098.45,0,Purchase Order (Standard),6,71250,Net 30 Days,30,30,0,91
+13028,6569,0000006125,2016-08-02,Vanna W,,No,Yes,C06,2016-08-02 16:48:50,15000,Open,9479.87,0,Purchase Order (Standard),6,15000,Net 20 Days,20,20,88,0
