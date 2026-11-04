@@ -1,0 +1,56 @@
+column,definition,units,denominator,direction,missing_policy
+cik,Actual filing CIK; ten-digit string with leading zeros,text,,not applicable,Blank when unavailable
+accession,Actual SEC filing accession; string,text,,not applicable,Blank when unavailable
+ticker,"Resolved source ticker(s), where supplied",text,,not applicable,Blank when unavailable
+company_name,SEC company name where resolved,text,,not applicable,Blank when unavailable
+form,Original filing form (10-K only),text,,not applicable,Blank when unavailable
+filing_date,"SEC filing date, YYYY-MM-DD",text,,not applicable,Blank when unavailable
+period_end,Reported period end; not Compustat fyear,text,,not applicable,Blank when unavailable
+source_sec_url,"SEC source URL, where supplied",text,,not applicable,Blank when unavailable
+outcome,"accepted, uncertain or failed; mutually exclusive",text,,not applicable,Blank when unavailable
+extraction_status,Central structural extraction status,text,,not applicable,Blank when unavailable
+analytics_status,Computed or withheld; separate from sentiment content,text,,not applicable,Blank when unavailable
+warning_or_failure_reason,"Automated extraction warnings, withholding or failure reason",text,,not applicable,Blank when unavailable
+parser_version,Structural parser version,text,,not applicable,Blank when unavailable
+analytics_version,Formula/tokenization version,text,,not applicable,Blank when unavailable
+dictionary_version,Fixed master dictionary version across periods,text,,not applicable,Blank when unavailable
+dictionary_sha256,SHA-256 of the supplied master dictionary,text,,not applicable,Blank when unavailable
+text_description,MD&A narrative—tables excluded,text,,not applicable,Blank when unavailable
+narrative_path,Package-relative UTF-8 scored narrative path; blank for uncertain/failed,text,,not applicable,Blank when unavailable
+narrative_sha256,SHA-256 joining the summary to exact exported analytical-input bytes,text,,not applicable,Blank when unavailable
+n_word_tokens,Sentiment-eligible alphabetic token occurrences,count,,not applicable,Blank for failed/uncertain analytics or undefined denominator; insufficient-prose scores blank
+n_lm_words,Token occurrences found anywhere in LM master dictionary,count,,not applicable,Blank for failed/uncertain analytics or undefined denominator; insufficient-prose scores blank
+lm_dictionary_coverage,n_lm_words / n_word_tokens,"fraction, not percent",n_word_tokens,not applicable,Blank for failed/uncertain analytics or undefined denominator; insufficient-prose scores blank
+lm_positive_count,positive: repeated exact-match active LM category occurrences,token occurrences,,not applicable,Blank for failed/uncertain analytics or undefined denominator; insufficient-prose scores blank
+lm_positive_share_all_words,positive: repeated exact-match active LM category occurrences / all eligible sentiment words,"fraction, not percent",n_word_tokens,not applicable,Blank for failed/uncertain analytics or undefined denominator; insufficient-prose scores blank
+lm_positive_share_lm_words,positive: repeated exact-match active LM category occurrences / LM-matched occurrences,"fraction, not percent",n_lm_words,not applicable,Blank for failed/uncertain analytics or undefined denominator; insufficient-prose scores blank
+lm_negative_count,negative: repeated exact-match active LM category occurrences,token occurrences,,not applicable,Blank for failed/uncertain analytics or undefined denominator; insufficient-prose scores blank
+lm_negative_share_all_words,negative: repeated exact-match active LM category occurrences / all eligible sentiment words,"fraction, not percent",n_word_tokens,not applicable,Blank for failed/uncertain analytics or undefined denominator; insufficient-prose scores blank
+lm_negative_share_lm_words,negative: repeated exact-match active LM category occurrences / LM-matched occurrences,"fraction, not percent",n_lm_words,not applicable,Blank for failed/uncertain analytics or undefined denominator; insufficient-prose scores blank
+lm_uncertainty_count,uncertainty: repeated exact-match active LM category occurrences,token occurrences,,not applicable,Blank for failed/uncertain analytics or undefined denominator; insufficient-prose scores blank
+lm_uncertainty_share_all_words,uncertainty: repeated exact-match active LM category occurrences / all eligible sentiment words,"fraction, not percent",n_word_tokens,not applicable,Blank for failed/uncertain analytics or undefined denominator; insufficient-prose scores blank
+lm_uncertainty_share_lm_words,uncertainty: repeated exact-match active LM category occurrences / LM-matched occurrences,"fraction, not percent",n_lm_words,not applicable,Blank for failed/uncertain analytics or undefined denominator; insufficient-prose scores blank
+lm_litigious_count,litigious: repeated exact-match active LM category occurrences,token occurrences,,not applicable,Blank for failed/uncertain analytics or undefined denominator; insufficient-prose scores blank
+lm_litigious_share_all_words,litigious: repeated exact-match active LM category occurrences / all eligible sentiment words,"fraction, not percent",n_word_tokens,not applicable,Blank for failed/uncertain analytics or undefined denominator; insufficient-prose scores blank
+lm_litigious_share_lm_words,litigious: repeated exact-match active LM category occurrences / LM-matched occurrences,"fraction, not percent",n_lm_words,not applicable,Blank for failed/uncertain analytics or undefined denominator; insufficient-prose scores blank
+lm_weak_modal_count,weak_modal: repeated exact-match active LM category occurrences,token occurrences,,not applicable,Blank for failed/uncertain analytics or undefined denominator; insufficient-prose scores blank
+lm_weak_modal_share_all_words,weak_modal: repeated exact-match active LM category occurrences / all eligible sentiment words,"fraction, not percent",n_word_tokens,not applicable,Blank for failed/uncertain analytics or undefined denominator; insufficient-prose scores blank
+lm_weak_modal_share_lm_words,weak_modal: repeated exact-match active LM category occurrences / LM-matched occurrences,"fraction, not percent",n_lm_words,not applicable,Blank for failed/uncertain analytics or undefined denominator; insufficient-prose scores blank
+lm_strong_modal_count,strong_modal: repeated exact-match active LM category occurrences,token occurrences,,not applicable,Blank for failed/uncertain analytics or undefined denominator; insufficient-prose scores blank
+lm_strong_modal_share_all_words,strong_modal: repeated exact-match active LM category occurrences / all eligible sentiment words,"fraction, not percent",n_word_tokens,not applicable,Blank for failed/uncertain analytics or undefined denominator; insufficient-prose scores blank
+lm_strong_modal_share_lm_words,strong_modal: repeated exact-match active LM category occurrences / LM-matched occurrences,"fraction, not percent",n_lm_words,not applicable,Blank for failed/uncertain analytics or undefined denominator; insufficient-prose scores blank
+lm_net_tone_share_all_words,(positive_count-negative_count) / n_word_tokens,"fraction, not percent",n_word_tokens,not applicable,Blank for failed/uncertain analytics or undefined denominator; insufficient-prose scores blank
+readability_W,Readability words after extra prose selection,count,,not applicable,Blank for failed/uncertain analytics or undefined denominator; insufficient-prose scores blank
+readability_S,Retained prose sentence count,count,,not applicable,Blank for failed/uncertain analytics or undefined denominator; insufficient-prose scores blank
+readability_Y,Total syllables across readability words,count,,not applicable,Blank for failed/uncertain analytics or undefined denominator; insufficient-prose scores blank
+readability_C,All >=3-syllable readability-word occurrences; simplified Fog C,count,,not applicable,Blank for failed/uncertain analytics or undefined denominator; insufficient-prose scores blank
+n_raw_3plus_syllable_words,Raw >=3-syllable occurrences; same convention as readability_C,count,,not applicable,Blank for failed/uncertain analytics or undefined denominator; insufficient-prose scores blank
+fog_convention,"Simplified; names, compounds and suffixes are not excluded",text,,not applicable,Blank for failed/uncertain analytics or undefined denominator; insufficient-prose scores blank
+readability_status,computed or insufficient_prose,text,,not applicable,Blank for failed/uncertain analytics or undefined denominator; insufficient-prose scores blank
+readability_reason,Reason for missing readability scores,text,,not applicable,Blank for failed/uncertain analytics or undefined denominator; insufficient-prose scores blank
+average_sentence_length,readability_W / readability_S,words/sentence,readability_S,not applicable,Blank for failed/uncertain analytics or undefined denominator; insufficient-prose scores blank
+syllables_per_word,readability_Y / readability_W,syllables/word,readability_W,not applicable,Blank for failed/uncertain analytics or undefined denominator; insufficient-prose scores blank
+gunning_fog_simplified,0.4*(W/S+100*C/W); simplified all-polysyllable convention,estimated grade proxy,,higher = greater estimated difficulty,Blank for failed/uncertain analytics or undefined denominator; insufficient-prose scores blank
+flesch_reading_ease,206.835-1.015*(W/S)-84.6*(Y/W); not clamped,"score, unclamped",,higher = easier estimated reading,Blank for failed/uncertain analytics or undefined denominator; insufficient-prose scores blank
+flesch_kincaid_grade,0.39*(W/S)+11.8*(Y/W)-15.59,estimated US grade level,,higher = greater estimated difficulty,Blank for failed/uncertain analytics or undefined denominator; insufficient-prose scores blank
+syllable_fallback_token_count,Readability token occurrences using direct vowel-group fallback,count,,not applicable,Blank for failed/uncertain analytics or undefined denominator; insufficient-prose scores blank
