@@ -1,1 +1,5 @@
 .kilo/
+ACCTG320/mywork/*
+!ACCTG320/mywork/.gitkeep
+ACCTG522/mywork/*
+!ACCTG522/mywork/.gitkeep

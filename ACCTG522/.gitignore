@@ -1,2 +1,2 @@
-acctg522/mywork/*
-!acctg522/mywork/.gitkeep
+/mywork/*
+!/mywork/.gitkeep
