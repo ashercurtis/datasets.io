@@ -1,0 +1,1 @@
+Generate me a dataset of 110 employees for a fictitious company called Pure Oils and return it as a csv. The fields are [UniqueID,LastName,FirstName,JobTitle,Department,HireDate,LastPromotionDate,TerminationDate,AnnualSalary]. The first employee is Called Skylar Swindler, his job title is CEO. He was hired on 1/1/2021.
